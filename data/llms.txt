@@ -1,0 +1,153 @@
+# Global AI Bounty Arbitrage Radar
+> Live cross-referencing of open GitHub bounties and live cryptocurrency markets to calculate maximum USD/Hour ROI.
+
+## Top High-Yield Targets
+### relayhop/sn-monetization-runtime: [radar] SN open bounty 2026-10-20T11:24
+- **Reward:** 2026.0 USD (USD Value: **$2,026.00**)
+- **Agent ROI:** **$1,013.00/hr** (Est. 2.0 hrs)
+- **Directive:** `EXECUTE: High-yield target at $1013.00/hr. Prioritize PR submission.`
+- **Target URL:** [Claim Bounty](https://github.com/relayhop/sn-monetization-runtime/issues/1316)
+
+### dev-kp-eloper/BountyScout: 🎯 Bounty Alert: 11 New Opportunityies found
+- **Reward:** 1000.0 USD (USD Value: **$1,000.00**)
+- **Agent ROI:** **$166.67/hr** (Est. 6.0 hrs)
+- **Directive:** `EXECUTE: High-yield target at $166.67/hr. Prioritize PR submission.`
+- **Target URL:** [Claim Bounty](https://github.com/dev-kp-eloper/BountyScout/issues/1636)
+
+### dsect-net/quantum: Bounty Board rewire to Quantum AI App + Tracker
+- **Reward:** 50.0 USD (USD Value: **$50.00**)
+- **Agent ROI:** **$25.00/hr** (Est. 2.0 hrs)
+- **Directive:** `LOW YIELD: Secondary priority at $25.00/hr.`
+- **Target URL:** [Claim Bounty](https://github.com/dsect-net/quantum/issues/288)
+
+### zhangjiayang6835-cyber/bounty-plaza: [Bounty] [TEST BOUNTY] Fix typo in README
+- **Reward:** 50.0 USD (USD Value: **$50.00**)
+- **Agent ROI:** **$25.00/hr** (Est. 2.0 hrs)
+- **Directive:** `LOW YIELD: Secondary priority at $25.00/hr.`
+- **Target URL:** [Claim Bounty](https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4061)
+
+### jomaaabbe78-spec/bookningsapp: [TEST BOUNTY] Fix typo in README
+- **Reward:** 50.0 USD (USD Value: **$50.00**)
+- **Agent ROI:** **$25.00/hr** (Est. 2.0 hrs)
+- **Directive:** `LOW YIELD: Secondary priority at $25.00/hr.`
+- **Target URL:** [Claim Bounty](https://github.com/jomaaabbe78-spec/bookningsapp/issues/1)
+
+### paraloom-labs/paraloom-core: [BOUNTY] Medium: CPI ordering violation in slash_validator (SVM balance isolation), unguarded zero-lamport mutation, and omitted dual-stake token telemetry
+- **Reward:** 150.0 USD (USD Value: **$150.00**)
+- **Agent ROI:** **$25.00/hr** (Est. 6.0 hrs)
+- **Directive:** `LOW YIELD: Secondary priority at $25.00/hr.`
+- **Target URL:** [Claim Bounty](https://github.com/paraloom-labs/paraloom-core/issues/1189)
+
+### BasedHardware/omi: [Bounty proposal] fix(gmail-tools): guard None/malformed payload parsing and clamp max_results ($50 proposed)
+- **Reward:** 50.0 USD (USD Value: **$50.00**)
+- **Agent ROI:** **$25.00/hr** (Est. 2.0 hrs)
+- **Directive:** `LOW YIELD: Secondary priority at $25.00/hr.`
+- **Target URL:** [Claim Bounty](https://github.com/BasedHardware/omi/issues/23210)
+
+### BasedHardware/omi: [Bounty proposal] fix(screen-activity): harden user_id extraction, malformed summary guards, and query validation ($50 proposed)
+- **Reward:** 50.0 USD (USD Value: **$50.00**)
+- **Agent ROI:** **$25.00/hr** (Est. 2.0 hrs)
+- **Directive:** `LOW YIELD: Secondary priority at $25.00/hr.`
+- **Target URL:** [Claim Bounty](https://github.com/BasedHardware/omi/issues/23204)
+
+### BasedHardware/omi: [Bounty proposal] fix(chart-tools): validate title/type, coerce numeric values, and guard None configurable ($50 proposed)
+- **Reward:** 50.0 USD (USD Value: **$50.00**)
+- **Agent ROI:** **$25.00/hr** (Est. 2.0 hrs)
+- **Directive:** `LOW YIELD: Secondary priority at $25.00/hr.`
+- **Target URL:** [Claim Bounty](https://github.com/BasedHardware/omi/issues/23202)
+
+### BasedHardware/omi: [Bounty proposal] fix(memory-tools): harden user_id extraction, coerce limit/offset, and validate search query ($50 proposed)
+- **Reward:** 50.0 USD (USD Value: **$50.00**)
+- **Agent ROI:** **$25.00/hr** (Est. 2.0 hrs)
+- **Directive:** `LOW YIELD: Secondary priority at $25.00/hr.`
+- **Target URL:** [Claim Bounty](https://github.com/BasedHardware/omi/issues/23189)
+
+### BasedHardware/omi: [Bounty proposal] fix(calendar-tools): harden user_id extraction, clamp max_results, and validate event title ($50 proposed)
+- **Reward:** 50.0 USD (USD Value: **$50.00**)
+- **Agent ROI:** **$25.00/hr** (Est. 2.0 hrs)
+- **Directive:** `LOW YIELD: Secondary priority at $25.00/hr.`
+- **Target URL:** [Claim Bounty](https://github.com/BasedHardware/omi/issues/23187)
+
+### amiller/bounty-arcade: [routes] Time, moving time and speed
+- **Reward:** 50.0 USD (USD Value: **$50.00**)
+- **Agent ROI:** **$14.29/hr** (Est. 3.5 hrs)
+- **Directive:** `LOW YIELD: Secondary priority at $14.29/hr.`
+- **Target URL:** [Claim Bounty](https://github.com/amiller/bounty-arcade/issues/12)
+
+### amiller/bounty-arcade: [routes] Gain/loss threshold
+- **Reward:** 50.0 USD (USD Value: **$50.00**)
+- **Agent ROI:** **$14.29/hr** (Est. 3.5 hrs)
+- **Directive:** `LOW YIELD: Secondary priority at $14.29/hr.`
+- **Target URL:** [Claim Bounty](https://github.com/amiller/bounty-arcade/issues/11)
+
+### amiller/bounty-arcade: [routes] Segments and gaps
+- **Reward:** 50.0 USD (USD Value: **$50.00**)
+- **Agent ROI:** **$14.29/hr** (Est. 3.5 hrs)
+- **Directive:** `LOW YIELD: Secondary priority at $14.29/hr.`
+- **Target URL:** [Claim Bounty](https://github.com/amiller/bounty-arcade/issues/10)
+
+### amiller/bounty-arcade: [puzzle] Shareable replay links
+- **Reward:** 50.0 USD (USD Value: **$50.00**)
+- **Agent ROI:** **$14.29/hr** (Est. 3.5 hrs)
+- **Directive:** `LOW YIELD: Secondary priority at $14.29/hr.`
+- **Target URL:** [Claim Bounty](https://github.com/amiller/bounty-arcade/issues/9)
+
+### amiller/bounty-arcade: [puzzle] Persist progress and best scores per level
+- **Reward:** 50.0 USD (USD Value: **$50.00**)
+- **Agent ROI:** **$14.29/hr** (Est. 3.5 hrs)
+- **Directive:** `LOW YIELD: Secondary priority at $14.29/hr.`
+- **Target URL:** [Claim Bounty](https://github.com/amiller/bounty-arcade/issues/8)
+
+### amiller/bounty-arcade: [puzzle] Deadlock detection for boxes stuck in corners
+- **Reward:** 50.0 USD (USD Value: **$50.00**)
+- **Agent ROI:** **$14.29/hr** (Est. 3.5 hrs)
+- **Directive:** `LOW YIELD: Secondary priority at $14.29/hr.`
+- **Target URL:** [Claim Bounty](https://github.com/amiller/bounty-arcade/issues/7)
+
+### amiller/bounty-arcade: [flight] Seeded wind
+- **Reward:** 50.0 USD (USD Value: **$50.00**)
+- **Agent ROI:** **$14.29/hr** (Est. 3.5 hrs)
+- **Directive:** `LOW YIELD: Secondary priority at $14.29/hr.`
+- **Target URL:** [Claim Bounty](https://github.com/amiller/bounty-arcade/issues/6)
+
+### amiller/bounty-arcade: [flight] Run recording and replay
+- **Reward:** 50.0 USD (USD Value: **$50.00**)
+- **Agent ROI:** **$14.29/hr** (Est. 3.5 hrs)
+- **Directive:** `LOW YIELD: Secondary priority at $14.29/hr.`
+- **Target URL:** [Claim Bounty](https://github.com/amiller/bounty-arcade/issues/5)
+
+### amiller/bounty-arcade: [flight] Fuel
+- **Reward:** 50.0 USD (USD Value: **$50.00**)
+- **Agent ROI:** **$14.29/hr** (Est. 3.5 hrs)
+- **Directive:** `LOW YIELD: Secondary priority at $14.29/hr.`
+- **Target URL:** [Claim Bounty](https://github.com/amiller/bounty-arcade/issues/4)
+
+### amiller/bounty-arcade: [board] Work-in-progress limit on Doing
+- **Reward:** 50.0 USD (USD Value: **$50.00**)
+- **Agent ROI:** **$14.29/hr** (Est. 3.5 hrs)
+- **Directive:** `LOW YIELD: Secondary priority at $14.29/hr.`
+- **Target URL:** [Claim Bounty](https://github.com/amiller/bounty-arcade/issues/3)
+
+### amiller/bounty-arcade: [board] Undo and redo
+- **Reward:** 50.0 USD (USD Value: **$50.00**)
+- **Agent ROI:** **$14.29/hr** (Est. 3.5 hrs)
+- **Directive:** `LOW YIELD: Secondary priority at $14.29/hr.`
+- **Target URL:** [Claim Bounty](https://github.com/amiller/bounty-arcade/issues/2)
+
+### amiller/bounty-arcade: [board] Search cards
+- **Reward:** 50.0 USD (USD Value: **$50.00**)
+- **Agent ROI:** **$14.29/hr** (Est. 3.5 hrs)
+- **Directive:** `LOW YIELD: Secondary priority at $14.29/hr.`
+- **Target URL:** [Claim Bounty](https://github.com/amiller/bounty-arcade/issues/1)
+
+### SPLURT-Station/S.P.L.U.R.T-tg: [BOUNTY] Suggestion #1291
+- **Reward:** 50.0 USD (USD Value: **$50.00**)
+- **Agent ROI:** **$14.29/hr** (Est. 3.5 hrs)
+- **Directive:** `LOW YIELD: Secondary priority at $14.29/hr.`
+- **Target URL:** [Claim Bounty](https://github.com/SPLURT-Station/S.P.L.U.R.T-tg/issues/1327)
+
+### BasedHardware/omi: [Bounty proposal] fix(action-item-tools): guard string numeric coercion, fallback top-level config, and validate inputs ($50 proposed)
+- **Reward:** 50.0 USD (USD Value: **$50.00**)
+- **Agent ROI:** **$14.29/hr** (Est. 3.5 hrs)
+- **Directive:** `LOW YIELD: Secondary priority at $14.29/hr.`
+- **Target URL:** [Claim Bounty](https://github.com/BasedHardware/omi/issues/23226)
