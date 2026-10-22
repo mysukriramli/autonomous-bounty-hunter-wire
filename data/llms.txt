@@ -8,29 +8,35 @@
 - **Directive:** `EXECUTE: High-yield target at $166.67/hr. Prioritize PR submission.`
 - **Target URL:** [Claim Bounty](https://github.com/airdropia/earn-ops/issues/6)
 
-### dev-kp-eloper/BountyScout: 🎯 Bounty Alert: 11 New Opportunityies found
-- **Reward:** 1000.0 USD (USD Value: **$1,000.00**)
-- **Agent ROI:** **$166.67/hr** (Est. 6.0 hrs)
-- **Directive:** `EXECUTE: High-yield target at $166.67/hr. Prioritize PR submission.`
-- **Target URL:** [Claim Bounty](https://github.com/dev-kp-eloper/BountyScout/issues/1636)
-
-### Mumega-com/mupot: Include bounty_id in gate.verdict and reversal receipt claims
-- **Reward:** 50.0 USD (USD Value: **$50.00**)
-- **Agent ROI:** **$25.00/hr** (Est. 2.0 hrs)
-- **Directive:** `LOW YIELD: Secondary priority at $25.00/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/Mumega-com/mupot/issues/2134)
-
-### paraloom-labs/paraloom-core: [BOUNTY] Medium: CPI ordering violation in slash_validator (SVM balance isolation), unguarded zero-lamport mutation, and omitted dual-stake token telemetry
+### habibdxb01/bounty-watcher: 📋 2 open bounties right now
 - **Reward:** 150.0 USD (USD Value: **$150.00**)
-- **Agent ROI:** **$25.00/hr** (Est. 6.0 hrs)
-- **Directive:** `LOW YIELD: Secondary priority at $25.00/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/paraloom-labs/paraloom-core/issues/1189)
+- **Agent ROI:** **$75.00/hr** (Est. 2.0 hrs)
+- **Directive:** `STANDARD: Profitable target at $75.00/hr. Queue for execution.`
+- **Target URL:** [Claim Bounty](https://github.com/habibdxb01/bounty-watcher/issues/8)
 
-### thebcd69/bcd-games: One piece bounty rush waiting for window
+### dev-kp-eloper/BountyScout: 🎯 Bounty Alert: 1 New Opportunity found
 - **Reward:** 50.0 USD (USD Value: **$50.00**)
 - **Agent ROI:** **$25.00/hr** (Est. 2.0 hrs)
 - **Directive:** `LOW YIELD: Secondary priority at $25.00/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/thebcd69/bcd-games/issues/8)
+- **Target URL:** [Claim Bounty](https://github.com/dev-kp-eloper/BountyScout/issues/1640)
+
+### BasedHardware/omi: [Bounty proposal] fix(goals): get_user_goals drops active goals by limiting before filtering ($50)
+- **Reward:** 50.0 USD (USD Value: **$50.00**)
+- **Agent ROI:** **$25.00/hr** (Est. 2.0 hrs)
+- **Directive:** `LOW YIELD: Secondary priority at $25.00/hr.`
+- **Target URL:** [Claim Bounty](https://github.com/BasedHardware/omi/issues/23294)
+
+### 230593641/campus-overflow-team3: [T-S3-R05] Bounty：open/award/close/isDue/ensureOpen
+- **Reward:** 50.0 USD (USD Value: **$50.00**)
+- **Agent ROI:** **$25.00/hr** (Est. 2.0 hrs)
+- **Directive:** `LOW YIELD: Secondary priority at $25.00/hr.`
+- **Target URL:** [Claim Bounty](https://github.com/230593641/campus-overflow-team3/issues/44)
+
+### doomsday-network/doomsday: [BOUNTY] ⚡ 500–1,000 DOOM ($wDOOM on Base) — Run the 3-Second Terminal Quickstart or GPU Miner & Post Output
+- **Reward:** 50.0 USD (USD Value: **$50.00**)
+- **Agent ROI:** **$14.29/hr** (Est. 3.5 hrs)
+- **Directive:** `LOW YIELD: Secondary priority at $14.29/hr.`
+- **Target URL:** [Claim Bounty](https://github.com/doomsday-network/doomsday/issues/4)
 
 ### amiller/bounty-arcade: [routes] Time, moving time and speed
 - **Reward:** 50.0 USD (USD Value: **$50.00**)
@@ -104,6 +110,30 @@
 - **Directive:** `LOW YIELD: Secondary priority at $14.29/hr.`
 - **Target URL:** [Claim Bounty](https://github.com/amiller/bounty-arcade/issues/1)
 
+### BasedHardware/omi: [Bounty proposal] fix(notification-tools): harden manage_daily_summary_tool validation, hour coercion, and config extraction ( proposed)
+- **Reward:** 50.0 USD (USD Value: **$50.00**)
+- **Agent ROI:** **$14.29/hr** (Est. 3.5 hrs)
+- **Directive:** `LOW YIELD: Secondary priority at $14.29/hr.`
+- **Target URL:** [Claim Bounty](https://github.com/BasedHardware/omi/issues/23307)
+
+### BasedHardware/omi: [Bounty proposal] fix(graph-tools): harden traverse_knowledge_graph_tool validation, hops coercion, and config extraction ( proposed)
+- **Reward:** 50.0 USD (USD Value: **$50.00**)
+- **Agent ROI:** **$14.29/hr** (Est. 3.5 hrs)
+- **Directive:** `LOW YIELD: Secondary priority at $14.29/hr.`
+- **Target URL:** [Claim Bounty](https://github.com/BasedHardware/omi/issues/23305)
+
+### BasedHardware/omi: [Bounty proposal] fix(app-tools): harden create_app_tool schema validation, method normalization, and config resilience ( proposed)
+- **Reward:** 50.0 USD (USD Value: **$50.00**)
+- **Agent ROI:** **$14.29/hr** (Est. 3.5 hrs)
+- **Directive:** `LOW YIELD: Secondary priority at $14.29/hr.`
+- **Target URL:** [Claim Bounty](https://github.com/BasedHardware/omi/issues/23297)
+
+### BasedHardware/omi: [Bounty proposal] fix(file-tools): harden search_files_tool input validation, numeric coercion, and configurable resilience ( proposed)
+- **Reward:** 50.0 USD (USD Value: **$50.00**)
+- **Agent ROI:** **$14.29/hr** (Est. 3.5 hrs)
+- **Directive:** `LOW YIELD: Secondary priority at $14.29/hr.`
+- **Target URL:** [Claim Bounty](https://github.com/BasedHardware/omi/issues/23292)
+
 ### abdulsalam-create/bounty-watch: bounty-watch 2026-10-22: 0 new, 0 resumed, 4 watchlist changes
 - **Reward:** 50.0 USD (USD Value: **$50.00**)
 - **Agent ROI:** **$14.29/hr** (Est. 3.5 hrs)
@@ -115,36 +145,6 @@
 - **Agent ROI:** **$14.29/hr** (Est. 3.5 hrs)
 - **Directive:** `LOW YIELD: Secondary priority at $14.29/hr.`
 - **Target URL:** [Claim Bounty](https://github.com/BasedHardware/omi/issues/23287)
-
-### topc-social/ideato-tasks: Show a project's money (backers, pot, ₹ bounties) next to its Neki
-- **Reward:** 50.0 USD (USD Value: **$50.00**)
-- **Agent ROI:** **$14.29/hr** (Est. 3.5 hrs)
-- **Directive:** `LOW YIELD: Secondary priority at $14.29/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/topc-social/ideato-tasks/issues/155)
-
-### freedom-winds/BountyScout: 🎯 Bounty Alert: 7 New Opportunityies found
-- **Reward:** 50.0 USD (USD Value: **$50.00**)
-- **Agent ROI:** **$14.29/hr** (Est. 3.5 hrs)
-- **Directive:** `LOW YIELD: Secondary priority at $14.29/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/freedom-winds/BountyScout/issues/1298)
-
-### abdulsalam-create/bounty-watch: bounty-watch 2026-10-22: 0 new, 0 resumed, 4 watchlist changes
-- **Reward:** 50.0 USD (USD Value: **$50.00**)
-- **Agent ROI:** **$14.29/hr** (Est. 3.5 hrs)
-- **Directive:** `LOW YIELD: Secondary priority at $14.29/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/abdulsalam-create/bounty-watch/issues/154)
-
-### Mumega-com/mupot: Bounty ingest follow-ups from #2117 R2 gates (P2: emit race, gate allowlist, key immutability)
-- **Reward:** 50.0 USD (USD Value: **$50.00**)
-- **Agent ROI:** **$14.29/hr** (Est. 3.5 hrs)
-- **Directive:** `LOW YIELD: Secondary priority at $14.29/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/Mumega-com/mupot/issues/2124)
-
-### freedom-winds/BountyScout: 🎯 Bounty Alert: 6 New Opportunityies found
-- **Reward:** 50.0 USD (USD Value: **$50.00**)
-- **Agent ROI:** **$14.29/hr** (Est. 3.5 hrs)
-- **Directive:** `LOW YIELD: Secondary priority at $14.29/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/freedom-winds/BountyScout/issues/1297)
 
 ### Ikalus1988/MisakaNet: [Bounty] Answer the 2 linked question(s)
 - **Reward:** 50.0 USD (USD Value: **$50.00**)
