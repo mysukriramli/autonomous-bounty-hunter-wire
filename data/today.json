@@ -1,12 +1,12 @@
 {
   "metadata": {
-    "generated_at": "2026-10-23T12:03:00.701739+00:00",
+    "generated_at": "2026-10-23T17:25:19.548149+00:00",
     "data_sources": [
       "GitHub Search API",
       "CoinGecko V3 API",
       "Semantic Extraction"
     ],
-    "total_bounties_indexed": 39,
+    "total_bounties_indexed": 40,
     "schema_version": "1.0.0"
   },
   "bounty_targets": [
@@ -23,40 +23,172 @@
       "agent_directive": "EXECUTE: High-yield target at $1013.00/hr. Prioritize PR submission."
     },
     {
-      "issue_url": "https://github.com/dev-kp-eloper/BountyScout/issues/1644",
-      "repository": "dev-kp-eloper/BountyScout",
-      "title": "\ud83c\udfaf Bounty Alert: 11 New Opportunityies found",
+      "issue_url": "https://github.com/bujiproject-art/agentmidasopendevteam/issues/51",
+      "repository": "bujiproject-art/agentmidasopendevteam",
+      "title": "Claiming Bounty #34 - Healthcare Appointment System ($500)",
       "raw_reward_currency": "USD",
-      "raw_reward_amount": 2026.0,
-      "estimated_hours_to_solve": 6.0,
+      "raw_reward_amount": 500.0,
+      "estimated_hours_to_solve": 2.0,
       "live_usd_exchange_rate": 1.0,
-      "total_usd_value": 2026.0,
-      "roi_usd_per_hour": 337.67,
-      "agent_directive": "EXECUTE: High-yield target at $337.67/hr. Prioritize PR submission."
+      "total_usd_value": 500.0,
+      "roi_usd_per_hour": 250.0,
+      "agent_directive": "EXECUTE: High-yield target at $250.00/hr. Prioritize PR submission."
     },
     {
-      "issue_url": "https://github.com/airdropia/earn-ops/issues/9",
-      "repository": "airdropia/earn-ops",
-      "title": "bounty digest 2026-10-23",
+      "issue_url": "https://github.com/bujiproject-art/agentmidasopendevteam/issues/49",
+      "repository": "bujiproject-art/agentmidasopendevteam",
+      "title": "Claiming Bounty #18 - Revenue Dashboard ($500)",
       "raw_reward_currency": "USD",
-      "raw_reward_amount": 1000.0,
-      "estimated_hours_to_solve": 3.5,
+      "raw_reward_amount": 500.0,
+      "estimated_hours_to_solve": 2.0,
       "live_usd_exchange_rate": 1.0,
-      "total_usd_value": 1000.0,
-      "roi_usd_per_hour": 285.71,
-      "agent_directive": "EXECUTE: High-yield target at $285.71/hr. Prioritize PR submission."
+      "total_usd_value": 500.0,
+      "roi_usd_per_hour": 250.0,
+      "agent_directive": "EXECUTE: High-yield target at $250.00/hr. Prioritize PR submission."
     },
     {
-      "issue_url": "https://github.com/freedom-winds/BountyScout/issues/1302",
-      "repository": "freedom-winds/BountyScout",
-      "title": "\ud83c\udfaf Bounty Alert: 10 New Opportunityies found",
+      "issue_url": "https://github.com/bujiproject-art/agentmidasopendevteam/issues/47",
+      "repository": "bujiproject-art/agentmidasopendevteam",
+      "title": "Claiming Bounty #12 - Affiliate Dashboard Pro ($500)",
       "raw_reward_currency": "USD",
-      "raw_reward_amount": 1000.0,
-      "estimated_hours_to_solve": 3.5,
+      "raw_reward_amount": 500.0,
+      "estimated_hours_to_solve": 2.0,
       "live_usd_exchange_rate": 1.0,
-      "total_usd_value": 1000.0,
-      "roi_usd_per_hour": 285.71,
-      "agent_directive": "EXECUTE: High-yield target at $285.71/hr. Prioritize PR submission."
+      "total_usd_value": 500.0,
+      "roi_usd_per_hour": 250.0,
+      "agent_directive": "EXECUTE: High-yield target at $250.00/hr. Prioritize PR submission."
+    },
+    {
+      "issue_url": "https://github.com/bujiproject-art/agentmidasopendevteam/issues/59",
+      "repository": "bujiproject-art/agentmidasopendevteam",
+      "title": "Claiming Bounty #19 - Payment Gateway Manager ($400)",
+      "raw_reward_currency": "USD",
+      "raw_reward_amount": 400.0,
+      "estimated_hours_to_solve": 2.0,
+      "live_usd_exchange_rate": 1.0,
+      "total_usd_value": 400.0,
+      "roi_usd_per_hour": 200.0,
+      "agent_directive": "EXECUTE: High-yield target at $200.00/hr. Prioritize PR submission."
+    },
+    {
+      "issue_url": "https://github.com/bujiproject-art/agentmidasopendevteam/issues/57",
+      "repository": "bujiproject-art/agentmidasopendevteam",
+      "title": "Claiming Bounty #15 - Team Genealogy Tree ($400)",
+      "raw_reward_currency": "USD",
+      "raw_reward_amount": 400.0,
+      "estimated_hours_to_solve": 2.0,
+      "live_usd_exchange_rate": 1.0,
+      "total_usd_value": 400.0,
+      "roi_usd_per_hour": 200.0,
+      "agent_directive": "EXECUTE: High-yield target at $200.00/hr. Prioritize PR submission."
+    },
+    {
+      "issue_url": "https://github.com/bujiproject-art/agentmidasopendevteam/issues/55",
+      "repository": "bujiproject-art/agentmidasopendevteam",
+      "title": "Claiming Bounty #30 - Restaurant POS Interface ($400)",
+      "raw_reward_currency": "USD",
+      "raw_reward_amount": 400.0,
+      "estimated_hours_to_solve": 2.0,
+      "live_usd_exchange_rate": 1.0,
+      "total_usd_value": 400.0,
+      "roi_usd_per_hour": 200.0,
+      "agent_directive": "EXECUTE: High-yield target at $200.00/hr. Prioritize PR submission."
+    },
+    {
+      "issue_url": "https://github.com/bujiproject-art/agentmidasopendevteam/issues/53",
+      "repository": "bujiproject-art/agentmidasopendevteam",
+      "title": "Claiming Bounty #33 - Law Firm Case Manager ($400)",
+      "raw_reward_currency": "USD",
+      "raw_reward_amount": 400.0,
+      "estimated_hours_to_solve": 2.0,
+      "live_usd_exchange_rate": 1.0,
+      "total_usd_value": 400.0,
+      "roi_usd_per_hour": 200.0,
+      "agent_directive": "EXECUTE: High-yield target at $200.00/hr. Prioritize PR submission."
+    },
+    {
+      "issue_url": "https://github.com/bujiproject-art/agentmidasopendevteam/issues/63",
+      "repository": "bujiproject-art/agentmidasopendevteam",
+      "title": "Claiming Bounty #31 - Real Estate Listing Portal ($350)",
+      "raw_reward_currency": "USD",
+      "raw_reward_amount": 350.0,
+      "estimated_hours_to_solve": 2.0,
+      "live_usd_exchange_rate": 1.0,
+      "total_usd_value": 350.0,
+      "roi_usd_per_hour": 175.0,
+      "agent_directive": "EXECUTE: High-yield target at $175.00/hr. Prioritize PR submission."
+    },
+    {
+      "issue_url": "https://github.com/bujiproject-art/agentmidasopendevteam/issues/61",
+      "repository": "bujiproject-art/agentmidasopendevteam",
+      "title": "Claiming Bounty #22 - Live Chat Widget ($350)",
+      "raw_reward_currency": "USD",
+      "raw_reward_amount": 350.0,
+      "estimated_hours_to_solve": 2.0,
+      "live_usd_exchange_rate": 1.0,
+      "total_usd_value": 350.0,
+      "roi_usd_per_hour": 175.0,
+      "agent_directive": "EXECUTE: High-yield target at $175.00/hr. Prioritize PR submission."
+    },
+    {
+      "issue_url": "https://github.com/bujiproject-art/agentmidasopendevteam/issues/73",
+      "repository": "bujiproject-art/agentmidasopendevteam",
+      "title": "Claiming Bounty #25 - A/B Testing Framework ($300)",
+      "raw_reward_currency": "USD",
+      "raw_reward_amount": 300.0,
+      "estimated_hours_to_solve": 2.0,
+      "live_usd_exchange_rate": 1.0,
+      "total_usd_value": 300.0,
+      "roi_usd_per_hour": 150.0,
+      "agent_directive": "EXECUTE: High-yield target at $150.00/hr. Prioritize PR submission."
+    },
+    {
+      "issue_url": "https://github.com/bujiproject-art/agentmidasopendevteam/issues/71",
+      "repository": "bujiproject-art/agentmidasopendevteam",
+      "title": "Claiming Bounty #21 - Knowledge Base Builder ($300)",
+      "raw_reward_currency": "USD",
+      "raw_reward_amount": 300.0,
+      "estimated_hours_to_solve": 2.0,
+      "live_usd_exchange_rate": 1.0,
+      "total_usd_value": 300.0,
+      "roi_usd_per_hour": 150.0,
+      "agent_directive": "EXECUTE: High-yield target at $150.00/hr. Prioritize PR submission."
+    },
+    {
+      "issue_url": "https://github.com/bujiproject-art/agentmidasopendevteam/issues/69",
+      "repository": "bujiproject-art/agentmidasopendevteam",
+      "title": "Claiming Bounty #16 - Invoice Generator ($300)",
+      "raw_reward_currency": "USD",
+      "raw_reward_amount": 300.0,
+      "estimated_hours_to_solve": 2.0,
+      "live_usd_exchange_rate": 1.0,
+      "total_usd_value": 300.0,
+      "roi_usd_per_hour": 150.0,
+      "agent_directive": "EXECUTE: High-yield target at $150.00/hr. Prioritize PR submission."
+    },
+    {
+      "issue_url": "https://github.com/bujiproject-art/agentmidasopendevteam/issues/67",
+      "repository": "bujiproject-art/agentmidasopendevteam",
+      "title": "Claiming Bounty #8 - Social Media Scheduler ($300)",
+      "raw_reward_currency": "USD",
+      "raw_reward_amount": 300.0,
+      "estimated_hours_to_solve": 2.0,
+      "live_usd_exchange_rate": 1.0,
+      "total_usd_value": 300.0,
+      "roi_usd_per_hour": 150.0,
+      "agent_directive": "EXECUTE: High-yield target at $150.00/hr. Prioritize PR submission."
+    },
+    {
+      "issue_url": "https://github.com/bujiproject-art/agentmidasopendevteam/issues/65",
+      "repository": "bujiproject-art/agentmidasopendevteam",
+      "title": "Claiming Bounty #3 - Email Campaign Builder ($300)",
+      "raw_reward_currency": "USD",
+      "raw_reward_amount": 300.0,
+      "estimated_hours_to_solve": 2.0,
+      "live_usd_exchange_rate": 1.0,
+      "total_usd_value": 300.0,
+      "roi_usd_per_hour": 150.0,
+      "agent_directive": "EXECUTE: High-yield target at $150.00/hr. Prioritize PR submission."
     },
     {
       "issue_url": "https://github.com/habibdxb01/bounty-watcher/issues/8",
@@ -83,9 +215,21 @@
       "agent_directive": "STANDARD: Profitable target at $42.86/hr. Queue for execution."
     },
     {
-      "issue_url": "https://github.com/abdulsalam-create/bounty-watch/issues/160",
-      "repository": "abdulsalam-create/bounty-watch",
-      "title": "Scope digest 2026-10-23: 5 changes across 4 bounty programs",
+      "issue_url": "https://github.com/hellotarkkalabs/victuro/issues/17",
+      "repository": "hellotarkkalabs/victuro",
+      "title": "VIC-017 \u2014 External audit + bounty before mainnet USDC",
+      "raw_reward_currency": "USD",
+      "raw_reward_amount": 50.0,
+      "estimated_hours_to_solve": 2.0,
+      "live_usd_exchange_rate": 1.0,
+      "total_usd_value": 50.0,
+      "roi_usd_per_hour": 25.0,
+      "agent_directive": "LOW YIELD: Secondary priority at $25.00/hr."
+    },
+    {
+      "issue_url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4083",
+      "repository": "zhangjiayang6835-cyber/bounty-plaza",
+      "title": "/meta bounty question",
       "raw_reward_currency": "USD",
       "raw_reward_amount": 50.0,
       "estimated_hours_to_solve": 2.0,
@@ -227,9 +371,9 @@
       "agent_directive": "LOW YIELD: Secondary priority at $14.29/hr."
     },
     {
-      "issue_url": "https://github.com/abdulsalam-create/bounty-watch/issues/159",
+      "issue_url": "https://github.com/abdulsalam-create/bounty-watch/issues/162",
       "repository": "abdulsalam-create/bounty-watch",
-      "title": "bounty-watch 2026-10-23: 0 new, 0 resumed, 5 watchlist changes",
+      "title": "bounty-watch 2026-10-23: 2 new, 0 resumed, 2 watchlist changes",
       "raw_reward_currency": "USD",
       "raw_reward_amount": 50.0,
       "estimated_hours_to_solve": 3.5,
@@ -239,93 +383,9 @@
       "agent_directive": "LOW YIELD: Secondary priority at $14.29/hr."
     },
     {
-      "issue_url": "https://github.com/freedom-winds/BountyScout/issues/1303",
-      "repository": "freedom-winds/BountyScout",
-      "title": "\ud83c\udfaf Bounty Alert: 7 New Opportunityies found",
-      "raw_reward_currency": "USD",
-      "raw_reward_amount": 50.0,
-      "estimated_hours_to_solve": 3.5,
-      "live_usd_exchange_rate": 1.0,
-      "total_usd_value": 50.0,
-      "roi_usd_per_hour": 14.29,
-      "agent_directive": "LOW YIELD: Secondary priority at $14.29/hr."
-    },
-    {
-      "issue_url": "https://github.com/abdulsalam-create/bounty-watch/issues/158",
-      "repository": "abdulsalam-create/bounty-watch",
-      "title": "bounty-watch 2026-10-23: 0 new, 0 resumed, 4 watchlist changes",
-      "raw_reward_currency": "USD",
-      "raw_reward_amount": 50.0,
-      "estimated_hours_to_solve": 3.5,
-      "live_usd_exchange_rate": 1.0,
-      "total_usd_value": 50.0,
-      "roi_usd_per_hour": 14.29,
-      "agent_directive": "LOW YIELD: Secondary priority at $14.29/hr."
-    },
-    {
-      "issue_url": "https://github.com/doomsday-network/bounty-guard/issues/5",
-      "repository": "doomsday-network/bounty-guard",
-      "title": "[ESCROW BOUNTY] \ud83d\udee1\ufe0f 1,500 DOOM ($wDOOM on Base) \u2014 Classify 3 Public GitHub Bounties (SAFE_WITH_ESCROW / SAFE_NO_ESCROW / QUARANTINE)",
-      "raw_reward_currency": "USD",
-      "raw_reward_amount": 50.0,
-      "estimated_hours_to_solve": 3.5,
-      "live_usd_exchange_rate": 1.0,
-      "total_usd_value": 50.0,
-      "roi_usd_per_hour": 14.29,
-      "agent_directive": "LOW YIELD: Secondary priority at $14.29/hr."
-    },
-    {
-      "issue_url": "https://github.com/doomsday-network/doomsday/issues/10",
-      "repository": "doomsday-network/doomsday",
-      "title": "[ESCROW BOUNTY] \ud83e\udd1d 1,500 DOOM ($wDOOM on Base) \u2014 Refer-a-Miner & First Pool Share Bounty (1,500 DOOM to You + 1,500 DOOM to Referrer!)",
-      "raw_reward_currency": "USD",
-      "raw_reward_amount": 50.0,
-      "estimated_hours_to_solve": 3.5,
-      "live_usd_exchange_rate": 1.0,
-      "total_usd_value": 50.0,
-      "roi_usd_per_hour": 14.29,
-      "agent_directive": "LOW YIELD: Secondary priority at $14.29/hr."
-    },
-    {
-      "issue_url": "https://github.com/doomsday-network/doomsday/issues/11",
-      "repository": "doomsday-network/doomsday",
-      "title": "[ESCROW BOUNTY] \ud83d\udd0c 3,000 DOOM ($wDOOM on Base) \u2014 Build an MCP Server, Agent SKILL.md, or GitHub Action for Doomsday Proof-of-Escrow",
-      "raw_reward_currency": "USD",
-      "raw_reward_amount": 50.0,
-      "estimated_hours_to_solve": 3.5,
-      "live_usd_exchange_rate": 1.0,
-      "total_usd_value": 50.0,
-      "roi_usd_per_hour": 14.29,
-      "agent_directive": "LOW YIELD: Secondary priority at $14.29/hr."
-    },
-    {
-      "issue_url": "https://github.com/dev-kp-eloper/BountyScout/issues/1642",
+      "issue_url": "https://github.com/dev-kp-eloper/BountyScout/issues/1645",
       "repository": "dev-kp-eloper/BountyScout",
-      "title": "\ud83c\udfaf Bounty Alert: 8 New Opportunityies found",
-      "raw_reward_currency": "USD",
-      "raw_reward_amount": 50.0,
-      "estimated_hours_to_solve": 3.5,
-      "live_usd_exchange_rate": 1.0,
-      "total_usd_value": 50.0,
-      "roi_usd_per_hour": 14.29,
-      "agent_directive": "LOW YIELD: Secondary priority at $14.29/hr."
-    },
-    {
-      "issue_url": "https://github.com/doomsday-network/doomsday/issues/9",
-      "repository": "doomsday-network/doomsday",
-      "title": "[BOUNTY] \ud83d\ude80 1,000 DOOM ($wDOOM on Base) \u2014 Block #10,000 Milestone: Star + Fork Repo & Mine 1+ Live Pool Share",
-      "raw_reward_currency": "USD",
-      "raw_reward_amount": 50.0,
-      "estimated_hours_to_solve": 3.5,
-      "live_usd_exchange_rate": 1.0,
-      "total_usd_value": 50.0,
-      "roi_usd_per_hour": 14.29,
-      "agent_directive": "LOW YIELD: Secondary priority at $14.29/hr."
-    },
-    {
-      "issue_url": "https://github.com/freedom-winds/BountyScout/issues/1301",
-      "repository": "freedom-winds/BountyScout",
-      "title": "\ud83c\udfaf Bounty Alert: 6 New Opportunityies found",
+      "title": "\ud83c\udfaf Bounty Alert: 5 New Opportunityies found",
       "raw_reward_currency": "USD",
       "raw_reward_amount": 50.0,
       "estimated_hours_to_solve": 3.5,
@@ -407,9 +467,9 @@
       "agent_directive": "LOW YIELD: Secondary priority at $8.33/hr."
     },
     {
-      "issue_url": "https://github.com/paraspell/xcm-tools/issues/2202",
-      "repository": "paraspell/xcm-tools",
-      "title": "[Bug bounty] getBalance resolves native balance by symbol alone \u2014 15 assets across 5 chains, and the same predicate in isSufficient misjudges transfer sufficiency",
+      "issue_url": "https://github.com/dmavs412/twilights-eve-wow/issues/354",
+      "repository": "dmavs412/twilights-eve-wow",
+      "title": "Realm: Host::body_fits, ground::spot, and Bounty Hunters and Rumours placed through it",
       "raw_reward_currency": "USD",
       "raw_reward_amount": 50.0,
       "estimated_hours_to_solve": 6.0,
@@ -419,9 +479,9 @@
       "agent_directive": "LOW YIELD: Secondary priority at $8.33/hr."
     },
     {
-      "issue_url": "https://github.com/paraloom-labs/paraloom-core/issues/1193",
+      "issue_url": "https://github.com/paraloom-labs/paraloom-core/issues/1198",
       "repository": "paraloom-labs/paraloom-core",
-      "title": "[BOUNTY] Low: approved dApps can bypass wallet idle-lock through rejected swaps and silent reconnects",
+      "title": "[BOUNTY] Medium: Startup sync_onchain_stakes zero-stake race in register_validator_with_wallet, delivered_notes commitment dedup, and 9-account validator registry alignment",
       "raw_reward_currency": "USD",
       "raw_reward_amount": 50.0,
       "estimated_hours_to_solve": 6.0,
@@ -429,54 +489,6 @@
       "total_usd_value": 50.0,
       "roi_usd_per_hour": 8.33,
       "agent_directive": "LOW YIELD: Secondary priority at $8.33/hr."
-    },
-    {
-      "issue_url": "https://github.com/aibtcdev/landing-page/issues/1113",
-      "repository": "aibtcdev/landing-page",
-      "title": "bounties: optional `opensAt` so a poster can announce terms before entries are accepted",
-      "raw_reward_currency": "USD",
-      "raw_reward_amount": 50.0,
-      "estimated_hours_to_solve": 6.0,
-      "live_usd_exchange_rate": 1.0,
-      "total_usd_value": 50.0,
-      "roi_usd_per_hour": 8.33,
-      "agent_directive": "LOW YIELD: Secondary priority at $8.33/hr."
-    },
-    {
-      "issue_url": "https://github.com/dev-kp-eloper/BountyScout/issues/1643",
-      "repository": "dev-kp-eloper/BountyScout",
-      "title": "\ud83c\udfaf Bounty Alert: 11 New Opportunityies found",
-      "raw_reward_currency": "USD",
-      "raw_reward_amount": 50.0,
-      "estimated_hours_to_solve": 6.0,
-      "live_usd_exchange_rate": 1.0,
-      "total_usd_value": 50.0,
-      "roi_usd_per_hour": 8.33,
-      "agent_directive": "LOW YIELD: Secondary priority at $8.33/hr."
-    },
-    {
-      "issue_url": "https://github.com/nnyycc77-ship-it/tiny-ledger/issues/12",
-      "repository": "nnyycc77-ship-it/tiny-ledger",
-      "title": "Lead (unverified, search snippet only): owockibot bounty board, USDC on Base paid directly on approval, agent API",
-      "raw_reward_currency": "USD",
-      "raw_reward_amount": 50.0,
-      "estimated_hours_to_solve": 6.0,
-      "live_usd_exchange_rate": 1.0,
-      "total_usd_value": 50.0,
-      "roi_usd_per_hour": 8.33,
-      "agent_directive": "LOW YIELD: Secondary priority at $8.33/hr."
-    },
-    {
-      "issue_url": "https://github.com/nnyycc77-ship-it/tiny-ledger/issues/18",
-      "repository": "nnyycc77-ship-it/tiny-ledger",
-      "title": "Lead (unverified, search snippet only, weak): BountyBook, USDC-on-Base bounties verified by an LLM oracle, 4% fee, self-described experimental, 0 open bounties when indexed",
-      "raw_reward_currency": "USD",
-      "raw_reward_amount": 5.0,
-      "estimated_hours_to_solve": 3.5,
-      "live_usd_exchange_rate": 1.0,
-      "total_usd_value": 5.0,
-      "roi_usd_per_hour": 1.43,
-      "agent_directive": "LOW YIELD: Secondary priority at $1.43/hr."
     }
   ]
 }
