@@ -8,6 +8,18 @@
 - **Directive:** `EXECUTE: High-yield target at $1013.00/hr. Prioritize PR submission.`
 - **Target URL:** [Claim Bounty](https://github.com/relayhop/sn-monetization-runtime/issues/1326)
 
+### dev-kp-eloper/BountyScout: 🎯 Bounty Alert: 11 New Opportunityies found
+- **Reward:** 2026.0 USD (USD Value: **$2,026.00**)
+- **Agent ROI:** **$337.67/hr** (Est. 6.0 hrs)
+- **Directive:** `EXECUTE: High-yield target at $337.67/hr. Prioritize PR submission.`
+- **Target URL:** [Claim Bounty](https://github.com/dev-kp-eloper/BountyScout/issues/1644)
+
+### airdropia/earn-ops: bounty digest 2026-10-23
+- **Reward:** 1000.0 USD (USD Value: **$1,000.00**)
+- **Agent ROI:** **$285.71/hr** (Est. 3.5 hrs)
+- **Directive:** `EXECUTE: High-yield target at $285.71/hr. Prioritize PR submission.`
+- **Target URL:** [Claim Bounty](https://github.com/airdropia/earn-ops/issues/9)
+
 ### freedom-winds/BountyScout: 🎯 Bounty Alert: 10 New Opportunityies found
 - **Reward:** 1000.0 USD (USD Value: **$1,000.00**)
 - **Agent ROI:** **$285.71/hr** (Est. 3.5 hrs)
@@ -26,11 +38,11 @@
 - **Directive:** `STANDARD: Profitable target at $42.86/hr. Queue for execution.`
 - **Target URL:** [Claim Bounty](https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4080)
 
-### Questie/Questie: Mouseover tooltip error for quest Centaur Bounty and killing Magram Wrangler
+### abdulsalam-create/bounty-watch: Scope digest 2026-10-23: 5 changes across 4 bounty programs
 - **Reward:** 50.0 USD (USD Value: **$50.00**)
 - **Agent ROI:** **$25.00/hr** (Est. 2.0 hrs)
 - **Directive:** `LOW YIELD: Secondary priority at $25.00/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/Questie/Questie/issues/8093)
+- **Target URL:** [Claim Bounty](https://github.com/abdulsalam-create/bounty-watch/issues/160)
 
 ### zhangjiayang6835-cyber/bounty-plaza: [Bounty] Задача: Дописать тесты
 - **Reward:** 50.0 USD (USD Value: **$50.00**)
@@ -98,6 +110,18 @@
 - **Directive:** `LOW YIELD: Secondary priority at $14.29/hr.`
 - **Target URL:** [Claim Bounty](https://github.com/amiller/bounty-arcade/issues/5)
 
+### abdulsalam-create/bounty-watch: bounty-watch 2026-10-23: 0 new, 0 resumed, 5 watchlist changes
+- **Reward:** 50.0 USD (USD Value: **$50.00**)
+- **Agent ROI:** **$14.29/hr** (Est. 3.5 hrs)
+- **Directive:** `LOW YIELD: Secondary priority at $14.29/hr.`
+- **Target URL:** [Claim Bounty](https://github.com/abdulsalam-create/bounty-watch/issues/159)
+
+### freedom-winds/BountyScout: 🎯 Bounty Alert: 7 New Opportunityies found
+- **Reward:** 50.0 USD (USD Value: **$50.00**)
+- **Agent ROI:** **$14.29/hr** (Est. 3.5 hrs)
+- **Directive:** `LOW YIELD: Secondary priority at $14.29/hr.`
+- **Target URL:** [Claim Bounty](https://github.com/freedom-winds/BountyScout/issues/1303)
+
 ### abdulsalam-create/bounty-watch: bounty-watch 2026-10-23: 0 new, 0 resumed, 4 watchlist changes
 - **Reward:** 50.0 USD (USD Value: **$50.00**)
 - **Agent ROI:** **$14.29/hr** (Est. 3.5 hrs)
@@ -127,27 +151,3 @@
 - **Agent ROI:** **$14.29/hr** (Est. 3.5 hrs)
 - **Directive:** `LOW YIELD: Secondary priority at $14.29/hr.`
 - **Target URL:** [Claim Bounty](https://github.com/dev-kp-eloper/BountyScout/issues/1642)
-
-### doomsday-network/doomsday: [BOUNTY] 🚀 1,000 DOOM ($wDOOM on Base) — Block #10,000 Milestone: Star + Fork Repo & Mine 1+ Live Pool Share
-- **Reward:** 50.0 USD (USD Value: **$50.00**)
-- **Agent ROI:** **$14.29/hr** (Est. 3.5 hrs)
-- **Directive:** `LOW YIELD: Secondary priority at $14.29/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/doomsday-network/doomsday/issues/9)
-
-### freedom-winds/BountyScout: 🎯 Bounty Alert: 6 New Opportunityies found
-- **Reward:** 50.0 USD (USD Value: **$50.00**)
-- **Agent ROI:** **$14.29/hr** (Est. 3.5 hrs)
-- **Directive:** `LOW YIELD: Secondary priority at $14.29/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/freedom-winds/BountyScout/issues/1301)
-
-### doomsday-network/doomsday: [BOUNTY] ⭐ 500 DOOM ($wDOOM on Base) — Star Both Repos & Run Quickstart (Auto-Verified via GitHub Stargazers API!)
-- **Reward:** 50.0 USD (USD Value: **$50.00**)
-- **Agent ROI:** **$14.29/hr** (Est. 3.5 hrs)
-- **Directive:** `LOW YIELD: Secondary priority at $14.29/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/doomsday-network/doomsday/issues/8)
-
-### BasedHardware/omi: [Bounty proposal] fix(demand-processing-tools): harden process_recent_conversations validation, numeric coercion, and config resilience ($50–$100 proposed)
-- **Reward:** 50.0 USD (USD Value: **$50.00**)
-- **Agent ROI:** **$14.29/hr** (Est. 3.5 hrs)
-- **Directive:** `LOW YIELD: Secondary priority at $14.29/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/BasedHardware/omi/issues/23337)

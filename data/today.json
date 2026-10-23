@@ -1,12 +1,12 @@
 {
   "metadata": {
-    "generated_at": "2026-10-23T05:18:28.678971+00:00",
+    "generated_at": "2026-10-23T12:03:00.701739+00:00",
     "data_sources": [
       "GitHub Search API",
       "CoinGecko V3 API",
       "Semantic Extraction"
     ],
-    "total_bounties_indexed": 37,
+    "total_bounties_indexed": 39,
     "schema_version": "1.0.0"
   },
   "bounty_targets": [
@@ -21,6 +21,30 @@
       "total_usd_value": 2026.0,
       "roi_usd_per_hour": 1013.0,
       "agent_directive": "EXECUTE: High-yield target at $1013.00/hr. Prioritize PR submission."
+    },
+    {
+      "issue_url": "https://github.com/dev-kp-eloper/BountyScout/issues/1644",
+      "repository": "dev-kp-eloper/BountyScout",
+      "title": "\ud83c\udfaf Bounty Alert: 11 New Opportunityies found",
+      "raw_reward_currency": "USD",
+      "raw_reward_amount": 2026.0,
+      "estimated_hours_to_solve": 6.0,
+      "live_usd_exchange_rate": 1.0,
+      "total_usd_value": 2026.0,
+      "roi_usd_per_hour": 337.67,
+      "agent_directive": "EXECUTE: High-yield target at $337.67/hr. Prioritize PR submission."
+    },
+    {
+      "issue_url": "https://github.com/airdropia/earn-ops/issues/9",
+      "repository": "airdropia/earn-ops",
+      "title": "bounty digest 2026-10-23",
+      "raw_reward_currency": "USD",
+      "raw_reward_amount": 1000.0,
+      "estimated_hours_to_solve": 3.5,
+      "live_usd_exchange_rate": 1.0,
+      "total_usd_value": 1000.0,
+      "roi_usd_per_hour": 285.71,
+      "agent_directive": "EXECUTE: High-yield target at $285.71/hr. Prioritize PR submission."
     },
     {
       "issue_url": "https://github.com/freedom-winds/BountyScout/issues/1302",
@@ -59,9 +83,9 @@
       "agent_directive": "STANDARD: Profitable target at $42.86/hr. Queue for execution."
     },
     {
-      "issue_url": "https://github.com/Questie/Questie/issues/8093",
-      "repository": "Questie/Questie",
-      "title": "Mouseover tooltip error for quest Centaur Bounty and killing Magram Wrangler",
+      "issue_url": "https://github.com/abdulsalam-create/bounty-watch/issues/160",
+      "repository": "abdulsalam-create/bounty-watch",
+      "title": "Scope digest 2026-10-23: 5 changes across 4 bounty programs",
       "raw_reward_currency": "USD",
       "raw_reward_amount": 50.0,
       "estimated_hours_to_solve": 2.0,
@@ -203,6 +227,30 @@
       "agent_directive": "LOW YIELD: Secondary priority at $14.29/hr."
     },
     {
+      "issue_url": "https://github.com/abdulsalam-create/bounty-watch/issues/159",
+      "repository": "abdulsalam-create/bounty-watch",
+      "title": "bounty-watch 2026-10-23: 0 new, 0 resumed, 5 watchlist changes",
+      "raw_reward_currency": "USD",
+      "raw_reward_amount": 50.0,
+      "estimated_hours_to_solve": 3.5,
+      "live_usd_exchange_rate": 1.0,
+      "total_usd_value": 50.0,
+      "roi_usd_per_hour": 14.29,
+      "agent_directive": "LOW YIELD: Secondary priority at $14.29/hr."
+    },
+    {
+      "issue_url": "https://github.com/freedom-winds/BountyScout/issues/1303",
+      "repository": "freedom-winds/BountyScout",
+      "title": "\ud83c\udfaf Bounty Alert: 7 New Opportunityies found",
+      "raw_reward_currency": "USD",
+      "raw_reward_amount": 50.0,
+      "estimated_hours_to_solve": 3.5,
+      "live_usd_exchange_rate": 1.0,
+      "total_usd_value": 50.0,
+      "roi_usd_per_hour": 14.29,
+      "agent_directive": "LOW YIELD: Secondary priority at $14.29/hr."
+    },
+    {
       "issue_url": "https://github.com/abdulsalam-create/bounty-watch/issues/158",
       "repository": "abdulsalam-create/bounty-watch",
       "title": "bounty-watch 2026-10-23: 0 new, 0 resumed, 4 watchlist changes",
@@ -287,54 +335,6 @@
       "agent_directive": "LOW YIELD: Secondary priority at $14.29/hr."
     },
     {
-      "issue_url": "https://github.com/doomsday-network/doomsday/issues/8",
-      "repository": "doomsday-network/doomsday",
-      "title": "[BOUNTY] \u2b50 500 DOOM ($wDOOM on Base) \u2014 Star Both Repos & Run Quickstart (Auto-Verified via GitHub Stargazers API!)",
-      "raw_reward_currency": "USD",
-      "raw_reward_amount": 50.0,
-      "estimated_hours_to_solve": 3.5,
-      "live_usd_exchange_rate": 1.0,
-      "total_usd_value": 50.0,
-      "roi_usd_per_hour": 14.29,
-      "agent_directive": "LOW YIELD: Secondary priority at $14.29/hr."
-    },
-    {
-      "issue_url": "https://github.com/BasedHardware/omi/issues/23337",
-      "repository": "BasedHardware/omi",
-      "title": "[Bounty proposal] fix(demand-processing-tools): harden process_recent_conversations validation, numeric coercion, and config resilience ($50\u2013$100 proposed)",
-      "raw_reward_currency": "USD",
-      "raw_reward_amount": 50.0,
-      "estimated_hours_to_solve": 3.5,
-      "live_usd_exchange_rate": 1.0,
-      "total_usd_value": 50.0,
-      "roi_usd_per_hour": 14.29,
-      "agent_directive": "LOW YIELD: Secondary priority at $14.29/hr."
-    },
-    {
-      "issue_url": "https://github.com/dev-kp-eloper/BountyScout/issues/1641",
-      "repository": "dev-kp-eloper/BountyScout",
-      "title": "\ud83c\udfaf Bounty Alert: 8 New Opportunityies found",
-      "raw_reward_currency": "USD",
-      "raw_reward_amount": 50.0,
-      "estimated_hours_to_solve": 3.5,
-      "live_usd_exchange_rate": 1.0,
-      "total_usd_value": 50.0,
-      "roi_usd_per_hour": 14.29,
-      "agent_directive": "LOW YIELD: Secondary priority at $14.29/hr."
-    },
-    {
-      "issue_url": "https://github.com/doomsday-network/bounty-guard/issues/4",
-      "repository": "doomsday-network/bounty-guard",
-      "title": "[BOUNTY] \ud83c\udfc6 2,500 DOOM ($wDOOM on Base) \u2014 Connect Worker to Live Doomsday Pool & Claim Rank #7\u2013#10 on Leaderboard (Ranks #4\u2013#6 Claimed!)",
-      "raw_reward_currency": "USD",
-      "raw_reward_amount": 50.0,
-      "estimated_hours_to_solve": 3.5,
-      "live_usd_exchange_rate": 1.0,
-      "total_usd_value": 50.0,
-      "roi_usd_per_hour": 14.29,
-      "agent_directive": "LOW YIELD: Secondary priority at $14.29/hr."
-    },
-    {
       "issue_url": "https://github.com/XHToken/Spark-X2.6/issues/16",
       "repository": "XHToken/Spark-X2.6",
       "title": "HER Hack-Astron #7 | Spark-X2.6 Open Source AI for Good Challenge\uff5c\u516c\u76ca\u5e94\u7528\u573a\u666f\u6311\u6218\u8d5b",
@@ -407,6 +407,42 @@
       "agent_directive": "LOW YIELD: Secondary priority at $8.33/hr."
     },
     {
+      "issue_url": "https://github.com/paraspell/xcm-tools/issues/2202",
+      "repository": "paraspell/xcm-tools",
+      "title": "[Bug bounty] getBalance resolves native balance by symbol alone \u2014 15 assets across 5 chains, and the same predicate in isSufficient misjudges transfer sufficiency",
+      "raw_reward_currency": "USD",
+      "raw_reward_amount": 50.0,
+      "estimated_hours_to_solve": 6.0,
+      "live_usd_exchange_rate": 1.0,
+      "total_usd_value": 50.0,
+      "roi_usd_per_hour": 8.33,
+      "agent_directive": "LOW YIELD: Secondary priority at $8.33/hr."
+    },
+    {
+      "issue_url": "https://github.com/paraloom-labs/paraloom-core/issues/1193",
+      "repository": "paraloom-labs/paraloom-core",
+      "title": "[BOUNTY] Low: approved dApps can bypass wallet idle-lock through rejected swaps and silent reconnects",
+      "raw_reward_currency": "USD",
+      "raw_reward_amount": 50.0,
+      "estimated_hours_to_solve": 6.0,
+      "live_usd_exchange_rate": 1.0,
+      "total_usd_value": 50.0,
+      "roi_usd_per_hour": 8.33,
+      "agent_directive": "LOW YIELD: Secondary priority at $8.33/hr."
+    },
+    {
+      "issue_url": "https://github.com/aibtcdev/landing-page/issues/1113",
+      "repository": "aibtcdev/landing-page",
+      "title": "bounties: optional `opensAt` so a poster can announce terms before entries are accepted",
+      "raw_reward_currency": "USD",
+      "raw_reward_amount": 50.0,
+      "estimated_hours_to_solve": 6.0,
+      "live_usd_exchange_rate": 1.0,
+      "total_usd_value": 50.0,
+      "roi_usd_per_hour": 8.33,
+      "agent_directive": "LOW YIELD: Secondary priority at $8.33/hr."
+    },
+    {
       "issue_url": "https://github.com/dev-kp-eloper/BountyScout/issues/1643",
       "repository": "dev-kp-eloper/BountyScout",
       "title": "\ud83c\udfaf Bounty Alert: 11 New Opportunityies found",
@@ -422,18 +458,6 @@
       "issue_url": "https://github.com/nnyycc77-ship-it/tiny-ledger/issues/12",
       "repository": "nnyycc77-ship-it/tiny-ledger",
       "title": "Lead (unverified, search snippet only): owockibot bounty board, USDC on Base paid directly on approval, agent API",
-      "raw_reward_currency": "USD",
-      "raw_reward_amount": 50.0,
-      "estimated_hours_to_solve": 6.0,
-      "live_usd_exchange_rate": 1.0,
-      "total_usd_value": 50.0,
-      "roi_usd_per_hour": 8.33,
-      "agent_directive": "LOW YIELD: Secondary priority at $8.33/hr."
-    },
-    {
-      "issue_url": "https://github.com/nnyycc77-ship-it/tiny-ledger/issues/8",
-      "repository": "nnyycc77-ship-it/tiny-ledger",
-      "title": "Lead (unverified, search snippet only): TaskMarket, USDC task board on Base with research bounties",
       "raw_reward_currency": "USD",
       "raw_reward_amount": 50.0,
       "estimated_hours_to_solve": 6.0,
