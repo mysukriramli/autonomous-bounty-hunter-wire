@@ -8,6 +8,12 @@
 - **Directive:** `EXECUTE: High-yield target at $1013.00/hr. Prioritize PR submission.`
 - **Target URL:** [Claim Bounty](https://github.com/relayhop/sn-monetization-runtime/issues/1326)
 
+### freedom-winds/BountyScout: 🎯 Bounty Alert: 10 New Opportunityies found
+- **Reward:** 1000.0 USD (USD Value: **$1,000.00**)
+- **Agent ROI:** **$285.71/hr** (Est. 3.5 hrs)
+- **Directive:** `EXECUTE: High-yield target at $285.71/hr. Prioritize PR submission.`
+- **Target URL:** [Claim Bounty](https://github.com/freedom-winds/BountyScout/issues/1302)
+
 ### habibdxb01/bounty-watcher: 📋 2 open bounties right now
 - **Reward:** 150.0 USD (USD Value: **$150.00**)
 - **Agent ROI:** **$75.00/hr** (Est. 2.0 hrs)
@@ -26,23 +32,11 @@
 - **Directive:** `LOW YIELD: Secondary priority at $25.00/hr.`
 - **Target URL:** [Claim Bounty](https://github.com/Questie/Questie/issues/8093)
 
-### dev-kp-eloper/BountyScout: 🎯 Bounty Alert: 1 New Opportunity found
-- **Reward:** 50.0 USD (USD Value: **$50.00**)
-- **Agent ROI:** **$25.00/hr** (Est. 2.0 hrs)
-- **Directive:** `LOW YIELD: Secondary priority at $25.00/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/dev-kp-eloper/BountyScout/issues/1640)
-
-### BasedHardware/omi: [Bounty proposal] fix(goals): get_user_goals drops active goals by limiting before filtering ($50)
-- **Reward:** 50.0 USD (USD Value: **$50.00**)
-- **Agent ROI:** **$25.00/hr** (Est. 2.0 hrs)
-- **Directive:** `LOW YIELD: Secondary priority at $25.00/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/BasedHardware/omi/issues/23294)
-
-### vlad441/ncpp: Задача: Дописать тесты
+### zhangjiayang6835-cyber/bounty-plaza: [Bounty] Задача: Дописать тесты
 - **Reward:** 50.0 USD (USD Value: **$50.00**)
 - **Agent ROI:** **$14.29/hr** (Est. 3.5 hrs)
 - **Directive:** `LOW YIELD: Secondary priority at $14.29/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/vlad441/ncpp/issues/1)
+- **Target URL:** [Claim Bounty](https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4081)
 
 ### doomsday-network/bounty-guard: [BOUNTY] 🛡️ 500 DOOM ($wDOOM on Base) — Report a Fake GitHub Bounty Repo or Run the 3-Second DOOM Quickstart
 - **Reward:** 50.0 USD (USD Value: **$50.00**)
@@ -104,11 +98,47 @@
 - **Directive:** `LOW YIELD: Secondary priority at $14.29/hr.`
 - **Target URL:** [Claim Bounty](https://github.com/amiller/bounty-arcade/issues/5)
 
-### amiller/bounty-arcade: [flight] Fuel
+### abdulsalam-create/bounty-watch: bounty-watch 2026-10-23: 0 new, 0 resumed, 4 watchlist changes
 - **Reward:** 50.0 USD (USD Value: **$50.00**)
 - **Agent ROI:** **$14.29/hr** (Est. 3.5 hrs)
 - **Directive:** `LOW YIELD: Secondary priority at $14.29/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/amiller/bounty-arcade/issues/4)
+- **Target URL:** [Claim Bounty](https://github.com/abdulsalam-create/bounty-watch/issues/158)
+
+### doomsday-network/bounty-guard: [ESCROW BOUNTY] 🛡️ 1,500 DOOM ($wDOOM on Base) — Classify 3 Public GitHub Bounties (SAFE_WITH_ESCROW / SAFE_NO_ESCROW / QUARANTINE)
+- **Reward:** 50.0 USD (USD Value: **$50.00**)
+- **Agent ROI:** **$14.29/hr** (Est. 3.5 hrs)
+- **Directive:** `LOW YIELD: Secondary priority at $14.29/hr.`
+- **Target URL:** [Claim Bounty](https://github.com/doomsday-network/bounty-guard/issues/5)
+
+### doomsday-network/doomsday: [ESCROW BOUNTY] 🤝 1,500 DOOM ($wDOOM on Base) — Refer-a-Miner & First Pool Share Bounty (1,500 DOOM to You + 1,500 DOOM to Referrer!)
+- **Reward:** 50.0 USD (USD Value: **$50.00**)
+- **Agent ROI:** **$14.29/hr** (Est. 3.5 hrs)
+- **Directive:** `LOW YIELD: Secondary priority at $14.29/hr.`
+- **Target URL:** [Claim Bounty](https://github.com/doomsday-network/doomsday/issues/10)
+
+### doomsday-network/doomsday: [ESCROW BOUNTY] 🔌 3,000 DOOM ($wDOOM on Base) — Build an MCP Server, Agent SKILL.md, or GitHub Action for Doomsday Proof-of-Escrow
+- **Reward:** 50.0 USD (USD Value: **$50.00**)
+- **Agent ROI:** **$14.29/hr** (Est. 3.5 hrs)
+- **Directive:** `LOW YIELD: Secondary priority at $14.29/hr.`
+- **Target URL:** [Claim Bounty](https://github.com/doomsday-network/doomsday/issues/11)
+
+### dev-kp-eloper/BountyScout: 🎯 Bounty Alert: 8 New Opportunityies found
+- **Reward:** 50.0 USD (USD Value: **$50.00**)
+- **Agent ROI:** **$14.29/hr** (Est. 3.5 hrs)
+- **Directive:** `LOW YIELD: Secondary priority at $14.29/hr.`
+- **Target URL:** [Claim Bounty](https://github.com/dev-kp-eloper/BountyScout/issues/1642)
+
+### doomsday-network/doomsday: [BOUNTY] 🚀 1,000 DOOM ($wDOOM on Base) — Block #10,000 Milestone: Star + Fork Repo & Mine 1+ Live Pool Share
+- **Reward:** 50.0 USD (USD Value: **$50.00**)
+- **Agent ROI:** **$14.29/hr** (Est. 3.5 hrs)
+- **Directive:** `LOW YIELD: Secondary priority at $14.29/hr.`
+- **Target URL:** [Claim Bounty](https://github.com/doomsday-network/doomsday/issues/9)
+
+### freedom-winds/BountyScout: 🎯 Bounty Alert: 6 New Opportunityies found
+- **Reward:** 50.0 USD (USD Value: **$50.00**)
+- **Agent ROI:** **$14.29/hr** (Est. 3.5 hrs)
+- **Directive:** `LOW YIELD: Secondary priority at $14.29/hr.`
+- **Target URL:** [Claim Bounty](https://github.com/freedom-winds/BountyScout/issues/1301)
 
 ### doomsday-network/doomsday: [BOUNTY] ⭐ 500 DOOM ($wDOOM on Base) — Star Both Repos & Run Quickstart (Auto-Verified via GitHub Stargazers API!)
 - **Reward:** 50.0 USD (USD Value: **$50.00**)
@@ -121,33 +151,3 @@
 - **Agent ROI:** **$14.29/hr** (Est. 3.5 hrs)
 - **Directive:** `LOW YIELD: Secondary priority at $14.29/hr.`
 - **Target URL:** [Claim Bounty](https://github.com/BasedHardware/omi/issues/23337)
-
-### dev-kp-eloper/BountyScout: 🎯 Bounty Alert: 8 New Opportunityies found
-- **Reward:** 50.0 USD (USD Value: **$50.00**)
-- **Agent ROI:** **$14.29/hr** (Est. 3.5 hrs)
-- **Directive:** `LOW YIELD: Secondary priority at $14.29/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/dev-kp-eloper/BountyScout/issues/1641)
-
-### doomsday-network/bounty-guard: [BOUNTY] 🏆 2,500 DOOM ($wDOOM on Base) — Connect Worker to Live Doomsday Pool & Claim Rank #5–#10 on Leaderboard
-- **Reward:** 50.0 USD (USD Value: **$50.00**)
-- **Agent ROI:** **$14.29/hr** (Est. 3.5 hrs)
-- **Directive:** `LOW YIELD: Secondary priority at $14.29/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/doomsday-network/bounty-guard/issues/4)
-
-### Apelsinmack/Civulator: Design session: barbarians + goodie huts — early-game bounty, a reason to keep soldiers home and to explore
-- **Reward:** 50.0 USD (USD Value: **$50.00**)
-- **Agent ROI:** **$14.29/hr** (Est. 3.5 hrs)
-- **Directive:** `LOW YIELD: Secondary priority at $14.29/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/Apelsinmack/Civulator/issues/129)
-
-### doomsday-network/doomsday: [BOUNTY] 🏆 2,500 DOOM ($wDOOM on Base) — Mine Pool Shares on GPU/CPU & Claim Rank #5–#10 on the Live Leaderboard (Rank #4 Claimed!)
-- **Reward:** 50.0 USD (USD Value: **$50.00**)
-- **Agent ROI:** **$14.29/hr** (Est. 3.5 hrs)
-- **Directive:** `LOW YIELD: Secondary priority at $14.29/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/doomsday-network/doomsday/issues/7)
-
-### BasedHardware/omi: [Bounty proposal] fix(preference-tools): harden save_user_preference_tool validation, user_stated coercion, and config resilience ($50 proposed)
-- **Reward:** 50.0 USD (USD Value: **$50.00**)
-- **Agent ROI:** **$14.29/hr** (Est. 3.5 hrs)
-- **Directive:** `LOW YIELD: Secondary priority at $14.29/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/BasedHardware/omi/issues/23328)
