@@ -8,17 +8,65 @@
 - **Directive:** `EXECUTE: High-yield target at $1013.00/hr. Prioritize PR submission.`
 - **Target URL:** [Claim Bounty](https://github.com/relayhop/sn-monetization-runtime/issues/1326)
 
-### bujiproject-art/agentmidasopendevteam: Claiming Bounty #25 - A/B Testing Framework ($300)
+### bujiproject-art/agentmidasopendevteam: Claiming Bounty #41 - Video Tutorial Series ($300)
 - **Reward:** 300.0 USD (USD Value: **$300.00**)
 - **Agent ROI:** **$150.00/hr** (Est. 2.0 hrs)
 - **Directive:** `EXECUTE: High-yield target at $150.00/hr. Prioritize PR submission.`
-- **Target URL:** [Claim Bounty](https://github.com/bujiproject-art/agentmidasopendevteam/issues/73)
+- **Target URL:** [Claim Bounty](https://github.com/bujiproject-art/agentmidasopendevteam/issues/77)
 
-### bujiproject-art/agentmidasopendevteam: Claiming Bounty #21 - Knowledge Base Builder ($300)
-- **Reward:** 300.0 USD (USD Value: **$300.00**)
-- **Agent ROI:** **$150.00/hr** (Est. 2.0 hrs)
-- **Directive:** `EXECUTE: High-yield target at $150.00/hr. Prioritize PR submission.`
-- **Target URL:** [Claim Bounty](https://github.com/bujiproject-art/agentmidasopendevteam/issues/71)
+### bujiproject-art/agentmidasopendevteam: Claiming Bounty #38 - i18n Framework Setup ($250)
+- **Reward:** 250.0 USD (USD Value: **$250.00**)
+- **Agent ROI:** **$125.00/hr** (Est. 2.0 hrs)
+- **Directive:** `EXECUTE: High-yield target at $125.00/hr. Prioritize PR submission.`
+- **Target URL:** [Claim Bounty](https://github.com/bujiproject-art/agentmidasopendevteam/issues/85)
+
+### bujiproject-art/agentmidasopendevteam: Claiming Bounty #24 - Funnel Visualizer ($250)
+- **Reward:** 250.0 USD (USD Value: **$250.00**)
+- **Agent ROI:** **$125.00/hr** (Est. 2.0 hrs)
+- **Directive:** `EXECUTE: High-yield target at $125.00/hr. Prioritize PR submission.`
+- **Target URL:** [Claim Bounty](https://github.com/bujiproject-art/agentmidasopendevteam/issues/83)
+
+### bujiproject-art/agentmidasopendevteam: Claiming Bounty #20 - Ticket System ($250)
+- **Reward:** 250.0 USD (USD Value: **$250.00**)
+- **Agent ROI:** **$125.00/hr** (Est. 2.0 hrs)
+- **Directive:** `EXECUTE: High-yield target at $125.00/hr. Prioritize PR submission.`
+- **Target URL:** [Claim Bounty](https://github.com/bujiproject-art/agentmidasopendevteam/issues/81)
+
+### bujiproject-art/agentmidasopendevteam: Claiming Bounty #4 - Lead Scoring Engine ($250)
+- **Reward:** 250.0 USD (USD Value: **$250.00**)
+- **Agent ROI:** **$125.00/hr** (Est. 2.0 hrs)
+- **Directive:** `EXECUTE: High-yield target at $125.00/hr. Prioritize PR submission.`
+- **Target URL:** [Claim Bounty](https://github.com/bujiproject-art/agentmidasopendevteam/issues/79)
+
+### bujiproject-art/agentmidasopendevteam: Claiming Bounty #17 - Expense Tracker ($200)
+- **Reward:** 200.0 USD (USD Value: **$200.00**)
+- **Agent ROI:** **$100.00/hr** (Est. 2.0 hrs)
+- **Directive:** `EXECUTE: High-yield target at $100.00/hr. Prioritize PR submission.`
+- **Target URL:** [Claim Bounty](https://github.com/bujiproject-art/agentmidasopendevteam/issues/95)
+
+### bujiproject-art/agentmidasopendevteam: Claiming Bounty #13 - Referral Link Manager ($200)
+- **Reward:** 200.0 USD (USD Value: **$200.00**)
+- **Agent ROI:** **$100.00/hr** (Est. 2.0 hrs)
+- **Directive:** `EXECUTE: High-yield target at $100.00/hr. Prioritize PR submission.`
+- **Target URL:** [Claim Bounty](https://github.com/bujiproject-art/agentmidasopendevteam/issues/93)
+
+### bujiproject-art/agentmidasopendevteam: Claiming Bounty #9 - Podcast Manager ($200)
+- **Reward:** 200.0 USD (USD Value: **$200.00**)
+- **Agent ROI:** **$100.00/hr** (Est. 2.0 hrs)
+- **Directive:** `EXECUTE: High-yield target at $100.00/hr. Prioritize PR submission.`
+- **Target URL:** [Claim Bounty](https://github.com/bujiproject-art/agentmidasopendevteam/issues/91)
+
+### bujiproject-art/agentmidasopendevteam: Claiming Bounty #5 - Sales Forecasting Widget ($200)
+- **Reward:** 200.0 USD (USD Value: **$200.00**)
+- **Agent ROI:** **$100.00/hr** (Est. 2.0 hrs)
+- **Directive:** `EXECUTE: High-yield target at $100.00/hr. Prioritize PR submission.`
+- **Target URL:** [Claim Bounty](https://github.com/bujiproject-art/agentmidasopendevteam/issues/89)
+
+### bujiproject-art/agentmidasopendevteam: Claiming Bounty #2 - Deal Pipeline Board ($200)
+- **Reward:** 200.0 USD (USD Value: **$200.00**)
+- **Agent ROI:** **$100.00/hr** (Est. 2.0 hrs)
+- **Directive:** `EXECUTE: High-yield target at $100.00/hr. Prioritize PR submission.`
+- **Target URL:** [Claim Bounty](https://github.com/bujiproject-art/agentmidasopendevteam/issues/87)
 
 ### habibdxb01/bounty-watcher: 📋 2 open bounties right now
 - **Reward:** 150.0 USD (USD Value: **$150.00**)
@@ -26,17 +74,11 @@
 - **Directive:** `STANDARD: Profitable target at $75.00/hr. Queue for execution.`
 - **Target URL:** [Claim Bounty](https://github.com/habibdxb01/bounty-watcher/issues/8)
 
-### hifriendbot/agentwallet-mcp: Bounty payout status — Medium report credited 2026-10-14 (mgal.ghifari04)
+### bujiproject-art/agentmidasopendevteam: Claiming Bounty #27 - Employee Directory ($150)
 - **Reward:** 150.0 USD (USD Value: **$150.00**)
 - **Agent ROI:** **$75.00/hr** (Est. 2.0 hrs)
 - **Directive:** `STANDARD: Profitable target at $75.00/hr. Queue for execution.`
-- **Target URL:** [Claim Bounty](https://github.com/hifriendbot/agentwallet-mcp/issues/20)
-
-### bujiproject-art/agentmidasopendevteam: Claiming Bounty #7 — Blog Publishing System ($200)
-- **Reward:** 200.0 USD (USD Value: **$200.00**)
-- **Agent ROI:** **$57.14/hr** (Est. 3.5 hrs)
-- **Directive:** `STANDARD: Profitable target at $57.14/hr. Queue for execution.`
-- **Target URL:** [Claim Bounty](https://github.com/bujiproject-art/agentmidasopendevteam/issues/75)
+- **Target URL:** [Claim Bounty](https://github.com/bujiproject-art/agentmidasopendevteam/issues/99)
 
 ### zhangjiayang6835-cyber/bounty-plaza: [Bounty] USDC-quoted pairs not having the correct marketcap displayed in tools
 - **Reward:** 100.0 USD (USD Value: **$100.00**)
@@ -56,47 +98,11 @@
 - **Directive:** `STANDARD: Profitable target at $42.86/hr. Queue for execution.`
 - **Target URL:** [Claim Bounty](https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4080)
 
-### blake-guthrie/GLASS: Bounty: Firefox MV3 build
+### abdulsalam-create/bounty-watch: bounty-watch 2026-10-24: 0 new, 0 resumed, 2 watchlist changes
 - **Reward:** 50.0 USD (USD Value: **$50.00**)
 - **Agent ROI:** **$25.00/hr** (Est. 2.0 hrs)
 - **Directive:** `LOW YIELD: Secondary priority at $25.00/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/blake-guthrie/GLASS/issues/4)
-
-### avoidthekitchen/chess-rpg-gauntlet: Region 1 guided path T6b: Keep warm-up puzzles out of the bounty packs
-- **Reward:** 50.0 USD (USD Value: **$50.00**)
-- **Agent ROI:** **$25.00/hr** (Est. 2.0 hrs)
-- **Directive:** `LOW YIELD: Secondary priority at $25.00/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/avoidthekitchen/chess-rpg-gauntlet/issues/28)
-
-### ShulkMaster/mk-deception: Bounty
-- **Reward:** 50.0 USD (USD Value: **$50.00**)
-- **Agent ROI:** **$25.00/hr** (Est. 2.0 hrs)
-- **Directive:** `LOW YIELD: Secondary priority at $25.00/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/ShulkMaster/mk-deception/issues/116)
-
-### roonga/qcms: Security: decide on a bug bounty programme after launch
-- **Reward:** 50.0 USD (USD Value: **$50.00**)
-- **Agent ROI:** **$25.00/hr** (Est. 2.0 hrs)
-- **Directive:** `LOW YIELD: Secondary priority at $25.00/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/roonga/qcms/issues/1106)
-
-### hellotarkkalabs/victuro: VIC-017 — External audit + bounty before mainnet USDC
-- **Reward:** 50.0 USD (USD Value: **$50.00**)
-- **Agent ROI:** **$25.00/hr** (Est. 2.0 hrs)
-- **Directive:** `LOW YIELD: Secondary priority at $25.00/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/hellotarkkalabs/victuro/issues/17)
-
-### Rohank143/BountyScout: 🎯 Bounty Alert: 6 New Opportunityies found
-- **Reward:** 60.0 USD (USD Value: **$60.00**)
-- **Agent ROI:** **$17.14/hr** (Est. 3.5 hrs)
-- **Directive:** `LOW YIELD: Secondary priority at $17.14/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/Rohank143/BountyScout/issues/2)
-
-### dev-kp-eloper/BountyScout: 🎯 Bounty Alert: 7 New Opportunityies found
-- **Reward:** 60.0 USD (USD Value: **$60.00**)
-- **Agent ROI:** **$17.14/hr** (Est. 3.5 hrs)
-- **Directive:** `LOW YIELD: Secondary priority at $17.14/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/dev-kp-eloper/BountyScout/issues/1646)
+- **Target URL:** [Claim Bounty](https://github.com/abdulsalam-create/bounty-watch/issues/164)
 
 ### zhangjiayang6835-cyber/bounty-plaza: [Bounty] Задача: Дописать тесты
 - **Reward:** 50.0 USD (USD Value: **$50.00**)
@@ -145,9 +151,3 @@
 - **Agent ROI:** **$14.29/hr** (Est. 3.5 hrs)
 - **Directive:** `LOW YIELD: Secondary priority at $14.29/hr.`
 - **Target URL:** [Claim Bounty](https://github.com/amiller/bounty-arcade/issues/8)
-
-### amiller/bounty-arcade: [puzzle] Deadlock detection for boxes stuck in corners
-- **Reward:** 50.0 USD (USD Value: **$50.00**)
-- **Agent ROI:** **$14.29/hr** (Est. 3.5 hrs)
-- **Directive:** `LOW YIELD: Secondary priority at $14.29/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/amiller/bounty-arcade/issues/7)
