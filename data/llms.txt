@@ -2,17 +2,17 @@
 > Live cross-referencing of open GitHub bounties and live cryptocurrency markets to calculate maximum USD/Hour ROI.
 
 ## Top High-Yield Targets
+### relayhop/sn-monetization-runtime: [radar] SN open bounty 2026-10-25T16:02
+- **Reward:** 2026.0 USD (USD Value: **$2,026.00**)
+- **Agent ROI:** **$1,013.00/hr** (Est. 2.0 hrs)
+- **Directive:** `EXECUTE: High-yield target at $1013.00/hr. Prioritize PR submission.`
+- **Target URL:** [Claim Bounty](https://github.com/relayhop/sn-monetization-runtime/issues/1329)
+
 ### relayhop/sn-monetization-runtime: [radar] SN open bounty 2026-10-24T10:49
 - **Reward:** 2026.0 USD (USD Value: **$2,026.00**)
 - **Agent ROI:** **$1,013.00/hr** (Est. 2.0 hrs)
 - **Directive:** `EXECUTE: High-yield target at $1013.00/hr. Prioritize PR submission.`
 - **Target URL:** [Claim Bounty](https://github.com/relayhop/sn-monetization-runtime/issues/1327)
-
-### airdropia/earn-ops: bounty digest 2026-10-25
-- **Reward:** 1000.0 USD (USD Value: **$1,000.00**)
-- **Agent ROI:** **$166.67/hr** (Est. 6.0 hrs)
-- **Directive:** `EXECUTE: High-yield target at $166.67/hr. Prioritize PR submission.`
-- **Target URL:** [Claim Bounty](https://github.com/airdropia/earn-ops/issues/14)
 
 ### alfrexo95/bounty-bot: 💰 Bounty Seguro ($$100): 💰 Bounty Seguro ($$100): [Bounty] 💰 Bounty Seguro 
 - **Reward:** 100.0 USD (USD Value: **$100.00**)
@@ -20,29 +20,17 @@
 - **Directive:** `STANDARD: Profitable target at $50.00/hr. Queue for execution.`
 - **Target URL:** [Claim Bounty](https://github.com/alfrexo95/bounty-bot/issues/28)
 
-### alfrexo95/bounty-bot: 💰 Bounty Seguro ($$100): [Bounty] 💰 Bounty Seguro ($$100): [Bounty] USDC-qu
-- **Reward:** 100.0 USD (USD Value: **$100.00**)
-- **Agent ROI:** **$50.00/hr** (Est. 2.0 hrs)
-- **Directive:** `STANDARD: Profitable target at $50.00/hr. Queue for execution.`
-- **Target URL:** [Claim Bounty](https://github.com/alfrexo95/bounty-bot/issues/27)
-
 ### zhangjiayang6835-cyber/bounty-plaza: [Bounty] 💰 Bounty Seguro ($$100): 💰 Bounty Seguro ($$100): [Bounty] 💰 Bounty Seguro 
 - **Reward:** 100.0 USD (USD Value: **$100.00**)
 - **Agent ROI:** **$28.57/hr** (Est. 3.5 hrs)
 - **Directive:** `LOW YIELD: Secondary priority at $28.57/hr.`
 - **Target URL:** [Claim Bounty](https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4110)
 
-### zhangjiayang6835-cyber/bounty-plaza: [Bounty] 💰 Bounty Seguro ($$100): [Bounty] USDC-quoted pairs not having the correct 
-- **Reward:** 100.0 USD (USD Value: **$100.00**)
-- **Agent ROI:** **$28.57/hr** (Est. 3.5 hrs)
-- **Directive:** `LOW YIELD: Secondary priority at $28.57/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4109)
-
-### freedom-winds/BountyScout: 🎯 Bounty Alert: 8 New Opportunityies found
-- **Reward:** 100.0 USD (USD Value: **$100.00**)
-- **Agent ROI:** **$28.57/hr** (Est. 3.5 hrs)
-- **Directive:** `LOW YIELD: Secondary priority at $28.57/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/freedom-winds/BountyScout/issues/1315)
+### alfrexo95/bounty-bot: 💰 Bounty Seguro (Ver enlace): 💰 Bounty Seguro (Ver enlace): 💰 Bounty Seguro (Ver
+- **Reward:** 50.0 USD (USD Value: **$50.00**)
+- **Agent ROI:** **$25.00/hr** (Est. 2.0 hrs)
+- **Directive:** `LOW YIELD: Secondary priority at $25.00/hr.`
+- **Target URL:** [Claim Bounty](https://github.com/alfrexo95/bounty-bot/issues/42)
 
 ### alfrexo95/bounty-bot: 💰 Bounty Seguro (Ver enlace): 💰 Bounty Seguro (Ver enlace): 💰 Bounty Seguro (Ver
 - **Reward:** 50.0 USD (USD Value: **$50.00**)
@@ -62,65 +50,23 @@
 - **Directive:** `LOW YIELD: Secondary priority at $25.00/hr.`
 - **Target URL:** [Claim Bounty](https://github.com/alfrexo95/bounty-bot/issues/30)
 
+### 57H07/dcs-retribution: CSAR-01.11: Optional bounty for a successful rescue
+- **Reward:** 50.0 USD (USD Value: **$50.00**)
+- **Agent ROI:** **$25.00/hr** (Est. 2.0 hrs)
+- **Directive:** `LOW YIELD: Secondary priority at $25.00/hr.`
+- **Target URL:** [Claim Bounty](https://github.com/57H07/dcs-retribution/issues/15)
+
+### Kaan6606/bounty-bot-workspace: Scan and solve open bounties
+- **Reward:** 50.0 USD (USD Value: **$50.00**)
+- **Agent ROI:** **$25.00/hr** (Est. 2.0 hrs)
+- **Directive:** `LOW YIELD: Secondary priority at $25.00/hr.`
+- **Target URL:** [Claim Bounty](https://github.com/Kaan6606/bounty-bot-workspace/issues/1)
+
 ### HoangTu910/mc-server-plugin: [Feature] Inter-City Caravan Trade Delivery & Escort Bounties
 - **Reward:** 50.0 USD (USD Value: **$50.00**)
 - **Agent ROI:** **$25.00/hr** (Est. 2.0 hrs)
 - **Directive:** `LOW YIELD: Secondary priority at $25.00/hr.`
 - **Target URL:** [Claim Bounty](https://github.com/HoangTu910/mc-server-plugin/issues/30)
-
-### abdulsalam-create/bounty-watch: Scope digest 2026-10-25: 1 changes across 1 bounty programs
-- **Reward:** 50.0 USD (USD Value: **$50.00**)
-- **Agent ROI:** **$25.00/hr** (Est. 2.0 hrs)
-- **Directive:** `LOW YIELD: Secondary priority at $25.00/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/abdulsalam-create/bounty-watch/issues/171)
-
-### abdulsalam-create/bounty-watch: bounty-watch 2026-10-25: 0 new, 0 resumed, 4 watchlist changes
-- **Reward:** 50.0 USD (USD Value: **$50.00**)
-- **Agent ROI:** **$25.00/hr** (Est. 2.0 hrs)
-- **Directive:** `LOW YIELD: Secondary priority at $25.00/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/abdulsalam-create/bounty-watch/issues/170)
-
-### Aur-Dev-re/veille-jeux-retro: eBay Italie : Star Wars Bounty Hunter Nintendo Gamecube Starwars Attack Of The Clones Jango 
-- **Reward:** 50.0 USD (USD Value: **$50.00**)
-- **Agent ROI:** **$25.00/hr** (Est. 2.0 hrs)
-- **Directive:** `LOW YIELD: Secondary priority at $25.00/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/Aur-Dev-re/veille-jeux-retro/issues/93575)
-
-### ElieWoodward/gta-clipper: [clip 7] Bro put a bounty on anyone who calls him a twink 😭💀
-- **Reward:** 50.0 USD (USD Value: **$50.00**)
-- **Agent ROI:** **$25.00/hr** (Est. 2.0 hrs)
-- **Directive:** `LOW YIELD: Secondary priority at $25.00/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/ElieWoodward/gta-clipper/issues/31)
-
-### paraloom-labs/paraloom-core: [BOUNTY] Medium: Missing slash_validator and update_reputation instruction builders, discriminators, and derive_slashed_funds_vault in bridge::solana::instructions
-- **Reward:** 150.0 USD (USD Value: **$150.00**)
-- **Agent ROI:** **$25.00/hr** (Est. 6.0 hrs)
-- **Directive:** `LOW YIELD: Secondary priority at $25.00/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/paraloom-labs/paraloom-core/issues/1220)
-
-### paraloom-labs/paraloom-core: [BOUNTY] Medium: Missing SPL asset instruction builders (deposit_note_spl, init_asset_vault, set_asset_deposit_cap, set_min_token_stake) and derive_asset_config in bridge::solana::instructions, breaking off-chain client & CLI SPL integration
-- **Reward:** 150.0 USD (USD Value: **$150.00**)
-- **Agent ROI:** **$25.00/hr** (Est. 6.0 hrs)
-- **Directive:** `LOW YIELD: Secondary priority at $25.00/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/paraloom-labs/paraloom-core/issues/1218)
-
-### abdulsalam-create/bounty-watch: bounty-watch 2026-10-25: 0 new, 0 resumed, 2 watchlist changes
-- **Reward:** 50.0 USD (USD Value: **$50.00**)
-- **Agent ROI:** **$25.00/hr** (Est. 2.0 hrs)
-- **Directive:** `LOW YIELD: Secondary priority at $25.00/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/abdulsalam-create/bounty-watch/issues/169)
-
-### paraloom-labs/paraloom-core: [BOUNTY] Medium: Unchecked and Uninitialized Validator Token ATA in paraloom-cli validator register and register_validator causes runtime CPI deserialization failure (AccountNotInitialized) and silent gas burn for new validators
-- **Reward:** 150.0 USD (USD Value: **$150.00**)
-- **Agent ROI:** **$25.00/hr** (Est. 6.0 hrs)
-- **Directive:** `LOW YIELD: Secondary priority at $25.00/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/paraloom-labs/paraloom-core/issues/1215)
-
-### paraloom-labs/paraloom-core: [BOUNTY] Medium: Non-deterministic HashMap iteration in VoteTally::valid_voters diverges CoSignPayload quorum_validators ordering across nodes, causing settlement signature divergence and cosign_counts starvation
-- **Reward:** 150.0 USD (USD Value: **$150.00**)
-- **Agent ROI:** **$25.00/hr** (Est. 6.0 hrs)
-- **Directive:** `LOW YIELD: Secondary priority at $25.00/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/paraloom-labs/paraloom-core/issues/1213)
 
 ### doomsday-network/doom-pay: [ESCROW BOUNTY] ⚡ 1,000 wDOOM (Base Mainnet) — Test DoomPay 3-Line Checkout Session & Benchmark a Mining Share
 - **Reward:** 50.0 USD (USD Value: **$50.00**)
@@ -151,3 +97,57 @@
 - **Agent ROI:** **$14.29/hr** (Est. 3.5 hrs)
 - **Directive:** `LOW YIELD: Secondary priority at $14.29/hr.`
 - **Target URL:** [Claim Bounty](https://github.com/doomsday-network/cuda-gpu-miner/issues/1)
+
+### doomsday-network/doomsday: [ESCROW BOUNTY] ⭐ 750 DOOM ($wDOOM on Base) — Star All 4 Doomsday Network Repos & Mine 1+ Live Pool Share via mine_pool.py
+- **Reward:** 50.0 USD (USD Value: **$50.00**)
+- **Agent ROI:** **$14.29/hr** (Est. 3.5 hrs)
+- **Directive:** `LOW YIELD: Secondary priority at $14.29/hr.`
+- **Target URL:** [Claim Bounty](https://github.com/doomsday-network/doomsday/issues/30)
+
+### Rohank143/BountyScout: 🎯 Bounty Alert: 7 New Opportunityies found
+- **Reward:** 50.0 USD (USD Value: **$50.00**)
+- **Agent ROI:** **$14.29/hr** (Est. 3.5 hrs)
+- **Directive:** `LOW YIELD: Secondary priority at $14.29/hr.`
+- **Target URL:** [Claim Bounty](https://github.com/Rohank143/BountyScout/issues/14)
+
+### dev-kp-eloper/BountyScout: 🎯 Bounty Alert: 8 New Opportunityies found
+- **Reward:** 50.0 USD (USD Value: **$50.00**)
+- **Agent ROI:** **$14.29/hr** (Est. 3.5 hrs)
+- **Directive:** `LOW YIELD: Secondary priority at $14.29/hr.`
+- **Target URL:** [Claim Bounty](https://github.com/dev-kp-eloper/BountyScout/issues/1659)
+
+### paraspell/xcm-tools: [Bug bounty] Hydration dry-run bypasses minting due to unhandled currencyId shape in transform
+- **Reward:** 50.0 USD (USD Value: **$50.00**)
+- **Agent ROI:** **$8.33/hr** (Est. 6.0 hrs)
+- **Directive:** `LOW YIELD: Secondary priority at $8.33/hr.`
+- **Target URL:** [Claim Bounty](https://github.com/paraspell/xcm-tools/issues/2294)
+
+### paraloom-labs/paraloom-core: [BOUNTY] Medium: Approved slippage bound never transmitted to swap router — private swaps execute with no slippage enforcement (paraloom-wallet)
+- **Reward:** 50.0 USD (USD Value: **$50.00**)
+- **Agent ROI:** **$8.33/hr** (Est. 6.0 hrs)
+- **Directive:** `LOW YIELD: Secondary priority at $8.33/hr.`
+- **Target URL:** [Claim Bounty](https://github.com/paraloom-labs/paraloom-core/issues/1224)
+
+### freedom-winds/BountyScout: 🎯 Bounty Alert: 15 New Opportunityies found
+- **Reward:** 50.0 USD (USD Value: **$50.00**)
+- **Agent ROI:** **$8.33/hr** (Est. 6.0 hrs)
+- **Directive:** `LOW YIELD: Secondary priority at $8.33/hr.`
+- **Target URL:** [Claim Bounty](https://github.com/freedom-winds/BountyScout/issues/1319)
+
+### paraspell/xcm-tools: [Bug bounty] AssetHub swaps crash with unhandled RangeError (NaN BigInt) when slippagePct is omitted or invalid
+- **Reward:** 50.0 USD (USD Value: **$50.00**)
+- **Agent ROI:** **$8.33/hr** (Est. 6.0 hrs)
+- **Directive:** `LOW YIELD: Secondary priority at $8.33/hr.`
+- **Target URL:** [Claim Bounty](https://github.com/paraspell/xcm-tools/issues/2285)
+
+### paraspell/xcm-tools: [Bug bounty] XCM API silently strips isFeeAsset from multi-asset currency items, causing transfers to fail with Fee asset is required
+- **Reward:** 50.0 USD (USD Value: **$50.00**)
+- **Agent ROI:** **$8.33/hr** (Est. 6.0 hrs)
+- **Directive:** `LOW YIELD: Secondary priority at $8.33/hr.`
+- **Target URL:** [Claim Bounty](https://github.com/paraspell/xcm-tools/issues/2281)
+
+### paraspell/xcm-tools: [Bug bounty] Omitted slippagePct crashes AssetHub swaps with a raw NaN RangeError instead of a validation error
+- **Reward:** 50.0 USD (USD Value: **$50.00**)
+- **Agent ROI:** **$8.33/hr** (Est. 6.0 hrs)
+- **Directive:** `LOW YIELD: Secondary priority at $8.33/hr.`
+- **Target URL:** [Claim Bounty](https://github.com/paraspell/xcm-tools/issues/2280)
