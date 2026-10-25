@@ -8,47 +8,23 @@
 - **Directive:** `EXECUTE: High-yield target at $1013.00/hr. Prioritize PR submission.`
 - **Target URL:** [Claim Bounty](https://github.com/relayhop/sn-monetization-runtime/issues/1327)
 
-### relayhop/sn-monetization-runtime: [radar] SN open bounty 2026-10-22T19:11
-- **Reward:** 2026.0 USD (USD Value: **$2,026.00**)
-- **Agent ROI:** **$1,013.00/hr** (Est. 2.0 hrs)
-- **Directive:** `EXECUTE: High-yield target at $1013.00/hr. Prioritize PR submission.`
-- **Target URL:** [Claim Bounty](https://github.com/relayhop/sn-monetization-runtime/issues/1326)
+### Rohank143/BountyScout: 🎯 Bounty Alert: 8 New Opportunityies found
+- **Reward:** 200.0 USD (USD Value: **$200.00**)
+- **Agent ROI:** **$57.14/hr** (Est. 3.5 hrs)
+- **Directive:** `STANDARD: Profitable target at $57.14/hr. Queue for execution.`
+- **Target URL:** [Claim Bounty](https://github.com/Rohank143/BountyScout/issues/10)
 
-### SecureBananaLabs/bug-bounty: [Bounty #743] Validate /api/upload files and reject missing or dangerous uploads
-- **Reward:** 700.0 USD (USD Value: **$700.00**)
-- **Agent ROI:** **$200.00/hr** (Est. 3.5 hrs)
-- **Directive:** `EXECUTE: High-yield target at $200.00/hr. Prioritize PR submission.`
-- **Target URL:** [Claim Bounty](https://github.com/SecureBananaLabs/bug-bounty/issues/13806)
+### dev-kp-eloper/BountyScout: 🎯 Bounty Alert: 7 New Opportunityies found
+- **Reward:** 200.0 USD (USD Value: **$200.00**)
+- **Agent ROI:** **$57.14/hr** (Est. 3.5 hrs)
+- **Directive:** `STANDARD: Profitable target at $57.14/hr. Queue for execution.`
+- **Target URL:** [Claim Bounty](https://github.com/dev-kp-eloper/BountyScout/issues/1655)
 
-### SecureBananaLabs/bug-bounty: [Bounty #743] Validate /api/users payload before persistence
-- **Reward:** 700.0 USD (USD Value: **$700.00**)
-- **Agent ROI:** **$200.00/hr** (Est. 3.5 hrs)
-- **Directive:** `EXECUTE: High-yield target at $200.00/hr. Prioritize PR submission.`
-- **Target URL:** [Claim Bounty](https://github.com/SecureBananaLabs/bug-bounty/issues/13802)
-
-### SecureBananaLabs/bug-bounty: [Bounty #743] Validate /api/notifications payload before persistence
-- **Reward:** 700.0 USD (USD Value: **$700.00**)
-- **Agent ROI:** **$200.00/hr** (Est. 3.5 hrs)
-- **Directive:** `EXECUTE: High-yield target at $200.00/hr. Prioritize PR submission.`
-- **Target URL:** [Claim Bounty](https://github.com/SecureBananaLabs/bug-bounty/issues/13787)
-
-### SecureBananaLabs/bug-bounty: [Bounty #743] Validate /api/messages payload before persistence
-- **Reward:** 700.0 USD (USD Value: **$700.00**)
-- **Agent ROI:** **$200.00/hr** (Est. 3.5 hrs)
-- **Directive:** `EXECUTE: High-yield target at $200.00/hr. Prioritize PR submission.`
-- **Target URL:** [Claim Bounty](https://github.com/SecureBananaLabs/bug-bounty/issues/13783)
-
-### SecureBananaLabs/bug-bounty: [Bounty #743] Validate /api/reviews payload before persistence
-- **Reward:** 700.0 USD (USD Value: **$700.00**)
-- **Agent ROI:** **$200.00/hr** (Est. 3.5 hrs)
-- **Directive:** `EXECUTE: High-yield target at $200.00/hr. Prioritize PR submission.`
-- **Target URL:** [Claim Bounty](https://github.com/SecureBananaLabs/bug-bounty/issues/13762)
-
-### habibdxb01/bounty-watcher: 📋 2 open bounties right now
-- **Reward:** 150.0 USD (USD Value: **$150.00**)
-- **Agent ROI:** **$75.00/hr** (Est. 2.0 hrs)
-- **Directive:** `STANDARD: Profitable target at $75.00/hr. Queue for execution.`
-- **Target URL:** [Claim Bounty](https://github.com/habibdxb01/bounty-watcher/issues/8)
+### freedom-winds/BountyScout: 🎯 Bounty Alert: 4 New Opportunityies found
+- **Reward:** 200.0 USD (USD Value: **$200.00**)
+- **Agent ROI:** **$57.14/hr** (Est. 3.5 hrs)
+- **Directive:** `STANDARD: Profitable target at $57.14/hr. Queue for execution.`
+- **Target URL:** [Claim Bounty](https://github.com/freedom-winds/BountyScout/issues/1313)
 
 ### alfrexo95/bounty-bot: 💰 Bounty Seguro ($$100): 💰 Bounty Seguro ($$100): [Bounty] 💰 Bounty Seguro 
 - **Reward:** 100.0 USD (USD Value: **$100.00**)
@@ -68,30 +44,6 @@
 - **Directive:** `STANDARD: Profitable target at $50.00/hr. Queue for execution.`
 - **Target URL:** [Claim Bounty](https://github.com/alfrexo95/bounty-bot/issues/21)
 
-### zhangjiayang6835-cyber/bounty-plaza: [Bounty] USDC-quoted pairs not having the correct marketcap displayed in tools
-- **Reward:** 100.0 USD (USD Value: **$100.00**)
-- **Agent ROI:** **$50.00/hr** (Est. 2.0 hrs)
-- **Directive:** `STANDARD: Profitable target at $50.00/hr. Queue for execution.`
-- **Target URL:** [Claim Bounty](https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4107)
-
-### blake-guthrie/GLASS: USDC-quoted pairs not having the correct marketcap displayed in tools
-- **Reward:** 100.0 USD (USD Value: **$100.00**)
-- **Agent ROI:** **$50.00/hr** (Est. 2.0 hrs)
-- **Directive:** `STANDARD: Profitable target at $50.00/hr. Queue for execution.`
-- **Target URL:** [Claim Bounty](https://github.com/blake-guthrie/GLASS/issues/1)
-
-### zhangjiayang6835-cyber/bounty-plaza: [Bounty] 📋 2 open bounties right now
-- **Reward:** 150.0 USD (USD Value: **$150.00**)
-- **Agent ROI:** **$42.86/hr** (Est. 3.5 hrs)
-- **Directive:** `STANDARD: Profitable target at $42.86/hr. Queue for execution.`
-- **Target URL:** [Claim Bounty](https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4080)
-
-### freedom-winds/BountyScout: 🎯 Bounty Alert: 11 New Opportunityies found
-- **Reward:** 200.0 USD (USD Value: **$200.00**)
-- **Agent ROI:** **$33.33/hr** (Est. 6.0 hrs)
-- **Directive:** `LOW YIELD: Secondary priority at $33.33/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/freedom-winds/BountyScout/issues/1312)
-
 ### zhangjiayang6835-cyber/bounty-plaza: [Bounty] 💰 Bounty Seguro ($$100): 💰 Bounty Seguro ($$100): [Bounty] 💰 Bounty Seguro 
 - **Reward:** 100.0 USD (USD Value: **$100.00**)
 - **Agent ROI:** **$28.57/hr** (Est. 3.5 hrs)
@@ -104,50 +56,98 @@
 - **Directive:** `LOW YIELD: Secondary priority at $28.57/hr.`
 - **Target URL:** [Claim Bounty](https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4109)
 
-### dev-kp-eloper/BountyScout: 🎯 Bounty Alert: 8 New Opportunityies found
-- **Reward:** 100.0 USD (USD Value: **$100.00**)
-- **Agent ROI:** **$28.57/hr** (Est. 3.5 hrs)
-- **Directive:** `LOW YIELD: Secondary priority at $28.57/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/dev-kp-eloper/BountyScout/issues/1654)
-
-### POD-io/Oblivion-ArchipelagoWorld: Necromancers in Howling Cave Bounty
+### alfrexo95/bounty-bot: 💰 Bounty Seguro (Ver enlace): 💰 Bounty Seguro (Ver enlace): [ESCROW BOUNTY] 🔌 2,
 - **Reward:** 50.0 USD (USD Value: **$50.00**)
 - **Agent ROI:** **$25.00/hr** (Est. 2.0 hrs)
 - **Directive:** `LOW YIELD: Secondary priority at $25.00/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/POD-io/Oblivion-ArchipelagoWorld/issues/3)
+- **Target URL:** [Claim Bounty](https://github.com/alfrexo95/bounty-bot/issues/31)
 
-### abdulsalam-create/bounty-watch: bounty-watch 2026-10-24: 0 new, 0 resumed, 2 watchlist changes
+### alfrexo95/bounty-bot: 💰 Bounty Seguro (Ver enlace): [ESCROW BOUNTY] 🔌 2,000 DOOM ($wDOOM on Base) — In
 - **Reward:** 50.0 USD (USD Value: **$50.00**)
 - **Agent ROI:** **$25.00/hr** (Est. 2.0 hrs)
 - **Directive:** `LOW YIELD: Secondary priority at $25.00/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/abdulsalam-create/bounty-watch/issues/167)
+- **Target URL:** [Claim Bounty](https://github.com/alfrexo95/bounty-bot/issues/30)
 
-### Rohank143/BountyScout: 🎯 Bounty Alert: 11 New Opportunityies found
-- **Reward:** 100.0 USD (USD Value: **$100.00**)
-- **Agent ROI:** **$16.67/hr** (Est. 6.0 hrs)
-- **Directive:** `LOW YIELD: Secondary priority at $16.67/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/Rohank143/BountyScout/issues/9)
+### abdulsalam-create/bounty-watch: bounty-watch 2026-10-25: 0 new, 0 resumed, 2 watchlist changes
+- **Reward:** 50.0 USD (USD Value: **$50.00**)
+- **Agent ROI:** **$25.00/hr** (Est. 2.0 hrs)
+- **Directive:** `LOW YIELD: Secondary priority at $25.00/hr.`
+- **Target URL:** [Claim Bounty](https://github.com/abdulsalam-create/bounty-watch/issues/169)
 
-### Rohank143/BountyScout: 🎯 Bounty Alert: 12 New Opportunityies found
-- **Reward:** 100.0 USD (USD Value: **$100.00**)
-- **Agent ROI:** **$16.67/hr** (Est. 6.0 hrs)
-- **Directive:** `LOW YIELD: Secondary priority at $16.67/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/Rohank143/BountyScout/issues/8)
+### paraloom-labs/paraloom-core: [BOUNTY] Medium: Unchecked and Uninitialized Validator Token ATA in paraloom-cli validator register and register_validator causes runtime CPI deserialization failure (AccountNotInitialized) and silent gas burn for new validators
+- **Reward:** 150.0 USD (USD Value: **$150.00**)
+- **Agent ROI:** **$25.00/hr** (Est. 6.0 hrs)
+- **Directive:** `LOW YIELD: Secondary priority at $25.00/hr.`
+- **Target URL:** [Claim Bounty](https://github.com/paraloom-labs/paraloom-core/issues/1215)
 
-### dev-kp-eloper/BountyScout: 🎯 Bounty Alert: 10 New Opportunityies found
-- **Reward:** 100.0 USD (USD Value: **$100.00**)
-- **Agent ROI:** **$16.67/hr** (Est. 6.0 hrs)
-- **Directive:** `LOW YIELD: Secondary priority at $16.67/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/dev-kp-eloper/BountyScout/issues/1653)
+### paraloom-labs/paraloom-core: [BOUNTY] Medium: Non-deterministic HashMap iteration in VoteTally::valid_voters diverges CoSignPayload quorum_validators ordering across nodes, causing settlement signature divergence and cosign_counts starvation
+- **Reward:** 150.0 USD (USD Value: **$150.00**)
+- **Agent ROI:** **$25.00/hr** (Est. 6.0 hrs)
+- **Directive:** `LOW YIELD: Secondary priority at $25.00/hr.`
+- **Target URL:** [Claim Bounty](https://github.com/paraloom-labs/paraloom-core/issues/1213)
 
-### freedom-winds/BountyScout: 🎯 Bounty Alert: 10 New Opportunityies found
-- **Reward:** 100.0 USD (USD Value: **$100.00**)
-- **Agent ROI:** **$16.67/hr** (Est. 6.0 hrs)
-- **Directive:** `LOW YIELD: Secondary priority at $16.67/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/freedom-winds/BountyScout/issues/1311)
+### bujiproject-art/agentmidasopendevteam: Availability inquiry: small fixed-price bounty and payout eligibility
+- **Reward:** 50.0 USD (USD Value: **$50.00**)
+- **Agent ROI:** **$25.00/hr** (Est. 2.0 hrs)
+- **Directive:** `LOW YIELD: Secondary priority at $25.00/hr.`
+- **Target URL:** [Claim Bounty](https://github.com/bujiproject-art/agentmidasopendevteam/issues/126)
+
+### ctm/mb2-doc: Tidy the copied set-up in the bounty and database tests
+- **Reward:** 50.0 USD (USD Value: **$50.00**)
+- **Agent ROI:** **$25.00/hr** (Est. 2.0 hrs)
+- **Directive:** `LOW YIELD: Secondary priority at $25.00/hr.`
+- **Target URL:** [Claim Bounty](https://github.com/ctm/mb2-doc/issues/2207)
 
 ### doomsday-network/doom-pay: [ESCROW BOUNTY] ⚡ 1,000 wDOOM (Base Mainnet) — Test DoomPay 3-Line Checkout Session & Benchmark a Mining Share
 - **Reward:** 50.0 USD (USD Value: **$50.00**)
 - **Agent ROI:** **$14.29/hr** (Est. 3.5 hrs)
 - **Directive:** `LOW YIELD: Secondary priority at $14.29/hr.`
 - **Target URL:** [Claim Bounty](https://github.com/doomsday-network/doom-pay/issues/1)
+
+### doomsday-network/web3-agent-skills: [ESCROW BOUNTY] ⚡ 1,000 DOOM ($wDOOM on Base) — Star All 5 Doomsday Repos, Test Remote MCP & Mine 1 Pool Share!
+- **Reward:** 50.0 USD (USD Value: **$50.00**)
+- **Agent ROI:** **$14.29/hr** (Est. 3.5 hrs)
+- **Directive:** `LOW YIELD: Secondary priority at $14.29/hr.`
+- **Target URL:** [Claim Bounty](https://github.com/doomsday-network/web3-agent-skills/issues/1)
+
+### doomsday-network/bounty-guard: [ESCROW BOUNTY] 🔌 2,000 DOOM ($wDOOM on Base) — Integrate BountyGuard Into Your Public Agent Repo or GitHub Action Workflow!
+- **Reward:** 50.0 USD (USD Value: **$50.00**)
+- **Agent ROI:** **$14.29/hr** (Est. 3.5 hrs)
+- **Directive:** `LOW YIELD: Secondary priority at $14.29/hr.`
+- **Target URL:** [Claim Bounty](https://github.com/doomsday-network/bounty-guard/issues/7)
+
+### doomsday-network/github-bounty-scanner: [ESCROW BOUNTY] 🛡️ 1,000 DOOM ($wDOOM on Base) — Star All 4 Doomsday Repos, Run scan_bounties.py & Mine 1 Pool Share!
+- **Reward:** 50.0 USD (USD Value: **$50.00**)
+- **Agent ROI:** **$14.29/hr** (Est. 3.5 hrs)
+- **Directive:** `LOW YIELD: Secondary priority at $14.29/hr.`
+- **Target URL:** [Claim Bounty](https://github.com/doomsday-network/github-bounty-scanner/issues/1)
+
+### doomsday-network/cuda-gpu-miner: [BOUNTY] ⚡ 1,000–2,500 DOOM ($wDOOM on Base) — Connect Your GPU or CPU Worker to the Live Mining Pool & Mine 1+ Share!
+- **Reward:** 50.0 USD (USD Value: **$50.00**)
+- **Agent ROI:** **$14.29/hr** (Est. 3.5 hrs)
+- **Directive:** `LOW YIELD: Secondary priority at $14.29/hr.`
+- **Target URL:** [Claim Bounty](https://github.com/doomsday-network/cuda-gpu-miner/issues/1)
+
+### doomsday-network/doomsday: [ESCROW BOUNTY] ⭐ 750 DOOM ($wDOOM on Base) — Star All 4 Doomsday Network Repos & Mine 1+ Live Pool Share via mine_pool.py
+- **Reward:** 50.0 USD (USD Value: **$50.00**)
+- **Agent ROI:** **$14.29/hr** (Est. 3.5 hrs)
+- **Directive:** `LOW YIELD: Secondary priority at $14.29/hr.`
+- **Target URL:** [Claim Bounty](https://github.com/doomsday-network/doomsday/issues/30)
+
+### travism26/frostmark: Grill me: a bounty board - short tasks per ring, no dialogue
+- **Reward:** 50.0 USD (USD Value: **$50.00**)
+- **Agent ROI:** **$14.29/hr** (Est. 3.5 hrs)
+- **Directive:** `LOW YIELD: Secondary priority at $14.29/hr.`
+- **Target URL:** [Claim Bounty](https://github.com/travism26/frostmark/issues/137)
+
+### ProSkillsMD/proskills: [Candidate] doomsday-network/bounty-guard/skills/bounty-guard - bounty-guard
+- **Reward:** 50.0 USD (USD Value: **$50.00**)
+- **Agent ROI:** **$14.29/hr** (Est. 3.5 hrs)
+- **Directive:** `LOW YIELD: Secondary priority at $14.29/hr.`
+- **Target URL:** [Claim Bounty](https://github.com/ProSkillsMD/proskills/issues/10007)
+
+### abdulsalam-create/bounty-watch: bounty-watch 2026-10-24: 0 new, 0 resumed, 4 watchlist changes
+- **Reward:** 50.0 USD (USD Value: **$50.00**)
+- **Agent ROI:** **$14.29/hr** (Est. 3.5 hrs)
+- **Directive:** `LOW YIELD: Secondary priority at $14.29/hr.`
+- **Target URL:** [Claim Bounty](https://github.com/abdulsalam-create/bounty-watch/issues/168)
