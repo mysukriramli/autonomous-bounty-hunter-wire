@@ -2,6 +2,12 @@
 > Live cross-referencing of open GitHub bounties and live cryptocurrency markets to calculate maximum USD/Hour ROI.
 
 ## Top High-Yield Targets
+### relayhop/sn-monetization-runtime: [radar] SN open bounty 2026-10-26T19:11
+- **Reward:** 2026.0 USD (USD Value: **$2,026.00**)
+- **Agent ROI:** **$1,013.00/hr** (Est. 2.0 hrs)
+- **Directive:** `EXECUTE: High-yield target at $1013.00/hr. Prioritize PR submission.`
+- **Target URL:** [Claim Bounty](https://github.com/relayhop/sn-monetization-runtime/issues/1340)
+
 ### relayhop/sn-monetization-runtime: [radar] SN open bounty 2026-10-26T12:48
 - **Reward:** 2026.0 USD (USD Value: **$2,026.00**)
 - **Agent ROI:** **$1,013.00/hr** (Est. 2.0 hrs)
@@ -44,17 +50,17 @@
 - **Directive:** `EXECUTE: High-yield target at $1013.00/hr. Prioritize PR submission.`
 - **Target URL:** [Claim Bounty](https://github.com/relayhop/sn-monetization-runtime/issues/1329)
 
-### airdropia/earn-ops: bounty digest 2026-10-26
-- **Reward:** 1000.0 USD (USD Value: **$1,000.00**)
-- **Agent ROI:** **$166.67/hr** (Est. 6.0 hrs)
-- **Directive:** `EXECUTE: High-yield target at $166.67/hr. Prioritize PR submission.`
-- **Target URL:** [Claim Bounty](https://github.com/airdropia/earn-ops/issues/18)
+### alfrexo95/bounty-bot: 💰 Bounty Seguro (Ver enlace): 🪙 [Web3] feat(mobile): add offline storage and que
+- **Reward:** 50.0 USD (USD Value: **$50.00**)
+- **Agent ROI:** **$25.00/hr** (Est. 2.0 hrs)
+- **Directive:** `LOW YIELD: Secondary priority at $25.00/hr.`
+- **Target URL:** [Claim Bounty](https://github.com/alfrexo95/bounty-bot/issues/48)
 
-### Rohank143/BountyScout: 🎯 Bounty Alert: 7 New Opportunityies found
-- **Reward:** 500.0 USD (USD Value: **$500.00**)
-- **Agent ROI:** **$142.86/hr** (Est. 3.5 hrs)
-- **Directive:** `EXECUTE: High-yield target at $142.86/hr. Prioritize PR submission.`
-- **Target URL:** [Claim Bounty](https://github.com/Rohank143/BountyScout/issues/20)
+### alfrexo95/bounty-bot: 🪙 [Web3] feat(mobile): add offline storage and queue sync f
+- **Reward:** 50.0 USD (USD Value: **$50.00**)
+- **Agent ROI:** **$25.00/hr** (Est. 2.0 hrs)
+- **Directive:** `LOW YIELD: Secondary priority at $25.00/hr.`
+- **Target URL:** [Claim Bounty](https://github.com/alfrexo95/bounty-bot/issues/47)
 
 ### alfrexo95/bounty-bot: 💰 Bounty Seguro (Ver enlace): feat(mobile): add offline storage and queue sync f
 - **Reward:** 50.0 USD (USD Value: **$50.00**)
@@ -98,23 +104,17 @@
 - **Directive:** `LOW YIELD: Secondary priority at $25.00/hr.`
 - **Target URL:** [Claim Bounty](https://github.com/alfrexo95/bounty-bot/issues/31)
 
-### alfrexo95/bounty-bot: 💰 Bounty Seguro (Ver enlace): [ESCROW BOUNTY] 🔌 2,000 DOOM ($wDOOM on Base) — In
-- **Reward:** 50.0 USD (USD Value: **$50.00**)
-- **Agent ROI:** **$25.00/hr** (Est. 2.0 hrs)
-- **Directive:** `LOW YIELD: Secondary priority at $25.00/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/alfrexo95/bounty-bot/issues/30)
-
 ### abdulsalam-create/bounty-watch: Scope digest 2026-10-26: 1 changes across 1 bounty programs
 - **Reward:** 50.0 USD (USD Value: **$50.00**)
 - **Agent ROI:** **$25.00/hr** (Est. 2.0 hrs)
 - **Directive:** `LOW YIELD: Secondary priority at $25.00/hr.`
 - **Target URL:** [Claim Bounty](https://github.com/abdulsalam-create/bounty-watch/issues/176)
 
-### agile-students-fall2026/generic-mern-stack-project-bounty: Create bounty choice screen
+### Ikalus1988/MisakaNet: [Good first issue · Oct 26 – Nov 26] Bring one real failure — we'll help turn it into a lesson
 - **Reward:** 50.0 USD (USD Value: **$50.00**)
-- **Agent ROI:** **$25.00/hr** (Est. 2.0 hrs)
-- **Directive:** `LOW YIELD: Secondary priority at $25.00/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/agile-students-fall2026/generic-mern-stack-project-bounty/issues/55)
+- **Agent ROI:** **$14.29/hr** (Est. 3.5 hrs)
+- **Directive:** `LOW YIELD: Secondary priority at $14.29/hr.`
+- **Target URL:** [Claim Bounty](https://github.com/Ikalus1988/MisakaNet/issues/3901)
 
 ### riteshbonthalakoti/HELPDESK.AI: feat(mobile): add offline storage and queue sync for ticket drafts using AsyncStorage
 - **Reward:** 50.0 USD (USD Value: **$50.00**)
@@ -122,32 +122,32 @@
 - **Directive:** `LOW YIELD: Secondary priority at $14.29/hr.`
 - **Target URL:** [Claim Bounty](https://github.com/riteshbonthalakoti/HELPDESK.AI/issues/4092)
 
-### abdulsalam-create/bounty-watch: bounty-watch 2026-10-26: 0 new, 4 resumed, 4 watchlist changes
+### abdulsalam-create/bounty-watch: bounty-watch 2026-10-26: 0 new, 0 resumed, 6 watchlist changes
 - **Reward:** 50.0 USD (USD Value: **$50.00**)
 - **Agent ROI:** **$14.29/hr** (Est. 3.5 hrs)
 - **Directive:** `LOW YIELD: Secondary priority at $14.29/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/abdulsalam-create/bounty-watch/issues/175)
+- **Target URL:** [Claim Bounty](https://github.com/abdulsalam-create/bounty-watch/issues/177)
 
-### jdhart81/viridis-canon: Theorem bounty: current availability and reference scope
+### jdhart81/viridis-canon: [bounty] Run-123: C1 maps KL decomposition to a definitional ledger identity
 - **Reward:** 50.0 USD (USD Value: **$50.00**)
 - **Agent ROI:** **$14.29/hr** (Est. 3.5 hrs)
 - **Directive:** `LOW YIELD: Secondary priority at $14.29/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/jdhart81/viridis-canon/issues/148)
+- **Target URL:** [Claim Bounty](https://github.com/jdhart81/viridis-canon/issues/149)
 
-### jdhart81/viridis-canon: [bounty] Run-127: abstract reverses the event in cantelli_capacity_certificate
+### FuRongJun-1999/dsh-bounty: [修复交付] dsh-bounty #1794–#1800 报告的七处缺陷已由本人修复并合入 lingshu main，附证据链，提请结算
 - **Reward:** 50.0 USD (USD Value: **$50.00**)
 - **Agent ROI:** **$14.29/hr** (Est. 3.5 hrs)
 - **Directive:** `LOW YIELD: Secondary priority at $14.29/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/jdhart81/viridis-canon/issues/146)
+- **Target URL:** [Claim Bounty](https://github.com/FuRongJun-1999/dsh-bounty/issues/1830)
 
-### Rohank143/BountyScout: 🎯 Bounty Alert: 9 New Opportunityies found
+### anthropics/claude-code: [Bug] Cyber Safeguard False Positive Blocks Authorized Bug Bounty Testing
 - **Reward:** 50.0 USD (USD Value: **$50.00**)
 - **Agent ROI:** **$14.29/hr** (Est. 3.5 hrs)
 - **Directive:** `LOW YIELD: Secondary priority at $14.29/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/Rohank143/BountyScout/issues/22)
+- **Target URL:** [Claim Bounty](https://github.com/anthropics/claude-code/issues/105287)
 
-### dev-kp-eloper/BountyScout: 🎯 Bounty Alert: 5 New Opportunityies found
+### z0r0z/tacit: Security report acknowledged and fixed, but bounty review is still unanswered
 - **Reward:** 50.0 USD (USD Value: **$50.00**)
 - **Agent ROI:** **$14.29/hr** (Est. 3.5 hrs)
 - **Directive:** `LOW YIELD: Secondary priority at $14.29/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/dev-kp-eloper/BountyScout/issues/1672)
+- **Target URL:** [Claim Bounty](https://github.com/z0r0z/tacit/issues/65)
