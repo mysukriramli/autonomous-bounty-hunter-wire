@@ -1,15 +1,39 @@
 {
   "metadata": {
-    "generated_at": "2026-10-27T05:33:03.551968+00:00",
+    "generated_at": "2026-10-27T12:38:41.347578+00:00",
     "data_sources": [
       "GitHub Search API",
       "CoinGecko V3 API",
       "Semantic Extraction"
     ],
-    "total_bounties_indexed": 39,
+    "total_bounties_indexed": 37,
     "schema_version": "1.0.0"
   },
   "bounty_targets": [
+    {
+      "issue_url": "https://github.com/relayhop/sn-monetization-runtime/issues/1344",
+      "repository": "relayhop/sn-monetization-runtime",
+      "title": "[radar] SN open bounty 2026-10-27T12:01",
+      "raw_reward_currency": "USD",
+      "raw_reward_amount": 2026.0,
+      "estimated_hours_to_solve": 2.0,
+      "live_usd_exchange_rate": 1.0,
+      "total_usd_value": 2026.0,
+      "roi_usd_per_hour": 1013.0,
+      "agent_directive": "EXECUTE: High-yield target at $1013.00/hr. Prioritize PR submission."
+    },
+    {
+      "issue_url": "https://github.com/relayhop/sn-monetization-runtime/issues/1343",
+      "repository": "relayhop/sn-monetization-runtime",
+      "title": "[radar] SN open bounty 2026-10-27T10:25",
+      "raw_reward_currency": "USD",
+      "raw_reward_amount": 2026.0,
+      "estimated_hours_to_solve": 2.0,
+      "live_usd_exchange_rate": 1.0,
+      "total_usd_value": 2026.0,
+      "roi_usd_per_hour": 1013.0,
+      "agent_directive": "EXECUTE: High-yield target at $1013.00/hr. Prioritize PR submission."
+    },
     {
       "issue_url": "https://github.com/relayhop/sn-monetization-runtime/issues/1342",
       "repository": "relayhop/sn-monetization-runtime",
@@ -35,16 +59,52 @@
       "agent_directive": "EXECUTE: High-yield target at $1013.00/hr. Prioritize PR submission."
     },
     {
-      "issue_url": "https://github.com/Rohank143/BountyScout/issues/25",
+      "issue_url": "https://github.com/Rohank143/BountyScout/issues/26",
       "repository": "Rohank143/BountyScout",
-      "title": "\ud83c\udfaf Bounty Alert: 7 New Opportunityies found",
+      "title": "\ud83c\udfaf Bounty Alert: 11 New Opportunityies found",
       "raw_reward_currency": "USD",
       "raw_reward_amount": 2026.0,
-      "estimated_hours_to_solve": 3.5,
+      "estimated_hours_to_solve": 6.0,
       "live_usd_exchange_rate": 1.0,
       "total_usd_value": 2026.0,
-      "roi_usd_per_hour": 578.86,
-      "agent_directive": "EXECUTE: High-yield target at $578.86/hr. Prioritize PR submission."
+      "roi_usd_per_hour": 337.67,
+      "agent_directive": "EXECUTE: High-yield target at $337.67/hr. Prioritize PR submission."
+    },
+    {
+      "issue_url": "https://github.com/freedom-winds/BountyScout/issues/1334",
+      "repository": "freedom-winds/BountyScout",
+      "title": "\ud83c\udfaf Bounty Alert: 9 New Opportunityies found",
+      "raw_reward_currency": "USD",
+      "raw_reward_amount": 2026.0,
+      "estimated_hours_to_solve": 6.0,
+      "live_usd_exchange_rate": 1.0,
+      "total_usd_value": 2026.0,
+      "roi_usd_per_hour": 337.67,
+      "agent_directive": "EXECUTE: High-yield target at $337.67/hr. Prioritize PR submission."
+    },
+    {
+      "issue_url": "https://github.com/airdropia/earn-ops/issues/20",
+      "repository": "airdropia/earn-ops",
+      "title": "bounty digest 2026-10-27",
+      "raw_reward_currency": "USD",
+      "raw_reward_amount": 1000.0,
+      "estimated_hours_to_solve": 6.0,
+      "live_usd_exchange_rate": 1.0,
+      "total_usd_value": 1000.0,
+      "roi_usd_per_hour": 166.67,
+      "agent_directive": "EXECUTE: High-yield target at $166.67/hr. Prioritize PR submission."
+    },
+    {
+      "issue_url": "https://github.com/alfrexo95/bounty-bot/issues/50",
+      "repository": "alfrexo95/bounty-bot",
+      "title": "\ud83d\udcb0 Bounty Seguro (Ver enlace): \ud83d\udcb0 Bounty Seguro (Ver enlace): \ud83d\udcb0 Bounty Seguro (Ver",
+      "raw_reward_currency": "USD",
+      "raw_reward_amount": 50.0,
+      "estimated_hours_to_solve": 2.0,
+      "live_usd_exchange_rate": 1.0,
+      "total_usd_value": 50.0,
+      "roi_usd_per_hour": 25.0,
+      "agent_directive": "LOW YIELD: Secondary priority at $25.00/hr."
     },
     {
       "issue_url": "https://github.com/alfrexo95/bounty-bot/issues/49",
@@ -59,9 +119,9 @@
       "agent_directive": "LOW YIELD: Secondary priority at $25.00/hr."
     },
     {
-      "issue_url": "https://github.com/agile-students-fall2026/generic-mern-stack-project-bounty/issues/70",
-      "repository": "agile-students-fall2026/generic-mern-stack-project-bounty",
-      "title": "As someone who found an item, I want to receive a specific notification when someone has chosen to give me a bounty so that I can check my reward quickly",
+      "issue_url": "https://github.com/abdulsalam-create/bounty-watch/issues/180",
+      "repository": "abdulsalam-create/bounty-watch",
+      "title": "Scope digest 2026-10-27: 1 changes across 1 bounty programs",
       "raw_reward_currency": "USD",
       "raw_reward_amount": 50.0,
       "estimated_hours_to_solve": 2.0,
@@ -71,9 +131,9 @@
       "agent_directive": "LOW YIELD: Secondary priority at $25.00/hr."
     },
     {
-      "issue_url": "https://github.com/paraloom-labs/paraloom-wallet/issues/121",
+      "issue_url": "https://github.com/paraloom-labs/paraloom-wallet/issues/133",
       "repository": "paraloom-labs/paraloom-wallet",
-      "title": "[BOUNTY] Medium: submitTransact casts 64-bit extAmount to JavaScript Number, causing IEEE-754 precision loss and ingress proof verification rejection (paraloom-wallet)",
+      "title": "[BOUNTY] Medium: buildDepositInstruction omits merkle_tree PDA account and uses obsolete DEPOSIT_DISCRIMINATOR, causing 100% on-chain InstructionFallbackNotFound or AccountNotEnoughKeys reverts on SOL deposits (paraloom-wallet)",
       "raw_reward_currency": "USD",
       "raw_reward_amount": 150.0,
       "estimated_hours_to_solve": 6.0,
@@ -83,9 +143,9 @@
       "agent_directive": "LOW YIELD: Secondary priority at $25.00/hr."
     },
     {
-      "issue_url": "https://github.com/paraloom-labs/paraloom-wallet/issues/119",
+      "issue_url": "https://github.com/paraloom-labs/paraloom-wallet/issues/128",
       "repository": "paraloom-labs/paraloom-wallet",
-      "title": "[BOUNTY] Medium: Uncaught exception in v3NoteCommitment/v3NoteCommitmentAsset halts scanForNotes loop and drops subsequent feed notes (paraloom-wallet)",
+      "title": "[BOUNTY] Medium: transfer.ts prematurely marks input notes spent on queue acceptance without settlement confirmation and ignores root skew between input Merkle paths (paraloom-wallet)",
       "raw_reward_currency": "USD",
       "raw_reward_amount": 150.0,
       "estimated_hours_to_solve": 6.0,
@@ -95,9 +155,9 @@
       "agent_directive": "LOW YIELD: Secondary priority at $25.00/hr."
     },
     {
-      "issue_url": "https://github.com/paraloom-labs/paraloom-wallet/issues/118",
+      "issue_url": "https://github.com/paraloom-labs/paraloom-wallet/issues/127",
       "repository": "paraloom-labs/paraloom-wallet",
-      "title": "[BOUNTY] Medium: transfer.ts casts 64-bit note amounts to JavaScript Number, causing IEEE-754 precision loss and unspendable notes on large transfers (paraloom-wallet)",
+      "title": "[BOUNTY] Medium: routeSwap and swapReconcile cast 64-bit bigint amounts to JavaScript Number, causing IEEE-754 precision loss, InsufficientFunds revert on swap routing, and unverified transaction error status in landed recovery (paraloom-wallet)",
       "raw_reward_currency": "USD",
       "raw_reward_amount": 150.0,
       "estimated_hours_to_solve": 6.0,
@@ -107,9 +167,9 @@
       "agent_directive": "LOW YIELD: Secondary priority at $25.00/hr."
     },
     {
-      "issue_url": "https://github.com/paraloom-labs/paraloom-wallet/issues/117",
-      "repository": "paraloom-labs/paraloom-wallet",
-      "title": "[BOUNTY] Medium: depositSpl ignores confirmBySignatureStatus timeout result, causing phantom note creation and stranded tokens on dropped deposits (paraloom-wallet)",
+      "issue_url": "https://github.com/paraloom-labs/paraloom-core/issues/1242",
+      "repository": "paraloom-labs/paraloom-core",
+      "title": "[BOUNTY] Medium: paraloom validator withdraw-unbonded omits idempotent ATA creation, causing AccountNotInitialized failure and freezing unbonded SOL/token withdrawal (paraloom-core)",
       "raw_reward_currency": "USD",
       "raw_reward_amount": 150.0,
       "estimated_hours_to_solve": 6.0,
@@ -119,14 +179,14 @@
       "agent_directive": "LOW YIELD: Secondary priority at $25.00/hr."
     },
     {
-      "issue_url": "https://github.com/paraloom-labs/paraloom-wallet/issues/116",
-      "repository": "paraloom-labs/paraloom-wallet",
-      "title": "[BOUNTY] High: spendV3 and transfer omit shielded address checksum validation, allowing typo-induced unspendable note creation and fund loss (paraloom-wallet)",
+      "issue_url": "https://github.com/deepakA18/gitpay-demo-http/issues/1",
+      "repository": "deepakA18/gitpay-demo-http",
+      "title": "[GitPay Phase 01 demo] Unfunded bounty workflow",
       "raw_reward_currency": "USD",
-      "raw_reward_amount": 150.0,
-      "estimated_hours_to_solve": 6.0,
+      "raw_reward_amount": 50.0,
+      "estimated_hours_to_solve": 2.0,
       "live_usd_exchange_rate": 1.0,
-      "total_usd_value": 150.0,
+      "total_usd_value": 50.0,
       "roi_usd_per_hour": 25.0,
       "agent_directive": "LOW YIELD: Secondary priority at $25.00/hr."
     },
@@ -299,45 +359,9 @@
       "agent_directive": "LOW YIELD: Secondary priority at $14.29/hr."
     },
     {
-      "issue_url": "https://github.com/hanzoai/orm/issues/7",
-      "repository": "hanzoai/orm",
-      "title": "Fix the README docs link and complete the Packages table",
-      "raw_reward_currency": "USD",
-      "raw_reward_amount": 50.0,
-      "estimated_hours_to_solve": 3.5,
-      "live_usd_exchange_rate": 1.0,
-      "total_usd_value": 50.0,
-      "roi_usd_per_hour": 14.29,
-      "agent_directive": "LOW YIELD: Secondary priority at $14.29/hr."
-    },
-    {
-      "issue_url": "https://github.com/hanzoai/orm/issues/6",
-      "repository": "hanzoai/orm",
-      "title": "Fix the README Validation example: val.NewValidator does not exist",
-      "raw_reward_currency": "USD",
-      "raw_reward_amount": 50.0,
-      "estimated_hours_to_solve": 3.5,
-      "live_usd_exchange_rate": 1.0,
-      "total_usd_value": 50.0,
-      "roi_usd_per_hour": 14.29,
-      "agent_directive": "LOW YIELD: Secondary priority at $14.29/hr."
-    },
-    {
-      "issue_url": "https://github.com/hanzoai/sqlite/issues/4",
-      "repository": "hanzoai/sqlite",
-      "title": "Add tests for the Option constructors and DB.Encrypted",
-      "raw_reward_currency": "USD",
-      "raw_reward_amount": 50.0,
-      "estimated_hours_to_solve": 3.5,
-      "live_usd_exchange_rate": 1.0,
-      "total_usd_value": 50.0,
-      "roi_usd_per_hour": 14.29,
-      "agent_directive": "LOW YIELD: Secondary priority at $14.29/hr."
-    },
-    {
-      "issue_url": "https://github.com/abdulsalam-create/bounty-watch/issues/178",
+      "issue_url": "https://github.com/abdulsalam-create/bounty-watch/issues/179",
       "repository": "abdulsalam-create/bounty-watch",
-      "title": "bounty-watch 2026-10-27: 0 new, 1 resumed, 4 watchlist changes",
+      "title": "bounty-watch 2026-10-27: 0 new, 0 resumed, 4 watchlist changes",
       "raw_reward_currency": "USD",
       "raw_reward_amount": 50.0,
       "estimated_hours_to_solve": 3.5,
@@ -347,9 +371,9 @@
       "agent_directive": "LOW YIELD: Secondary priority at $14.29/hr."
     },
     {
-      "issue_url": "https://github.com/jdhart81/viridis-canon/issues/160",
-      "repository": "jdhart81/viridis-canon",
-      "title": "[theorem bounty] Run-125: witness_top_subspace_mean_cost omits the expected-cost minimization conjunct of C5, and witness_worstcase_deadline omits the budget-to-deadline implication of C4",
+      "issue_url": "https://github.com/paraloom-labs/paraloom-core/issues/1244",
+      "repository": "paraloom-labs/paraloom-core",
+      "title": "[BOUNTY] High: Node::record_delivered_notes deduplicates by (output_commitment && ciphertext), allowing 50,000-note scan feed eviction via mutated ciphertexts",
       "raw_reward_currency": "USD",
       "raw_reward_amount": 50.0,
       "estimated_hours_to_solve": 3.5,
@@ -359,9 +383,9 @@
       "agent_directive": "LOW YIELD: Secondary priority at $14.29/hr."
     },
     {
-      "issue_url": "https://github.com/jdhart81/viridis-canon/issues/158",
-      "repository": "jdhart81/viridis-canon",
-      "title": "[theorem bounty] Run-133 C5: `additive_shared_cost_saving` restates its hypothesis",
+      "issue_url": "https://github.com/paraloom-labs/paraloom-prover-wasm/issues/17",
+      "repository": "paraloom-labs/paraloom-prover-wasm",
+      "title": "[BOUNTY] High: prove_transact (v3) omits output_commitments and input_commitments collision checks, permanently stranding note balances",
       "raw_reward_currency": "USD",
       "raw_reward_amount": 50.0,
       "estimated_hours_to_solve": 3.5,
@@ -371,9 +395,9 @@
       "agent_directive": "LOW YIELD: Secondary priority at $14.29/hr."
     },
     {
-      "issue_url": "https://github.com/jdhart81/viridis-canon/issues/157",
-      "repository": "jdhart81/viridis-canon",
-      "title": "[theorem bounty] Run-137: `symbiotic_allocation_attains` omits feasibility from the formalized attainment claim",
+      "issue_url": "https://github.com/commonworld-one/commonworld/issues/175",
+      "repository": "commonworld-one/commonworld",
+      "title": "[Bug bounty] GET /v1/posts: `author` filter is case-insensitive but `section` and `tag` are case-sensitive (silently return nothing)",
       "raw_reward_currency": "USD",
       "raw_reward_amount": 50.0,
       "estimated_hours_to_solve": 3.5,
@@ -383,9 +407,21 @@
       "agent_directive": "LOW YIELD: Secondary priority at $14.29/hr."
     },
     {
-      "issue_url": "https://github.com/jdhart81/viridis-canon/issues/165",
-      "repository": "jdhart81/viridis-canon",
-      "title": "Theorem bounty: Run-128 \u2014 missing non-vacuity witness for share_coordinate_corridor_equivalence & uninstantiated conjuncts in witness_C4",
+      "issue_url": "https://github.com/commonworld-one/commonworld/issues/174",
+      "repository": "commonworld-one/commonworld",
+      "title": "[Bug bounty] GET /v1/posts: unknown `section` or `tag` value returns 200 with an empty list instead of a 400",
+      "raw_reward_currency": "USD",
+      "raw_reward_amount": 50.0,
+      "estimated_hours_to_solve": 3.5,
+      "live_usd_exchange_rate": 1.0,
+      "total_usd_value": 50.0,
+      "roi_usd_per_hour": 14.29,
+      "agent_directive": "LOW YIELD: Secondary priority at $14.29/hr."
+    },
+    {
+      "issue_url": "https://github.com/paraloom-labs/paraloom-wallet/issues/135",
+      "repository": "paraloom-labs/paraloom-wallet",
+      "title": "[BOUNTY] High: claim_withdrawal burns Solana privacy notes before checking Ethereum deposit readiness + cross-network NoteStorage collision",
       "raw_reward_currency": "USD",
       "raw_reward_amount": 50.0,
       "estimated_hours_to_solve": 6.0,
@@ -395,9 +431,9 @@
       "agent_directive": "LOW YIELD: Secondary priority at $8.33/hr."
     },
     {
-      "issue_url": "https://github.com/jdhart81/viridis-canon/issues/166",
-      "repository": "jdhart81/viridis-canon",
-      "title": "Theorem bounty: Run-126 \u2014 forbidden_proxy_capacity_ceiling_nonvacuity (and C1\u2013C4 witnesses) never invoke target theorems and use degenerate I_RY = 0, \u03b4 = 0",
+      "issue_url": "https://github.com/Trinity-S-AI-DNA/t27/issues/12818",
+      "repository": "Trinity-S-AI-DNA/t27",
+      "title": "TRI bounty seat: pay march credit only on a verified receipt",
       "raw_reward_currency": "USD",
       "raw_reward_amount": 50.0,
       "estimated_hours_to_solve": 6.0,
@@ -407,69 +443,9 @@
       "agent_directive": "LOW YIELD: Secondary priority at $8.33/hr."
     },
     {
-      "issue_url": "https://github.com/jdhart81/viridis-canon/issues/164",
-      "repository": "jdhart81/viridis-canon",
-      "title": "Theorem bounty: Run-121 \u2014 control_balances_distinct is (-1 \u2260 1 \u2227 -1 \u2260 0 \u2227 1 \u2260 0) and net_symbiosis_cost_nonvacuous never invokes C3",
-      "raw_reward_currency": "USD",
-      "raw_reward_amount": 50.0,
-      "estimated_hours_to_solve": 6.0,
-      "live_usd_exchange_rate": 1.0,
-      "total_usd_value": 50.0,
-      "roi_usd_per_hour": 8.33,
-      "agent_directive": "LOW YIELD: Secondary priority at $8.33/hr."
-    },
-    {
-      "issue_url": "https://github.com/jdhart81/viridis-canon/issues/163",
-      "repository": "jdhart81/viridis-canon",
-      "title": "Theorem bounty: Run-120 \u2014 conjunctive_portfolio_increasing_marginals is a 1-line rfl alias & witnesses do not invoke target theorems",
-      "raw_reward_currency": "USD",
-      "raw_reward_amount": 50.0,
-      "estimated_hours_to_solve": 6.0,
-      "live_usd_exchange_rate": 1.0,
-      "total_usd_value": 50.0,
-      "roi_usd_per_hour": 8.33,
-      "agent_directive": "LOW YIELD: Secondary priority at $8.33/hr."
-    },
-    {
-      "issue_url": "https://github.com/jdhart81/viridis-canon/issues/162",
-      "repository": "jdhart81/viridis-canon",
-      "title": "Theorem bounty: Run-124 \u2014 missing Section 9 (TwoTerminal), invalid probability p+d = 3/2 in witness_C3, and constant-true residual \u03c8 in witness_C4",
-      "raw_reward_currency": "USD",
-      "raw_reward_amount": 50.0,
-      "estimated_hours_to_solve": 6.0,
-      "live_usd_exchange_rate": 1.0,
-      "total_usd_value": 50.0,
-      "roi_usd_per_hour": 8.33,
-      "agent_directive": "LOW YIELD: Secondary priority at $8.33/hr."
-    },
-    {
-      "issue_url": "https://github.com/jdhart81/viridis-canon/issues/161",
-      "repository": "jdhart81/viridis-canon",
-      "title": "Theorem bounty: Run-129 \u2014 change_component_dominance_and_penalty / c3_nonvacuous & bounded_overshoot_expected_delay / c4_nonvacuous",
-      "raw_reward_currency": "USD",
-      "raw_reward_amount": 50.0,
-      "estimated_hours_to_solve": 6.0,
-      "live_usd_exchange_rate": 1.0,
-      "total_usd_value": 50.0,
-      "roi_usd_per_hour": 8.33,
-      "agent_directive": "LOW YIELD: Secondary priority at $8.33/hr."
-    },
-    {
-      "issue_url": "https://github.com/jdhart81/viridis-canon/issues/159",
-      "repository": "jdhart81/viridis-canon",
-      "title": "[theorem bounty] Run-132: charter_nonvacuous does not instantiate any of the three certified formal targets (and docstring/statement mismatch on unrestricted_simplex_optimum)",
-      "raw_reward_currency": "USD",
-      "raw_reward_amount": 50.0,
-      "estimated_hours_to_solve": 6.0,
-      "live_usd_exchange_rate": 1.0,
-      "total_usd_value": 50.0,
-      "roi_usd_per_hour": 8.33,
-      "agent_directive": "LOW YIELD: Secondary priority at $8.33/hr."
-    },
-    {
-      "issue_url": "https://github.com/jamesrmedford-alt/starforged-companion/issues/301",
-      "repository": "jamesrmedford-alt/starforged-companion",
-      "title": "Bug bounty follow-up: lost connection targets, wrong-PC vow rewards, Chronicle identity, and stale recaps",
+      "issue_url": "https://github.com/dev-kp-eloper/BountyScout/issues/1680",
+      "repository": "dev-kp-eloper/BountyScout",
+      "title": "\ud83c\udfaf Bounty Alert: 9 New Opportunityies found",
       "raw_reward_currency": "USD",
       "raw_reward_amount": 50.0,
       "estimated_hours_to_solve": 6.0,

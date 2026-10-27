@@ -2,6 +2,18 @@
 > Live cross-referencing of open GitHub bounties and live cryptocurrency markets to calculate maximum USD/Hour ROI.
 
 ## Top High-Yield Targets
+### relayhop/sn-monetization-runtime: [radar] SN open bounty 2026-10-27T12:01
+- **Reward:** 2026.0 USD (USD Value: **$2,026.00**)
+- **Agent ROI:** **$1,013.00/hr** (Est. 2.0 hrs)
+- **Directive:** `EXECUTE: High-yield target at $1013.00/hr. Prioritize PR submission.`
+- **Target URL:** [Claim Bounty](https://github.com/relayhop/sn-monetization-runtime/issues/1344)
+
+### relayhop/sn-monetization-runtime: [radar] SN open bounty 2026-10-27T10:25
+- **Reward:** 2026.0 USD (USD Value: **$2,026.00**)
+- **Agent ROI:** **$1,013.00/hr** (Est. 2.0 hrs)
+- **Directive:** `EXECUTE: High-yield target at $1013.00/hr. Prioritize PR submission.`
+- **Target URL:** [Claim Bounty](https://github.com/relayhop/sn-monetization-runtime/issues/1343)
+
 ### relayhop/sn-monetization-runtime: [radar] SN open bounty 2026-10-27T04:52
 - **Reward:** 2026.0 USD (USD Value: **$2,026.00**)
 - **Agent ROI:** **$1,013.00/hr** (Est. 2.0 hrs)
@@ -14,11 +26,29 @@
 - **Directive:** `EXECUTE: High-yield target at $1013.00/hr. Prioritize PR submission.`
 - **Target URL:** [Claim Bounty](https://github.com/relayhop/sn-monetization-runtime/issues/1341)
 
-### Rohank143/BountyScout: 🎯 Bounty Alert: 7 New Opportunityies found
+### Rohank143/BountyScout: 🎯 Bounty Alert: 11 New Opportunityies found
 - **Reward:** 2026.0 USD (USD Value: **$2,026.00**)
-- **Agent ROI:** **$578.86/hr** (Est. 3.5 hrs)
-- **Directive:** `EXECUTE: High-yield target at $578.86/hr. Prioritize PR submission.`
-- **Target URL:** [Claim Bounty](https://github.com/Rohank143/BountyScout/issues/25)
+- **Agent ROI:** **$337.67/hr** (Est. 6.0 hrs)
+- **Directive:** `EXECUTE: High-yield target at $337.67/hr. Prioritize PR submission.`
+- **Target URL:** [Claim Bounty](https://github.com/Rohank143/BountyScout/issues/26)
+
+### freedom-winds/BountyScout: 🎯 Bounty Alert: 9 New Opportunityies found
+- **Reward:** 2026.0 USD (USD Value: **$2,026.00**)
+- **Agent ROI:** **$337.67/hr** (Est. 6.0 hrs)
+- **Directive:** `EXECUTE: High-yield target at $337.67/hr. Prioritize PR submission.`
+- **Target URL:** [Claim Bounty](https://github.com/freedom-winds/BountyScout/issues/1334)
+
+### airdropia/earn-ops: bounty digest 2026-10-27
+- **Reward:** 1000.0 USD (USD Value: **$1,000.00**)
+- **Agent ROI:** **$166.67/hr** (Est. 6.0 hrs)
+- **Directive:** `EXECUTE: High-yield target at $166.67/hr. Prioritize PR submission.`
+- **Target URL:** [Claim Bounty](https://github.com/airdropia/earn-ops/issues/20)
+
+### alfrexo95/bounty-bot: 💰 Bounty Seguro (Ver enlace): 💰 Bounty Seguro (Ver enlace): 💰 Bounty Seguro (Ver
+- **Reward:** 50.0 USD (USD Value: **$50.00**)
+- **Agent ROI:** **$25.00/hr** (Est. 2.0 hrs)
+- **Directive:** `LOW YIELD: Secondary priority at $25.00/hr.`
+- **Target URL:** [Claim Bounty](https://github.com/alfrexo95/bounty-bot/issues/50)
 
 ### alfrexo95/bounty-bot: 💰 Bounty Seguro (Ver enlace): 💰 Bounty Seguro (Ver enlace): 🪙 [Web3] feat(mobile
 - **Reward:** 50.0 USD (USD Value: **$50.00**)
@@ -26,41 +56,41 @@
 - **Directive:** `LOW YIELD: Secondary priority at $25.00/hr.`
 - **Target URL:** [Claim Bounty](https://github.com/alfrexo95/bounty-bot/issues/49)
 
-### agile-students-fall2026/generic-mern-stack-project-bounty: As someone who found an item, I want to receive a specific notification when someone has chosen to give me a bounty so that I can check my reward quickly
+### abdulsalam-create/bounty-watch: Scope digest 2026-10-27: 1 changes across 1 bounty programs
 - **Reward:** 50.0 USD (USD Value: **$50.00**)
 - **Agent ROI:** **$25.00/hr** (Est. 2.0 hrs)
 - **Directive:** `LOW YIELD: Secondary priority at $25.00/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/agile-students-fall2026/generic-mern-stack-project-bounty/issues/70)
+- **Target URL:** [Claim Bounty](https://github.com/abdulsalam-create/bounty-watch/issues/180)
 
-### paraloom-labs/paraloom-wallet: [BOUNTY] Medium: submitTransact casts 64-bit extAmount to JavaScript Number, causing IEEE-754 precision loss and ingress proof verification rejection (paraloom-wallet)
+### paraloom-labs/paraloom-wallet: [BOUNTY] Medium: buildDepositInstruction omits merkle_tree PDA account and uses obsolete DEPOSIT_DISCRIMINATOR, causing 100% on-chain InstructionFallbackNotFound or AccountNotEnoughKeys reverts on SOL deposits (paraloom-wallet)
 - **Reward:** 150.0 USD (USD Value: **$150.00**)
 - **Agent ROI:** **$25.00/hr** (Est. 6.0 hrs)
 - **Directive:** `LOW YIELD: Secondary priority at $25.00/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/paraloom-labs/paraloom-wallet/issues/121)
+- **Target URL:** [Claim Bounty](https://github.com/paraloom-labs/paraloom-wallet/issues/133)
 
-### paraloom-labs/paraloom-wallet: [BOUNTY] Medium: Uncaught exception in v3NoteCommitment/v3NoteCommitmentAsset halts scanForNotes loop and drops subsequent feed notes (paraloom-wallet)
+### paraloom-labs/paraloom-wallet: [BOUNTY] Medium: transfer.ts prematurely marks input notes spent on queue acceptance without settlement confirmation and ignores root skew between input Merkle paths (paraloom-wallet)
 - **Reward:** 150.0 USD (USD Value: **$150.00**)
 - **Agent ROI:** **$25.00/hr** (Est. 6.0 hrs)
 - **Directive:** `LOW YIELD: Secondary priority at $25.00/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/paraloom-labs/paraloom-wallet/issues/119)
+- **Target URL:** [Claim Bounty](https://github.com/paraloom-labs/paraloom-wallet/issues/128)
 
-### paraloom-labs/paraloom-wallet: [BOUNTY] Medium: transfer.ts casts 64-bit note amounts to JavaScript Number, causing IEEE-754 precision loss and unspendable notes on large transfers (paraloom-wallet)
+### paraloom-labs/paraloom-wallet: [BOUNTY] Medium: routeSwap and swapReconcile cast 64-bit bigint amounts to JavaScript Number, causing IEEE-754 precision loss, InsufficientFunds revert on swap routing, and unverified transaction error status in landed recovery (paraloom-wallet)
 - **Reward:** 150.0 USD (USD Value: **$150.00**)
 - **Agent ROI:** **$25.00/hr** (Est. 6.0 hrs)
 - **Directive:** `LOW YIELD: Secondary priority at $25.00/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/paraloom-labs/paraloom-wallet/issues/118)
+- **Target URL:** [Claim Bounty](https://github.com/paraloom-labs/paraloom-wallet/issues/127)
 
-### paraloom-labs/paraloom-wallet: [BOUNTY] Medium: depositSpl ignores confirmBySignatureStatus timeout result, causing phantom note creation and stranded tokens on dropped deposits (paraloom-wallet)
+### paraloom-labs/paraloom-core: [BOUNTY] Medium: paraloom validator withdraw-unbonded omits idempotent ATA creation, causing AccountNotInitialized failure and freezing unbonded SOL/token withdrawal (paraloom-core)
 - **Reward:** 150.0 USD (USD Value: **$150.00**)
 - **Agent ROI:** **$25.00/hr** (Est. 6.0 hrs)
 - **Directive:** `LOW YIELD: Secondary priority at $25.00/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/paraloom-labs/paraloom-wallet/issues/117)
+- **Target URL:** [Claim Bounty](https://github.com/paraloom-labs/paraloom-core/issues/1242)
 
-### paraloom-labs/paraloom-wallet: [BOUNTY] High: spendV3 and transfer omit shielded address checksum validation, allowing typo-induced unspendable note creation and fund loss (paraloom-wallet)
-- **Reward:** 150.0 USD (USD Value: **$150.00**)
-- **Agent ROI:** **$25.00/hr** (Est. 6.0 hrs)
+### deepakA18/gitpay-demo-http: [GitPay Phase 01 demo] Unfunded bounty workflow
+- **Reward:** 50.0 USD (USD Value: **$50.00**)
+- **Agent ROI:** **$25.00/hr** (Est. 2.0 hrs)
 - **Directive:** `LOW YIELD: Secondary priority at $25.00/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/paraloom-labs/paraloom-wallet/issues/116)
+- **Target URL:** [Claim Bounty](https://github.com/deepakA18/gitpay-demo-http/issues/1)
 
 ### hanzo-js/sdk: Add the LICENSE file the README links to
 - **Reward:** 50.0 USD (USD Value: **$50.00**)
@@ -121,33 +151,3 @@
 - **Agent ROI:** **$14.29/hr** (Est. 3.5 hrs)
 - **Directive:** `LOW YIELD: Secondary priority at $14.29/hr.`
 - **Target URL:** [Claim Bounty](https://github.com/hanzoai/cli/issues/12)
-
-### hanzoai/cli: Fix README commands that match no hanzo subcommand
-- **Reward:** 50.0 USD (USD Value: **$50.00**)
-- **Agent ROI:** **$14.29/hr** (Est. 3.5 hrs)
-- **Directive:** `LOW YIELD: Secondary priority at $14.29/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/hanzoai/cli/issues/11)
-
-### hanzoai/ci: Add bin/ignoretracked_test.sh and register it in hanzo.yml
-- **Reward:** 50.0 USD (USD Value: **$50.00**)
-- **Agent ROI:** **$14.29/hr** (Est. 3.5 hrs)
-- **Directive:** `LOW YIELD: Secondary priority at $14.29/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/hanzoai/ci/issues/13)
-
-### hanzoai/ci: Add bin/modsize_test.sh and register it in hanzo.yml
-- **Reward:** 50.0 USD (USD Value: **$50.00**)
-- **Agent ROI:** **$14.29/hr** (Est. 3.5 hrs)
-- **Directive:** `LOW YIELD: Secondary priority at $14.29/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/hanzoai/ci/issues/12)
-
-### hanzoai/orm: Add tests for db.Model: SoftDelete, GetByID, SetKeyFromString
-- **Reward:** 50.0 USD (USD Value: **$50.00**)
-- **Agent ROI:** **$14.29/hr** (Est. 3.5 hrs)
-- **Directive:** `LOW YIELD: Secondary priority at $14.29/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/hanzoai/orm/issues/8)
-
-### hanzoai/orm: Fix the README docs link and complete the Packages table
-- **Reward:** 50.0 USD (USD Value: **$50.00**)
-- **Agent ROI:** **$14.29/hr** (Est. 3.5 hrs)
-- **Directive:** `LOW YIELD: Secondary priority at $14.29/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/hanzoai/orm/issues/7)
