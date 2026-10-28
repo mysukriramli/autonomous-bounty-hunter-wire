@@ -2,6 +2,12 @@
 > Live cross-referencing of open GitHub bounties and live cryptocurrency markets to calculate maximum USD/Hour ROI.
 
 ## Top High-Yield Targets
+### freedom-winds/BountyScout: 🎯 Bounty Alert: 12 New Opportunityies found
+- **Reward:** 10000.0 USD (USD Value: **$10,000.00**)
+- **Agent ROI:** **$1,666.67/hr** (Est. 6.0 hrs)
+- **Directive:** `EXECUTE: High-yield target at $1666.67/hr. Prioritize PR submission.`
+- **Target URL:** [Claim Bounty](https://github.com/freedom-winds/BountyScout/issues/1341)
+
 ### relayhop/sn-monetization-runtime: [radar] SN open bounty 2026-10-27T12:01
 - **Reward:** 2026.0 USD (USD Value: **$2,026.00**)
 - **Agent ROI:** **$1,013.00/hr** (Est. 2.0 hrs)
@@ -38,11 +44,11 @@
 - **Directive:** `EXECUTE: High-yield target at $175.00/hr. Prioritize PR submission.`
 - **Target URL:** [Claim Bounty](https://github.com/WholeTroutMedia/oss-verification-sandbox/issues/2)
 
-### airdropia/earn-ops: bounty digest 2026-10-28
-- **Reward:** 1000.0 USD (USD Value: **$1,000.00**)
-- **Agent ROI:** **$166.67/hr** (Est. 6.0 hrs)
-- **Directive:** `EXECUTE: High-yield target at $166.67/hr. Prioritize PR submission.`
-- **Target URL:** [Claim Bounty](https://github.com/airdropia/earn-ops/issues/22)
+### alfrexo95/bounty-bot: 💰 Bounty Seguro ($$250): 💰 Bounty Seguro ($$250): [Bounty] 💰 Bounty Seguro 
+- **Reward:** 250.0 USD (USD Value: **$250.00**)
+- **Agent ROI:** **$125.00/hr** (Est. 2.0 hrs)
+- **Directive:** `EXECUTE: High-yield target at $125.00/hr. Prioritize PR submission.`
+- **Target URL:** [Claim Bounty](https://github.com/alfrexo95/bounty-bot/issues/56)
 
 ### alfrexo95/bounty-bot: 💰 Bounty Seguro ($$250): [Bounty] 💰 Bounty Seguro ($$250): [Bounty] Preserv
 - **Reward:** 250.0 USD (USD Value: **$250.00**)
@@ -74,29 +80,11 @@
 - **Directive:** `STANDARD: Profitable target at $71.43/hr. Queue for execution.`
 - **Target URL:** [Claim Bounty](https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4152)
 
-### Rohank143/BountyScout: 🎯 Bounty Alert: 8 New Opportunityies found
-- **Reward:** 250.0 USD (USD Value: **$250.00**)
-- **Agent ROI:** **$71.43/hr** (Est. 3.5 hrs)
-- **Directive:** `STANDARD: Profitable target at $71.43/hr. Queue for execution.`
-- **Target URL:** [Claim Bounty](https://github.com/Rohank143/BountyScout/issues/31)
-
-### dev-kp-eloper/BountyScout: 🎯 Bounty Alert: 10 New Opportunityies found
-- **Reward:** 250.0 USD (USD Value: **$250.00**)
-- **Agent ROI:** **$71.43/hr** (Est. 3.5 hrs)
-- **Directive:** `STANDARD: Profitable target at $71.43/hr. Queue for execution.`
-- **Target URL:** [Claim Bounty](https://github.com/dev-kp-eloper/BountyScout/issues/1686)
-
-### paraloom-labs/paraloom-core: [BOUNTY] Medium: NullifierSet::check_batch allows intra-batch duplicate nullifiers and insert_batch returns inflated count
-- **Reward:** 150.0 USD (USD Value: **$150.00**)
-- **Agent ROI:** **$42.86/hr** (Est. 3.5 hrs)
-- **Directive:** `STANDARD: Profitable target at $42.86/hr. Queue for execution.`
-- **Target URL:** [Claim Bounty](https://github.com/paraloom-labs/paraloom-core/issues/1254)
-
-### freedom-winds/BountyScout: 🎯 Bounty Alert: 12 New Opportunityies found
+### paraloom-labs/paraloom-core: [BOUNTY] High: PrivateSwapRelayer::execute drops ephemeral keypair on re-deposit failure, causing irreversible fund loss of swapped assets
 - **Reward:** 250.0 USD (USD Value: **$250.00**)
 - **Agent ROI:** **$41.67/hr** (Est. 6.0 hrs)
 - **Directive:** `STANDARD: Profitable target at $41.67/hr. Queue for execution.`
-- **Target URL:** [Claim Bounty](https://github.com/freedom-winds/BountyScout/issues/1339)
+- **Target URL:** [Claim Bounty](https://github.com/paraloom-labs/paraloom-core/issues/1266)
 
 ### alfrexo95/bounty-bot: 💰 Bounty Seguro (Ver enlace): 💰 Bounty Seguro (Ver enlace): 💰 Bounty Seguro (Ver
 - **Reward:** 50.0 USD (USD Value: **$50.00**)
@@ -122,32 +110,44 @@
 - **Directive:** `LOW YIELD: Secondary priority at $25.00/hr.`
 - **Target URL:** [Claim Bounty](https://github.com/alfrexo95/bounty-bot/issues/49)
 
-### GamerdexApp/whiteout-survival-tracker: Tundra Album: Spectacular Adventures / Bounty Hunter missing piece images
+### abdulsalam-create/bounty-watch: bounty-watch 2026-10-28: 0 new, 0 resumed, 3 watchlist changes
 - **Reward:** 50.0 USD (USD Value: **$50.00**)
 - **Agent ROI:** **$25.00/hr** (Est. 2.0 hrs)
 - **Directive:** `LOW YIELD: Secondary priority at $25.00/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/GamerdexApp/whiteout-survival-tracker/issues/26)
+- **Target URL:** [Claim Bounty](https://github.com/abdulsalam-create/bounty-watch/issues/188)
 
-### WyattLeoz/cs467-a3-prometheus-triage: 💡 Bounty Platform for Prometheus
+### jjgroenendijk/opensky: A seen werewolf or vampire lord change costs a bounty only the first time
 - **Reward:** 50.0 USD (USD Value: **$50.00**)
 - **Agent ROI:** **$25.00/hr** (Est. 2.0 hrs)
 - **Directive:** `LOW YIELD: Secondary priority at $25.00/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/WyattLeoz/cs467-a3-prometheus-triage/issues/120)
+- **Target URL:** [Claim Bounty](https://github.com/jjgroenendijk/opensky/issues/1613)
 
-### paraloom-labs/paraloom-core: [BOUNTY] Medium: Missing init_asset_vault, set_asset_deposit_cap, and set_min_token_stake instruction builders, discriminators, and derive_asset_config in bridge::solana
-- **Reward:** 150.0 USD (USD Value: **$150.00**)
-- **Agent ROI:** **$25.00/hr** (Est. 6.0 hrs)
-- **Directive:** `LOW YIELD: Secondary priority at $25.00/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/paraloom-labs/paraloom-core/issues/1258)
-
-### paraloom-labs/paraloom-wallet: [BOUNTY] Medium: Empty-signature note wipe in markNoteSpent and v2 136-hex shielded address rejection in shieldedAddressToBytes
-- **Reward:** 150.0 USD (USD Value: **$150.00**)
-- **Agent ROI:** **$25.00/hr** (Est. 6.0 hrs)
-- **Directive:** `LOW YIELD: Secondary priority at $25.00/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/paraloom-labs/paraloom-wallet/issues/173)
-
-### v-jitenderpalsingh/test-java: Reproducing Java Bounty Issue
+### diogoschwartz/conectaieee: Bug Bounty
 - **Reward:** 50.0 USD (USD Value: **$50.00**)
 - **Agent ROI:** **$25.00/hr** (Est. 2.0 hrs)
 - **Directive:** `LOW YIELD: Secondary priority at $25.00/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/v-jitenderpalsingh/test-java/issues/3)
+- **Target URL:** [Claim Bounty](https://github.com/diogoschwartz/conectaieee/issues/25)
+
+### xeprotocol/xe: Advance notice: brief resilience/load testing from a bounty participant (testnet-0005)
+- **Reward:** 50.0 USD (USD Value: **$50.00**)
+- **Agent ROI:** **$25.00/hr** (Est. 2.0 hrs)
+- **Directive:** `LOW YIELD: Secondary priority at $25.00/hr.`
+- **Target URL:** [Claim Bounty](https://github.com/xeprotocol/xe/issues/145)
+
+### josedab/chronicle: Question: current code-bounty availability
+- **Reward:** 50.0 USD (USD Value: **$50.00**)
+- **Agent ROI:** **$25.00/hr** (Est. 2.0 hrs)
+- **Directive:** `LOW YIELD: Secondary priority at $25.00/hr.`
+- **Target URL:** [Claim Bounty](https://github.com/josedab/chronicle/issues/115)
+
+### Cyon0x/earnly: Contact question: Earnly-Build bounty payments
+- **Reward:** 50.0 USD (USD Value: **$50.00**)
+- **Agent ROI:** **$25.00/hr** (Est. 2.0 hrs)
+- **Directive:** `LOW YIELD: Secondary priority at $25.00/hr.`
+- **Target URL:** [Claim Bounty](https://github.com/Cyon0x/earnly/issues/1)
+
+### lambdaclass/stabileo: Policy for outside contributions (bounties, AI-generated, duplicates)
+- **Reward:** 50.0 USD (USD Value: **$50.00**)
+- **Agent ROI:** **$25.00/hr** (Est. 2.0 hrs)
+- **Directive:** `LOW YIELD: Secondary priority at $25.00/hr.`
+- **Target URL:** [Claim Bounty](https://github.com/lambdaclass/stabileo/issues/726)
