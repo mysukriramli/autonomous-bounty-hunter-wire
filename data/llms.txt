@@ -38,6 +38,18 @@
 - **Directive:** `EXECUTE: High-yield target at $175.00/hr. Prioritize PR submission.`
 - **Target URL:** [Claim Bounty](https://github.com/WholeTroutMedia/oss-verification-sandbox/issues/2)
 
+### airdropia/earn-ops: bounty digest 2026-10-28
+- **Reward:** 1000.0 USD (USD Value: **$1,000.00**)
+- **Agent ROI:** **$166.67/hr** (Est. 6.0 hrs)
+- **Directive:** `EXECUTE: High-yield target at $166.67/hr. Prioritize PR submission.`
+- **Target URL:** [Claim Bounty](https://github.com/airdropia/earn-ops/issues/22)
+
+### alfrexo95/bounty-bot: 💰 Bounty Seguro ($$250): [Bounty] 💰 Bounty Seguro ($$250): [Bounty] Preserv
+- **Reward:** 250.0 USD (USD Value: **$250.00**)
+- **Agent ROI:** **$125.00/hr** (Est. 2.0 hrs)
+- **Directive:** `EXECUTE: High-yield target at $125.00/hr. Prioritize PR submission.`
+- **Target URL:** [Claim Bounty](https://github.com/alfrexo95/bounty-bot/issues/54)
+
 ### alfrexo95/bounty-bot: 💰 Bounty Seguro ($$250): [Bounty] Preserve RFC 7239 `Forwarded` host author
 - **Reward:** 250.0 USD (USD Value: **$250.00**)
 - **Agent ROI:** **$125.00/hr** (Est. 2.0 hrs)
@@ -56,11 +68,35 @@
 - **Directive:** `EXECUTE: High-yield target at $125.00/hr. Prioritize PR submission.`
 - **Target URL:** [Claim Bounty](https://github.com/WholeTroutMedia/oss-verification-sandbox/issues/1)
 
-### paraloom-labs/paraloom-wallet: [BOUNTY] Medium: WSOL_MINT is not treated as native SOL in SwapApprove, resumeSwapAtFreshAddress, and recoverReshields
-- **Reward:** 1.0 SOL (USD Value: **$101.90**)
-- **Agent ROI:** **$29.11/hr** (Est. 3.5 hrs)
-- **Directive:** `LOW YIELD: Secondary priority at $29.11/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/paraloom-labs/paraloom-wallet/issues/157)
+### zhangjiayang6835-cyber/bounty-plaza: [Bounty] 💰 Bounty Seguro ($$250): [Bounty] Preserve RFC 7239 `Forwarded` host author
+- **Reward:** 250.0 USD (USD Value: **$250.00**)
+- **Agent ROI:** **$71.43/hr** (Est. 3.5 hrs)
+- **Directive:** `STANDARD: Profitable target at $71.43/hr. Queue for execution.`
+- **Target URL:** [Claim Bounty](https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4152)
+
+### Rohank143/BountyScout: 🎯 Bounty Alert: 8 New Opportunityies found
+- **Reward:** 250.0 USD (USD Value: **$250.00**)
+- **Agent ROI:** **$71.43/hr** (Est. 3.5 hrs)
+- **Directive:** `STANDARD: Profitable target at $71.43/hr. Queue for execution.`
+- **Target URL:** [Claim Bounty](https://github.com/Rohank143/BountyScout/issues/31)
+
+### dev-kp-eloper/BountyScout: 🎯 Bounty Alert: 10 New Opportunityies found
+- **Reward:** 250.0 USD (USD Value: **$250.00**)
+- **Agent ROI:** **$71.43/hr** (Est. 3.5 hrs)
+- **Directive:** `STANDARD: Profitable target at $71.43/hr. Queue for execution.`
+- **Target URL:** [Claim Bounty](https://github.com/dev-kp-eloper/BountyScout/issues/1686)
+
+### paraloom-labs/paraloom-core: [BOUNTY] Medium: NullifierSet::check_batch allows intra-batch duplicate nullifiers and insert_batch returns inflated count
+- **Reward:** 150.0 USD (USD Value: **$150.00**)
+- **Agent ROI:** **$42.86/hr** (Est. 3.5 hrs)
+- **Directive:** `STANDARD: Profitable target at $42.86/hr. Queue for execution.`
+- **Target URL:** [Claim Bounty](https://github.com/paraloom-labs/paraloom-core/issues/1254)
+
+### freedom-winds/BountyScout: 🎯 Bounty Alert: 12 New Opportunityies found
+- **Reward:** 250.0 USD (USD Value: **$250.00**)
+- **Agent ROI:** **$41.67/hr** (Est. 6.0 hrs)
+- **Directive:** `STANDARD: Profitable target at $41.67/hr. Queue for execution.`
+- **Target URL:** [Claim Bounty](https://github.com/freedom-winds/BountyScout/issues/1339)
 
 ### alfrexo95/bounty-bot: 💰 Bounty Seguro (Ver enlace): 💰 Bounty Seguro (Ver enlace): 💰 Bounty Seguro (Ver
 - **Reward:** 50.0 USD (USD Value: **$50.00**)
@@ -86,68 +122,32 @@
 - **Directive:** `LOW YIELD: Secondary priority at $25.00/hr.`
 - **Target URL:** [Claim Bounty](https://github.com/alfrexo95/bounty-bot/issues/49)
 
+### GamerdexApp/whiteout-survival-tracker: Tundra Album: Spectacular Adventures / Bounty Hunter missing piece images
+- **Reward:** 50.0 USD (USD Value: **$50.00**)
+- **Agent ROI:** **$25.00/hr** (Est. 2.0 hrs)
+- **Directive:** `LOW YIELD: Secondary priority at $25.00/hr.`
+- **Target URL:** [Claim Bounty](https://github.com/GamerdexApp/whiteout-survival-tracker/issues/26)
+
+### WyattLeoz/cs467-a3-prometheus-triage: 💡 Bounty Platform for Prometheus
+- **Reward:** 50.0 USD (USD Value: **$50.00**)
+- **Agent ROI:** **$25.00/hr** (Est. 2.0 hrs)
+- **Directive:** `LOW YIELD: Secondary priority at $25.00/hr.`
+- **Target URL:** [Claim Bounty](https://github.com/WyattLeoz/cs467-a3-prometheus-triage/issues/120)
+
+### paraloom-labs/paraloom-core: [BOUNTY] Medium: Missing init_asset_vault, set_asset_deposit_cap, and set_min_token_stake instruction builders, discriminators, and derive_asset_config in bridge::solana
+- **Reward:** 150.0 USD (USD Value: **$150.00**)
+- **Agent ROI:** **$25.00/hr** (Est. 6.0 hrs)
+- **Directive:** `LOW YIELD: Secondary priority at $25.00/hr.`
+- **Target URL:** [Claim Bounty](https://github.com/paraloom-labs/paraloom-core/issues/1258)
+
+### paraloom-labs/paraloom-wallet: [BOUNTY] Medium: Empty-signature note wipe in markNoteSpent and v2 136-hex shielded address rejection in shieldedAddressToBytes
+- **Reward:** 150.0 USD (USD Value: **$150.00**)
+- **Agent ROI:** **$25.00/hr** (Est. 6.0 hrs)
+- **Directive:** `LOW YIELD: Secondary priority at $25.00/hr.`
+- **Target URL:** [Claim Bounty](https://github.com/paraloom-labs/paraloom-wallet/issues/173)
+
 ### v-jitenderpalsingh/test-java: Reproducing Java Bounty Issue
 - **Reward:** 50.0 USD (USD Value: **$50.00**)
 - **Agent ROI:** **$25.00/hr** (Est. 2.0 hrs)
 - **Directive:** `LOW YIELD: Secondary priority at $25.00/hr.`
 - **Target URL:** [Claim Bounty](https://github.com/v-jitenderpalsingh/test-java/issues/3)
-
-### paraloom-labs/paraloom-wallet: [BOUNTY] Medium: Token-input private swaps omit phantom-note reconciliation before gas spend and fail to populate native SOL round-trip reshield status
-- **Reward:** 150.0 USD (USD Value: **$150.00**)
-- **Agent ROI:** **$25.00/hr** (Est. 6.0 hrs)
-- **Directive:** `LOW YIELD: Secondary priority at $25.00/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/paraloom-labs/paraloom-wallet/issues/159)
-
-### RSPSApp/tsps: [Bug]: Bounty hunter suggestions and bugs
-- **Reward:** 50.0 USD (USD Value: **$50.00**)
-- **Agent ROI:** **$25.00/hr** (Est. 2.0 hrs)
-- **Directive:** `LOW YIELD: Secondary priority at $25.00/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/RSPSApp/tsps/issues/1467)
-
-### kodaksax/Bounty-production: Despite badge claiming "unfunded" a bounty throws when I try to cancel it
-- **Reward:** 50.0 USD (USD Value: **$50.00**)
-- **Agent ROI:** **$25.00/hr** (Est. 2.0 hrs)
-- **Directive:** `LOW YIELD: Secondary priority at $25.00/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/kodaksax/Bounty-production/issues/957)
-
-### abdulsalam-create/bounty-watch: bounty-watch 2026-10-27: 0 new, 0 resumed, 2 watchlist changes
-- **Reward:** 50.0 USD (USD Value: **$50.00**)
-- **Agent ROI:** **$25.00/hr** (Est. 2.0 hrs)
-- **Directive:** `LOW YIELD: Secondary priority at $25.00/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/abdulsalam-create/bounty-watch/issues/183)
-
-### hanzo-js/sdk: Add the LICENSE file the README links to
-- **Reward:** 50.0 USD (USD Value: **$50.00**)
-- **Agent ROI:** **$14.29/hr** (Est. 3.5 hrs)
-- **Directive:** `LOW YIELD: Secondary priority at $14.29/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/hanzo-js/sdk/issues/1)
-
-### hanzo-go/lz4: Point the README install steps and badges at hanzo.ai/lz4/v4
-- **Reward:** 50.0 USD (USD Value: **$50.00**)
-- **Agent ROI:** **$14.29/hr** (Est. 3.5 hrs)
-- **Directive:** `LOW YIELD: Secondary priority at $14.29/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/hanzo-go/lz4/issues/1)
-
-### hanzoai/ui: List only the hooks @hanzo/react exports; delete 9 empty hook files
-- **Reward:** 50.0 USD (USD Value: **$50.00**)
-- **Agent ROI:** **$14.29/hr** (Est. 3.5 hrs)
-- **Directive:** `LOW YIELD: Secondary priority at $14.29/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/hanzoai/ui/issues/257)
-
-### hanzoai/agents: Return 500, not 404, when node details fail for another reason
-- **Reward:** 50.0 USD (USD Value: **$50.00**)
-- **Agent ROI:** **$14.29/hr** (Est. 3.5 hrs)
-- **Directive:** `LOW YIELD: Secondary priority at $14.29/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/hanzoai/agents/issues/10)
-
-### hanzoai/agents: Honor the lines argument in MCPManager.Logs
-- **Reward:** 50.0 USD (USD Value: **$50.00**)
-- **Agent ROI:** **$14.29/hr** (Est. 3.5 hrs)
-- **Directive:** `LOW YIELD: Secondary priority at $14.29/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/hanzoai/agents/issues/9)
-
-### hanzoai/agents: Make the agent counts in README.md match the files
-- **Reward:** 50.0 USD (USD Value: **$50.00**)
-- **Agent ROI:** **$14.29/hr** (Est. 3.5 hrs)
-- **Directive:** `LOW YIELD: Secondary priority at $14.29/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/hanzoai/agents/issues/8)

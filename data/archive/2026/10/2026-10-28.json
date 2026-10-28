@@ -1,12 +1,12 @@
 {
   "metadata": {
-    "generated_at": "2026-10-28T06:15:02.853352+00:00",
+    "generated_at": "2026-10-28T13:29:41.808201+00:00",
     "data_sources": [
       "GitHub Search API",
       "CoinGecko V3 API",
       "Semantic Extraction"
     ],
-    "total_bounties_indexed": 39,
+    "total_bounties_indexed": 37,
     "schema_version": "1.0.0"
   },
   "bounty_targets": [
@@ -83,6 +83,30 @@
       "agent_directive": "EXECUTE: High-yield target at $175.00/hr. Prioritize PR submission."
     },
     {
+      "issue_url": "https://github.com/airdropia/earn-ops/issues/22",
+      "repository": "airdropia/earn-ops",
+      "title": "bounty digest 2026-10-28",
+      "raw_reward_currency": "USD",
+      "raw_reward_amount": 1000.0,
+      "estimated_hours_to_solve": 6.0,
+      "live_usd_exchange_rate": 1.0,
+      "total_usd_value": 1000.0,
+      "roi_usd_per_hour": 166.67,
+      "agent_directive": "EXECUTE: High-yield target at $166.67/hr. Prioritize PR submission."
+    },
+    {
+      "issue_url": "https://github.com/alfrexo95/bounty-bot/issues/54",
+      "repository": "alfrexo95/bounty-bot",
+      "title": "\ud83d\udcb0 Bounty Seguro ($$250): [Bounty] \ud83d\udcb0 Bounty Seguro ($$250): [Bounty] Preserv",
+      "raw_reward_currency": "USD",
+      "raw_reward_amount": 250.0,
+      "estimated_hours_to_solve": 2.0,
+      "live_usd_exchange_rate": 1.0,
+      "total_usd_value": 250.0,
+      "roi_usd_per_hour": 125.0,
+      "agent_directive": "EXECUTE: High-yield target at $125.00/hr. Prioritize PR submission."
+    },
+    {
       "issue_url": "https://github.com/alfrexo95/bounty-bot/issues/53",
       "repository": "alfrexo95/bounty-bot",
       "title": "\ud83d\udcb0 Bounty Seguro ($$250): [Bounty] Preserve RFC 7239 `Forwarded` host author",
@@ -119,16 +143,64 @@
       "agent_directive": "EXECUTE: High-yield target at $125.00/hr. Prioritize PR submission."
     },
     {
-      "issue_url": "https://github.com/paraloom-labs/paraloom-wallet/issues/157",
-      "repository": "paraloom-labs/paraloom-wallet",
-      "title": "[BOUNTY] Medium: WSOL_MINT is not treated as native SOL in SwapApprove, resumeSwapAtFreshAddress, and recoverReshields",
-      "raw_reward_currency": "SOL",
-      "raw_reward_amount": 1.0,
+      "issue_url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4152",
+      "repository": "zhangjiayang6835-cyber/bounty-plaza",
+      "title": "[Bounty] \ud83d\udcb0 Bounty Seguro ($$250): [Bounty] Preserve RFC 7239 `Forwarded` host author",
+      "raw_reward_currency": "USD",
+      "raw_reward_amount": 250.0,
       "estimated_hours_to_solve": 3.5,
-      "live_usd_exchange_rate": 101.9,
-      "total_usd_value": 101.9,
-      "roi_usd_per_hour": 29.11,
-      "agent_directive": "LOW YIELD: Secondary priority at $29.11/hr."
+      "live_usd_exchange_rate": 1.0,
+      "total_usd_value": 250.0,
+      "roi_usd_per_hour": 71.43,
+      "agent_directive": "STANDARD: Profitable target at $71.43/hr. Queue for execution."
+    },
+    {
+      "issue_url": "https://github.com/Rohank143/BountyScout/issues/31",
+      "repository": "Rohank143/BountyScout",
+      "title": "\ud83c\udfaf Bounty Alert: 8 New Opportunityies found",
+      "raw_reward_currency": "USD",
+      "raw_reward_amount": 250.0,
+      "estimated_hours_to_solve": 3.5,
+      "live_usd_exchange_rate": 1.0,
+      "total_usd_value": 250.0,
+      "roi_usd_per_hour": 71.43,
+      "agent_directive": "STANDARD: Profitable target at $71.43/hr. Queue for execution."
+    },
+    {
+      "issue_url": "https://github.com/dev-kp-eloper/BountyScout/issues/1686",
+      "repository": "dev-kp-eloper/BountyScout",
+      "title": "\ud83c\udfaf Bounty Alert: 10 New Opportunityies found",
+      "raw_reward_currency": "USD",
+      "raw_reward_amount": 250.0,
+      "estimated_hours_to_solve": 3.5,
+      "live_usd_exchange_rate": 1.0,
+      "total_usd_value": 250.0,
+      "roi_usd_per_hour": 71.43,
+      "agent_directive": "STANDARD: Profitable target at $71.43/hr. Queue for execution."
+    },
+    {
+      "issue_url": "https://github.com/paraloom-labs/paraloom-core/issues/1254",
+      "repository": "paraloom-labs/paraloom-core",
+      "title": "[BOUNTY] Medium: NullifierSet::check_batch allows intra-batch duplicate nullifiers and insert_batch returns inflated count",
+      "raw_reward_currency": "USD",
+      "raw_reward_amount": 150.0,
+      "estimated_hours_to_solve": 3.5,
+      "live_usd_exchange_rate": 1.0,
+      "total_usd_value": 150.0,
+      "roi_usd_per_hour": 42.86,
+      "agent_directive": "STANDARD: Profitable target at $42.86/hr. Queue for execution."
+    },
+    {
+      "issue_url": "https://github.com/freedom-winds/BountyScout/issues/1339",
+      "repository": "freedom-winds/BountyScout",
+      "title": "\ud83c\udfaf Bounty Alert: 12 New Opportunityies found",
+      "raw_reward_currency": "USD",
+      "raw_reward_amount": 250.0,
+      "estimated_hours_to_solve": 6.0,
+      "live_usd_exchange_rate": 1.0,
+      "total_usd_value": 250.0,
+      "roi_usd_per_hour": 41.67,
+      "agent_directive": "STANDARD: Profitable target at $41.67/hr. Queue for execution."
     },
     {
       "issue_url": "https://github.com/alfrexo95/bounty-bot/issues/52",
@@ -179,9 +251,9 @@
       "agent_directive": "LOW YIELD: Secondary priority at $25.00/hr."
     },
     {
-      "issue_url": "https://github.com/v-jitenderpalsingh/test-java/issues/3",
-      "repository": "v-jitenderpalsingh/test-java",
-      "title": "Reproducing Java Bounty Issue",
+      "issue_url": "https://github.com/GamerdexApp/whiteout-survival-tracker/issues/26",
+      "repository": "GamerdexApp/whiteout-survival-tracker",
+      "title": "Tundra Album: Spectacular Adventures / Bounty Hunter missing piece images",
       "raw_reward_currency": "USD",
       "raw_reward_amount": 50.0,
       "estimated_hours_to_solve": 2.0,
@@ -191,9 +263,21 @@
       "agent_directive": "LOW YIELD: Secondary priority at $25.00/hr."
     },
     {
-      "issue_url": "https://github.com/paraloom-labs/paraloom-wallet/issues/159",
-      "repository": "paraloom-labs/paraloom-wallet",
-      "title": "[BOUNTY] Medium: Token-input private swaps omit phantom-note reconciliation before gas spend and fail to populate native SOL round-trip reshield status",
+      "issue_url": "https://github.com/WyattLeoz/cs467-a3-prometheus-triage/issues/120",
+      "repository": "WyattLeoz/cs467-a3-prometheus-triage",
+      "title": "\ud83d\udca1 Bounty Platform for Prometheus",
+      "raw_reward_currency": "USD",
+      "raw_reward_amount": 50.0,
+      "estimated_hours_to_solve": 2.0,
+      "live_usd_exchange_rate": 1.0,
+      "total_usd_value": 50.0,
+      "roi_usd_per_hour": 25.0,
+      "agent_directive": "LOW YIELD: Secondary priority at $25.00/hr."
+    },
+    {
+      "issue_url": "https://github.com/paraloom-labs/paraloom-core/issues/1258",
+      "repository": "paraloom-labs/paraloom-core",
+      "title": "[BOUNTY] Medium: Missing init_asset_vault, set_asset_deposit_cap, and set_min_token_stake instruction builders, discriminators, and derive_asset_config in bridge::solana",
       "raw_reward_currency": "USD",
       "raw_reward_amount": 150.0,
       "estimated_hours_to_solve": 6.0,
@@ -203,33 +287,21 @@
       "agent_directive": "LOW YIELD: Secondary priority at $25.00/hr."
     },
     {
-      "issue_url": "https://github.com/RSPSApp/tsps/issues/1467",
-      "repository": "RSPSApp/tsps",
-      "title": "[Bug]: Bounty hunter suggestions and bugs",
+      "issue_url": "https://github.com/paraloom-labs/paraloom-wallet/issues/173",
+      "repository": "paraloom-labs/paraloom-wallet",
+      "title": "[BOUNTY] Medium: Empty-signature note wipe in markNoteSpent and v2 136-hex shielded address rejection in shieldedAddressToBytes",
       "raw_reward_currency": "USD",
-      "raw_reward_amount": 50.0,
-      "estimated_hours_to_solve": 2.0,
+      "raw_reward_amount": 150.0,
+      "estimated_hours_to_solve": 6.0,
       "live_usd_exchange_rate": 1.0,
-      "total_usd_value": 50.0,
+      "total_usd_value": 150.0,
       "roi_usd_per_hour": 25.0,
       "agent_directive": "LOW YIELD: Secondary priority at $25.00/hr."
     },
     {
-      "issue_url": "https://github.com/kodaksax/Bounty-production/issues/957",
-      "repository": "kodaksax/Bounty-production",
-      "title": "Despite badge claiming \"unfunded\" a bounty throws when I try to cancel it",
-      "raw_reward_currency": "USD",
-      "raw_reward_amount": 50.0,
-      "estimated_hours_to_solve": 2.0,
-      "live_usd_exchange_rate": 1.0,
-      "total_usd_value": 50.0,
-      "roi_usd_per_hour": 25.0,
-      "agent_directive": "LOW YIELD: Secondary priority at $25.00/hr."
-    },
-    {
-      "issue_url": "https://github.com/abdulsalam-create/bounty-watch/issues/183",
-      "repository": "abdulsalam-create/bounty-watch",
-      "title": "bounty-watch 2026-10-27: 0 new, 0 resumed, 2 watchlist changes",
+      "issue_url": "https://github.com/v-jitenderpalsingh/test-java/issues/3",
+      "repository": "v-jitenderpalsingh/test-java",
+      "title": "Reproducing Java Bounty Issue",
       "raw_reward_currency": "USD",
       "raw_reward_amount": 50.0,
       "estimated_hours_to_solve": 2.0,
@@ -299,9 +371,9 @@
       "agent_directive": "LOW YIELD: Secondary priority at $14.29/hr."
     },
     {
-      "issue_url": "https://github.com/hanzoai/agents/issues/8",
-      "repository": "hanzoai/agents",
-      "title": "Make the agent counts in README.md match the files",
+      "issue_url": "https://github.com/abdulsalam-create/bounty-watch/issues/186",
+      "repository": "abdulsalam-create/bounty-watch",
+      "title": "Scope digest 2026-10-28: 16 changes across 9 bounty programs",
       "raw_reward_currency": "USD",
       "raw_reward_amount": 50.0,
       "estimated_hours_to_solve": 3.5,
@@ -311,9 +383,33 @@
       "agent_directive": "LOW YIELD: Secondary priority at $14.29/hr."
     },
     {
-      "issue_url": "https://github.com/hanzoai/agents/issues/7",
-      "repository": "hanzoai/agents",
-      "title": "Fix 9 broken relative links in the examples and Go SDK READMEs",
+      "issue_url": "https://github.com/abdulsalam-create/bounty-watch/issues/185",
+      "repository": "abdulsalam-create/bounty-watch",
+      "title": "bounty-watch 2026-10-28: 1 new, 0 resumed, 5 watchlist changes",
+      "raw_reward_currency": "USD",
+      "raw_reward_amount": 50.0,
+      "estimated_hours_to_solve": 3.5,
+      "live_usd_exchange_rate": 1.0,
+      "total_usd_value": 50.0,
+      "roi_usd_per_hour": 14.29,
+      "agent_directive": "LOW YIELD: Secondary priority at $14.29/hr."
+    },
+    {
+      "issue_url": "https://github.com/kellan/outlanders2-wiki/issues/75",
+      "repository": "kellan/outlanders2-wiki",
+      "title": "Record the online challenge archive: Original, Redux and Bounty levels with dates",
+      "raw_reward_currency": "USD",
+      "raw_reward_amount": 50.0,
+      "estimated_hours_to_solve": 3.5,
+      "live_usd_exchange_rate": 1.0,
+      "total_usd_value": 50.0,
+      "roi_usd_per_hour": 14.29,
+      "agent_directive": "LOW YIELD: Secondary priority at $14.29/hr."
+    },
+    {
+      "issue_url": "https://github.com/sethwillem-svg/Lord-of-the-Rings-Revival/issues/130",
+      "repository": "sethwillem-svg/Lord-of-the-Rings-Revival",
+      "title": "progression: bounty offers, accept rules, fixed rewards and hints",
       "raw_reward_currency": "USD",
       "raw_reward_amount": 50.0,
       "estimated_hours_to_solve": 3.5,
@@ -335,114 +431,6 @@
       "agent_directive": "LOW YIELD: Secondary priority at $14.29/hr."
     },
     {
-      "issue_url": "https://github.com/dev-kp-eloper/BountyScout/issues/1685",
-      "repository": "dev-kp-eloper/BountyScout",
-      "title": "\ud83c\udfaf Bounty Alert: 8 New Opportunityies found",
-      "raw_reward_currency": "USD",
-      "raw_reward_amount": 50.0,
-      "estimated_hours_to_solve": 3.5,
-      "live_usd_exchange_rate": 1.0,
-      "total_usd_value": 50.0,
-      "roi_usd_per_hour": 14.29,
-      "agent_directive": "LOW YIELD: Secondary priority at $14.29/hr."
-    },
-    {
-      "issue_url": "https://github.com/paraloom-labs/paraloom-prover-wasm/issues/23",
-      "repository": "paraloom-labs/paraloom-prover-wasm",
-      "title": "[BOUNTY] High: mint_to_asset hashes all-zero native SOL mint into stranded SPL asset_id and v3_merkle_path accepts zero, non-canonical, and duplicate leaf commitments",
-      "raw_reward_currency": "USD",
-      "raw_reward_amount": 50.0,
-      "estimated_hours_to_solve": 3.5,
-      "live_usd_exchange_rate": 1.0,
-      "total_usd_value": 50.0,
-      "roi_usd_per_hour": 14.29,
-      "agent_directive": "LOW YIELD: Secondary priority at $14.29/hr."
-    },
-    {
-      "issue_url": "https://github.com/paraloom-labs/paraloom-prover-wasm/issues/21",
-      "repository": "paraloom-labs/paraloom-prover-wasm",
-      "title": "[BOUNTY] High: prove_transact and prove_transfer_v2 accept degenerate zero spend keys and zero output pubkeys/blindings on positive-value notes, permanently burning note balances",
-      "raw_reward_currency": "USD",
-      "raw_reward_amount": 50.0,
-      "estimated_hours_to_solve": 3.5,
-      "live_usd_exchange_rate": 1.0,
-      "total_usd_value": 50.0,
-      "roi_usd_per_hour": 14.29,
-      "agent_directive": "LOW YIELD: Secondary priority at $14.29/hr."
-    },
-    {
-      "issue_url": "https://github.com/BlackAnvilNetwork/BA-Stick/issues/134",
-      "repository": "BlackAnvilNetwork/BA-Stick",
-      "title": "PvP bounty: warp to random Coil Ridge stand; gate zone to marked players only",
-      "raw_reward_currency": "USD",
-      "raw_reward_amount": 50.0,
-      "estimated_hours_to_solve": 3.5,
-      "live_usd_exchange_rate": 1.0,
-      "total_usd_value": 50.0,
-      "roi_usd_per_hour": 14.29,
-      "agent_directive": "LOW YIELD: Secondary priority at $14.29/hr."
-    },
-    {
-      "issue_url": "https://github.com/paraloom-labs/paraloom-wallet/issues/155",
-      "repository": "paraloom-labs/paraloom-wallet",
-      "title": "[BOUNTY] Medium: Onboarding and multi-account switching fail to sync chrome.storage.session and StoredWallet.address, causing background dApp requests to spend from Account 1",
-      "raw_reward_currency": "USD",
-      "raw_reward_amount": 50.0,
-      "estimated_hours_to_solve": 6.0,
-      "live_usd_exchange_rate": 1.0,
-      "total_usd_value": 50.0,
-      "roi_usd_per_hour": 8.33,
-      "agent_directive": "LOW YIELD: Secondary priority at $8.33/hr."
-    },
-    {
-      "issue_url": "https://github.com/paraloom-labs/paraloom-wallet/issues/153",
-      "repository": "paraloom-labs/paraloom-wallet",
-      "title": "[BOUNTY] Medium: Shielded SOL transfer in Home.tsx mixes in unspent SPL token notes and blocks single-note Circuit v3 transfers",
-      "raw_reward_currency": "USD",
-      "raw_reward_amount": 50.0,
-      "estimated_hours_to_solve": 6.0,
-      "live_usd_exchange_rate": 1.0,
-      "total_usd_value": 50.0,
-      "roi_usd_per_hour": 8.33,
-      "agent_directive": "LOW YIELD: Secondary priority at $8.33/hr."
-    },
-    {
-      "issue_url": "https://github.com/Rohank143/BountyScout/issues/29",
-      "repository": "Rohank143/BountyScout",
-      "title": "\ud83c\udfaf Bounty Alert: 13 New Opportunityies found",
-      "raw_reward_currency": "USD",
-      "raw_reward_amount": 50.0,
-      "estimated_hours_to_solve": 6.0,
-      "live_usd_exchange_rate": 1.0,
-      "total_usd_value": 50.0,
-      "roi_usd_per_hour": 8.33,
-      "agent_directive": "LOW YIELD: Secondary priority at $8.33/hr."
-    },
-    {
-      "issue_url": "https://github.com/dev-kp-eloper/BountyScout/issues/1684",
-      "repository": "dev-kp-eloper/BountyScout",
-      "title": "\ud83c\udfaf Bounty Alert: 13 New Opportunityies found",
-      "raw_reward_currency": "USD",
-      "raw_reward_amount": 50.0,
-      "estimated_hours_to_solve": 6.0,
-      "live_usd_exchange_rate": 1.0,
-      "total_usd_value": 50.0,
-      "roi_usd_per_hour": 8.33,
-      "agent_directive": "LOW YIELD: Secondary priority at $8.33/hr."
-    },
-    {
-      "issue_url": "https://github.com/freedom-winds/BountyScout/issues/1337",
-      "repository": "freedom-winds/BountyScout",
-      "title": "\ud83c\udfaf Bounty Alert: 11 New Opportunityies found",
-      "raw_reward_currency": "USD",
-      "raw_reward_amount": 50.0,
-      "estimated_hours_to_solve": 6.0,
-      "live_usd_exchange_rate": 1.0,
-      "total_usd_value": 50.0,
-      "roi_usd_per_hour": 8.33,
-      "agent_directive": "LOW YIELD: Secondary priority at $8.33/hr."
-    },
-    {
       "issue_url": "https://github.com/Rohank143/BountyScout/issues/30",
       "repository": "Rohank143/BountyScout",
       "title": "\ud83c\udfaf Bounty Alert: 9 New Opportunityies found",
@@ -455,28 +443,16 @@
       "agent_directive": "LOW YIELD: Secondary priority at $2.86/hr."
     },
     {
-      "issue_url": "https://github.com/DaltonTheDeveloper/squash-v2-canary-20261027/issues/1",
-      "repository": "DaltonTheDeveloper/squash-v2-canary-20261027",
-      "title": "Release canary: double must multiply by two ($5 Squash bounty)",
+      "issue_url": "https://github.com/SecOpsNews/news/issues/75727",
+      "repository": "SecOpsNews/news",
+      "title": "[HackerNews] Japan's GMO Offers $1 Million Bounty to Catch Hackers Behind FX Trading Cloud Breach",
       "raw_reward_currency": "USD",
-      "raw_reward_amount": 5.0,
-      "estimated_hours_to_solve": 3.5,
+      "raw_reward_amount": 1.0,
+      "estimated_hours_to_solve": 2.0,
       "live_usd_exchange_rate": 1.0,
-      "total_usd_value": 5.0,
-      "roi_usd_per_hour": 1.43,
-      "agent_directive": "LOW YIELD: Secondary priority at $1.43/hr."
-    },
-    {
-      "issue_url": "https://github.com/freedom-winds/BountyScout/issues/1338",
-      "repository": "freedom-winds/BountyScout",
-      "title": "\ud83c\udfaf Bounty Alert: 12 New Opportunityies found",
-      "raw_reward_currency": "USD",
-      "raw_reward_amount": 5.0,
-      "estimated_hours_to_solve": 6.0,
-      "live_usd_exchange_rate": 1.0,
-      "total_usd_value": 5.0,
-      "roi_usd_per_hour": 0.83,
-      "agent_directive": "LOW YIELD: Secondary priority at $0.83/hr."
+      "total_usd_value": 1.0,
+      "roi_usd_per_hour": 0.5,
+      "agent_directive": "LOW YIELD: Secondary priority at $0.50/hr."
     }
   ]
 }
