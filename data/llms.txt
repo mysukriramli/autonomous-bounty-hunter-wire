@@ -38,6 +38,12 @@
 - **Directive:** `EXECUTE: High-yield target at $175.00/hr. Prioritize PR submission.`
 - **Target URL:** [Claim Bounty](https://github.com/WholeTroutMedia/oss-verification-sandbox/issues/2)
 
+### alfrexo95/bounty-bot: 💰 Bounty Seguro ($$250): [Bounty] Preserve RFC 7239 `Forwarded` host author
+- **Reward:** 250.0 USD (USD Value: **$250.00**)
+- **Agent ROI:** **$125.00/hr** (Est. 2.0 hrs)
+- **Directive:** `EXECUTE: High-yield target at $125.00/hr. Prioritize PR submission.`
+- **Target URL:** [Claim Bounty](https://github.com/alfrexo95/bounty-bot/issues/53)
+
 ### zhangjiayang6835-cyber/bounty-plaza: [Bounty] Preserve RFC 7239 `Forwarded` host authority in sub-mounted ASGI `Request.scope_
 - **Reward:** 250.0 USD (USD Value: **$250.00**)
 - **Agent ROI:** **$125.00/hr** (Est. 2.0 hrs)
@@ -49,6 +55,12 @@
 - **Agent ROI:** **$125.00/hr** (Est. 2.0 hrs)
 - **Directive:** `EXECUTE: High-yield target at $125.00/hr. Prioritize PR submission.`
 - **Target URL:** [Claim Bounty](https://github.com/WholeTroutMedia/oss-verification-sandbox/issues/1)
+
+### paraloom-labs/paraloom-wallet: [BOUNTY] Medium: WSOL_MINT is not treated as native SOL in SwapApprove, resumeSwapAtFreshAddress, and recoverReshields
+- **Reward:** 1.0 SOL (USD Value: **$101.90**)
+- **Agent ROI:** **$29.11/hr** (Est. 3.5 hrs)
+- **Directive:** `LOW YIELD: Secondary priority at $29.11/hr.`
+- **Target URL:** [Claim Bounty](https://github.com/paraloom-labs/paraloom-wallet/issues/157)
 
 ### alfrexo95/bounty-bot: 💰 Bounty Seguro (Ver enlace): 💰 Bounty Seguro (Ver enlace): 💰 Bounty Seguro (Ver
 - **Reward:** 50.0 USD (USD Value: **$50.00**)
@@ -74,53 +86,35 @@
 - **Directive:** `LOW YIELD: Secondary priority at $25.00/hr.`
 - **Target URL:** [Claim Bounty](https://github.com/alfrexo95/bounty-bot/issues/49)
 
+### v-jitenderpalsingh/test-java: Reproducing Java Bounty Issue
+- **Reward:** 50.0 USD (USD Value: **$50.00**)
+- **Agent ROI:** **$25.00/hr** (Est. 2.0 hrs)
+- **Directive:** `LOW YIELD: Secondary priority at $25.00/hr.`
+- **Target URL:** [Claim Bounty](https://github.com/v-jitenderpalsingh/test-java/issues/3)
+
+### paraloom-labs/paraloom-wallet: [BOUNTY] Medium: Token-input private swaps omit phantom-note reconciliation before gas spend and fail to populate native SOL round-trip reshield status
+- **Reward:** 150.0 USD (USD Value: **$150.00**)
+- **Agent ROI:** **$25.00/hr** (Est. 6.0 hrs)
+- **Directive:** `LOW YIELD: Secondary priority at $25.00/hr.`
+- **Target URL:** [Claim Bounty](https://github.com/paraloom-labs/paraloom-wallet/issues/159)
+
+### RSPSApp/tsps: [Bug]: Bounty hunter suggestions and bugs
+- **Reward:** 50.0 USD (USD Value: **$50.00**)
+- **Agent ROI:** **$25.00/hr** (Est. 2.0 hrs)
+- **Directive:** `LOW YIELD: Secondary priority at $25.00/hr.`
+- **Target URL:** [Claim Bounty](https://github.com/RSPSApp/tsps/issues/1467)
+
+### kodaksax/Bounty-production: Despite badge claiming "unfunded" a bounty throws when I try to cancel it
+- **Reward:** 50.0 USD (USD Value: **$50.00**)
+- **Agent ROI:** **$25.00/hr** (Est. 2.0 hrs)
+- **Directive:** `LOW YIELD: Secondary priority at $25.00/hr.`
+- **Target URL:** [Claim Bounty](https://github.com/kodaksax/Bounty-production/issues/957)
+
 ### abdulsalam-create/bounty-watch: bounty-watch 2026-10-27: 0 new, 0 resumed, 2 watchlist changes
 - **Reward:** 50.0 USD (USD Value: **$50.00**)
 - **Agent ROI:** **$25.00/hr** (Est. 2.0 hrs)
 - **Directive:** `LOW YIELD: Secondary priority at $25.00/hr.`
 - **Target URL:** [Claim Bounty](https://github.com/abdulsalam-create/bounty-watch/issues/183)
-
-### spoo-vault/spoovault: [Docs/Ecosystem] Security Audit Checklist & Responsible Bug Bounty Guidelines
-- **Reward:** 50.0 USD (USD Value: **$50.00**)
-- **Agent ROI:** **$25.00/hr** (Est. 2.0 hrs)
-- **Directive:** `LOW YIELD: Secondary priority at $25.00/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/spoo-vault/spoovault/issues/354)
-
-### SETTLIX/settlix-contracts: [Enhancement] Add settlement contract security bounty program
-- **Reward:** 50.0 USD (USD Value: **$50.00**)
-- **Agent ROI:** **$25.00/hr** (Est. 2.0 hrs)
-- **Directive:** `LOW YIELD: Secondary priority at $25.00/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/SETTLIX/settlix-contracts/issues/623)
-
-### paraloom-labs/paraloom-core: [BOUNTY] Medium: transact_ingress submit_handler admits oversized proofs, fee-overflow amounts, and zero recipients, causing consensus DoS and on-chain settlement aborts (paraloom-core)
-- **Reward:** 150.0 USD (USD Value: **$150.00**)
-- **Agent ROI:** **$25.00/hr** (Est. 6.0 hrs)
-- **Directive:** `LOW YIELD: Secondary priority at $25.00/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/paraloom-labs/paraloom-core/issues/1247)
-
-### abdulsalam-create/bounty-watch: bounty-watch 2026-10-27: 1 new, 0 resumed, 2 watchlist changes
-- **Reward:** 50.0 USD (USD Value: **$50.00**)
-- **Agent ROI:** **$25.00/hr** (Est. 2.0 hrs)
-- **Directive:** `LOW YIELD: Secondary priority at $25.00/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/abdulsalam-create/bounty-watch/issues/182)
-
-### bujiproject-art/agentmidasopendevteam: Availability inquiry: USD 100 FAQ Manager bounty
-- **Reward:** 50.0 USD (USD Value: **$50.00**)
-- **Agent ROI:** **$25.00/hr** (Est. 2.0 hrs)
-- **Directive:** `LOW YIELD: Secondary priority at $25.00/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/bujiproject-art/agentmidasopendevteam/issues/163)
-
-### paraloom-labs/paraloom-core: [BOUNTY] Medium: Case-insensitive shielded address self-transfer bypass dropping payBlind locally, and non-USDC SPL decimals=0 fallback inflating portfolio USD valuation by 10^6x-10^9x (paraloom-wallet#140)
-- **Reward:** 150.0 USD (USD Value: **$150.00**)
-- **Agent ROI:** **$25.00/hr** (Est. 6.0 hrs)
-- **Directive:** `LOW YIELD: Secondary priority at $25.00/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/paraloom-labs/paraloom-core/issues/1246)
-
-### paraloom-labs/paraloom-wallet: [BOUNTY] Medium: Case-insensitive shielded address self-transfer bypass dropping payBlind locally, and non-USDC SPL decimals=0 fallback inflating portfolio USD valuation by 10^6x-10^9x
-- **Reward:** 150.0 USD (USD Value: **$150.00**)
-- **Agent ROI:** **$25.00/hr** (Est. 6.0 hrs)
-- **Directive:** `LOW YIELD: Secondary priority at $25.00/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/paraloom-labs/paraloom-wallet/issues/140)
 
 ### hanzo-js/sdk: Add the LICENSE file the README links to
 - **Reward:** 50.0 USD (USD Value: **$50.00**)
@@ -151,3 +145,9 @@
 - **Agent ROI:** **$14.29/hr** (Est. 3.5 hrs)
 - **Directive:** `LOW YIELD: Secondary priority at $14.29/hr.`
 - **Target URL:** [Claim Bounty](https://github.com/hanzoai/agents/issues/9)
+
+### hanzoai/agents: Make the agent counts in README.md match the files
+- **Reward:** 50.0 USD (USD Value: **$50.00**)
+- **Agent ROI:** **$14.29/hr** (Est. 3.5 hrs)
+- **Directive:** `LOW YIELD: Secondary priority at $14.29/hr.`
+- **Target URL:** [Claim Bounty](https://github.com/hanzoai/agents/issues/8)
