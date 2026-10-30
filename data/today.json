@@ -1,12 +1,12 @@
 {
   "metadata": {
-    "generated_at": "2026-10-29T22:57:27.484903+00:00",
+    "generated_at": "2026-10-30T06:24:04.442502+00:00",
     "data_sources": [
       "GitHub Search API",
       "CoinGecko V3 API",
       "Semantic Extraction"
     ],
-    "total_bounties_indexed": 37,
+    "total_bounties_indexed": 36,
     "schema_version": "1.0.0"
   },
   "bounty_targets": [
@@ -35,16 +35,16 @@
       "agent_directive": "EXECUTE: High-yield target at $3333.33/hr. Prioritize PR submission."
     },
     {
-      "issue_url": "https://github.com/airdropia/earn-ops/issues/24",
-      "repository": "airdropia/earn-ops",
-      "title": "bounty digest 2026-10-29",
+      "issue_url": "https://github.com/Rohank143/BountyScout/issues/41",
+      "repository": "Rohank143/BountyScout",
+      "title": "\ud83c\udfaf Bounty Alert: 7 New Opportunityies found",
       "raw_reward_currency": "USD",
-      "raw_reward_amount": 1000.0,
+      "raw_reward_amount": 1500.0,
       "estimated_hours_to_solve": 3.5,
       "live_usd_exchange_rate": 1.0,
-      "total_usd_value": 1000.0,
-      "roi_usd_per_hour": 285.71,
-      "agent_directive": "EXECUTE: High-yield target at $285.71/hr. Prioritize PR submission."
+      "total_usd_value": 1500.0,
+      "roi_usd_per_hour": 428.57,
+      "agent_directive": "EXECUTE: High-yield target at $428.57/hr. Prioritize PR submission."
     },
     {
       "issue_url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4142",
@@ -191,6 +191,30 @@
       "agent_directive": "STANDARD: Profitable target at $71.43/hr. Queue for execution."
     },
     {
+      "issue_url": "https://github.com/Rohank143/BountyScout/issues/39",
+      "repository": "Rohank143/BountyScout",
+      "title": "\ud83c\udfaf Bounty Alert: 12 New Opportunityies found",
+      "raw_reward_currency": "USD",
+      "raw_reward_amount": 200.0,
+      "estimated_hours_to_solve": 6.0,
+      "live_usd_exchange_rate": 1.0,
+      "total_usd_value": 200.0,
+      "roi_usd_per_hour": 33.33,
+      "agent_directive": "LOW YIELD: Secondary priority at $33.33/hr."
+    },
+    {
+      "issue_url": "https://github.com/alfrexo95/bounty-bot/issues/65",
+      "repository": "alfrexo95/bounty-bot",
+      "title": "\ud83d\udcb0 Bounty Seguro (Ver enlace): \ud83d\udcb0 Bounty Seguro (Ver enlace): \ud83e\ude99 [Web3] bounty: [le",
+      "raw_reward_currency": "USD",
+      "raw_reward_amount": 50.0,
+      "estimated_hours_to_solve": 2.0,
+      "live_usd_exchange_rate": 1.0,
+      "total_usd_value": 50.0,
+      "roi_usd_per_hour": 25.0,
+      "agent_directive": "LOW YIELD: Secondary priority at $25.00/hr."
+    },
+    {
       "issue_url": "https://github.com/alfrexo95/bounty-bot/issues/64",
       "repository": "alfrexo95/bounty-bot",
       "title": "\ud83d\udcb0 Bounty Seguro (Ver enlace): \ud83e\ude99 [Web3] bounty: [level:critical] Agentic Self-Hea",
@@ -239,9 +263,9 @@
       "agent_directive": "LOW YIELD: Secondary priority at $25.00/hr."
     },
     {
-      "issue_url": "https://github.com/alfrexo95/bounty-bot/issues/51",
-      "repository": "alfrexo95/bounty-bot",
-      "title": "\ud83d\udcb0 Bounty Seguro (Ver enlace): \ud83d\udcb0 Bounty Seguro (Ver enlace): \ud83d\udcb0 Bounty Seguro (Ver",
+      "issue_url": "https://github.com/young1lin/notes/issues/2",
+      "repository": "young1lin/notes",
+      "title": "Agent Bounty Feed: 5-minute agent earn guide + abf_client.py",
       "raw_reward_currency": "USD",
       "raw_reward_amount": 50.0,
       "estimated_hours_to_solve": 2.0,
@@ -287,6 +311,18 @@
       "agent_directive": "LOW YIELD: Secondary priority at $14.29/hr."
     },
     {
+      "issue_url": "https://github.com/abdulsalam-create/bounty-watch/issues/194",
+      "repository": "abdulsalam-create/bounty-watch",
+      "title": "bounty-watch 2026-10-30: 0 new, 0 resumed, 5 watchlist changes",
+      "raw_reward_currency": "USD",
+      "raw_reward_amount": 50.0,
+      "estimated_hours_to_solve": 3.5,
+      "live_usd_exchange_rate": 1.0,
+      "total_usd_value": 50.0,
+      "roi_usd_per_hour": 14.29,
+      "agent_directive": "LOW YIELD: Secondary priority at $14.29/hr."
+    },
+    {
       "issue_url": "https://github.com/abdulsalam-create/bounty-watch/issues/193",
       "repository": "abdulsalam-create/bounty-watch",
       "title": "bounty-watch 2026-10-29: 1 new, 0 resumed, 3 watchlist changes",
@@ -314,30 +350,6 @@
       "issue_url": "https://github.com/Sidiora-Labs/paxeer-monorepo/issues/1232",
       "repository": "Sidiora-Labs/paxeer-monorepo",
       "title": "Conflicting Security Policies: No Bug Bounty vs. Advertised Rewards ($50k)",
-      "raw_reward_currency": "USD",
-      "raw_reward_amount": 50.0,
-      "estimated_hours_to_solve": 3.5,
-      "live_usd_exchange_rate": 1.0,
-      "total_usd_value": 50.0,
-      "roi_usd_per_hour": 14.29,
-      "agent_directive": "LOW YIELD: Secondary priority at $14.29/hr."
-    },
-    {
-      "issue_url": "https://github.com/abdulsalam-create/bounty-watch/issues/191",
-      "repository": "abdulsalam-create/bounty-watch",
-      "title": "Scope digest 2026-10-29: 11 changes across 5 bounty programs",
-      "raw_reward_currency": "USD",
-      "raw_reward_amount": 50.0,
-      "estimated_hours_to_solve": 3.5,
-      "live_usd_exchange_rate": 1.0,
-      "total_usd_value": 50.0,
-      "roi_usd_per_hour": 14.29,
-      "agent_directive": "LOW YIELD: Secondary priority at $14.29/hr."
-    },
-    {
-      "issue_url": "https://github.com/abdulsalam-create/bounty-watch/issues/190",
-      "repository": "abdulsalam-create/bounty-watch",
-      "title": "bounty-watch 2026-10-29: 0 new, 1 resumed, 4 watchlist changes",
       "raw_reward_currency": "USD",
       "raw_reward_amount": 50.0,
       "estimated_hours_to_solve": 3.5,
@@ -407,52 +419,28 @@
       "agent_directive": "LOW YIELD: Secondary priority at $8.33/hr."
     },
     {
-      "issue_url": "https://github.com/grwtsk/math/issues/1456",
-      "repository": "grwtsk/math",
-      "title": "Apply evidence, novelty, bounty and submission requirements across all problem work",
+      "issue_url": "https://github.com/freedom-winds/BountyScout/issues/1351",
+      "repository": "freedom-winds/BountyScout",
+      "title": "\ud83c\udfaf Bounty Alert: 8 New Opportunityies found",
       "raw_reward_currency": "USD",
-      "raw_reward_amount": 50.0,
-      "estimated_hours_to_solve": 6.0,
+      "raw_reward_amount": 3.01,
+      "estimated_hours_to_solve": 3.5,
       "live_usd_exchange_rate": 1.0,
-      "total_usd_value": 50.0,
-      "roi_usd_per_hour": 8.33,
-      "agent_directive": "LOW YIELD: Secondary priority at $8.33/hr."
+      "total_usd_value": 3.01,
+      "roi_usd_per_hour": 0.86,
+      "agent_directive": "LOW YIELD: Secondary priority at $0.86/hr."
     },
     {
-      "issue_url": "https://github.com/mattpetters/shannon/issues/1",
-      "repository": "mattpetters/shannon",
-      "title": "Black-box capability + hard RoE guardrail for authorized bounty use",
+      "issue_url": "https://github.com/dev-kp-eloper/BountyScout/issues/1697",
+      "repository": "dev-kp-eloper/BountyScout",
+      "title": "\ud83c\udfaf Bounty Alert: 10 New Opportunityies found",
       "raw_reward_currency": "USD",
-      "raw_reward_amount": 50.0,
+      "raw_reward_amount": 3.01,
       "estimated_hours_to_solve": 6.0,
       "live_usd_exchange_rate": 1.0,
-      "total_usd_value": 50.0,
-      "roi_usd_per_hour": 8.33,
-      "agent_directive": "LOW YIELD: Secondary priority at $8.33/hr."
-    },
-    {
-      "issue_url": "https://github.com/jdhart81/viridis-canon/issues/179",
-      "repository": "jdhart81/viridis-canon",
-      "title": "[bounty] Run-127: capacity_reserve_fraction_eq (C2) omits 0 <= sigma and 0 < alpha < 1 (yielding reserve fraction = 1 for alpha >= 1 or <= 0 and > 1 for sigma < 0), plus theta-independent C4 construction and unexhibited C3/C4 non-vacuity witnesses",
-      "raw_reward_currency": "USD",
-      "raw_reward_amount": 50.0,
-      "estimated_hours_to_solve": 6.0,
-      "live_usd_exchange_rate": 1.0,
-      "total_usd_value": 50.0,
-      "roi_usd_per_hour": 8.33,
-      "agent_directive": "LOW YIELD: Secondary priority at $8.33/hr."
-    },
-    {
-      "issue_url": "https://github.com/jdhart81/viridis-canon/issues/178",
-      "repository": "jdhart81/viridis-canon",
-      "title": "[bounty] Run-133: corridor_overlap_nonvacuous never invokes target theorems; C4 omits disjoint-path clause; C3 leaves qShared unused",
-      "raw_reward_currency": "USD",
-      "raw_reward_amount": 50.0,
-      "estimated_hours_to_solve": 6.0,
-      "live_usd_exchange_rate": 1.0,
-      "total_usd_value": 50.0,
-      "roi_usd_per_hour": 8.33,
-      "agent_directive": "LOW YIELD: Secondary priority at $8.33/hr."
+      "total_usd_value": 3.01,
+      "roi_usd_per_hour": 0.5,
+      "agent_directive": "LOW YIELD: Secondary priority at $0.50/hr."
     }
   ]
 }

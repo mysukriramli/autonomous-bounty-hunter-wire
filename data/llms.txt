@@ -14,11 +14,11 @@
 - **Directive:** `EXECUTE: High-yield target at $3333.33/hr. Prioritize PR submission.`
 - **Target URL:** [Claim Bounty](https://github.com/freedom-winds/BountyScout/issues/1347)
 
-### airdropia/earn-ops: bounty digest 2026-10-29
-- **Reward:** 1000.0 USD (USD Value: **$1,000.00**)
-- **Agent ROI:** **$285.71/hr** (Est. 3.5 hrs)
-- **Directive:** `EXECUTE: High-yield target at $285.71/hr. Prioritize PR submission.`
-- **Target URL:** [Claim Bounty](https://github.com/airdropia/earn-ops/issues/24)
+### Rohank143/BountyScout: 🎯 Bounty Alert: 7 New Opportunityies found
+- **Reward:** 1500.0 USD (USD Value: **$1,500.00**)
+- **Agent ROI:** **$428.57/hr** (Est. 3.5 hrs)
+- **Directive:** `EXECUTE: High-yield target at $428.57/hr. Prioritize PR submission.`
+- **Target URL:** [Claim Bounty](https://github.com/Rohank143/BountyScout/issues/41)
 
 ### zhangjiayang6835-cyber/bounty-plaza: [Bounty] Flush buffered window elements when `_quorum_epoch_barrier_7c2b` timer preempts 
 - **Reward:** 350.0 USD (USD Value: **$350.00**)
@@ -92,6 +92,18 @@
 - **Directive:** `STANDARD: Profitable target at $71.43/hr. Queue for execution.`
 - **Target URL:** [Claim Bounty](https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4152)
 
+### Rohank143/BountyScout: 🎯 Bounty Alert: 12 New Opportunityies found
+- **Reward:** 200.0 USD (USD Value: **$200.00**)
+- **Agent ROI:** **$33.33/hr** (Est. 6.0 hrs)
+- **Directive:** `LOW YIELD: Secondary priority at $33.33/hr.`
+- **Target URL:** [Claim Bounty](https://github.com/Rohank143/BountyScout/issues/39)
+
+### alfrexo95/bounty-bot: 💰 Bounty Seguro (Ver enlace): 💰 Bounty Seguro (Ver enlace): 🪙 [Web3] bounty: [le
+- **Reward:** 50.0 USD (USD Value: **$50.00**)
+- **Agent ROI:** **$25.00/hr** (Est. 2.0 hrs)
+- **Directive:** `LOW YIELD: Secondary priority at $25.00/hr.`
+- **Target URL:** [Claim Bounty](https://github.com/alfrexo95/bounty-bot/issues/65)
+
 ### alfrexo95/bounty-bot: 💰 Bounty Seguro (Ver enlace): 🪙 [Web3] bounty: [level:critical] Agentic Self-Hea
 - **Reward:** 50.0 USD (USD Value: **$50.00**)
 - **Agent ROI:** **$25.00/hr** (Est. 2.0 hrs)
@@ -116,11 +128,11 @@
 - **Directive:** `LOW YIELD: Secondary priority at $25.00/hr.`
 - **Target URL:** [Claim Bounty](https://github.com/alfrexo95/bounty-bot/issues/52)
 
-### alfrexo95/bounty-bot: 💰 Bounty Seguro (Ver enlace): 💰 Bounty Seguro (Ver enlace): 💰 Bounty Seguro (Ver
+### young1lin/notes: Agent Bounty Feed: 5-minute agent earn guide + abf_client.py
 - **Reward:** 50.0 USD (USD Value: **$50.00**)
 - **Agent ROI:** **$25.00/hr** (Est. 2.0 hrs)
 - **Directive:** `LOW YIELD: Secondary priority at $25.00/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/alfrexo95/bounty-bot/issues/51)
+- **Target URL:** [Claim Bounty](https://github.com/young1lin/notes/issues/2)
 
 ### HexaHexes/infinite-dungeon: Bounties from Bountiful, presented by Adventurer Rank
 - **Reward:** 50.0 USD (USD Value: **$50.00**)
@@ -139,15 +151,3 @@
 - **Agent ROI:** **$14.29/hr** (Est. 3.5 hrs)
 - **Directive:** `LOW YIELD: Secondary priority at $14.29/hr.`
 - **Target URL:** [Claim Bounty](https://github.com/riteshbonthalakoti/HELPDESK.AI/issues/4115)
-
-### abdulsalam-create/bounty-watch: bounty-watch 2026-10-29: 1 new, 0 resumed, 3 watchlist changes
-- **Reward:** 50.0 USD (USD Value: **$50.00**)
-- **Agent ROI:** **$14.29/hr** (Est. 3.5 hrs)
-- **Directive:** `LOW YIELD: Secondary priority at $14.29/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/abdulsalam-create/bounty-watch/issues/193)
-
-### freedom-winds/BountyScout: 🎯 Bounty Alert: 5 New Opportunityies found
-- **Reward:** 50.0 USD (USD Value: **$50.00**)
-- **Agent ROI:** **$14.29/hr** (Est. 3.5 hrs)
-- **Directive:** `LOW YIELD: Secondary priority at $14.29/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/freedom-winds/BountyScout/issues/1349)
