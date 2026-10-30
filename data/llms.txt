@@ -2,23 +2,23 @@
 > Live cross-referencing of open GitHub bounties and live cryptocurrency markets to calculate maximum USD/Hour ROI.
 
 ## Top High-Yield Targets
-### Rohank143/BountyScout: 🎯 Bounty Alert: 7 New Opportunityies found
-- **Reward:** 1500.0 USD (USD Value: **$1,500.00**)
-- **Agent ROI:** **$428.57/hr** (Est. 3.5 hrs)
-- **Directive:** `EXECUTE: High-yield target at $428.57/hr. Prioritize PR submission.`
-- **Target URL:** [Claim Bounty](https://github.com/Rohank143/BountyScout/issues/41)
+### eleectrum/eleectrum.github.io: $1000 Bounty
+- **Reward:** 1000.0 USD (USD Value: **$1,000.00**)
+- **Agent ROI:** **$500.00/hr** (Est. 2.0 hrs)
+- **Directive:** `EXECUTE: High-yield target at $500.00/hr. Prioritize PR submission.`
+- **Target URL:** [Claim Bounty](https://github.com/eleectrum/eleectrum.github.io/issues/1)
 
-### zhangjiayang6835-cyber/bounty-plaza: [Bounty] Flush buffered window elements when `_quorum_epoch_barrier_7c2b` timer preempts 
-- **Reward:** 350.0 USD (USD Value: **$350.00**)
-- **Agent ROI:** **$175.00/hr** (Est. 2.0 hrs)
-- **Directive:** `EXECUTE: High-yield target at $175.00/hr. Prioritize PR submission.`
-- **Target URL:** [Claim Bounty](https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4142)
+### alfrexo95/bounty-bot: 💰 Bounty Seguro ($$750): [Bounty] [Bounty $750] Improve Qwen3-TTS Code Pred
+- **Reward:** 750.0 USD (USD Value: **$750.00**)
+- **Agent ROI:** **$375.00/hr** (Est. 2.0 hrs)
+- **Directive:** `EXECUTE: High-yield target at $375.00/hr. Prioritize PR submission.`
+- **Target URL:** [Claim Bounty](https://github.com/alfrexo95/bounty-bot/issues/68)
 
-### WholeTroutMedia/oss-verification-sandbox: Flush buffered window elements when `_quorum_epoch_barrier_7c2b` timer preempts idle pull
-- **Reward:** 350.0 USD (USD Value: **$350.00**)
-- **Agent ROI:** **$175.00/hr** (Est. 2.0 hrs)
-- **Directive:** `EXECUTE: High-yield target at $175.00/hr. Prioritize PR submission.`
-- **Target URL:** [Claim Bounty](https://github.com/WholeTroutMedia/oss-verification-sandbox/issues/2)
+### zhangjiayang6835-cyber/bounty-plaza: [Bounty] [Bounty $750] Improve Qwen3-TTS Code Predictor Accuracy
+- **Reward:** 750.0 USD (USD Value: **$750.00**)
+- **Agent ROI:** **$214.29/hr** (Est. 3.5 hrs)
+- **Directive:** `EXECUTE: High-yield target at $214.29/hr. Prioritize PR submission.`
+- **Target URL:** [Claim Bounty](https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4187)
 
 ### alfrexo95/bounty-bot: 💰 Bounty Seguro ($$250): [Bounty] 💰 Bounty Seguro ($$250): [Bounty] 💰 Bount
 - **Reward:** 250.0 USD (USD Value: **$250.00**)
@@ -44,23 +44,17 @@
 - **Directive:** `EXECUTE: High-yield target at $125.00/hr. Prioritize PR submission.`
 - **Target URL:** [Claim Bounty](https://github.com/alfrexo95/bounty-bot/issues/54)
 
-### alfrexo95/bounty-bot: 💰 Bounty Seguro ($$250): [Bounty] Preserve RFC 7239 `Forwarded` host author
-- **Reward:** 250.0 USD (USD Value: **$250.00**)
-- **Agent ROI:** **$125.00/hr** (Est. 2.0 hrs)
+### dev-kp-eloper/BountyScout: 🎯 Bounty Alert: 13 New Opportunityies found
+- **Reward:** 750.0 USD (USD Value: **$750.00**)
+- **Agent ROI:** **$125.00/hr** (Est. 6.0 hrs)
 - **Directive:** `EXECUTE: High-yield target at $125.00/hr. Prioritize PR submission.`
-- **Target URL:** [Claim Bounty](https://github.com/alfrexo95/bounty-bot/issues/53)
+- **Target URL:** [Claim Bounty](https://github.com/dev-kp-eloper/BountyScout/issues/1702)
 
-### zhangjiayang6835-cyber/bounty-plaza: [Bounty] Preserve RFC 7239 `Forwarded` host authority in sub-mounted ASGI `Request.scope_
-- **Reward:** 250.0 USD (USD Value: **$250.00**)
-- **Agent ROI:** **$125.00/hr** (Est. 2.0 hrs)
+### freedom-winds/BountyScout: 🎯 Bounty Alert: 13 New Opportunityies found
+- **Reward:** 750.0 USD (USD Value: **$750.00**)
+- **Agent ROI:** **$125.00/hr** (Est. 6.0 hrs)
 - **Directive:** `EXECUTE: High-yield target at $125.00/hr. Prioritize PR submission.`
-- **Target URL:** [Claim Bounty](https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4143)
-
-### WholeTroutMedia/oss-verification-sandbox: Preserve RFC 7239 `Forwarded` host authority in sub-mounted ASGI `Request.scope_for`
-- **Reward:** 250.0 USD (USD Value: **$250.00**)
-- **Agent ROI:** **$125.00/hr** (Est. 2.0 hrs)
-- **Directive:** `EXECUTE: High-yield target at $125.00/hr. Prioritize PR submission.`
-- **Target URL:** [Claim Bounty](https://github.com/WholeTroutMedia/oss-verification-sandbox/issues/1)
+- **Target URL:** [Claim Bounty](https://github.com/freedom-winds/BountyScout/issues/1355)
 
 ### zhangjiayang6835-cyber/bounty-plaza: [Bounty] 💰 Bounty Seguro ($$250): [Bounty] 💰 Bounty Seguro ($$250): 💰 Bounty Seguro 
 - **Reward:** 250.0 USD (USD Value: **$250.00**)
@@ -80,17 +74,11 @@
 - **Directive:** `STANDARD: Profitable target at $71.43/hr. Queue for execution.`
 - **Target URL:** [Claim Bounty](https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4152)
 
-### airdropia/earn-ops: bounty digest 2026-10-30
-- **Reward:** 250.0 USD (USD Value: **$250.00**)
-- **Agent ROI:** **$71.43/hr** (Est. 3.5 hrs)
-- **Directive:** `STANDARD: Profitable target at $71.43/hr. Queue for execution.`
-- **Target URL:** [Claim Bounty](https://github.com/airdropia/earn-ops/issues/27)
-
-### Rohank143/BountyScout: 🎯 Bounty Alert: 12 New Opportunityies found
-- **Reward:** 200.0 USD (USD Value: **$200.00**)
-- **Agent ROI:** **$33.33/hr** (Est. 6.0 hrs)
-- **Directive:** `LOW YIELD: Secondary priority at $33.33/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/Rohank143/BountyScout/issues/39)
+### alfrexo95/bounty-bot: 💰 Bounty Seguro (Ver enlace): 💰 Bounty Seguro (Ver enlace): 💰 Bounty Seguro (Ver
+- **Reward:** 50.0 USD (USD Value: **$50.00**)
+- **Agent ROI:** **$25.00/hr** (Est. 2.0 hrs)
+- **Directive:** `LOW YIELD: Secondary priority at $25.00/hr.`
+- **Target URL:** [Claim Bounty](https://github.com/alfrexo95/bounty-bot/issues/67)
 
 ### alfrexo95/bounty-bot: 💰 Bounty Seguro (Ver enlace): 💰 Bounty Seguro (Ver enlace): 💰 Bounty Seguro (Ver
 - **Reward:** 50.0 USD (USD Value: **$50.00**)
@@ -122,32 +110,44 @@
 - **Directive:** `LOW YIELD: Secondary priority at $25.00/hr.`
 - **Target URL:** [Claim Bounty](https://github.com/alfrexo95/bounty-bot/issues/62)
 
-### alfrexo95/bounty-bot: 💰 Bounty Seguro (Ver enlace): 💰 Bounty Seguro (Ver enlace): 💰 Bounty Seguro (Ver
+### glunk-works/global-bootstrap: Threat model: record that bounty-infra's apply role trusts only Environment subjects (GB-D9)
 - **Reward:** 50.0 USD (USD Value: **$50.00**)
 - **Agent ROI:** **$25.00/hr** (Est. 2.0 hrs)
 - **Directive:** `LOW YIELD: Secondary priority at $25.00/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/alfrexo95/bounty-bot/issues/52)
+- **Target URL:** [Claim Bounty](https://github.com/glunk-works/global-bootstrap/issues/73)
 
-### abdulsalam-create/bounty-watch: bounty-watch 2026-10-30: 0 new, 0 resumed, 1 watchlist changes
+### glunk-works/global-bootstrap: GB-D8: confirm the operator IP and SSH key locations once bounty-infra moves off Infisical
 - **Reward:** 50.0 USD (USD Value: **$50.00**)
 - **Agent ROI:** **$25.00/hr** (Est. 2.0 hrs)
 - **Directive:** `LOW YIELD: Secondary priority at $25.00/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/abdulsalam-create/bounty-watch/issues/195)
+- **Target URL:** [Claim Bounty](https://github.com/glunk-works/global-bootstrap/issues/71)
 
-### anthropics/claude-code: [Bug] Model classifier over-triggers on legitimate bug bounty work
+### glunk-works/global-bootstrap: bounty_infra_secrets: document what to supply for the secret vars on non-rotating applies
 - **Reward:** 50.0 USD (USD Value: **$50.00**)
 - **Agent ROI:** **$25.00/hr** (Est. 2.0 hrs)
 - **Directive:** `LOW YIELD: Secondary priority at $25.00/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/anthropics/claude-code/issues/106189)
+- **Target URL:** [Claim Bounty](https://github.com/glunk-works/global-bootstrap/issues/69)
 
-### cashdvs/rogue-craps: Phone framing: dice land under TRIPS bounty card and on seal row (844x390)
+### glunk-works/global-bootstrap: infra: every plan/apply now needs the three bounty-infra secret values
 - **Reward:** 50.0 USD (USD Value: **$50.00**)
 - **Agent ROI:** **$25.00/hr** (Est. 2.0 hrs)
 - **Directive:** `LOW YIELD: Secondary priority at $25.00/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/cashdvs/rogue-craps/issues/204)
+- **Target URL:** [Claim Bounty](https://github.com/glunk-works/global-bootstrap/issues/65)
 
-### anthropics/claude-code: [Bug] Mythos 5.1 Repeatedly Flags Bug Bounty Work Under CVP Defensive Tier
+### glunk-works/global-bootstrap: Document that every global-bootstrap apply now needs bounty-infra's three secret values
 - **Reward:** 50.0 USD (USD Value: **$50.00**)
 - **Agent ROI:** **$25.00/hr** (Est. 2.0 hrs)
 - **Directive:** `LOW YIELD: Secondary priority at $25.00/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/anthropics/claude-code/issues/106181)
+- **Target URL:** [Claim Bounty](https://github.com/glunk-works/global-bootstrap/issues/62)
+
+### abdulsalam-create/bounty-watch: bounty-watch 2026-10-30: 0 new, 0 resumed, 4 watchlist changes
+- **Reward:** 50.0 USD (USD Value: **$50.00**)
+- **Agent ROI:** **$14.29/hr** (Est. 3.5 hrs)
+- **Directive:** `LOW YIELD: Secondary priority at $14.29/hr.`
+- **Target URL:** [Claim Bounty](https://github.com/abdulsalam-create/bounty-watch/issues/198)
+
+### glunk-works/global-bootstrap: bounty_infra_secrets: aws/ssm alias may have no target key on first apply; Decrypt grant likely redundant
+- **Reward:** 50.0 USD (USD Value: **$50.00**)
+- **Agent ROI:** **$14.29/hr** (Est. 3.5 hrs)
+- **Directive:** `LOW YIELD: Secondary priority at $14.29/hr.`
+- **Target URL:** [Claim Bounty](https://github.com/glunk-works/global-bootstrap/issues/68)
