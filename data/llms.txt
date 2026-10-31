@@ -8,17 +8,35 @@
 - **Directive:** `EXECUTE: High-yield target at $500.00/hr. Prioritize PR submission.`
 - **Target URL:** [Claim Bounty](https://github.com/eleectrum/eleectrum.github.io/issues/1)
 
+### alfrexo95/bounty-bot: 💰 Bounty Seguro ($$750): [Bounty] 💰 Bounty Seguro ($$750): [Bounty] [Bounty
+- **Reward:** 750.0 USD (USD Value: **$750.00**)
+- **Agent ROI:** **$375.00/hr** (Est. 2.0 hrs)
+- **Directive:** `EXECUTE: High-yield target at $375.00/hr. Prioritize PR submission.`
+- **Target URL:** [Claim Bounty](https://github.com/alfrexo95/bounty-bot/issues/69)
+
 ### alfrexo95/bounty-bot: 💰 Bounty Seguro ($$750): [Bounty] [Bounty $750] Improve Qwen3-TTS Code Pred
 - **Reward:** 750.0 USD (USD Value: **$750.00**)
 - **Agent ROI:** **$375.00/hr** (Est. 2.0 hrs)
 - **Directive:** `EXECUTE: High-yield target at $375.00/hr. Prioritize PR submission.`
 - **Target URL:** [Claim Bounty](https://github.com/alfrexo95/bounty-bot/issues/68)
 
+### zhangjiayang6835-cyber/bounty-plaza: [Bounty] 💰 Bounty Seguro ($$750): [Bounty] [Bounty $750] Improve Qwen3-TTS Code Pred
+- **Reward:** 750.0 USD (USD Value: **$750.00**)
+- **Agent ROI:** **$214.29/hr** (Est. 3.5 hrs)
+- **Directive:** `EXECUTE: High-yield target at $214.29/hr. Prioritize PR submission.`
+- **Target URL:** [Claim Bounty](https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4188)
+
 ### zhangjiayang6835-cyber/bounty-plaza: [Bounty] [Bounty $750] Improve Qwen3-TTS Code Predictor Accuracy
 - **Reward:** 750.0 USD (USD Value: **$750.00**)
 - **Agent ROI:** **$214.29/hr** (Est. 3.5 hrs)
 - **Directive:** `EXECUTE: High-yield target at $214.29/hr. Prioritize PR submission.`
 - **Target URL:** [Claim Bounty](https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4187)
+
+### Rohank143/BountyScout: 🎯 Bounty Alert: 6 New Opportunityies found
+- **Reward:** 750.0 USD (USD Value: **$750.00**)
+- **Agent ROI:** **$214.29/hr** (Est. 3.5 hrs)
+- **Directive:** `EXECUTE: High-yield target at $214.29/hr. Prioritize PR submission.`
+- **Target URL:** [Claim Bounty](https://github.com/Rohank143/BountyScout/issues/44)
 
 ### alfrexo95/bounty-bot: 💰 Bounty Seguro ($$250): [Bounty] 💰 Bounty Seguro ($$250): [Bounty] 💰 Bount
 - **Reward:** 250.0 USD (USD Value: **$250.00**)
@@ -37,12 +55,6 @@
 - **Agent ROI:** **$125.00/hr** (Est. 2.0 hrs)
 - **Directive:** `EXECUTE: High-yield target at $125.00/hr. Prioritize PR submission.`
 - **Target URL:** [Claim Bounty](https://github.com/alfrexo95/bounty-bot/issues/56)
-
-### alfrexo95/bounty-bot: 💰 Bounty Seguro ($$250): [Bounty] 💰 Bounty Seguro ($$250): [Bounty] Preserv
-- **Reward:** 250.0 USD (USD Value: **$250.00**)
-- **Agent ROI:** **$125.00/hr** (Est. 2.0 hrs)
-- **Directive:** `EXECUTE: High-yield target at $125.00/hr. Prioritize PR submission.`
-- **Target URL:** [Claim Bounty](https://github.com/alfrexo95/bounty-bot/issues/54)
 
 ### dev-kp-eloper/BountyScout: 🎯 Bounty Alert: 13 New Opportunityies found
 - **Reward:** 750.0 USD (USD Value: **$750.00**)
@@ -67,12 +79,6 @@
 - **Agent ROI:** **$71.43/hr** (Est. 3.5 hrs)
 - **Directive:** `STANDARD: Profitable target at $71.43/hr. Queue for execution.`
 - **Target URL:** [Claim Bounty](https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4168)
-
-### zhangjiayang6835-cyber/bounty-plaza: [Bounty] 💰 Bounty Seguro ($$250): [Bounty] Preserve RFC 7239 `Forwarded` host author
-- **Reward:** 250.0 USD (USD Value: **$250.00**)
-- **Agent ROI:** **$71.43/hr** (Est. 3.5 hrs)
-- **Directive:** `STANDARD: Profitable target at $71.43/hr. Queue for execution.`
-- **Target URL:** [Claim Bounty](https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4152)
 
 ### alfrexo95/bounty-bot: 💰 Bounty Seguro (Ver enlace): 💰 Bounty Seguro (Ver enlace): 💰 Bounty Seguro (Ver
 - **Reward:** 50.0 USD (USD Value: **$50.00**)
@@ -110,35 +116,17 @@
 - **Directive:** `LOW YIELD: Secondary priority at $25.00/hr.`
 - **Target URL:** [Claim Bounty](https://github.com/alfrexo95/bounty-bot/issues/62)
 
-### glunk-works/global-bootstrap: Threat model: record that bounty-infra's apply role trusts only Environment subjects (GB-D9)
+### permission-protocol/deploy-gate: Bounty #36: demo key can sign a production-scoped receipt and bypass the demo refusal
 - **Reward:** 50.0 USD (USD Value: **$50.00**)
-- **Agent ROI:** **$25.00/hr** (Est. 2.0 hrs)
-- **Directive:** `LOW YIELD: Secondary priority at $25.00/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/glunk-works/global-bootstrap/issues/73)
+- **Agent ROI:** **$14.29/hr** (Est. 3.5 hrs)
+- **Directive:** `LOW YIELD: Secondary priority at $14.29/hr.`
+- **Target URL:** [Claim Bounty](https://github.com/permission-protocol/deploy-gate/issues/77)
 
-### glunk-works/global-bootstrap: GB-D8: confirm the operator IP and SSH key locations once bounty-infra moves off Infisical
+### permission-protocol/deploy-gate: Bounty #36: non-injective JSON-RPC call binding accepts two wire shapes for one inputHash
 - **Reward:** 50.0 USD (USD Value: **$50.00**)
-- **Agent ROI:** **$25.00/hr** (Est. 2.0 hrs)
-- **Directive:** `LOW YIELD: Secondary priority at $25.00/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/glunk-works/global-bootstrap/issues/71)
-
-### glunk-works/global-bootstrap: bounty_infra_secrets: document what to supply for the secret vars on non-rotating applies
-- **Reward:** 50.0 USD (USD Value: **$50.00**)
-- **Agent ROI:** **$25.00/hr** (Est. 2.0 hrs)
-- **Directive:** `LOW YIELD: Secondary priority at $25.00/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/glunk-works/global-bootstrap/issues/69)
-
-### glunk-works/global-bootstrap: infra: every plan/apply now needs the three bounty-infra secret values
-- **Reward:** 50.0 USD (USD Value: **$50.00**)
-- **Agent ROI:** **$25.00/hr** (Est. 2.0 hrs)
-- **Directive:** `LOW YIELD: Secondary priority at $25.00/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/glunk-works/global-bootstrap/issues/65)
-
-### glunk-works/global-bootstrap: Document that every global-bootstrap apply now needs bounty-infra's three secret values
-- **Reward:** 50.0 USD (USD Value: **$50.00**)
-- **Agent ROI:** **$25.00/hr** (Est. 2.0 hrs)
-- **Directive:** `LOW YIELD: Secondary priority at $25.00/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/glunk-works/global-bootstrap/issues/62)
+- **Agent ROI:** **$14.29/hr** (Est. 3.5 hrs)
+- **Directive:** `LOW YIELD: Secondary priority at $14.29/hr.`
+- **Target URL:** [Claim Bounty](https://github.com/permission-protocol/deploy-gate/issues/76)
 
 ### abdulsalam-create/bounty-watch: bounty-watch 2026-10-30: 0 new, 0 resumed, 4 watchlist changes
 - **Reward:** 50.0 USD (USD Value: **$50.00**)
@@ -146,8 +134,20 @@
 - **Directive:** `LOW YIELD: Secondary priority at $14.29/hr.`
 - **Target URL:** [Claim Bounty](https://github.com/abdulsalam-create/bounty-watch/issues/198)
 
-### glunk-works/global-bootstrap: bounty_infra_secrets: aws/ssm alias may have no target key on first apply; Decrypt grant likely redundant
+### Ikalus1988/MisakaNet: [Good first issue · Nov 2026] Cover an environment nobody has — one real failure from Cursor / Gemini CLI / Copilot / OpenCode / Kiro / Hermes / OpenClaw / codewhale
 - **Reward:** 50.0 USD (USD Value: **$50.00**)
-- **Agent ROI:** **$14.29/hr** (Est. 3.5 hrs)
-- **Directive:** `LOW YIELD: Secondary priority at $14.29/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/glunk-works/global-bootstrap/issues/68)
+- **Agent ROI:** **$8.33/hr** (Est. 6.0 hrs)
+- **Directive:** `LOW YIELD: Secondary priority at $8.33/hr.`
+- **Target URL:** [Claim Bounty](https://github.com/Ikalus1988/MisakaNet/issues/4187)
+
+### Ikalus1988/MisakaNet: [Bounty] Answer the 2 linked question(s)
+- **Reward:** 50.0 USD (USD Value: **$50.00**)
+- **Agent ROI:** **$8.33/hr** (Est. 6.0 hrs)
+- **Directive:** `LOW YIELD: Secondary priority at $8.33/hr.`
+- **Target URL:** [Claim Bounty](https://github.com/Ikalus1988/MisakaNet/issues/4134)
+
+### Ikalus1988/MisakaNet: [Bounty] Answer the 2 linked question(s)
+- **Reward:** 50.0 USD (USD Value: **$50.00**)
+- **Agent ROI:** **$8.33/hr** (Est. 6.0 hrs)
+- **Directive:** `LOW YIELD: Secondary priority at $8.33/hr.`
+- **Target URL:** [Claim Bounty](https://github.com/Ikalus1988/MisakaNet/issues/4133)
