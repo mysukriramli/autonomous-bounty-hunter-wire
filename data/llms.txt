@@ -20,11 +20,11 @@
 - **Directive:** `EXECUTE: High-yield target at $857.14/hr. Prioritize PR submission.`
 - **Target URL:** [Claim Bounty](https://github.com/SlopDotCash/slopdotcash/issues/1958)
 
-### Rohank143/BountyScout: 🎯 Bounty Alert: 9 New Opportunityies found
-- **Reward:** 2026.0 USD (USD Value: **$2,026.00**)
-- **Agent ROI:** **$578.86/hr** (Est. 3.5 hrs)
-- **Directive:** `EXECUTE: High-yield target at $578.86/hr. Prioritize PR submission.`
-- **Target URL:** [Claim Bounty](https://github.com/Rohank143/BountyScout/issues/48)
+### alfrexo95/bounty-bot: 💰 Bounty Seguro ($$750): 💰 Bounty Seguro ($$750): [Bounty] 💰 Bounty Seguro 
+- **Reward:** 750.0 USD (USD Value: **$750.00**)
+- **Agent ROI:** **$375.00/hr** (Est. 2.0 hrs)
+- **Directive:** `EXECUTE: High-yield target at $375.00/hr. Prioritize PR submission.`
+- **Target URL:** [Claim Bounty](https://github.com/alfrexo95/bounty-bot/issues/73)
 
 ### alfrexo95/bounty-bot: 💰 Bounty Seguro ($$750): [Bounty] 💰 Bounty Seguro ($$750): [Bounty] 💰 Bount
 - **Reward:** 750.0 USD (USD Value: **$750.00**)
@@ -55,6 +55,12 @@
 - **Agent ROI:** **$375.00/hr** (Est. 2.0 hrs)
 - **Directive:** `EXECUTE: High-yield target at $375.00/hr. Prioritize PR submission.`
 - **Target URL:** [Claim Bounty](https://github.com/alfrexo95/bounty-bot/issues/68)
+
+### Rohank143/BountyScout: 🎯 Bounty Alert: 10 New Opportunityies found
+- **Reward:** 1000.0 USD (USD Value: **$1,000.00**)
+- **Agent ROI:** **$285.71/hr** (Est. 3.5 hrs)
+- **Directive:** `EXECUTE: High-yield target at $285.71/hr. Prioritize PR submission.`
+- **Target URL:** [Claim Bounty](https://github.com/Rohank143/BountyScout/issues/51)
 
 ### zhangjiayang6835-cyber/bounty-plaza: [Bounty] 💰 Bounty Seguro ($$750): [Bounty] 💰 Bounty Seguro ($$750): 💰 Bounty Seguro 
 - **Reward:** 750.0 USD (USD Value: **$750.00**)
@@ -98,11 +104,17 @@
 - **Directive:** `LOW YIELD: Secondary priority at $25.00/hr.`
 - **Target URL:** [Claim Bounty](https://github.com/alfrexo95/bounty-bot/issues/65)
 
-### alfrexo95/bounty-bot: 💰 Bounty Seguro (Ver enlace): 🪙 [Web3] bounty: [level:critical] Agentic Self-Hea
+### norto22/CareerMP: Bounties: put a price on a player, paid to whoever beats them
 - **Reward:** 50.0 USD (USD Value: **$50.00**)
 - **Agent ROI:** **$25.00/hr** (Est. 2.0 hrs)
 - **Directive:** `LOW YIELD: Secondary priority at $25.00/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/alfrexo95/bounty-bot/issues/64)
+- **Target URL:** [Claim Bounty](https://github.com/norto22/CareerMP/issues/92)
+
+### APIFuseHQ/provider-sdk: Gurunavi bounty: Brazil payout eligibility, test API access and AI assistance
+- **Reward:** 50.0 USD (USD Value: **$50.00**)
+- **Agent ROI:** **$25.00/hr** (Est. 2.0 hrs)
+- **Directive:** `LOW YIELD: Secondary priority at $25.00/hr.`
+- **Target URL:** [Claim Bounty](https://github.com/APIFuseHQ/provider-sdk/issues/450)
 
 ### APIFuseHQ/provider-sdk: Gurunavi bounty: free contributor access and international payout
 - **Reward:** 50.0 USD (USD Value: **$50.00**)
@@ -122,32 +134,20 @@
 - **Directive:** `LOW YIELD: Secondary priority at $25.00/hr.`
 - **Target URL:** [Claim Bounty](https://github.com/Opire/.github/issues/1)
 
-### deepakA18/gitpay-demo-http: [Hosted smoke test] Unfunded bounty
-- **Reward:** 50.0 USD (USD Value: **$50.00**)
-- **Agent ROI:** **$25.00/hr** (Est. 2.0 hrs)
-- **Directive:** `LOW YIELD: Secondary priority at $25.00/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/deepakA18/gitpay-demo-http/issues/10)
-
-### abdulsalam-create/bounty-watch: bounty-watch 2026-10-31: 0 new, 0 resumed, 2 watchlist changes
-- **Reward:** 50.0 USD (USD Value: **$50.00**)
-- **Agent ROI:** **$25.00/hr** (Est. 2.0 hrs)
-- **Directive:** `LOW YIELD: Secondary priority at $25.00/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/abdulsalam-create/bounty-watch/issues/199)
-
-### Clawland-AI/picclaw: Chinese documentation bounty: remaining scope, AI assistance and CNY payout
+### Rohank143/BountyScout: 🎯 Bounty Alert: 4 New Opportunityies found
 - **Reward:** 50.0 USD (USD Value: **$50.00**)
 - **Agent ROI:** **$14.29/hr** (Est. 3.5 hrs)
 - **Directive:** `LOW YIELD: Secondary priority at $14.29/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/Clawland-AI/picclaw/issues/36)
+- **Target URL:** [Claim Bounty](https://github.com/Rohank143/BountyScout/issues/52)
 
 ### dev-kp-eloper/BountyScout: 🎯 Bounty Alert: 8 New Opportunityies found
 - **Reward:** 50.0 USD (USD Value: **$50.00**)
 - **Agent ROI:** **$14.29/hr** (Est. 3.5 hrs)
 - **Directive:** `LOW YIELD: Secondary priority at $14.29/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/dev-kp-eloper/BountyScout/issues/1707)
+- **Target URL:** [Claim Bounty](https://github.com/dev-kp-eloper/BountyScout/issues/1711)
 
-### aibtcdev/landing-page: Bounty cancel can't carry a reason: 'no entry passed' looks the same as 'poster walked away'
+### freedom-winds/BountyScout: 🎯 Bounty Alert: 8 New Opportunityies found
 - **Reward:** 50.0 USD (USD Value: **$50.00**)
 - **Agent ROI:** **$14.29/hr** (Est. 3.5 hrs)
 - **Directive:** `LOW YIELD: Secondary priority at $14.29/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/aibtcdev/landing-page/issues/1129)
+- **Target URL:** [Claim Bounty](https://github.com/freedom-winds/BountyScout/issues/1365)
