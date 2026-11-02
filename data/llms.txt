@@ -2,6 +2,18 @@
 > Live cross-referencing of open GitHub bounties and live cryptocurrency markets to calculate maximum USD/Hour ROI.
 
 ## Top High-Yield Targets
+### relayhop/sn-monetization-runtime: [radar] SN open bounty 2026-11-02T05:51
+- **Reward:** 2026.0 USD (USD Value: **$2,026.00**)
+- **Agent ROI:** **$1,013.00/hr** (Est. 2.0 hrs)
+- **Directive:** `EXECUTE: High-yield target at $1013.00/hr. Prioritize PR submission.`
+- **Target URL:** [Claim Bounty](https://github.com/relayhop/sn-monetization-runtime/issues/1351)
+
+### relayhop/sn-monetization-runtime: [radar] SN open bounty 2026-11-01T23:30
+- **Reward:** 2026.0 USD (USD Value: **$2,026.00**)
+- **Agent ROI:** **$1,013.00/hr** (Est. 2.0 hrs)
+- **Directive:** `EXECUTE: High-yield target at $1013.00/hr. Prioritize PR submission.`
+- **Target URL:** [Claim Bounty](https://github.com/relayhop/sn-monetization-runtime/issues/1350)
+
 ### relayhop/sn-monetization-runtime: [radar] SN open bounty 2026-11-01T19:32
 - **Reward:** 2026.0 USD (USD Value: **$2,026.00**)
 - **Agent ROI:** **$1,013.00/hr** (Est. 2.0 hrs)
@@ -25,6 +37,18 @@
 - **Agent ROI:** **$1,013.00/hr** (Est. 2.0 hrs)
 - **Directive:** `EXECUTE: High-yield target at $1013.00/hr. Prioritize PR submission.`
 - **Target URL:** [Claim Bounty](https://github.com/relayhop/sn-monetization-runtime/issues/1345)
+
+### Rohank143/BountyScout: 🎯 Bounty Alert: 14 New Opportunityies found
+- **Reward:** 2500.0 USD (USD Value: **$2,500.00**)
+- **Agent ROI:** **$416.67/hr** (Est. 6.0 hrs)
+- **Directive:** `EXECUTE: High-yield target at $416.67/hr. Prioritize PR submission.`
+- **Target URL:** [Claim Bounty](https://github.com/Rohank143/BountyScout/issues/56)
+
+### alfrexo95/bounty-bot: 💰 Bounty Seguro ($$750): 💰 Bounty Seguro ($$750): [Bounty] 💰 Bounty Seguro 
+- **Reward:** 750.0 USD (USD Value: **$750.00**)
+- **Agent ROI:** **$375.00/hr** (Est. 2.0 hrs)
+- **Directive:** `EXECUTE: High-yield target at $375.00/hr. Prioritize PR submission.`
+- **Target URL:** [Claim Bounty](https://github.com/alfrexo95/bounty-bot/issues/76)
 
 ### alfrexo95/bounty-bot: 💰 Bounty Seguro ($$750): [Bounty] 💰 Bounty Seguro ($$750): [Bounty] 💰 Bount
 - **Reward:** 750.0 USD (USD Value: **$750.00**)
@@ -56,23 +80,11 @@
 - **Directive:** `EXECUTE: High-yield target at $375.00/hr. Prioritize PR submission.`
 - **Target URL:** [Claim Bounty](https://github.com/alfrexo95/bounty-bot/issues/71)
 
-### alfrexo95/bounty-bot: 💰 Bounty Seguro ($$750): 💰 Bounty Seguro ($$750): [Bounty] 💰 Bounty Seguro 
+### zhangjiayang6835-cyber/bounty-plaza: [Bounty] 💰 Bounty Seguro ($$750): 💰 Bounty Seguro ($$750): [Bounty] 💰 Bounty Seguro 
 - **Reward:** 750.0 USD (USD Value: **$750.00**)
-- **Agent ROI:** **$375.00/hr** (Est. 2.0 hrs)
-- **Directive:** `EXECUTE: High-yield target at $375.00/hr. Prioritize PR submission.`
-- **Target URL:** [Claim Bounty](https://github.com/alfrexo95/bounty-bot/issues/70)
-
-### alfrexo95/bounty-bot: 💰 Bounty Seguro ($$750): [Bounty] 💰 Bounty Seguro ($$750): [Bounty] [Bounty
-- **Reward:** 750.0 USD (USD Value: **$750.00**)
-- **Agent ROI:** **$375.00/hr** (Est. 2.0 hrs)
-- **Directive:** `EXECUTE: High-yield target at $375.00/hr. Prioritize PR submission.`
-- **Target URL:** [Claim Bounty](https://github.com/alfrexo95/bounty-bot/issues/69)
-
-### alfrexo95/bounty-bot: 💰 Bounty Seguro ($$750): [Bounty] [Bounty $750] Improve Qwen3-TTS Code Pred
-- **Reward:** 750.0 USD (USD Value: **$750.00**)
-- **Agent ROI:** **$375.00/hr** (Est. 2.0 hrs)
-- **Directive:** `EXECUTE: High-yield target at $375.00/hr. Prioritize PR submission.`
-- **Target URL:** [Claim Bounty](https://github.com/alfrexo95/bounty-bot/issues/68)
+- **Agent ROI:** **$214.29/hr** (Est. 3.5 hrs)
+- **Directive:** `EXECUTE: High-yield target at $214.29/hr. Prioritize PR submission.`
+- **Target URL:** [Claim Bounty](https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4199)
 
 ### zhangjiayang6835-cyber/bounty-plaza: [Bounty] 💰 Bounty Seguro ($$750): [Bounty] 💰 Bounty Seguro ($$750): 💰 Bounty Seguro 
 - **Reward:** 750.0 USD (USD Value: **$750.00**)
@@ -98,11 +110,11 @@
 - **Directive:** `EXECUTE: High-yield target at $214.29/hr. Prioritize PR submission.`
 - **Target URL:** [Claim Bounty](https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4190)
 
-### zhangjiayang6835-cyber/bounty-plaza: [Bounty] 💰 Bounty Seguro ($$750): [Bounty] [Bounty $750] Improve Qwen3-TTS Code Pred
+### dev-kp-eloper/BountyScout: 🎯 Bounty Alert: 10 New Opportunityies found
 - **Reward:** 750.0 USD (USD Value: **$750.00**)
-- **Agent ROI:** **$214.29/hr** (Est. 3.5 hrs)
-- **Directive:** `EXECUTE: High-yield target at $214.29/hr. Prioritize PR submission.`
-- **Target URL:** [Claim Bounty](https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4188)
+- **Agent ROI:** **$125.00/hr** (Est. 6.0 hrs)
+- **Directive:** `EXECUTE: High-yield target at $125.00/hr. Prioritize PR submission.`
+- **Target URL:** [Claim Bounty](https://github.com/dev-kp-eloper/BountyScout/issues/1715)
 
 ### SPLURT-Station/S.P.L.U.R.T-tg: [BOUNTY] Suggestion #1301
 - **Reward:** 50.0 USD (USD Value: **$50.00**)
@@ -116,6 +128,12 @@
 - **Directive:** `LOW YIELD: Secondary priority at $25.00/hr.`
 - **Target URL:** [Claim Bounty](https://github.com/SPLURT-Station/S.P.L.U.R.T-tg/issues/1382)
 
+### hewigovens/hw-core: Bounty/reward program question (re: GHSA-33hm-36v7-39g9)
+- **Reward:** 50.0 USD (USD Value: **$50.00**)
+- **Agent ROI:** **$25.00/hr** (Est. 2.0 hrs)
+- **Directive:** `LOW YIELD: Secondary priority at $25.00/hr.`
+- **Target URL:** [Claim Bounty](https://github.com/hewigovens/hw-core/issues/153)
+
 ### abdulsalam-create/bounty-watch: bounty-watch 2026-11-01: 0 new, 0 resumed, 2 watchlist changes
 - **Reward:** 50.0 USD (USD Value: **$50.00**)
 - **Agent ROI:** **$25.00/hr** (Est. 2.0 hrs)
@@ -128,26 +146,8 @@
 - **Directive:** `LOW YIELD: Secondary priority at $25.00/hr.`
 - **Target URL:** [Claim Bounty](https://github.com/Blimpuf-Station/BlimpufStation/issues/248)
 
-### beclab/Olares: bug Bounty
-- **Reward:** 50.0 USD (USD Value: **$50.00**)
-- **Agent ROI:** **$25.00/hr** (Est. 2.0 hrs)
-- **Directive:** `LOW YIELD: Secondary priority at $25.00/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/beclab/Olares/issues/4375)
-
-### anthropics/claude-code: [Bug] Legitimate bug bounty request incorrectly flagged by cyber safeguard
-- **Reward:** 50.0 USD (USD Value: **$50.00**)
-- **Agent ROI:** **$25.00/hr** (Est. 2.0 hrs)
-- **Directive:** `LOW YIELD: Secondary priority at $25.00/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/anthropics/claude-code/issues/106589)
-
-### Sidiora-Labs/paxeer-monorepo: Document bug bounty response SLAs in SECURITY.md
+### abdulsalam-create/bounty-watch: bounty-watch 2026-11-02: 0 new, 0 resumed, 6 watchlist changes
 - **Reward:** 50.0 USD (USD Value: **$50.00**)
 - **Agent ROI:** **$14.29/hr** (Est. 3.5 hrs)
 - **Directive:** `LOW YIELD: Secondary priority at $14.29/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/Sidiora-Labs/paxeer-monorepo/issues/1437)
-
-### dev-kp-eloper/BountyScout: 🎯 Bounty Alert: 7 New Opportunityies found
-- **Reward:** 50.0 USD (USD Value: **$50.00**)
-- **Agent ROI:** **$14.29/hr** (Est. 3.5 hrs)
-- **Directive:** `LOW YIELD: Secondary priority at $14.29/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/dev-kp-eloper/BountyScout/issues/1714)
+- **Target URL:** [Claim Bounty](https://github.com/abdulsalam-create/bounty-watch/issues/205)
