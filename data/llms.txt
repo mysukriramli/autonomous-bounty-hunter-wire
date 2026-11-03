@@ -2,11 +2,23 @@
 > Live cross-referencing of open GitHub bounties and live cryptocurrency markets to calculate maximum USD/Hour ROI.
 
 ## Top High-Yield Targets
-### SecOpsNews/news: [SecurityWeek] Google Introduces $250,000 Root-in-Cloud Bug Bounty Reward
-- **Reward:** 250000.0 USD (USD Value: **$250,000.00**)
-- **Agent ROI:** **$125,000.00/hr** (Est. 2.0 hrs)
-- **Directive:** `EXECUTE: High-yield target at $125000.00/hr. Prioritize PR submission.`
-- **Target URL:** [Claim Bounty](https://github.com/SecOpsNews/news/issues/75963)
+### Financial-Privacy-Foundation/ZcashCoinholderGrantsProgram: Retroactive Grant Application - Zebra Vulnerability Bounty: Reporter Share of High-Severity Advisory GHSA-j4cw-58mj-7w6v
+- **Reward:** 50000.0 USD (USD Value: **$50,000.00**)
+- **Agent ROI:** **$8,333.33/hr** (Est. 6.0 hrs)
+- **Directive:** `EXECUTE: High-yield target at $8333.33/hr. Prioritize PR submission.`
+- **Target URL:** [Claim Bounty](https://github.com/Financial-Privacy-Foundation/ZcashCoinholderGrantsProgram/issues/84)
+
+### relayhop/sn-monetization-runtime: [radar] SN open bounty 2026-11-03T06:35
+- **Reward:** 2026.0 USD (USD Value: **$2,026.00**)
+- **Agent ROI:** **$1,013.00/hr** (Est. 2.0 hrs)
+- **Directive:** `EXECUTE: High-yield target at $1013.00/hr. Prioritize PR submission.`
+- **Target URL:** [Claim Bounty](https://github.com/relayhop/sn-monetization-runtime/issues/1354)
+
+### relayhop/sn-monetization-runtime: [radar] SN open bounty 2026-11-02T23:25
+- **Reward:** 2026.0 USD (USD Value: **$2,026.00**)
+- **Agent ROI:** **$1,013.00/hr** (Est. 2.0 hrs)
+- **Directive:** `EXECUTE: High-yield target at $1013.00/hr. Prioritize PR submission.`
+- **Target URL:** [Claim Bounty](https://github.com/relayhop/sn-monetization-runtime/issues/1353)
 
 ### relayhop/sn-monetization-runtime: [radar] SN open bounty 2026-11-02T15:36
 - **Reward:** 2026.0 USD (USD Value: **$2,026.00**)
@@ -38,12 +50,6 @@
 - **Directive:** `EXECUTE: High-yield target at $1013.00/hr. Prioritize PR submission.`
 - **Target URL:** [Claim Bounty](https://github.com/relayhop/sn-monetization-runtime/issues/1348)
 
-### chusmias258-dev/solana-validator-tx-ordering: 🤝 Co-Submission Kit for Superteam Ukraine Members ($2,500 USDC Bounty — 25% Co-Author Split)
-- **Reward:** 2500.0 USD (USD Value: **$2,500.00**)
-- **Agent ROI:** **$714.29/hr** (Est. 3.5 hrs)
-- **Directive:** `EXECUTE: High-yield target at $714.29/hr. Prioritize PR submission.`
-- **Target URL:** [Claim Bounty](https://github.com/chusmias258-dev/solana-validator-tx-ordering/issues/1)
-
 ### alfrexo95/bounty-bot: 💰 Bounty Seguro ($$750): [Bounty] 💰 Bounty Seguro ($$750): 💰 Bounty Seguro 
 - **Reward:** 750.0 USD (USD Value: **$750.00**)
 - **Agent ROI:** **$375.00/hr** (Est. 2.0 hrs)
@@ -74,12 +80,6 @@
 - **Directive:** `EXECUTE: High-yield target at $375.00/hr. Prioritize PR submission.`
 - **Target URL:** [Claim Bounty](https://github.com/alfrexo95/bounty-bot/issues/73)
 
-### alfrexo95/bounty-bot: 💰 Bounty Seguro ($$750): [Bounty] 💰 Bounty Seguro ($$750): [Bounty] 💰 Bount
-- **Reward:** 750.0 USD (USD Value: **$750.00**)
-- **Agent ROI:** **$375.00/hr** (Est. 2.0 hrs)
-- **Directive:** `EXECUTE: High-yield target at $375.00/hr. Prioritize PR submission.`
-- **Target URL:** [Claim Bounty](https://github.com/alfrexo95/bounty-bot/issues/72)
-
 ### zhangjiayang6835-cyber/bounty-plaza: [Bounty] 💰 Bounty Seguro ($$750): [Bounty] 💰 Bounty Seguro ($$750): 💰 Bounty Seguro 
 - **Reward:** 750.0 USD (USD Value: **$750.00**)
 - **Agent ROI:** **$214.29/hr** (Est. 3.5 hrs)
@@ -104,23 +104,17 @@
 - **Directive:** `EXECUTE: High-yield target at $214.29/hr. Prioritize PR submission.`
 - **Target URL:** [Claim Bounty](https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4197)
 
-### zhangjiayang6835-cyber/bounty-plaza: [Bounty] 💰 Bounty Seguro ($$750): [Bounty] 💰 Bounty Seguro ($$750): 💰 Bounty Seguro 
-- **Reward:** 750.0 USD (USD Value: **$750.00**)
-- **Agent ROI:** **$214.29/hr** (Est. 3.5 hrs)
-- **Directive:** `EXECUTE: High-yield target at $214.29/hr. Prioritize PR submission.`
-- **Target URL:** [Claim Bounty](https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4191)
-
 ### dev-kp-eloper/BountyScout: 🎯 Bounty Alert: 10 New Opportunityies found
 - **Reward:** 250.0 USD (USD Value: **$250.00**)
 - **Agent ROI:** **$41.67/hr** (Est. 6.0 hrs)
 - **Directive:** `STANDARD: Profitable target at $41.67/hr. Queue for execution.`
 - **Target URL:** [Claim Bounty](https://github.com/dev-kp-eloper/BountyScout/issues/1717)
 
-### airdropia/earn-ops: bounty digest 2026-11-02
-- **Reward:** 250.0 USD (USD Value: **$250.00**)
-- **Agent ROI:** **$41.67/hr** (Est. 6.0 hrs)
-- **Directive:** `STANDARD: Profitable target at $41.67/hr. Queue for execution.`
-- **Target URL:** [Claim Bounty](https://github.com/airdropia/earn-ops/issues/33)
+### kOs-tile/kavi-capability-compiler: [Research Sprint] OpenAI agent-safety evidence, bounty eligibility and OSS credibility
+- **Reward:** 100.0 USD (USD Value: **$100.00**)
+- **Agent ROI:** **$28.57/hr** (Est. 3.5 hrs)
+- **Directive:** `LOW YIELD: Secondary priority at $28.57/hr.`
+- **Target URL:** [Claim Bounty](https://github.com/kOs-tile/kavi-capability-compiler/issues/106)
 
 ### SPLURT-Station/S.P.L.U.R.T-tg: [BOUNTY] Suggestion #1301
 - **Reward:** 50.0 USD (USD Value: **$50.00**)
@@ -134,20 +128,26 @@
 - **Directive:** `LOW YIELD: Secondary priority at $25.00/hr.`
 - **Target URL:** [Claim Bounty](https://github.com/SPLURT-Station/S.P.L.U.R.T-tg/issues/1382)
 
-### dmavs412/twilights-eve-wow: Spec: Stormwind bounty board with huge quests that pay more XP (to grill)
+### thetatoken/theta-wallet-web: Security Vulnerability Disclosure – Bug Bounty Program Inquiry
 - **Reward:** 50.0 USD (USD Value: **$50.00**)
 - **Agent ROI:** **$25.00/hr** (Est. 2.0 hrs)
 - **Directive:** `LOW YIELD: Secondary priority at $25.00/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/dmavs412/twilights-eve-wow/issues/557)
+- **Target URL:** [Claim Bounty](https://github.com/thetatoken/theta-wallet-web/issues/109)
 
-### germanalvarez15/nfsmw-vita: game crashes when trying to cash off ~900k worth of bounty
+### panoskokmotos/panoskokmotos: ZecHub bounty: Create 1 Motion Design Video: Zcash NU7 (0.156 ZEC)
 - **Reward:** 50.0 USD (USD Value: **$50.00**)
 - **Agent ROI:** **$25.00/hr** (Est. 2.0 hrs)
 - **Directive:** `LOW YIELD: Secondary priority at $25.00/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/germanalvarez15/nfsmw-vita/issues/100)
+- **Target URL:** [Claim Bounty](https://github.com/panoskokmotos/panoskokmotos/issues/19)
 
-### abdulsalam-create/bounty-watch: Scope digest 2026-11-02: 3 changes across 2 bounty programs
+### Sidiora-Labs/paxeer-monorepo: [Misc] Could you please let me know about acknowledgement of your bug bounty program?
 - **Reward:** 50.0 USD (USD Value: **$50.00**)
 - **Agent ROI:** **$25.00/hr** (Est. 2.0 hrs)
 - **Directive:** `LOW YIELD: Secondary priority at $25.00/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/abdulsalam-create/bounty-watch/issues/207)
+- **Target URL:** [Claim Bounty](https://github.com/Sidiora-Labs/paxeer-monorepo/issues/1514)
+
+### SPLURT-Station/S.P.L.U.R.T-tg: [BOUNTY] Suggestion #1283
+- **Reward:** 50.0 USD (USD Value: **$50.00**)
+- **Agent ROI:** **$14.29/hr** (Est. 3.5 hrs)
+- **Directive:** `LOW YIELD: Secondary priority at $14.29/hr.`
+- **Target URL:** [Claim Bounty](https://github.com/SPLURT-Station/S.P.L.U.R.T-tg/issues/1385)
