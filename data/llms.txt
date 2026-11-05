@@ -2,6 +2,12 @@
 > Live cross-referencing of open GitHub bounties and live cryptocurrency markets to calculate maximum USD/Hour ROI.
 
 ## Top High-Yield Targets
+### bcnmy/nexus: [Bug Bounty] [Medium] Session key escapes its scope via enable-mode module install and drains the account
+- **Reward:** 10.0 ETH (USD Value: **$22,482.60**)
+- **Agent ROI:** **$3,747.10/hr** (Est. 6.0 hrs)
+- **Directive:** `EXECUTE: High-yield target at $3747.10/hr. Prioritize PR submission.`
+- **Target URL:** [Claim Bounty](https://github.com/bcnmy/nexus/issues/310)
+
 ### relayhop/sn-monetization-runtime: [radar] SN open bounty 2026-11-03T06:35
 - **Reward:** 2026.0 USD (USD Value: **$2,026.00**)
 - **Agent ROI:** **$1,013.00/hr** (Est. 2.0 hrs)
@@ -26,41 +32,35 @@
 - **Directive:** `EXECUTE: High-yield target at $1013.00/hr. Prioritize PR submission.`
 - **Target URL:** [Claim Bounty](https://github.com/relayhop/sn-monetization-runtime/issues/1351)
 
-### relayhop/sn-monetization-runtime: [radar] SN open bounty 2026-11-01T23:30
-- **Reward:** 2026.0 USD (USD Value: **$2,026.00**)
-- **Agent ROI:** **$1,013.00/hr** (Est. 2.0 hrs)
-- **Directive:** `EXECUTE: High-yield target at $1013.00/hr. Prioritize PR submission.`
-- **Target URL:** [Claim Bounty](https://github.com/relayhop/sn-monetization-runtime/issues/1350)
-
-### relayhop/sn-monetization-runtime: [radar] SN open bounty 2026-11-01T19:32
-- **Reward:** 2026.0 USD (USD Value: **$2,026.00**)
-- **Agent ROI:** **$1,013.00/hr** (Est. 2.0 hrs)
-- **Directive:** `EXECUTE: High-yield target at $1013.00/hr. Prioritize PR submission.`
-- **Target URL:** [Claim Bounty](https://github.com/relayhop/sn-monetization-runtime/issues/1349)
-
-### relayhop/sn-monetization-runtime: [radar] SN open bounty 2026-11-01T14:58
-- **Reward:** 2026.0 USD (USD Value: **$2,026.00**)
-- **Agent ROI:** **$1,013.00/hr** (Est. 2.0 hrs)
-- **Directive:** `EXECUTE: High-yield target at $1013.00/hr. Prioritize PR submission.`
-- **Target URL:** [Claim Bounty](https://github.com/relayhop/sn-monetization-runtime/issues/1348)
-
 ### alfrexo95/bounty-bot: 💰 Bounty Seguro ($$750): [Bounty] 💰 Bounty Seguro ($$750): 💰 Bounty Seguro 
 - **Reward:** 750.0 USD (USD Value: **$750.00**)
 - **Agent ROI:** **$375.00/hr** (Est. 2.0 hrs)
 - **Directive:** `EXECUTE: High-yield target at $375.00/hr. Prioritize PR submission.`
 - **Target URL:** [Claim Bounty](https://github.com/alfrexo95/bounty-bot/issues/77)
 
-### alfrexo95/bounty-bot: 💰 Bounty Seguro ($$750): 💰 Bounty Seguro ($$750): [Bounty] 💰 Bounty Seguro 
-- **Reward:** 750.0 USD (USD Value: **$750.00**)
-- **Agent ROI:** **$375.00/hr** (Est. 2.0 hrs)
-- **Directive:** `EXECUTE: High-yield target at $375.00/hr. Prioritize PR submission.`
-- **Target URL:** [Claim Bounty](https://github.com/alfrexo95/bounty-bot/issues/76)
+### WholeTroutMedia/agent-conformance-quarantine: [Escrowed $600 USDC] 20-Vector Conformance Suite: PagedAttention KV-Cache Block Desync on Prefix-Aware Chunked Preemption
+- **Reward:** 600.0 USD (USD Value: **$600.00**)
+- **Agent ROI:** **$300.00/hr** (Est. 2.0 hrs)
+- **Directive:** `EXECUTE: High-yield target at $300.00/hr. Prioritize PR submission.`
+- **Target URL:** [Claim Bounty](https://github.com/WholeTroutMedia/agent-conformance-quarantine/issues/2)
 
-### alfrexo95/bounty-bot: 💰 Bounty Seguro ($$750): [Bounty] 💰 Bounty Seguro ($$750): [Bounty] 💰 Bount
-- **Reward:** 750.0 USD (USD Value: **$750.00**)
-- **Agent ROI:** **$375.00/hr** (Est. 2.0 hrs)
-- **Directive:** `EXECUTE: High-yield target at $375.00/hr. Prioritize PR submission.`
-- **Target URL:** [Claim Bounty](https://github.com/alfrexo95/bounty-bot/issues/75)
+### WholeTroutMedia/protocol-conformance-relay: [Bounty $600 USDC] PagedAttention KV-Cache Block Desync on Prefix-Aware Chunked Preemption (partition_barrier_state_d57)
+- **Reward:** 600.0 USD (USD Value: **$600.00**)
+- **Agent ROI:** **$300.00/hr** (Est. 2.0 hrs)
+- **Directive:** `EXECUTE: High-yield target at $300.00/hr. Prioritize PR submission.`
+- **Target URL:** [Claim Bounty](https://github.com/WholeTroutMedia/protocol-conformance-relay/issues/2)
+
+### WholeTroutMedia/agent-conformance-quarantine: [Escrowed $450 USDC] 20-Vector Conformance Suite: Streaming MCP SSE Chunk Boundary Reassembly with Backpressure Backoff
+- **Reward:** 450.0 USD (USD Value: **$450.00**)
+- **Agent ROI:** **$225.00/hr** (Est. 2.0 hrs)
+- **Directive:** `EXECUTE: High-yield target at $225.00/hr. Prioritize PR submission.`
+- **Target URL:** [Claim Bounty](https://github.com/WholeTroutMedia/agent-conformance-quarantine/issues/1)
+
+### WholeTroutMedia/protocol-conformance-relay: [Bounty $450 USDC] Streaming MCP SSE Chunk Boundary Reassembly with Backpressure Backoff (_reconcile_slab_guard_v7)
+- **Reward:** 450.0 USD (USD Value: **$450.00**)
+- **Agent ROI:** **$225.00/hr** (Est. 2.0 hrs)
+- **Directive:** `EXECUTE: High-yield target at $225.00/hr. Prioritize PR submission.`
+- **Target URL:** [Claim Bounty](https://github.com/WholeTroutMedia/protocol-conformance-relay/issues/1)
 
 ### zhangjiayang6835-cyber/bounty-plaza: [Bounty] 💰 Bounty Seguro ($$750): [Bounty] 💰 Bounty Seguro ($$750): 💰 Bounty Seguro 
 - **Reward:** 750.0 USD (USD Value: **$750.00**)
@@ -68,86 +68,86 @@
 - **Directive:** `EXECUTE: High-yield target at $214.29/hr. Prioritize PR submission.`
 - **Target URL:** [Claim Bounty](https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4201)
 
-### zhangjiayang6835-cyber/bounty-plaza: [Bounty] 💰 Bounty Seguro ($$750): 💰 Bounty Seguro ($$750): [Bounty] 💰 Bounty Seguro 
-- **Reward:** 750.0 USD (USD Value: **$750.00**)
-- **Agent ROI:** **$214.29/hr** (Est. 3.5 hrs)
-- **Directive:** `EXECUTE: High-yield target at $214.29/hr. Prioritize PR submission.`
-- **Target URL:** [Claim Bounty](https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4199)
+### zhangjiayang6835-cyber/bounty-plaza: [Bounty] [Bounty $600 USDC] PagedAttention KV-Cache Block Desync on Prefix-Aware Chunked 
+- **Reward:** 600.0 USD (USD Value: **$600.00**)
+- **Agent ROI:** **$171.43/hr** (Est. 3.5 hrs)
+- **Directive:** `EXECUTE: High-yield target at $171.43/hr. Prioritize PR submission.`
+- **Target URL:** [Claim Bounty](https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4207)
 
-### zhangjiayang6835-cyber/bounty-plaza: [Bounty] 💰 Bounty Seguro ($$750): [Bounty] 💰 Bounty Seguro ($$750): 💰 Bounty Seguro 
-- **Reward:** 750.0 USD (USD Value: **$750.00**)
-- **Agent ROI:** **$214.29/hr** (Est. 3.5 hrs)
-- **Directive:** `EXECUTE: High-yield target at $214.29/hr. Prioritize PR submission.`
-- **Target URL:** [Claim Bounty](https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4198)
+### zhangjiayang6835-cyber/bounty-plaza: [Bounty] [Escrowed $600 USDC] 20-Vector Conformance Suite: PagedAttention KV-Cache Block 
+- **Reward:** 600.0 USD (USD Value: **$600.00**)
+- **Agent ROI:** **$171.43/hr** (Est. 3.5 hrs)
+- **Directive:** `EXECUTE: High-yield target at $171.43/hr. Prioritize PR submission.`
+- **Target URL:** [Claim Bounty](https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4206)
 
-### Rohank143/BountyScout: 🎯 Bounty Alert: 4 New Opportunityies found
-- **Reward:** 90.0 USD (USD Value: **$90.00**)
-- **Agent ROI:** **$25.71/hr** (Est. 3.5 hrs)
-- **Directive:** `LOW YIELD: Secondary priority at $25.71/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/Rohank143/BountyScout/issues/65)
+### zhangjiayang6835-cyber/bounty-plaza: [Bounty] [Bounty $450 USDC] Streaming MCP SSE Chunk Boundary Reassembly with Backpressure
+- **Reward:** 450.0 USD (USD Value: **$450.00**)
+- **Agent ROI:** **$128.57/hr** (Est. 3.5 hrs)
+- **Directive:** `EXECUTE: High-yield target at $128.57/hr. Prioritize PR submission.`
+- **Target URL:** [Claim Bounty](https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4208)
 
-### SPLURT-Station/S.P.L.U.R.T-tg: [BOUNTY] Suggestion #1301
+### zhangjiayang6835-cyber/bounty-plaza: [Bounty] [Escrowed $450 USDC] 20-Vector Conformance Suite: Streaming MCP SSE Chunk Bounda
+- **Reward:** 450.0 USD (USD Value: **$450.00**)
+- **Agent ROI:** **$128.57/hr** (Est. 3.5 hrs)
+- **Directive:** `EXECUTE: High-yield target at $128.57/hr. Prioritize PR submission.`
+- **Target URL:** [Claim Bounty](https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4205)
+
+### freedom-winds/BountyScout: 🎯 Bounty Alert: 13 New Opportunityies found
+- **Reward:** 600.0 USD (USD Value: **$600.00**)
+- **Agent ROI:** **$100.00/hr** (Est. 6.0 hrs)
+- **Directive:** `EXECUTE: High-yield target at $100.00/hr. Prioritize PR submission.`
+- **Target URL:** [Claim Bounty](https://github.com/freedom-winds/BountyScout/issues/1382)
+
+### Rohank143/BountyScout: 🎯 Bounty Alert: 17 New Opportunityies found
+- **Reward:** 450.0 USD (USD Value: **$450.00**)
+- **Agent ROI:** **$75.00/hr** (Est. 6.0 hrs)
+- **Directive:** `STANDARD: Profitable target at $75.00/hr. Queue for execution.`
+- **Target URL:** [Claim Bounty](https://github.com/Rohank143/BountyScout/issues/68)
+
+### MyZubster-Ecosystem/myzubster: Avviso alla community sui costi di bounty, sviluppo su Vercel e VPS
 - **Reward:** 50.0 USD (USD Value: **$50.00**)
 - **Agent ROI:** **$25.00/hr** (Est. 2.0 hrs)
 - **Directive:** `LOW YIELD: Secondary priority at $25.00/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/SPLURT-Station/S.P.L.U.R.T-tg/issues/1383)
+- **Target URL:** [Claim Bounty](https://github.com/MyZubster-Ecosystem/myzubster/issues/1696)
 
-### SPLURT-Station/S.P.L.U.R.T-tg: [BOUNTY] Suggestion #1298
+### MajekLabs/EnclaveAI--Privacy-Preserving-Intelligence: [Bug]: Security Contact Unreachable — Bug Bounty Status Confirmation
 - **Reward:** 50.0 USD (USD Value: **$50.00**)
 - **Agent ROI:** **$25.00/hr** (Est. 2.0 hrs)
 - **Directive:** `LOW YIELD: Secondary priority at $25.00/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/SPLURT-Station/S.P.L.U.R.T-tg/issues/1382)
+- **Target URL:** [Claim Bounty](https://github.com/MajekLabs/EnclaveAI--Privacy-Preserving-Intelligence/issues/1)
 
-### jasonbrelsford/agent-bounty-jobs: Rolled back bounty.brelsfordsoftware.com: Test the after-deploy rollback: break robots.txt on purpose
+### hellonearportal-dotcom/nearportal-demo-tasks: [NP-28D5750673] Min/max — bank bounty
 - **Reward:** 50.0 USD (USD Value: **$50.00**)
 - **Agent ROI:** **$25.00/hr** (Est. 2.0 hrs)
 - **Directive:** `LOW YIELD: Secondary priority at $25.00/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/jasonbrelsford/agent-bounty-jobs/issues/34)
+- **Target URL:** [Claim Bounty](https://github.com/hellonearportal-dotcom/nearportal-demo-tasks/issues/3)
 
-### abdulsalam-create/bounty-watch: bounty-watch 2026-11-05: 0 new, 0 resumed, 5 watchlist changes
+### Aur-Dev-re/veille-jeux-retro: eBay Italie : Star Wars Bounty Hunter Nintendo Gamecube Pal ITA Completo
+- **Reward:** 50.0 USD (USD Value: **$50.00**)
+- **Agent ROI:** **$25.00/hr** (Est. 2.0 hrs)
+- **Directive:** `LOW YIELD: Secondary priority at $25.00/hr.`
+- **Target URL:** [Claim Bounty](https://github.com/Aur-Dev-re/veille-jeux-retro/issues/103362)
+
+### abdulsalam-create/bounty-watch: bounty-watch 2026-11-05: 0 new, 1 resumed, 7 watchlist changes
 - **Reward:** 50.0 USD (USD Value: **$50.00**)
 - **Agent ROI:** **$14.29/hr** (Est. 3.5 hrs)
 - **Directive:** `LOW YIELD: Secondary priority at $14.29/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/abdulsalam-create/bounty-watch/issues/218)
+- **Target URL:** [Claim Bounty](https://github.com/abdulsalam-create/bounty-watch/issues/221)
 
-### dev-kp-eloper/BountyScout: 🎯 Bounty Alert: 6 New Opportunityies found
+### paraspell/xcm-tools: [Bug bounty][Medium] XCM API: assetId accepts JSON numbers > 2^53 — silent float rounding forwards a wrong assetId to the SDK
 - **Reward:** 50.0 USD (USD Value: **$50.00**)
 - **Agent ROI:** **$14.29/hr** (Est. 3.5 hrs)
 - **Directive:** `LOW YIELD: Secondary priority at $14.29/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/dev-kp-eloper/BountyScout/issues/1727)
+- **Target URL:** [Claim Bounty](https://github.com/paraspell/xcm-tools/issues/2433)
 
-### freedom-winds/BountyScout: 🎯 Bounty Alert: 6 New Opportunityies found
+### paraspell/xcm-tools: [Bug bounty][High] Swap: Hydration fee-estimation quote is 10^decimals oversized (raw planck string fed to human-decimal GC sdk)
 - **Reward:** 50.0 USD (USD Value: **$50.00**)
 - **Agent ROI:** **$14.29/hr** (Est. 3.5 hrs)
 - **Directive:** `LOW YIELD: Secondary priority at $14.29/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/freedom-winds/BountyScout/issues/1380)
+- **Target URL:** [Claim Bounty](https://github.com/paraspell/xcm-tools/issues/2429)
 
-### Rohank143/BountyScout: 🎯 Bounty Alert: 9 New Opportunityies found
+### Ikalus1988/MisakaNet: [Bounty] Answer the 2 linked question(s)
 - **Reward:** 50.0 USD (USD Value: **$50.00**)
-- **Agent ROI:** **$14.29/hr** (Est. 3.5 hrs)
-- **Directive:** `LOW YIELD: Secondary priority at $14.29/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/Rohank143/BountyScout/issues/66)
-
-### abdulsalam-create/bounty-watch: bounty-watch 2026-11-04: 0 new, 1 resumed, 6 watchlist changes
-- **Reward:** 50.0 USD (USD Value: **$50.00**)
-- **Agent ROI:** **$14.29/hr** (Est. 3.5 hrs)
-- **Directive:** `LOW YIELD: Secondary priority at $14.29/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/abdulsalam-create/bounty-watch/issues/217)
-
-### freedom-winds/BountyScout: 🎯 Bounty Alert: 5 New Opportunityies found
-- **Reward:** 50.0 USD (USD Value: **$50.00**)
-- **Agent ROI:** **$14.29/hr** (Est. 3.5 hrs)
-- **Directive:** `LOW YIELD: Secondary priority at $14.29/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/freedom-winds/BountyScout/issues/1379)
-
-### MateusKasuya/spqtc-tournament-manager: buyInAmount e rebuyAmount entram no cálculo do Bounty mas continuam editáveis depois do primeiro buy-in
-- **Reward:** 50.0 USD (USD Value: **$50.00**)
-- **Agent ROI:** **$14.29/hr** (Est. 3.5 hrs)
-- **Directive:** `LOW YIELD: Secondary priority at $14.29/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/MateusKasuya/spqtc-tournament-manager/issues/96)
-
-### Balatro-Multiplayer/BalatroMultiplayerServer: Automatic bounties from end-of-game jokers
-- **Reward:** 50.0 USD (USD Value: **$50.00**)
-- **Agent ROI:** **$14.29/hr** (Est. 3.5 hrs)
-- **Directive:** `LOW YIELD: Secondary priority at $14.29/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/Balatro-Multiplayer/BalatroMultiplayerServer/issues/79)
+- **Agent ROI:** **$8.33/hr** (Est. 6.0 hrs)
+- **Directive:** `LOW YIELD: Secondary priority at $8.33/hr.`
+- **Target URL:** [Claim Bounty](https://github.com/Ikalus1988/MisakaNet/issues/4494)
