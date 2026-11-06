@@ -1,15 +1,27 @@
 {
   "metadata": {
-    "generated_at": "2026-11-06T07:21:12.190960+00:00",
+    "generated_at": "2026-11-06T19:40:05.439747+00:00",
     "data_sources": [
       "GitHub Search API",
       "CoinGecko V3 API",
       "Semantic Extraction"
     ],
-    "total_bounties_indexed": 28,
+    "total_bounties_indexed": 39,
     "schema_version": "1.0.0"
   },
   "bounty_targets": [
+    {
+      "issue_url": "https://github.com/IES-BoilerRoom/asyncpg-savepoint-harness/issues/2",
+      "repository": "IES-BoilerRoom/asyncpg-savepoint-harness",
+      "title": "\ud83d\udc8e [Escrowed $600 USDC] 24-Vector Conformance Suite: PagedAttention KV-Cache Block Desync on Prefix-Aware Chunked Preemption",
+      "raw_reward_currency": "USD",
+      "raw_reward_amount": 600.0,
+      "estimated_hours_to_solve": 2.0,
+      "live_usd_exchange_rate": 1.0,
+      "total_usd_value": 600.0,
+      "roi_usd_per_hour": 300.0,
+      "agent_directive": "EXECUTE: High-yield target at $300.00/hr. Prioritize PR submission."
+    },
     {
       "issue_url": "https://github.com/IES-BoilerRoom/vllm-paged-kv-verifier/issues/2",
       "repository": "IES-BoilerRoom/vllm-paged-kv-verifier",
@@ -23,28 +35,16 @@
       "agent_directive": "EXECUTE: High-yield target at $300.00/hr. Prioritize PR submission."
     },
     {
-      "issue_url": "https://github.com/IES-BoilerRoom/tokio-ringbuffer-seqcst-matrix/issues/2",
-      "repository": "IES-BoilerRoom/tokio-ringbuffer-seqcst-matrix",
-      "title": "\ud83d\udc8e [Escrowed $600 USDC] 24-Vector Conformance Suite: PagedAttention KV-Cache Block Desync on Prefix-Aware Chunked Preemption",
+      "issue_url": "https://github.com/IES-BoilerRoom/asyncpg-savepoint-harness/issues/1",
+      "repository": "IES-BoilerRoom/asyncpg-savepoint-harness",
+      "title": "\ud83d\udc8e [Escrowed $450 USDC] 24-Vector Conformance Suite: Streaming MCP SSE Chunk Boundary Reassembly with Backpressure Backoff",
       "raw_reward_currency": "USD",
-      "raw_reward_amount": 600.0,
+      "raw_reward_amount": 450.0,
       "estimated_hours_to_solve": 2.0,
       "live_usd_exchange_rate": 1.0,
-      "total_usd_value": 600.0,
-      "roi_usd_per_hour": 300.0,
-      "agent_directive": "EXECUTE: High-yield target at $300.00/hr. Prioritize PR submission."
-    },
-    {
-      "issue_url": "https://github.com/IES-BoilerRoom/mcp-sse-frame-conformance/issues/2",
-      "repository": "IES-BoilerRoom/mcp-sse-frame-conformance",
-      "title": "\ud83d\udc8e [Escrowed $600 USDC] 24-Vector Conformance Suite: PagedAttention KV-Cache Block Desync on Prefix-Aware Chunked Preemption",
-      "raw_reward_currency": "USD",
-      "raw_reward_amount": 600.0,
-      "estimated_hours_to_solve": 2.0,
-      "live_usd_exchange_rate": 1.0,
-      "total_usd_value": 600.0,
-      "roi_usd_per_hour": 300.0,
-      "agent_directive": "EXECUTE: High-yield target at $300.00/hr. Prioritize PR submission."
+      "total_usd_value": 450.0,
+      "roi_usd_per_hour": 225.0,
+      "agent_directive": "EXECUTE: High-yield target at $225.00/hr. Prioritize PR submission."
     },
     {
       "issue_url": "https://github.com/IES-BoilerRoom/vllm-paged-kv-verifier/issues/1",
@@ -59,40 +59,16 @@
       "agent_directive": "EXECUTE: High-yield target at $225.00/hr. Prioritize PR submission."
     },
     {
-      "issue_url": "https://github.com/IES-BoilerRoom/tokio-ringbuffer-seqcst-matrix/issues/1",
-      "repository": "IES-BoilerRoom/tokio-ringbuffer-seqcst-matrix",
-      "title": "\ud83d\udc8e [Escrowed $450 USDC] 24-Vector Conformance Suite: Streaming MCP SSE Chunk Boundary Reassembly with Backpressure Backoff",
+      "issue_url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4243",
+      "repository": "zhangjiayang6835-cyber/bounty-plaza",
+      "title": "[Bounty] [Bounty $750] Fix remaining sharded scale_mask_softmax mask handling issues",
       "raw_reward_currency": "USD",
-      "raw_reward_amount": 450.0,
-      "estimated_hours_to_solve": 2.0,
+      "raw_reward_amount": 750.0,
+      "estimated_hours_to_solve": 3.5,
       "live_usd_exchange_rate": 1.0,
-      "total_usd_value": 450.0,
-      "roi_usd_per_hour": 225.0,
-      "agent_directive": "EXECUTE: High-yield target at $225.00/hr. Prioritize PR submission."
-    },
-    {
-      "issue_url": "https://github.com/IES-BoilerRoom/mcp-sse-frame-conformance/issues/1",
-      "repository": "IES-BoilerRoom/mcp-sse-frame-conformance",
-      "title": "\ud83d\udc8e [Escrowed $450 USDC] 24-Vector Conformance Suite: Streaming MCP SSE Chunk Boundary Reassembly with Backpressure Backoff",
-      "raw_reward_currency": "USD",
-      "raw_reward_amount": 450.0,
-      "estimated_hours_to_solve": 2.0,
-      "live_usd_exchange_rate": 1.0,
-      "total_usd_value": 450.0,
-      "roi_usd_per_hour": 225.0,
-      "agent_directive": "EXECUTE: High-yield target at $225.00/hr. Prioritize PR submission."
-    },
-    {
-      "issue_url": "https://github.com/IES-BoilerRoom/Furnace/issues/1",
-      "repository": "IES-BoilerRoom/Furnace",
-      "title": "\ud83d\udc8e [Escrowed $450 USDC] 24-Vector Conformance Suite: Streaming MCP SSE Chunk Boundary Reassembly with Backpressure Backoff",
-      "raw_reward_currency": "USD",
-      "raw_reward_amount": 450.0,
-      "estimated_hours_to_solve": 2.0,
-      "live_usd_exchange_rate": 1.0,
-      "total_usd_value": 450.0,
-      "roi_usd_per_hour": 225.0,
-      "agent_directive": "EXECUTE: High-yield target at $225.00/hr. Prioritize PR submission."
+      "total_usd_value": 750.0,
+      "roi_usd_per_hour": 214.29,
+      "agent_directive": "EXECUTE: High-yield target at $214.29/hr. Prioritize PR submission."
     },
     {
       "issue_url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4225",
@@ -105,6 +81,18 @@
       "total_usd_value": 750.0,
       "roi_usd_per_hour": 214.29,
       "agent_directive": "EXECUTE: High-yield target at $214.29/hr. Prioritize PR submission."
+    },
+    {
+      "issue_url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4237",
+      "repository": "zhangjiayang6835-cyber/bounty-plaza",
+      "title": "[Bounty] \ud83d\udc8e [Escrowed $600 USDC] 24-Vector Conformance Suite: PagedAttention KV-Cache Bloc",
+      "raw_reward_currency": "USD",
+      "raw_reward_amount": 600.0,
+      "estimated_hours_to_solve": 3.5,
+      "live_usd_exchange_rate": 1.0,
+      "total_usd_value": 600.0,
+      "roi_usd_per_hour": 171.43,
+      "agent_directive": "EXECUTE: High-yield target at $171.43/hr. Prioritize PR submission."
     },
     {
       "issue_url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4223",
@@ -167,16 +155,16 @@
       "agent_directive": "EXECUTE: High-yield target at $171.43/hr. Prioritize PR submission."
     },
     {
-      "issue_url": "https://github.com/IES-BoilerRoom/protocol-conformance-relay/issues/2",
-      "repository": "IES-BoilerRoom/protocol-conformance-relay",
-      "title": "\ud83d\udc8e [Bounty $600 USDC] PagedAttention KV-Cache Block Desync on Prefix-Aware Chunked Preemption (coalesce_slot_5985)",
+      "issue_url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4236",
+      "repository": "zhangjiayang6835-cyber/bounty-plaza",
+      "title": "[Bounty] \ud83d\udc8e [Escrowed $450 USDC] 24-Vector Conformance Suite: Streaming MCP SSE Chunk Boun",
       "raw_reward_currency": "USD",
-      "raw_reward_amount": 600.0,
+      "raw_reward_amount": 450.0,
       "estimated_hours_to_solve": 3.5,
       "live_usd_exchange_rate": 1.0,
-      "total_usd_value": 600.0,
-      "roi_usd_per_hour": 171.43,
-      "agent_directive": "EXECUTE: High-yield target at $171.43/hr. Prioritize PR submission."
+      "total_usd_value": 450.0,
+      "roi_usd_per_hour": 128.57,
+      "agent_directive": "EXECUTE: High-yield target at $128.57/hr. Prioritize PR submission."
     },
     {
       "issue_url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4224",
@@ -239,21 +227,21 @@
       "agent_directive": "EXECUTE: High-yield target at $128.57/hr. Prioritize PR submission."
     },
     {
-      "issue_url": "https://github.com/IES-BoilerRoom/protocol-conformance-relay/issues/1",
-      "repository": "IES-BoilerRoom/protocol-conformance-relay",
-      "title": "\ud83d\udc8e [Bounty $450 USDC] Streaming MCP SSE Chunk Boundary Reassembly with Backpressure Backoff (latch_slot_span_49b)",
+      "issue_url": "https://github.com/dev-kp-eloper/BountyScout/issues/1733",
+      "repository": "dev-kp-eloper/BountyScout",
+      "title": "\ud83c\udfaf Bounty Alert: 18 New Opportunityies found",
       "raw_reward_currency": "USD",
-      "raw_reward_amount": 450.0,
-      "estimated_hours_to_solve": 3.5,
+      "raw_reward_amount": 750.0,
+      "estimated_hours_to_solve": 6.0,
       "live_usd_exchange_rate": 1.0,
-      "total_usd_value": 450.0,
-      "roi_usd_per_hour": 128.57,
-      "agent_directive": "EXECUTE: High-yield target at $128.57/hr. Prioritize PR submission."
+      "total_usd_value": 750.0,
+      "roi_usd_per_hour": 125.0,
+      "agent_directive": "EXECUTE: High-yield target at $125.00/hr. Prioritize PR submission."
     },
     {
-      "issue_url": "https://github.com/Rohank143/BountyScout/issues/70",
-      "repository": "Rohank143/BountyScout",
-      "title": "\ud83c\udfaf Bounty Alert: 16 New Opportunityies found",
+      "issue_url": "https://github.com/freedom-winds/BountyScout/issues/1385",
+      "repository": "freedom-winds/BountyScout",
+      "title": "\ud83c\udfaf Bounty Alert: 11 New Opportunityies found",
       "raw_reward_currency": "USD",
       "raw_reward_amount": 600.0,
       "estimated_hours_to_solve": 6.0,
@@ -263,9 +251,69 @@
       "agent_directive": "EXECUTE: High-yield target at $100.00/hr. Prioritize PR submission."
     },
     {
-      "issue_url": "https://github.com/ecarlste/x4-swi-bounty-hunter/issues/58",
-      "repository": "ecarlste/x4-swi-bounty-hunter",
-      "title": "Head Hunter: general kill bounty",
+      "issue_url": "https://github.com/paraloom-labs/paraloom-core/issues/1406",
+      "repository": "paraloom-labs/paraloom-core",
+      "title": "[BUG BOUNTY] Medium: slash_validator fails to deactivate validator when token_stake_amount falls below min_token_stake",
+      "raw_reward_currency": "USD",
+      "raw_reward_amount": 150.0,
+      "estimated_hours_to_solve": 6.0,
+      "live_usd_exchange_rate": 1.0,
+      "total_usd_value": 150.0,
+      "roi_usd_per_hour": 25.0,
+      "agent_directive": "LOW YIELD: Secondary priority at $25.00/hr."
+    },
+    {
+      "issue_url": "https://github.com/paraloom-labs/paraloom-core/issues/1399",
+      "repository": "paraloom-labs/paraloom-core",
+      "title": "[BUG BOUNTY] Medium: OnChainSubmitter::new accepts trailing bytes in proving key, submit_deposit_from_fresh omits zero-amount & canonical field pre-flight checks, ProgramInterface::parse_program_version skips BridgeState discriminator verification, and save_keypair_to_file fails on missing parent directory",
+      "raw_reward_currency": "USD",
+      "raw_reward_amount": 150.0,
+      "estimated_hours_to_solve": 6.0,
+      "live_usd_exchange_rate": 1.0,
+      "total_usd_value": 150.0,
+      "roi_usd_per_hour": 25.0,
+      "agent_directive": "LOW YIELD: Secondary priority at $25.00/hr."
+    },
+    {
+      "issue_url": "https://github.com/paraloom-labs/paraloom-core/issues/1397",
+      "repository": "paraloom-labs/paraloom-core",
+      "title": "[BUG BOUNTY] Medium: paraloom-ceremony-finalize omits final_srs_hash verification against ceremony_pk, try_hash_from_hex rejects 0x-prefixed digests, and emit_*_fixture binaries accept trailing key bytes & write world-readable proving keys",
+      "raw_reward_currency": "USD",
+      "raw_reward_amount": 150.0,
+      "estimated_hours_to_solve": 6.0,
+      "live_usd_exchange_rate": 1.0,
+      "total_usd_value": 150.0,
+      "roi_usd_per_hour": 25.0,
+      "agent_directive": "LOW YIELD: Secondary priority at $25.00/hr."
+    },
+    {
+      "issue_url": "https://github.com/paraloom-labs/paraloom-core/issues/1395",
+      "repository": "paraloom-labs/paraloom-core",
+      "title": "[BUG BOUNTY] Medium: PrivateComputeJob::to_compute_job overwrites job_id with a random UUID, PrivateJobResult::from_job_result accepts Failed/TimedOut jobs, load_proving_key/load_verifying_key accept trailing bytes, and WasmEngine::execute_job wraps input_len as i32",
+      "raw_reward_currency": "USD",
+      "raw_reward_amount": 150.0,
+      "estimated_hours_to_solve": 6.0,
+      "live_usd_exchange_rate": 1.0,
+      "total_usd_value": 150.0,
+      "roi_usd_per_hour": 25.0,
+      "agent_directive": "LOW YIELD: Secondary priority at $25.00/hr."
+    },
+    {
+      "issue_url": "https://github.com/paraloom-labs/paraloom-core/issues/1393",
+      "repository": "paraloom-labs/paraloom-core",
+      "title": "[BUG BOUNTY] Medium: ValidatorInfo::selection_weight truncates sub-1000 reputation to 0, ReputationTracker::persist_locked panics on missing parent directory, SlashingTracker::record grows unboundedly, and VoteTally::completion_percentage returns NaN/Inf on total_validators == 0",
+      "raw_reward_currency": "USD",
+      "raw_reward_amount": 150.0,
+      "estimated_hours_to_solve": 6.0,
+      "live_usd_exchange_rate": 1.0,
+      "total_usd_value": 150.0,
+      "roi_usd_per_hour": 25.0,
+      "agent_directive": "LOW YIELD: Secondary priority at $25.00/hr."
+    },
+    {
+      "issue_url": "https://github.com/letsbecool9792/sereno-demo/issues/12",
+      "repository": "letsbecool9792/sereno-demo",
+      "title": "Docs: how issue bounties work",
       "raw_reward_currency": "USD",
       "raw_reward_amount": 50.0,
       "estimated_hours_to_solve": 2.0,
@@ -275,14 +323,74 @@
       "agent_directive": "LOW YIELD: Secondary priority at $25.00/hr."
     },
     {
-      "issue_url": "https://github.com/ecarlste/x4-swi-bounty-hunter/issues/51",
-      "repository": "ecarlste/x4-swi-bounty-hunter",
-      "title": "Alive bounties: prisoners worth more alive",
+      "issue_url": "https://github.com/paraloom-labs/paraloom-core/issues/1387",
+      "repository": "paraloom-labs/paraloom-core",
+      "title": "[BUG BOUNTY] Medium: TransactCircuitV3 in_leaf_indices u32 cast truncation, circom_poseidon panics on invalid input arities, and setup_*_ceremony missing CircomReduction & trailing-byte checks",
       "raw_reward_currency": "USD",
-      "raw_reward_amount": 50.0,
-      "estimated_hours_to_solve": 2.0,
+      "raw_reward_amount": 150.0,
+      "estimated_hours_to_solve": 6.0,
       "live_usd_exchange_rate": 1.0,
-      "total_usd_value": 50.0,
+      "total_usd_value": 150.0,
+      "roi_usd_per_hour": 25.0,
+      "agent_directive": "LOW YIELD: Secondary priority at $25.00/hr."
+    },
+    {
+      "issue_url": "https://github.com/paraloom-labs/paraloom-core/issues/1385",
+      "repository": "paraloom-labs/paraloom-core",
+      "title": "[BUG BOUNTY] Medium: MerkleTree::with_depth(0) panics and compute_root silently ignores overflow leaves, EncryptedNote::to_bytes emits invalid <16B ct envelopes, and load_verifying_key accepts trailing bytes",
+      "raw_reward_currency": "USD",
+      "raw_reward_amount": 150.0,
+      "estimated_hours_to_solve": 6.0,
+      "live_usd_exchange_rate": 1.0,
+      "total_usd_value": 150.0,
+      "roi_usd_per_hour": 25.0,
+      "agent_directive": "LOW YIELD: Secondary priority at $25.00/hr."
+    },
+    {
+      "issue_url": "https://github.com/paraloom-labs/paraloom-core/issues/1383",
+      "repository": "paraloom-labs/paraloom-core",
+      "title": "[BUG BOUNTY] Medium: assemble_transaction out-of-bounds panic on corrupted header, gather_signatures threshold == 0 bypass, and unvalidated trailing bytes in compressed_proof_to_onchain_bytes",
+      "raw_reward_currency": "USD",
+      "raw_reward_amount": 150.0,
+      "estimated_hours_to_solve": 6.0,
+      "live_usd_exchange_rate": 1.0,
+      "total_usd_value": 150.0,
+      "roi_usd_per_hour": 25.0,
+      "agent_directive": "LOW YIELD: Secondary priority at $25.00/hr."
+    },
+    {
+      "issue_url": "https://github.com/paraloom-labs/paraloom-core/issues/1380",
+      "repository": "paraloom-labs/paraloom-core",
+      "title": "[BUG BOUNTY] Medium: ProgramInterface::is_nullifier_spent accepts under-sized accounts, PrivacyStorage::check_nullifiers_batch allows intra-batch duplicates, and update_reputation omits MIN/MAX bounds",
+      "raw_reward_currency": "USD",
+      "raw_reward_amount": 150.0,
+      "estimated_hours_to_solve": 6.0,
+      "live_usd_exchange_rate": 1.0,
+      "total_usd_value": 150.0,
+      "roi_usd_per_hour": 25.0,
+      "agent_directive": "LOW YIELD: Secondary priority at $25.00/hr."
+    },
+    {
+      "issue_url": "https://github.com/paraloom-labs/paraloom-core/issues/1378",
+      "repository": "paraloom-labs/paraloom-core",
+      "title": "[BUG BOUNTY] Medium: PeerRegistry::mark_disconnected panics on empty RECONNECT_BACKOFF, start_kad_bootstrap_refresh panics on zero interval, and ceremony file I/O lacks trailing-byte & parent-dir guards",
+      "raw_reward_currency": "USD",
+      "raw_reward_amount": 150.0,
+      "estimated_hours_to_solve": 6.0,
+      "live_usd_exchange_rate": 1.0,
+      "total_usd_value": 150.0,
+      "roi_usd_per_hour": 25.0,
+      "agent_directive": "LOW YIELD: Secondary priority at $25.00/hr."
+    },
+    {
+      "issue_url": "https://github.com/paraloom-labs/paraloom-core/issues/1375",
+      "repository": "paraloom-labs/paraloom-core",
+      "title": "[BUG BOUNTY] Medium: ComputeCircuit::with_witness panics on >1KiB payloads, JobAssignment timestamp/timeout overflow panics, and ExecutorStats/VerificationStats accounting bugs",
+      "raw_reward_currency": "USD",
+      "raw_reward_amount": 150.0,
+      "estimated_hours_to_solve": 6.0,
+      "live_usd_exchange_rate": 1.0,
+      "total_usd_value": 150.0,
       "roi_usd_per_hour": 25.0,
       "agent_directive": "LOW YIELD: Secondary priority at $25.00/hr."
     },
@@ -311,9 +419,9 @@
       "agent_directive": "LOW YIELD: Secondary priority at $14.29/hr."
     },
     {
-      "issue_url": "https://github.com/abdulsalam-create/bounty-watch/issues/223",
+      "issue_url": "https://github.com/abdulsalam-create/bounty-watch/issues/225",
       "repository": "abdulsalam-create/bounty-watch",
-      "title": "Scope digest 2026-11-06: 6 changes across 5 bounty programs",
+      "title": "bounty-watch 2026-11-06: 0 new, 2 resumed, 4 watchlist changes",
       "raw_reward_currency": "USD",
       "raw_reward_amount": 50.0,
       "estimated_hours_to_solve": 3.5,
@@ -323,28 +431,52 @@
       "agent_directive": "LOW YIELD: Secondary priority at $14.29/hr."
     },
     {
-      "issue_url": "https://github.com/abdulsalam-create/bounty-watch/issues/222",
-      "repository": "abdulsalam-create/bounty-watch",
-      "title": "bounty-watch 2026-11-06: 1 new, 0 resumed, 4 watchlist changes",
+      "issue_url": "https://github.com/paraloom-labs/paraloom-core/issues/1410",
+      "repository": "paraloom-labs/paraloom-core",
+      "title": "[BUG BOUNTY] Medium: Request-response codecs omit outbound MAX_*_PAYLOAD_BYTES checks in write_request/write_response, NetworkManager dials/registers self PeerId, load_or_create_identity fails on empty identity_path, and send_cosign_request lacks timeout/waiter cleanup",
       "raw_reward_currency": "USD",
       "raw_reward_amount": 50.0,
-      "estimated_hours_to_solve": 3.5,
+      "estimated_hours_to_solve": 6.0,
       "live_usd_exchange_rate": 1.0,
       "total_usd_value": 50.0,
-      "roi_usd_per_hour": 14.29,
-      "agent_directive": "LOW YIELD: Secondary priority at $14.29/hr."
+      "roi_usd_per_hour": 8.33,
+      "agent_directive": "LOW YIELD: Secondary priority at $8.33/hr."
     },
     {
-      "issue_url": "https://github.com/saverchenkov/EvoMu/issues/452",
-      "repository": "saverchenkov/EvoMu",
-      "title": "[R7-TC-10] [P1-Mechanics] Pirate FOB Destruction Spawns Unlootable Container (loot_container_id Missing from snap.items) & Pays Full 30M ISK Bounty to Capsules and 1-HP Taggers",
+      "issue_url": "https://github.com/paraloom-labs/paraloom-core/issues/1389",
+      "repository": "paraloom-labs/paraloom-core",
+      "title": "[BUG BOUNTY] Low: check_validators omits owner/discriminator validation and decodes fields, setup_transact_ceremony_v3 & setup_withdrawal_ceremony_v2 write world-readable proving keys without read-back verification, and emit_transact_v3_fixture panics on missing keys/ directory",
       "raw_reward_currency": "USD",
       "raw_reward_amount": 50.0,
-      "estimated_hours_to_solve": 3.5,
+      "estimated_hours_to_solve": 6.0,
       "live_usd_exchange_rate": 1.0,
       "total_usd_value": 50.0,
-      "roi_usd_per_hour": 14.29,
-      "agent_directive": "LOW YIELD: Secondary priority at $14.29/hr."
+      "roi_usd_per_hour": 8.33,
+      "agent_directive": "LOW YIELD: Secondary priority at $8.33/hr."
+    },
+    {
+      "issue_url": "https://github.com/mfaulk/zeebra/issues/203",
+      "repository": "mfaulk/zeebra",
+      "title": "C7: Feistel-MiMC and Rescue-Prime \u2014 the 2021-2022 EF bounty primitives, generated and measured",
+      "raw_reward_currency": "USD",
+      "raw_reward_amount": 50.0,
+      "estimated_hours_to_solve": 6.0,
+      "live_usd_exchange_rate": 1.0,
+      "total_usd_value": 50.0,
+      "roi_usd_per_hour": 8.33,
+      "agent_directive": "LOW YIELD: Secondary priority at $8.33/hr."
+    },
+    {
+      "issue_url": "https://github.com/paraloom-labs/paraloom-core/issues/1372",
+      "repository": "paraloom-labs/paraloom-core",
+      "title": "[BUG BOUNTY] Low: utils::hex_to_bytes UTF-8 char-boundary panic, world-readable secret key files & unvalidated RESUME_NOTE in private_swap_demo, and unchecked merkle_tree slicing in demo_transact_v3",
+      "raw_reward_currency": "USD",
+      "raw_reward_amount": 50.0,
+      "estimated_hours_to_solve": 6.0,
+      "live_usd_exchange_rate": 1.0,
+      "total_usd_value": 50.0,
+      "roi_usd_per_hour": 8.33,
+      "agent_directive": "LOW YIELD: Secondary priority at $8.33/hr."
     }
   ]
 }
