@@ -1,91 +1,19 @@
 {
   "metadata": {
-    "generated_at": "2026-11-05T20:14:57.432133+00:00",
+    "generated_at": "2026-11-06T07:21:12.190960+00:00",
     "data_sources": [
       "GitHub Search API",
       "CoinGecko V3 API",
       "Semantic Extraction"
     ],
-    "total_bounties_indexed": 36,
+    "total_bounties_indexed": 28,
     "schema_version": "1.0.0"
   },
   "bounty_targets": [
     {
-      "issue_url": "https://github.com/bcnmy/nexus/issues/310",
-      "repository": "bcnmy/nexus",
-      "title": "[Bug Bounty] [Medium] Session key escapes its scope via enable-mode module install and drains the account",
-      "raw_reward_currency": "ETH",
-      "raw_reward_amount": 10.0,
-      "estimated_hours_to_solve": 6.0,
-      "live_usd_exchange_rate": 2248.26,
-      "total_usd_value": 22482.6,
-      "roi_usd_per_hour": 3747.1,
-      "agent_directive": "EXECUTE: High-yield target at $3747.10/hr. Prioritize PR submission."
-    },
-    {
-      "issue_url": "https://github.com/relayhop/sn-monetization-runtime/issues/1354",
-      "repository": "relayhop/sn-monetization-runtime",
-      "title": "[radar] SN open bounty 2026-11-03T06:35",
-      "raw_reward_currency": "USD",
-      "raw_reward_amount": 2026.0,
-      "estimated_hours_to_solve": 2.0,
-      "live_usd_exchange_rate": 1.0,
-      "total_usd_value": 2026.0,
-      "roi_usd_per_hour": 1013.0,
-      "agent_directive": "EXECUTE: High-yield target at $1013.00/hr. Prioritize PR submission."
-    },
-    {
-      "issue_url": "https://github.com/relayhop/sn-monetization-runtime/issues/1353",
-      "repository": "relayhop/sn-monetization-runtime",
-      "title": "[radar] SN open bounty 2026-11-02T23:25",
-      "raw_reward_currency": "USD",
-      "raw_reward_amount": 2026.0,
-      "estimated_hours_to_solve": 2.0,
-      "live_usd_exchange_rate": 1.0,
-      "total_usd_value": 2026.0,
-      "roi_usd_per_hour": 1013.0,
-      "agent_directive": "EXECUTE: High-yield target at $1013.00/hr. Prioritize PR submission."
-    },
-    {
-      "issue_url": "https://github.com/relayhop/sn-monetization-runtime/issues/1352",
-      "repository": "relayhop/sn-monetization-runtime",
-      "title": "[radar] SN open bounty 2026-11-02T15:36",
-      "raw_reward_currency": "USD",
-      "raw_reward_amount": 2026.0,
-      "estimated_hours_to_solve": 2.0,
-      "live_usd_exchange_rate": 1.0,
-      "total_usd_value": 2026.0,
-      "roi_usd_per_hour": 1013.0,
-      "agent_directive": "EXECUTE: High-yield target at $1013.00/hr. Prioritize PR submission."
-    },
-    {
-      "issue_url": "https://github.com/relayhop/sn-monetization-runtime/issues/1351",
-      "repository": "relayhop/sn-monetization-runtime",
-      "title": "[radar] SN open bounty 2026-11-02T05:51",
-      "raw_reward_currency": "USD",
-      "raw_reward_amount": 2026.0,
-      "estimated_hours_to_solve": 2.0,
-      "live_usd_exchange_rate": 1.0,
-      "total_usd_value": 2026.0,
-      "roi_usd_per_hour": 1013.0,
-      "agent_directive": "EXECUTE: High-yield target at $1013.00/hr. Prioritize PR submission."
-    },
-    {
-      "issue_url": "https://github.com/alfrexo95/bounty-bot/issues/77",
-      "repository": "alfrexo95/bounty-bot",
-      "title": "\ud83d\udcb0 Bounty Seguro ($$750): [Bounty] \ud83d\udcb0 Bounty Seguro ($$750): \ud83d\udcb0 Bounty Seguro ",
-      "raw_reward_currency": "USD",
-      "raw_reward_amount": 750.0,
-      "estimated_hours_to_solve": 2.0,
-      "live_usd_exchange_rate": 1.0,
-      "total_usd_value": 750.0,
-      "roi_usd_per_hour": 375.0,
-      "agent_directive": "EXECUTE: High-yield target at $375.00/hr. Prioritize PR submission."
-    },
-    {
-      "issue_url": "https://github.com/WholeTroutMedia/agent-conformance-quarantine/issues/2",
-      "repository": "WholeTroutMedia/agent-conformance-quarantine",
-      "title": "[Escrowed $600 USDC] 20-Vector Conformance Suite: PagedAttention KV-Cache Block Desync on Prefix-Aware Chunked Preemption",
+      "issue_url": "https://github.com/IES-BoilerRoom/vllm-paged-kv-verifier/issues/2",
+      "repository": "IES-BoilerRoom/vllm-paged-kv-verifier",
+      "title": "\ud83d\udc8e [Escrowed $600 USDC] 24-Vector Conformance Suite: PagedAttention KV-Cache Block Desync on Prefix-Aware Chunked Preemption",
       "raw_reward_currency": "USD",
       "raw_reward_amount": 600.0,
       "estimated_hours_to_solve": 2.0,
@@ -95,9 +23,9 @@
       "agent_directive": "EXECUTE: High-yield target at $300.00/hr. Prioritize PR submission."
     },
     {
-      "issue_url": "https://github.com/WholeTroutMedia/protocol-conformance-relay/issues/2",
-      "repository": "WholeTroutMedia/protocol-conformance-relay",
-      "title": "[Bounty $600 USDC] PagedAttention KV-Cache Block Desync on Prefix-Aware Chunked Preemption (partition_barrier_state_d57)",
+      "issue_url": "https://github.com/IES-BoilerRoom/tokio-ringbuffer-seqcst-matrix/issues/2",
+      "repository": "IES-BoilerRoom/tokio-ringbuffer-seqcst-matrix",
+      "title": "\ud83d\udc8e [Escrowed $600 USDC] 24-Vector Conformance Suite: PagedAttention KV-Cache Block Desync on Prefix-Aware Chunked Preemption",
       "raw_reward_currency": "USD",
       "raw_reward_amount": 600.0,
       "estimated_hours_to_solve": 2.0,
@@ -107,9 +35,21 @@
       "agent_directive": "EXECUTE: High-yield target at $300.00/hr. Prioritize PR submission."
     },
     {
-      "issue_url": "https://github.com/WholeTroutMedia/agent-conformance-quarantine/issues/1",
-      "repository": "WholeTroutMedia/agent-conformance-quarantine",
-      "title": "[Escrowed $450 USDC] 20-Vector Conformance Suite: Streaming MCP SSE Chunk Boundary Reassembly with Backpressure Backoff",
+      "issue_url": "https://github.com/IES-BoilerRoom/mcp-sse-frame-conformance/issues/2",
+      "repository": "IES-BoilerRoom/mcp-sse-frame-conformance",
+      "title": "\ud83d\udc8e [Escrowed $600 USDC] 24-Vector Conformance Suite: PagedAttention KV-Cache Block Desync on Prefix-Aware Chunked Preemption",
+      "raw_reward_currency": "USD",
+      "raw_reward_amount": 600.0,
+      "estimated_hours_to_solve": 2.0,
+      "live_usd_exchange_rate": 1.0,
+      "total_usd_value": 600.0,
+      "roi_usd_per_hour": 300.0,
+      "agent_directive": "EXECUTE: High-yield target at $300.00/hr. Prioritize PR submission."
+    },
+    {
+      "issue_url": "https://github.com/IES-BoilerRoom/vllm-paged-kv-verifier/issues/1",
+      "repository": "IES-BoilerRoom/vllm-paged-kv-verifier",
+      "title": "\ud83d\udc8e [Escrowed $450 USDC] 24-Vector Conformance Suite: Streaming MCP SSE Chunk Boundary Reassembly with Backpressure Backoff",
       "raw_reward_currency": "USD",
       "raw_reward_amount": 450.0,
       "estimated_hours_to_solve": 2.0,
@@ -119,9 +59,9 @@
       "agent_directive": "EXECUTE: High-yield target at $225.00/hr. Prioritize PR submission."
     },
     {
-      "issue_url": "https://github.com/WholeTroutMedia/protocol-conformance-relay/issues/1",
-      "repository": "WholeTroutMedia/protocol-conformance-relay",
-      "title": "[Bounty $450 USDC] Streaming MCP SSE Chunk Boundary Reassembly with Backpressure Backoff (_reconcile_slab_guard_v7)",
+      "issue_url": "https://github.com/IES-BoilerRoom/tokio-ringbuffer-seqcst-matrix/issues/1",
+      "repository": "IES-BoilerRoom/tokio-ringbuffer-seqcst-matrix",
+      "title": "\ud83d\udc8e [Escrowed $450 USDC] 24-Vector Conformance Suite: Streaming MCP SSE Chunk Boundary Reassembly with Backpressure Backoff",
       "raw_reward_currency": "USD",
       "raw_reward_amount": 450.0,
       "estimated_hours_to_solve": 2.0,
@@ -131,9 +71,33 @@
       "agent_directive": "EXECUTE: High-yield target at $225.00/hr. Prioritize PR submission."
     },
     {
-      "issue_url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4201",
+      "issue_url": "https://github.com/IES-BoilerRoom/mcp-sse-frame-conformance/issues/1",
+      "repository": "IES-BoilerRoom/mcp-sse-frame-conformance",
+      "title": "\ud83d\udc8e [Escrowed $450 USDC] 24-Vector Conformance Suite: Streaming MCP SSE Chunk Boundary Reassembly with Backpressure Backoff",
+      "raw_reward_currency": "USD",
+      "raw_reward_amount": 450.0,
+      "estimated_hours_to_solve": 2.0,
+      "live_usd_exchange_rate": 1.0,
+      "total_usd_value": 450.0,
+      "roi_usd_per_hour": 225.0,
+      "agent_directive": "EXECUTE: High-yield target at $225.00/hr. Prioritize PR submission."
+    },
+    {
+      "issue_url": "https://github.com/IES-BoilerRoom/Furnace/issues/1",
+      "repository": "IES-BoilerRoom/Furnace",
+      "title": "\ud83d\udc8e [Escrowed $450 USDC] 24-Vector Conformance Suite: Streaming MCP SSE Chunk Boundary Reassembly with Backpressure Backoff",
+      "raw_reward_currency": "USD",
+      "raw_reward_amount": 450.0,
+      "estimated_hours_to_solve": 2.0,
+      "live_usd_exchange_rate": 1.0,
+      "total_usd_value": 450.0,
+      "roi_usd_per_hour": 225.0,
+      "agent_directive": "EXECUTE: High-yield target at $225.00/hr. Prioritize PR submission."
+    },
+    {
+      "issue_url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4225",
       "repository": "zhangjiayang6835-cyber/bounty-plaza",
-      "title": "[Bounty] \ud83d\udcb0 Bounty Seguro ($$750): [Bounty] \ud83d\udcb0 Bounty Seguro ($$750): \ud83d\udcb0 Bounty Seguro ",
+      "title": "[Bounty] [Bounty $750] Fix sharded softmax on offset core grids",
       "raw_reward_currency": "USD",
       "raw_reward_amount": 750.0,
       "estimated_hours_to_solve": 3.5,
@@ -143,9 +107,9 @@
       "agent_directive": "EXECUTE: High-yield target at $214.29/hr. Prioritize PR submission."
     },
     {
-      "issue_url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4207",
+      "issue_url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4223",
       "repository": "zhangjiayang6835-cyber/bounty-plaza",
-      "title": "[Bounty] [Bounty $600 USDC] PagedAttention KV-Cache Block Desync on Prefix-Aware Chunked ",
+      "title": "[Bounty] \ud83d\udc8e [Bounty $600 USDC] PagedAttention KV-Cache Block Desync on Prefix-Aware Chunke",
       "raw_reward_currency": "USD",
       "raw_reward_amount": 600.0,
       "estimated_hours_to_solve": 3.5,
@@ -155,9 +119,9 @@
       "agent_directive": "EXECUTE: High-yield target at $171.43/hr. Prioritize PR submission."
     },
     {
-      "issue_url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4206",
+      "issue_url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4221",
       "repository": "zhangjiayang6835-cyber/bounty-plaza",
-      "title": "[Bounty] [Escrowed $600 USDC] 20-Vector Conformance Suite: PagedAttention KV-Cache Block ",
+      "title": "[Bounty] \ud83d\udc8e [Escrowed $600 USDC] 24-Vector Conformance Suite: PagedAttention KV-Cache Bloc",
       "raw_reward_currency": "USD",
       "raw_reward_amount": 600.0,
       "estimated_hours_to_solve": 3.5,
@@ -167,9 +131,57 @@
       "agent_directive": "EXECUTE: High-yield target at $171.43/hr. Prioritize PR submission."
     },
     {
-      "issue_url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4208",
+      "issue_url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4219",
       "repository": "zhangjiayang6835-cyber/bounty-plaza",
-      "title": "[Bounty] [Bounty $450 USDC] Streaming MCP SSE Chunk Boundary Reassembly with Backpressure",
+      "title": "[Bounty] \ud83d\udc8e [Escrowed $600 USDC] 24-Vector Conformance Suite: PagedAttention KV-Cache Bloc",
+      "raw_reward_currency": "USD",
+      "raw_reward_amount": 600.0,
+      "estimated_hours_to_solve": 3.5,
+      "live_usd_exchange_rate": 1.0,
+      "total_usd_value": 600.0,
+      "roi_usd_per_hour": 171.43,
+      "agent_directive": "EXECUTE: High-yield target at $171.43/hr. Prioritize PR submission."
+    },
+    {
+      "issue_url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4218",
+      "repository": "zhangjiayang6835-cyber/bounty-plaza",
+      "title": "[Bounty] \ud83d\udc8e [Escrowed $600 USDC] 24-Vector Conformance Suite: PagedAttention KV-Cache Bloc",
+      "raw_reward_currency": "USD",
+      "raw_reward_amount": 600.0,
+      "estimated_hours_to_solve": 3.5,
+      "live_usd_exchange_rate": 1.0,
+      "total_usd_value": 600.0,
+      "roi_usd_per_hour": 171.43,
+      "agent_directive": "EXECUTE: High-yield target at $171.43/hr. Prioritize PR submission."
+    },
+    {
+      "issue_url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4215",
+      "repository": "zhangjiayang6835-cyber/bounty-plaza",
+      "title": "[Bounty] \ud83d\udc8e [Escrowed $600 USDC] 24-Vector Conformance Suite: PagedAttention KV-Cache Bloc",
+      "raw_reward_currency": "USD",
+      "raw_reward_amount": 600.0,
+      "estimated_hours_to_solve": 3.5,
+      "live_usd_exchange_rate": 1.0,
+      "total_usd_value": 600.0,
+      "roi_usd_per_hour": 171.43,
+      "agent_directive": "EXECUTE: High-yield target at $171.43/hr. Prioritize PR submission."
+    },
+    {
+      "issue_url": "https://github.com/IES-BoilerRoom/protocol-conformance-relay/issues/2",
+      "repository": "IES-BoilerRoom/protocol-conformance-relay",
+      "title": "\ud83d\udc8e [Bounty $600 USDC] PagedAttention KV-Cache Block Desync on Prefix-Aware Chunked Preemption (coalesce_slot_5985)",
+      "raw_reward_currency": "USD",
+      "raw_reward_amount": 600.0,
+      "estimated_hours_to_solve": 3.5,
+      "live_usd_exchange_rate": 1.0,
+      "total_usd_value": 600.0,
+      "roi_usd_per_hour": 171.43,
+      "agent_directive": "EXECUTE: High-yield target at $171.43/hr. Prioritize PR submission."
+    },
+    {
+      "issue_url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4224",
+      "repository": "zhangjiayang6835-cyber/bounty-plaza",
+      "title": "[Bounty] \ud83d\udc8e [Bounty $450 USDC] Streaming MCP SSE Chunk Boundary Reassembly with Backpressu",
       "raw_reward_currency": "USD",
       "raw_reward_amount": 450.0,
       "estimated_hours_to_solve": 3.5,
@@ -179,9 +191,9 @@
       "agent_directive": "EXECUTE: High-yield target at $128.57/hr. Prioritize PR submission."
     },
     {
-      "issue_url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4205",
+      "issue_url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4222",
       "repository": "zhangjiayang6835-cyber/bounty-plaza",
-      "title": "[Bounty] [Escrowed $450 USDC] 20-Vector Conformance Suite: Streaming MCP SSE Chunk Bounda",
+      "title": "[Bounty] \ud83d\udc8e [Escrowed $450 USDC] 24-Vector Conformance Suite: Streaming MCP SSE Chunk Boun",
       "raw_reward_currency": "USD",
       "raw_reward_amount": 450.0,
       "estimated_hours_to_solve": 3.5,
@@ -191,9 +203,57 @@
       "agent_directive": "EXECUTE: High-yield target at $128.57/hr. Prioritize PR submission."
     },
     {
-      "issue_url": "https://github.com/freedom-winds/BountyScout/issues/1382",
-      "repository": "freedom-winds/BountyScout",
-      "title": "\ud83c\udfaf Bounty Alert: 13 New Opportunityies found",
+      "issue_url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4220",
+      "repository": "zhangjiayang6835-cyber/bounty-plaza",
+      "title": "[Bounty] \ud83d\udc8e [Escrowed $450 USDC] 24-Vector Conformance Suite: Streaming MCP SSE Chunk Boun",
+      "raw_reward_currency": "USD",
+      "raw_reward_amount": 450.0,
+      "estimated_hours_to_solve": 3.5,
+      "live_usd_exchange_rate": 1.0,
+      "total_usd_value": 450.0,
+      "roi_usd_per_hour": 128.57,
+      "agent_directive": "EXECUTE: High-yield target at $128.57/hr. Prioritize PR submission."
+    },
+    {
+      "issue_url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4217",
+      "repository": "zhangjiayang6835-cyber/bounty-plaza",
+      "title": "[Bounty] \ud83d\udc8e [Escrowed $450 USDC] 24-Vector Conformance Suite: Streaming MCP SSE Chunk Boun",
+      "raw_reward_currency": "USD",
+      "raw_reward_amount": 450.0,
+      "estimated_hours_to_solve": 3.5,
+      "live_usd_exchange_rate": 1.0,
+      "total_usd_value": 450.0,
+      "roi_usd_per_hour": 128.57,
+      "agent_directive": "EXECUTE: High-yield target at $128.57/hr. Prioritize PR submission."
+    },
+    {
+      "issue_url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4216",
+      "repository": "zhangjiayang6835-cyber/bounty-plaza",
+      "title": "[Bounty] \ud83d\udc8e [Escrowed $450 USDC] 24-Vector Conformance Suite: Streaming MCP SSE Chunk Boun",
+      "raw_reward_currency": "USD",
+      "raw_reward_amount": 450.0,
+      "estimated_hours_to_solve": 3.5,
+      "live_usd_exchange_rate": 1.0,
+      "total_usd_value": 450.0,
+      "roi_usd_per_hour": 128.57,
+      "agent_directive": "EXECUTE: High-yield target at $128.57/hr. Prioritize PR submission."
+    },
+    {
+      "issue_url": "https://github.com/IES-BoilerRoom/protocol-conformance-relay/issues/1",
+      "repository": "IES-BoilerRoom/protocol-conformance-relay",
+      "title": "\ud83d\udc8e [Bounty $450 USDC] Streaming MCP SSE Chunk Boundary Reassembly with Backpressure Backoff (latch_slot_span_49b)",
+      "raw_reward_currency": "USD",
+      "raw_reward_amount": 450.0,
+      "estimated_hours_to_solve": 3.5,
+      "live_usd_exchange_rate": 1.0,
+      "total_usd_value": 450.0,
+      "roi_usd_per_hour": 128.57,
+      "agent_directive": "EXECUTE: High-yield target at $128.57/hr. Prioritize PR submission."
+    },
+    {
+      "issue_url": "https://github.com/Rohank143/BountyScout/issues/70",
+      "repository": "Rohank143/BountyScout",
+      "title": "\ud83c\udfaf Bounty Alert: 16 New Opportunityies found",
       "raw_reward_currency": "USD",
       "raw_reward_amount": 600.0,
       "estimated_hours_to_solve": 6.0,
@@ -203,21 +263,9 @@
       "agent_directive": "EXECUTE: High-yield target at $100.00/hr. Prioritize PR submission."
     },
     {
-      "issue_url": "https://github.com/Rohank143/BountyScout/issues/68",
-      "repository": "Rohank143/BountyScout",
-      "title": "\ud83c\udfaf Bounty Alert: 17 New Opportunityies found",
-      "raw_reward_currency": "USD",
-      "raw_reward_amount": 450.0,
-      "estimated_hours_to_solve": 6.0,
-      "live_usd_exchange_rate": 1.0,
-      "total_usd_value": 450.0,
-      "roi_usd_per_hour": 75.0,
-      "agent_directive": "STANDARD: Profitable target at $75.00/hr. Queue for execution."
-    },
-    {
-      "issue_url": "https://github.com/MyZubster-Ecosystem/myzubster/issues/1696",
-      "repository": "MyZubster-Ecosystem/myzubster",
-      "title": "Avviso alla community sui costi di bounty, sviluppo su Vercel e VPS",
+      "issue_url": "https://github.com/ecarlste/x4-swi-bounty-hunter/issues/58",
+      "repository": "ecarlste/x4-swi-bounty-hunter",
+      "title": "Head Hunter: general kill bounty",
       "raw_reward_currency": "USD",
       "raw_reward_amount": 50.0,
       "estimated_hours_to_solve": 2.0,
@@ -227,9 +275,9 @@
       "agent_directive": "LOW YIELD: Secondary priority at $25.00/hr."
     },
     {
-      "issue_url": "https://github.com/MajekLabs/EnclaveAI--Privacy-Preserving-Intelligence/issues/1",
-      "repository": "MajekLabs/EnclaveAI--Privacy-Preserving-Intelligence",
-      "title": "[Bug]: Security Contact Unreachable \u2014 Bug Bounty Status Confirmation",
+      "issue_url": "https://github.com/ecarlste/x4-swi-bounty-hunter/issues/51",
+      "repository": "ecarlste/x4-swi-bounty-hunter",
+      "title": "Alive bounties: prisoners worth more alive",
       "raw_reward_currency": "USD",
       "raw_reward_amount": 50.0,
       "estimated_hours_to_solve": 2.0,
@@ -239,33 +287,33 @@
       "agent_directive": "LOW YIELD: Secondary priority at $25.00/hr."
     },
     {
-      "issue_url": "https://github.com/hellonearportal-dotcom/nearportal-demo-tasks/issues/3",
-      "repository": "hellonearportal-dotcom/nearportal-demo-tasks",
-      "title": "[NP-28D5750673] Min/max \u2014 bank bounty",
+      "issue_url": "https://github.com/odiseo159-beep/mergit/issues/17",
+      "repository": "odiseo159-beep/mergit",
+      "title": "Test the rules that decide which bounty a pull request claims",
       "raw_reward_currency": "USD",
       "raw_reward_amount": 50.0,
-      "estimated_hours_to_solve": 2.0,
+      "estimated_hours_to_solve": 3.5,
       "live_usd_exchange_rate": 1.0,
       "total_usd_value": 50.0,
-      "roi_usd_per_hour": 25.0,
-      "agent_directive": "LOW YIELD: Secondary priority at $25.00/hr."
+      "roi_usd_per_hour": 14.29,
+      "agent_directive": "LOW YIELD: Secondary priority at $14.29/hr."
     },
     {
-      "issue_url": "https://github.com/Aur-Dev-re/veille-jeux-retro/issues/103362",
-      "repository": "Aur-Dev-re/veille-jeux-retro",
-      "title": "eBay Italie : Star Wars Bounty Hunter Nintendo Gamecube Pal ITA Completo",
+      "issue_url": "https://github.com/odiseo159-beep/mergit/issues/16",
+      "repository": "odiseo159-beep/mergit",
+      "title": "Give the verifier a fair chance after a challenge",
       "raw_reward_currency": "USD",
       "raw_reward_amount": 50.0,
-      "estimated_hours_to_solve": 2.0,
+      "estimated_hours_to_solve": 3.5,
       "live_usd_exchange_rate": 1.0,
       "total_usd_value": 50.0,
-      "roi_usd_per_hour": 25.0,
-      "agent_directive": "LOW YIELD: Secondary priority at $25.00/hr."
+      "roi_usd_per_hour": 14.29,
+      "agent_directive": "LOW YIELD: Secondary priority at $14.29/hr."
     },
     {
-      "issue_url": "https://github.com/abdulsalam-create/bounty-watch/issues/221",
+      "issue_url": "https://github.com/abdulsalam-create/bounty-watch/issues/223",
       "repository": "abdulsalam-create/bounty-watch",
-      "title": "bounty-watch 2026-11-05: 0 new, 1 resumed, 7 watchlist changes",
+      "title": "Scope digest 2026-11-06: 6 changes across 5 bounty programs",
       "raw_reward_currency": "USD",
       "raw_reward_amount": 50.0,
       "estimated_hours_to_solve": 3.5,
@@ -275,9 +323,9 @@
       "agent_directive": "LOW YIELD: Secondary priority at $14.29/hr."
     },
     {
-      "issue_url": "https://github.com/paraspell/xcm-tools/issues/2433",
-      "repository": "paraspell/xcm-tools",
-      "title": "[Bug bounty][Medium] XCM API: assetId accepts JSON numbers > 2^53 \u2014 silent float rounding forwards a wrong assetId to the SDK",
+      "issue_url": "https://github.com/abdulsalam-create/bounty-watch/issues/222",
+      "repository": "abdulsalam-create/bounty-watch",
+      "title": "bounty-watch 2026-11-06: 1 new, 0 resumed, 4 watchlist changes",
       "raw_reward_currency": "USD",
       "raw_reward_amount": 50.0,
       "estimated_hours_to_solve": 3.5,
@@ -287,9 +335,9 @@
       "agent_directive": "LOW YIELD: Secondary priority at $14.29/hr."
     },
     {
-      "issue_url": "https://github.com/paraspell/xcm-tools/issues/2429",
-      "repository": "paraspell/xcm-tools",
-      "title": "[Bug bounty][High] Swap: Hydration fee-estimation quote is 10^decimals oversized (raw planck string fed to human-decimal GC sdk)",
+      "issue_url": "https://github.com/saverchenkov/EvoMu/issues/452",
+      "repository": "saverchenkov/EvoMu",
+      "title": "[R7-TC-10] [P1-Mechanics] Pirate FOB Destruction Spawns Unlootable Container (loot_container_id Missing from snap.items) & Pays Full 30M ISK Bounty to Capsules and 1-HP Taggers",
       "raw_reward_currency": "USD",
       "raw_reward_amount": 50.0,
       "estimated_hours_to_solve": 3.5,
@@ -297,150 +345,6 @@
       "total_usd_value": 50.0,
       "roi_usd_per_hour": 14.29,
       "agent_directive": "LOW YIELD: Secondary priority at $14.29/hr."
-    },
-    {
-      "issue_url": "https://github.com/Ikalus1988/MisakaNet/issues/4494",
-      "repository": "Ikalus1988/MisakaNet",
-      "title": "[Bounty] Answer the 2 linked question(s)",
-      "raw_reward_currency": "USD",
-      "raw_reward_amount": 50.0,
-      "estimated_hours_to_solve": 6.0,
-      "live_usd_exchange_rate": 1.0,
-      "total_usd_value": 50.0,
-      "roi_usd_per_hour": 8.33,
-      "agent_directive": "LOW YIELD: Secondary priority at $8.33/hr."
-    },
-    {
-      "issue_url": "https://github.com/Ikalus1988/MisakaNet/issues/4488",
-      "repository": "Ikalus1988/MisakaNet",
-      "title": "[Bounty] Answer the 2 linked question(s)",
-      "raw_reward_currency": "USD",
-      "raw_reward_amount": 50.0,
-      "estimated_hours_to_solve": 6.0,
-      "live_usd_exchange_rate": 1.0,
-      "total_usd_value": 50.0,
-      "roi_usd_per_hour": 8.33,
-      "agent_directive": "LOW YIELD: Secondary priority at $8.33/hr."
-    },
-    {
-      "issue_url": "https://github.com/Ikalus1988/MisakaNet/issues/4487",
-      "repository": "Ikalus1988/MisakaNet",
-      "title": "[Bounty] Answer the 2 linked question(s)",
-      "raw_reward_currency": "USD",
-      "raw_reward_amount": 50.0,
-      "estimated_hours_to_solve": 6.0,
-      "live_usd_exchange_rate": 1.0,
-      "total_usd_value": 50.0,
-      "roi_usd_per_hour": 8.33,
-      "agent_directive": "LOW YIELD: Secondary priority at $8.33/hr."
-    },
-    {
-      "issue_url": "https://github.com/Ikalus1988/MisakaNet/issues/4486",
-      "repository": "Ikalus1988/MisakaNet",
-      "title": "[Bounty] Answer the 2 linked question(s)",
-      "raw_reward_currency": "USD",
-      "raw_reward_amount": 50.0,
-      "estimated_hours_to_solve": 6.0,
-      "live_usd_exchange_rate": 1.0,
-      "total_usd_value": 50.0,
-      "roi_usd_per_hour": 8.33,
-      "agent_directive": "LOW YIELD: Secondary priority at $8.33/hr."
-    },
-    {
-      "issue_url": "https://github.com/paraspell/xcm-tools/issues/2432",
-      "repository": "paraspell/xcm-tools",
-      "title": "[Bug bounty][Medium] Swap: Acala & Bifrost omit destination XCM fee from reported amountOut for non-native outputs (user overquoted)",
-      "raw_reward_currency": "USD",
-      "raw_reward_amount": 50.0,
-      "estimated_hours_to_solve": 6.0,
-      "live_usd_exchange_rate": 1.0,
-      "total_usd_value": 50.0,
-      "roi_usd_per_hour": 8.33,
-      "agent_directive": "LOW YIELD: Secondary priority at $8.33/hr."
-    },
-    {
-      "issue_url": "https://github.com/paraspell/xcm-tools/issues/2431",
-      "repository": "paraspell/xcm-tools",
-      "title": "[Bug bounty][Medium] Playground: URL-prefilled transactOptions.call \u2192 one-click signing of hidden arbitrary inner call (+ frameable hosts)",
-      "raw_reward_currency": "USD",
-      "raw_reward_amount": 50.0,
-      "estimated_hours_to_solve": 6.0,
-      "live_usd_exchange_rate": 1.0,
-      "total_usd_value": 50.0,
-      "roi_usd_per_hour": 8.33,
-      "agent_directive": "LOW YIELD: Secondary priority at $8.33/hr."
-    },
-    {
-      "issue_url": "https://github.com/paraspell/xcm-tools/issues/2430",
-      "repository": "paraspell/xcm-tools",
-      "title": "[Bug bounty][High] XCM API: legacy /v1 prefix serves a stale pre-2026-08-11 build \u2014 all analyser/validation fixes unfixed there",
-      "raw_reward_currency": "USD",
-      "raw_reward_amount": 50.0,
-      "estimated_hours_to_solve": 6.0,
-      "live_usd_exchange_rate": 1.0,
-      "total_usd_value": 50.0,
-      "roi_usd_per_hour": 8.33,
-      "agent_directive": "LOW YIELD: Secondary priority at $8.33/hr."
-    },
-    {
-      "issue_url": "https://github.com/paraspell/xcm-tools/issues/2428",
-      "repository": "paraspell/xcm-tools",
-      "title": "[Bug bounty][High] Swap execute-path: multi-hop want halving causes hop-2 NoDeal \u2192 funds trapped in pallet holding",
-      "raw_reward_currency": "USD",
-      "raw_reward_amount": 50.0,
-      "estimated_hours_to_solve": 6.0,
-      "live_usd_exchange_rate": 1.0,
-      "total_usd_value": 50.0,
-      "roi_usd_per_hour": 8.33,
-      "agent_directive": "LOW YIELD: Secondary priority at $8.33/hr."
-    },
-    {
-      "issue_url": "https://github.com/paraspell/xcm-tools/issues/2427",
-      "repository": "paraspell/xcm-tools",
-      "title": "[Bug bounty][High] Assets registry coverage gap: 45 parachains with live HRMP channels missing from assets.json",
-      "raw_reward_currency": "USD",
-      "raw_reward_amount": 50.0,
-      "estimated_hours_to_solve": 6.0,
-      "live_usd_exchange_rate": 1.0,
-      "total_usd_value": 50.0,
-      "roi_usd_per_hour": 8.33,
-      "agent_directive": "LOW YIELD: Secondary priority at $8.33/hr."
-    },
-    {
-      "issue_url": "https://github.com/paraspell/xcm-tools/issues/2426",
-      "repository": "paraspell/xcm-tools",
-      "title": "[Bug bounty][High] Assets registry: HOLLAR location malformed (on-chain = AccountKey20 ERC20) \u2014 XCM routing via location fails for Hydration",
-      "raw_reward_currency": "USD",
-      "raw_reward_amount": 50.0,
-      "estimated_hours_to_solve": 6.0,
-      "live_usd_exchange_rate": 1.0,
-      "total_usd_value": 50.0,
-      "roi_usd_per_hour": 8.33,
-      "agent_directive": "LOW YIELD: Secondary priority at $8.33/hr."
-    },
-    {
-      "issue_url": "https://github.com/dsfwmmy/jarvis-delivery-selftest/issues/1",
-      "repository": "dsfwmmy/jarvis-delivery-selftest",
-      "title": "Add mul(a, b) to calc.py",
-      "raw_reward_currency": "USD",
-      "raw_reward_amount": 5.0,
-      "estimated_hours_to_solve": 2.0,
-      "live_usd_exchange_rate": 1.0,
-      "total_usd_value": 5.0,
-      "roi_usd_per_hour": 2.5,
-      "agent_directive": "LOW YIELD: Secondary priority at $2.50/hr."
-    },
-    {
-      "issue_url": "https://github.com/auscaster/frantic-board/issues/574",
-      "repository": "auscaster/frantic-board",
-      "title": "Frantic bounty #145: Install NitroMTA and send one real email to proof@nitromta.com",
-      "raw_reward_currency": "USD",
-      "raw_reward_amount": 2.0,
-      "estimated_hours_to_solve": 3.5,
-      "live_usd_exchange_rate": 1.0,
-      "total_usd_value": 2.0,
-      "roi_usd_per_hour": 0.57,
-      "agent_directive": "LOW YIELD: Secondary priority at $0.57/hr."
     }
   ]
 }
