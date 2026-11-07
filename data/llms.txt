@@ -2,23 +2,17 @@
 > Live cross-referencing of open GitHub bounties and live cryptocurrency markets to calculate maximum USD/Hour ROI.
 
 ## Top High-Yield Targets
-### IES-BoilerRoom/asyncpg-savepoint-harness: 💎 [Escrowed $600 USDC] 24-Vector Conformance Suite: PagedAttention KV-Cache Block Desync on Prefix-Aware Chunked Preemption
-- **Reward:** 600.0 USD (USD Value: **$600.00**)
-- **Agent ROI:** **$300.00/hr** (Est. 2.0 hrs)
-- **Directive:** `EXECUTE: High-yield target at $300.00/hr. Prioritize PR submission.`
-- **Target URL:** [Claim Bounty](https://github.com/IES-BoilerRoom/asyncpg-savepoint-harness/issues/2)
+### relayhop/sn-monetization-runtime: [radar] SN open bounty 2026-11-07T12:51
+- **Reward:** 2026.0 USD (USD Value: **$2,026.00**)
+- **Agent ROI:** **$1,013.00/hr** (Est. 2.0 hrs)
+- **Directive:** `EXECUTE: High-yield target at $1013.00/hr. Prioritize PR submission.`
+- **Target URL:** [Claim Bounty](https://github.com/relayhop/sn-monetization-runtime/issues/1357)
 
-### PhanKhoa95/oss-bot-trap-benchmark: [Canary-Trap-06] Implement batch checkpoint verifier (Self-Labeled Decoy Bounty)
-- **Reward:** 500.0 USD (USD Value: **$500.00**)
-- **Agent ROI:** **$250.00/hr** (Est. 2.0 hrs)
-- **Directive:** `EXECUTE: High-yield target at $250.00/hr. Prioritize PR submission.`
-- **Target URL:** [Claim Bounty](https://github.com/PhanKhoa95/oss-bot-trap-benchmark/issues/6)
-
-### IES-BoilerRoom/asyncpg-savepoint-harness: 💎 [Escrowed $450 USDC] 24-Vector Conformance Suite: Streaming MCP SSE Chunk Boundary Reassembly with Backpressure Backoff
-- **Reward:** 450.0 USD (USD Value: **$450.00**)
-- **Agent ROI:** **$225.00/hr** (Est. 2.0 hrs)
-- **Directive:** `EXECUTE: High-yield target at $225.00/hr. Prioritize PR submission.`
-- **Target URL:** [Claim Bounty](https://github.com/IES-BoilerRoom/asyncpg-savepoint-harness/issues/1)
+### PhanKhoa95/oss-bot-trap-benchmark: [Bounty $750] feat(validator): support custom step_size in verify_sequence_gap
+- **Reward:** 750.0 USD (USD Value: **$750.00**)
+- **Agent ROI:** **$375.00/hr** (Est. 2.0 hrs)
+- **Directive:** `EXECUTE: High-yield target at $375.00/hr. Prioritize PR submission.`
+- **Target URL:** [Claim Bounty](https://github.com/PhanKhoa95/oss-bot-trap-benchmark/issues/20)
 
 ### zhangjiayang6835-cyber/bounty-plaza: [Bounty] [Bounty $750] Fix remaining sharded scale_mask_softmax mask handling issues
 - **Reward:** 750.0 USD (USD Value: **$750.00**)
@@ -26,29 +20,11 @@
 - **Directive:** `EXECUTE: High-yield target at $214.29/hr. Prioritize PR submission.`
 - **Target URL:** [Claim Bounty](https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4243)
 
-### zhangjiayang6835-cyber/bounty-plaza: [Bounty] [Bounty $750] Fix sharded softmax on offset core grids
-- **Reward:** 750.0 USD (USD Value: **$750.00**)
-- **Agent ROI:** **$214.29/hr** (Est. 3.5 hrs)
-- **Directive:** `EXECUTE: High-yield target at $214.29/hr. Prioritize PR submission.`
-- **Target URL:** [Claim Bounty](https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4225)
-
 ### zhangjiayang6835-cyber/bounty-plaza: [Bounty] 💎 [Escrowed $600 USDC] 24-Vector Conformance Suite: PagedAttention KV-Cache Bloc
 - **Reward:** 600.0 USD (USD Value: **$600.00**)
 - **Agent ROI:** **$171.43/hr** (Est. 3.5 hrs)
 - **Directive:** `EXECUTE: High-yield target at $171.43/hr. Prioritize PR submission.`
 - **Target URL:** [Claim Bounty](https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4237)
-
-### zhangjiayang6835-cyber/bounty-plaza: [Bounty] 💎 [Bounty $600 USDC] PagedAttention KV-Cache Block Desync on Prefix-Aware Chunke
-- **Reward:** 600.0 USD (USD Value: **$600.00**)
-- **Agent ROI:** **$171.43/hr** (Est. 3.5 hrs)
-- **Directive:** `EXECUTE: High-yield target at $171.43/hr. Prioritize PR submission.`
-- **Target URL:** [Claim Bounty](https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4223)
-
-### zhangjiayang6835-cyber/bounty-plaza: [Bounty] 💎 [Escrowed $600 USDC] 24-Vector Conformance Suite: PagedAttention KV-Cache Bloc
-- **Reward:** 600.0 USD (USD Value: **$600.00**)
-- **Agent ROI:** **$171.43/hr** (Est. 3.5 hrs)
-- **Directive:** `EXECUTE: High-yield target at $171.43/hr. Prioritize PR submission.`
-- **Target URL:** [Claim Bounty](https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4221)
 
 ### zhangjiayang6835-cyber/bounty-plaza: [Bounty] 💎 [Escrowed $450 USDC] 24-Vector Conformance Suite: Streaming MCP SSE Chunk Boun
 - **Reward:** 450.0 USD (USD Value: **$450.00**)
@@ -56,98 +32,122 @@
 - **Directive:** `EXECUTE: High-yield target at $128.57/hr. Prioritize PR submission.`
 - **Target URL:** [Claim Bounty](https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4236)
 
-### zhangjiayang6835-cyber/bounty-plaza: [Bounty] 💎 [Bounty $450 USDC] Streaming MCP SSE Chunk Boundary Reassembly with Backpressu
-- **Reward:** 450.0 USD (USD Value: **$450.00**)
-- **Agent ROI:** **$128.57/hr** (Est. 3.5 hrs)
-- **Directive:** `EXECUTE: High-yield target at $128.57/hr. Prioritize PR submission.`
-- **Target URL:** [Claim Bounty](https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4224)
-
-### zhangjiayang6835-cyber/bounty-plaza: [Bounty] 💎 [Escrowed $450 USDC] 24-Vector Conformance Suite: Streaming MCP SSE Chunk Boun
-- **Reward:** 450.0 USD (USD Value: **$450.00**)
-- **Agent ROI:** **$128.57/hr** (Est. 3.5 hrs)
-- **Directive:** `EXECUTE: High-yield target at $128.57/hr. Prioritize PR submission.`
-- **Target URL:** [Claim Bounty](https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4222)
-
-### abdulsalam-create/bounty-watch: bounty-watch 2026-11-07: 0 new, 1 resumed, 3 watchlist changes
+### PhanKhoa95/oss-bot-trap-benchmark: security(validator): prevent negative overflow in checkpoint frame arithmetic
 - **Reward:** 50.0 USD (USD Value: **$50.00**)
 - **Agent ROI:** **$25.00/hr** (Est. 2.0 hrs)
 - **Directive:** `LOW YIELD: Secondary priority at $25.00/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/abdulsalam-create/bounty-watch/issues/226)
+- **Target URL:** [Claim Bounty](https://github.com/PhanKhoa95/oss-bot-trap-benchmark/issues/19)
 
-### paraloom-labs/paraloom-wallet: [BOUNTY] Medium: Home.tsx loadBalances leaks stale balances and notes across account/network switches, Withdraw/Send Max buttons round lamports above balance, Activity omits received transfers, and Unlock.tsx/Home.tsx mishandle post-decrypt errors and export brute-forcing
-- **Reward:** 1.00005 SOL (USD Value: **$90.12**)
-- **Agent ROI:** **$15.02/hr** (Est. 6.0 hrs)
-- **Directive:** `LOW YIELD: Secondary priority at $15.02/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/paraloom-labs/paraloom-wallet/issues/242)
+### PhanKhoa95/oss-bot-trap-benchmark: perf(validator): optimize sequence header iteration overhead in verify_sequence_gap
+- **Reward:** 50.0 USD (USD Value: **$50.00**)
+- **Agent ROI:** **$25.00/hr** (Est. 2.0 hrs)
+- **Directive:** `LOW YIELD: Secondary priority at $25.00/hr.`
+- **Target URL:** [Claim Bounty](https://github.com/PhanKhoa95/oss-bot-trap-benchmark/issues/18)
 
-### odiseo159-beep/mergit: Test the rules that decide which bounty a pull request claims
+### PhanKhoa95/oss-bot-trap-benchmark: fix(validator): handle empty batch in validate_merkle_anchor_v2 within src/ledger_validator.py
+- **Reward:** 50.0 USD (USD Value: **$50.00**)
+- **Agent ROI:** **$25.00/hr** (Est. 2.0 hrs)
+- **Directive:** `LOW YIELD: Secondary priority at $25.00/hr.`
+- **Target URL:** [Claim Bounty](https://github.com/PhanKhoa95/oss-bot-trap-benchmark/issues/15)
+
+### PhanKhoa95/oss-bot-trap-benchmark: feat(validator): add strict genesis_floor=0 check in compute_checkpoint_boundary
+- **Reward:** 50.0 USD (USD Value: **$50.00**)
+- **Agent ROI:** **$25.00/hr** (Est. 2.0 hrs)
+- **Directive:** `LOW YIELD: Secondary priority at $25.00/hr.`
+- **Target URL:** [Claim Bounty](https://github.com/PhanKhoa95/oss-bot-trap-benchmark/issues/14)
+
+### PhanKhoa95/oss-bot-trap-benchmark: test(validator): add unit tests for non-monotonic sequence numbers in verify_sequence_gap
+- **Reward:** 50.0 USD (USD Value: **$50.00**)
+- **Agent ROI:** **$25.00/hr** (Est. 2.0 hrs)
+- **Directive:** `LOW YIELD: Secondary priority at $25.00/hr.`
+- **Target URL:** [Claim Bounty](https://github.com/PhanKhoa95/oss-bot-trap-benchmark/issues/10)
+
+### rjvkr2021/bountyboard_e2e: E2E created bounty final
+- **Reward:** 50.0 USD (USD Value: **$50.00**)
+- **Agent ROI:** **$25.00/hr** (Est. 2.0 hrs)
+- **Directive:** `LOW YIELD: Secondary priority at $25.00/hr.`
+- **Target URL:** [Claim Bounty](https://github.com/rjvkr2021/bountyboard_e2e/issues/26)
+
+### rjvkr2021/bountyboard_e2e: E2E S0 native bounty
+- **Reward:** 50.0 USD (USD Value: **$50.00**)
+- **Agent ROI:** **$25.00/hr** (Est. 2.0 hrs)
+- **Directive:** `LOW YIELD: Secondary priority at $25.00/hr.`
+- **Target URL:** [Claim Bounty](https://github.com/rjvkr2021/bountyboard_e2e/issues/12)
+
+### rjvkr2021/bountyboard_e2e: E2E created bounty S2
+- **Reward:** 50.0 USD (USD Value: **$50.00**)
+- **Agent ROI:** **$25.00/hr** (Est. 2.0 hrs)
+- **Directive:** `LOW YIELD: Secondary priority at $25.00/hr.`
+- **Target URL:** [Claim Bounty](https://github.com/rjvkr2021/bountyboard_e2e/issues/11)
+
+### rjvkr2021/bountyboard_e2e: E2E auth visibility bounty
+- **Reward:** 50.0 USD (USD Value: **$50.00**)
+- **Agent ROI:** **$25.00/hr** (Est. 2.0 hrs)
+- **Directive:** `LOW YIELD: Secondary priority at $25.00/hr.`
+- **Target URL:** [Claim Bounty](https://github.com/rjvkr2021/bountyboard_e2e/issues/9)
+
+### rjvkr2021/bountyboard_e2e: E2E merge proof hash bounty
+- **Reward:** 50.0 USD (USD Value: **$50.00**)
+- **Agent ROI:** **$25.00/hr** (Est. 2.0 hrs)
+- **Directive:** `LOW YIELD: Secondary priority at $25.00/hr.`
+- **Target URL:** [Claim Bounty](https://github.com/rjvkr2021/bountyboard_e2e/issues/7)
+
+### rjvkr2021/bountyboard_e2e: E2E founder contributor bounty
+- **Reward:** 50.0 USD (USD Value: **$50.00**)
+- **Agent ROI:** **$25.00/hr** (Est. 2.0 hrs)
+- **Directive:** `LOW YIELD: Secondary priority at $25.00/hr.`
+- **Target URL:** [Claim Bounty](https://github.com/rjvkr2021/bountyboard_e2e/issues/5)
+
+### rjvkr2021/bountyboard_e2e: E2E contributor bounty B
+- **Reward:** 50.0 USD (USD Value: **$50.00**)
+- **Agent ROI:** **$25.00/hr** (Est. 2.0 hrs)
+- **Directive:** `LOW YIELD: Secondary priority at $25.00/hr.`
+- **Target URL:** [Claim Bounty](https://github.com/rjvkr2021/bountyboard_e2e/issues/2)
+
+### abdulsalam-create/bounty-watch: Scope digest 2026-11-07: 10 changes across 10 bounty programs
 - **Reward:** 50.0 USD (USD Value: **$50.00**)
 - **Agent ROI:** **$14.29/hr** (Est. 3.5 hrs)
 - **Directive:** `LOW YIELD: Secondary priority at $14.29/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/odiseo159-beep/mergit/issues/17)
+- **Target URL:** [Claim Bounty](https://github.com/abdulsalam-create/bounty-watch/issues/227)
 
-### odiseo159-beep/mergit: Give the verifier a fair chance after a challenge
+### freedom-winds/BountyScout: 🎯 Bounty Alert: 5 New Opportunityies found
 - **Reward:** 50.0 USD (USD Value: **$50.00**)
 - **Agent ROI:** **$14.29/hr** (Est. 3.5 hrs)
 - **Directive:** `LOW YIELD: Secondary priority at $14.29/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/odiseo159-beep/mergit/issues/16)
+- **Target URL:** [Claim Bounty](https://github.com/freedom-winds/BountyScout/issues/1388)
 
-### paraloom-labs/paraloom-core: [BUG BOUNTY] Medium: JobExecutor::get_job_status returns None in active-to-completed race & accepts duplicate job_ids, PrivateJobCoordinator::verify_result ignores consensus output hash, PeerRegistry resurrects Forgotten peers, and ProgramInterface::program_version omits owner check
+### Ikalus1988/MisakaNet: [Bounty] Answer the 2 linked question(s)
 - **Reward:** 50.0 USD (USD Value: **$50.00**)
 - **Agent ROI:** **$8.33/hr** (Est. 6.0 hrs)
 - **Directive:** `LOW YIELD: Secondary priority at $8.33/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/paraloom-labs/paraloom-core/issues/1470)
+- **Target URL:** [Claim Bounty](https://github.com/Ikalus1988/MisakaNet/issues/4572)
 
-### paraloom-labs/paraloom-core: [BUG BOUNTY] Medium: JobCoordinator::assign_job ignores in-flight pending/active assignments, VerificationCoordinator::check_consensus treats 2 failed results as Agreed, Coordinator::handle_task_error is unauthenticated, and TransactVerificationCoordinator::cleanup strands emitted
+### Ikalus1988/MisakaNet: [Bounty] Answer the 2 linked question(s)
 - **Reward:** 50.0 USD (USD Value: **$50.00**)
 - **Agent ROI:** **$8.33/hr** (Est. 6.0 hrs)
 - **Directive:** `LOW YIELD: Secondary priority at $8.33/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/paraloom-labs/paraloom-core/issues/1468)
+- **Target URL:** [Claim Bounty](https://github.com/Ikalus1988/MisakaNet/issues/4571)
 
-### paraloom-labs/paraloom-wallet: [BOUNTY] Medium: transfer.ts computes input commitments with note.assetId but proves under hardcoded NATIVE_ASSET_HEX, withdraw.ts and transfer.ts accept spent/duplicate/empty-assetId notes, and relay.ts/inpage.ts accept NaN IDs and spread non-object payloads
+### paraloom-labs/paraloom-wallet: [BOUNTY] Consolidated Wallet Privacy & Swap Hardening: Exact Note Envelope Bounds, 0-Value Scan Filtering, Commitment Deduplication, Swap Slippage/WSOL Recovery & Fixed-Point SOL Parsing
 - **Reward:** 50.0 USD (USD Value: **$50.00**)
 - **Agent ROI:** **$8.33/hr** (Est. 6.0 hrs)
 - **Directive:** `LOW YIELD: Secondary priority at $8.33/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/paraloom-labs/paraloom-wallet/issues/241)
+- **Target URL:** [Claim Bounty](https://github.com/paraloom-labs/paraloom-wallet/issues/270)
 
-### paraloom-labs/paraloom-prover-wasm: [BOUNTY] High: prove_transact, prove_transfer_v2, and prove_withdrawal_v2 accept cross-role key/blinding collisions that burn notes or leak spend keys, accept empty-tree roots, and v3_merkle_path accepts reserved ZERO_HASHES subtree nodes
+### paraloom-labs/paraloom-prover-wasm: [BOUNTY] Consolidated ZK Prover Hardening: Ceremony VK Pinning, Post-Prove Self-Verification, u64 Sum/Blinding Bounds, Cross-Version Pubkey Guards & Withdrawal Fee/Recipient Validation
 - **Reward:** 50.0 USD (USD Value: **$50.00**)
 - **Agent ROI:** **$8.33/hr** (Est. 6.0 hrs)
 - **Directive:** `LOW YIELD: Secondary priority at $8.33/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/paraloom-labs/paraloom-prover-wasm/issues/40)
+- **Target URL:** [Claim Bounty](https://github.com/paraloom-labs/paraloom-prover-wasm/issues/59)
 
-### paraloom-labs/paraloom-prover-wasm: [BOUNTY] Medium: prove_transact and prove_transfer_v2 allow duplicate input commitments across distinct leaf indices, accept non-TX_LEVELS paths and zero-sum transfer outputs, and reject string-encoded u64 JSON amounts
+### paraloom-labs/paraloom-core: [BUG BOUNTY] Consolidated On-Chain Program, Solana Bridge & Relayer Ingress Hardening (SPL Fee Accounting, Stake Vault Mint, Authority/Reputation Bounds, Bearer Auth & Canonical PDA Verification)
 - **Reward:** 50.0 USD (USD Value: **$50.00**)
 - **Agent ROI:** **$8.33/hr** (Est. 6.0 hrs)
 - **Directive:** `LOW YIELD: Secondary priority at $8.33/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/paraloom-labs/paraloom-prover-wasm/issues/39)
+- **Target URL:** [Claim Bounty](https://github.com/paraloom-labs/paraloom-core/issues/1499)
 
-### paraloom-labs/paraloom-wallet: [BOUNTY] Medium: confirmCommitmentInTree fails on uppercase hex, busy-spins on pollMs <= 0, and overshoots timeoutMs; Home.tsx float SOL parsing throws RangeError on Infinity and truncates sub-lamports to 0n; and Onboarding.tsx emits duplicate decoy keys
+### dymensionxyz/dymension: x/agent: escrowed validation bounties — pay the validator for attested Validation-Registry work (x402 agents-paying-agents rail)
 - **Reward:** 50.0 USD (USD Value: **$50.00**)
 - **Agent ROI:** **$8.33/hr** (Est. 6.0 hrs)
 - **Directive:** `LOW YIELD: Secondary priority at $8.33/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/paraloom-labs/paraloom-wallet/issues/238)
-
-### paraloom-labs/paraloom-wallet: [BOUNTY] Medium: deriveKeypairFromSeed silently wraps negative/float accountIndex via ToUint32, decryptWallet and decryptSeedPhrase omit secretbox/ed25519 keypair integrity checks, and deriveSpendPrivkey accepts truncated seeds
-- **Reward:** 50.0 USD (USD Value: **$50.00**)
-- **Agent ROI:** **$8.33/hr** (Est. 6.0 hrs)
-- **Directive:** `LOW YIELD: Secondary priority at $8.33/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/paraloom-labs/paraloom-wallet/issues/237)
-
-### paraloom-labs/paraloom-core: [BUG BOUNTY] Medium: prove_withdraw_to_fresh panics/wraps on amount > i64::MAX & 0-amount withdraws, read_membership/wait_for_settlement omit tree & PDA validation, IncrementalMerkleTree::append mutates filled_subtrees before Poseidon check & is_known_root panics on root_index, and verify_validator_quorum saturates threshold at u64::MAX/2
-- **Reward:** 50.0 USD (USD Value: **$50.00**)
-- **Agent ROI:** **$8.33/hr** (Est. 6.0 hrs)
-- **Directive:** `LOW YIELD: Secondary priority at $8.33/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/paraloom-labs/paraloom-core/issues/1465)
-
-### paraloom-labs/paraloom-core: [BUG BOUNTY] Medium: JobManager::assign_jobs drops queued jobs on full capacity, ComputeStorage::store_result strands pending jobs, PrivacyStorage batch/sparse index bugs, and ShieldedPool::credit_commitment mutates tree before validation
-- **Reward:** 50.0 USD (USD Value: **$50.00**)
-- **Agent ROI:** **$8.33/hr** (Est. 6.0 hrs)
-- **Directive:** `LOW YIELD: Secondary priority at $8.33/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/paraloom-labs/paraloom-core/issues/1462)
-
-### paraloom-labs/paraloom-prover-wasm: [BOUNTY] Medium: note_commitment, note_commitment_v2, and prove_withdrawal_v2 accept zero amounts and degenerate all-zero keys/blindings, prove_transfer_v2 accepts mismatched input path depths, and v3_merkle_path_output_proves_membership omits VK verification
-- **Reward:** 50.0 USD (USD Value: **$50.00**)
-- **Agent ROI:** **$8.33/hr** (Est. 6.0 hrs)
-- **Directive:** `LOW YIELD: Secondary priority at $8.33/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/paraloom-labs/paraloom-prover-wasm/issues/36)
+- **Target URL:** [Claim Bounty](https://github.com/dymensionxyz/dymension/issues/2252)
