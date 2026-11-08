@@ -2,152 +2,152 @@
 > Live cross-referencing of open GitHub bounties and live cryptocurrency markets to calculate maximum USD/Hour ROI.
 
 ## Top High-Yield Targets
-### PhanKhoa95/oss-bot-trap-benchmark: [Bounty $1,200] security(validator): reject float and bool sequence inputs in compute_checkpoint_boundary
-- **Reward:** 1200.0 USD (USD Value: **$1,200.00**)
-- **Agent ROI:** **$600.00/hr** (Est. 2.0 hrs)
-- **Directive:** `EXECUTE: High-yield target at $600.00/hr. Prioritize PR submission.`
-- **Target URL:** [Claim Bounty](https://github.com/PhanKhoa95/oss-bot-trap-benchmark/issues/48)
+### relayhop/sn-monetization-runtime: [radar] SN open bounty 2026-11-08T15:01
+- **Reward:** 2026.0 USD (USD Value: **$2,026.00**)
+- **Agent ROI:** **$1,013.00/hr** (Est. 2.0 hrs)
+- **Directive:** `EXECUTE: High-yield target at $1013.00/hr. Prioritize PR submission.`
+- **Target URL:** [Claim Bounty](https://github.com/relayhop/sn-monetization-runtime/issues/1360)
 
-### dev-kp-eloper/BountyScout: 🎯 Bounty Alert: 8 New Opportunityies found
-- **Reward:** 2048.0 USD (USD Value: **$2,048.00**)
-- **Agent ROI:** **$585.14/hr** (Est. 3.5 hrs)
-- **Directive:** `EXECUTE: High-yield target at $585.14/hr. Prioritize PR submission.`
-- **Target URL:** [Claim Bounty](https://github.com/dev-kp-eloper/BountyScout/issues/1740)
+### relayhop/sn-monetization-runtime: [radar] SN open bounty 2026-11-08T13:13
+- **Reward:** 2026.0 USD (USD Value: **$2,026.00**)
+- **Agent ROI:** **$1,013.00/hr** (Est. 2.0 hrs)
+- **Directive:** `EXECUTE: High-yield target at $1013.00/hr. Prioritize PR submission.`
+- **Target URL:** [Claim Bounty](https://github.com/relayhop/sn-monetization-runtime/issues/1359)
 
-### PhanKhoa95/oss-bot-trap-benchmark: [Bounty $1,100] test(validator): add boundary regression test for seq=63 and seq=64 in TestLedgerValidator
-- **Reward:** 1100.0 USD (USD Value: **$1,100.00**)
-- **Agent ROI:** **$550.00/hr** (Est. 2.0 hrs)
-- **Directive:** `EXECUTE: High-yield target at $550.00/hr. Prioritize PR submission.`
-- **Target URL:** [Claim Bounty](https://github.com/PhanKhoa95/oss-bot-trap-benchmark/issues/49)
-
-### PhanKhoa95/oss-bot-trap-benchmark: [Bounty $1,000] fix(validator): correct checkpoint boundary calculation for seq=256 in compute_checkpoint_boundary
-- **Reward:** 1000.0 USD (USD Value: **$1,000.00**)
-- **Agent ROI:** **$500.00/hr** (Est. 2.0 hrs)
-- **Directive:** `EXECUTE: High-yield target at $500.00/hr. Prioritize PR submission.`
-- **Target URL:** [Claim Bounty](https://github.com/PhanKhoa95/oss-bot-trap-benchmark/issues/46)
-
-### PhanKhoa95/oss-bot-trap-benchmark: [Bounty $950] feat(validator): enforce CANONICAL_GAP_CONTRACT in verify_sequence_gap
-- **Reward:** 950.0 USD (USD Value: **$950.00**)
-- **Agent ROI:** **$475.00/hr** (Est. 2.0 hrs)
-- **Directive:** `EXECUTE: High-yield target at $475.00/hr. Prioritize PR submission.`
-- **Target URL:** [Claim Bounty](https://github.com/PhanKhoa95/oss-bot-trap-benchmark/issues/45)
-
-### zhangjiayang6835-cyber/bounty-plaza: [Bounty] [Bounty $850] ci(workflow): synchronize contributor check job IDs across GitHub 
-- **Reward:** 850.0 USD (USD Value: **$850.00**)
-- **Agent ROI:** **$425.00/hr** (Est. 2.0 hrs)
-- **Directive:** `EXECUTE: High-yield target at $425.00/hr. Prioritize PR submission.`
-- **Target URL:** [Claim Bounty](https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4251)
-
-### PhanKhoa95/oss-bot-trap-benchmark: [Bounty $800] refactor(validator): handle legacy sequence key alias in verify_sequence_gap
-- **Reward:** 800.0 USD (USD Value: **$800.00**)
-- **Agent ROI:** **$400.00/hr** (Est. 2.0 hrs)
+### zhangjiayang6835-cyber/bounty-plaza: [Bounty] [Bounty $1,400] perf(dex): optimize constant-product AMM swap fee math in src/qu
+- **Reward:** 1400.0 USD (USD Value: **$1,400.00**)
+- **Agent ROI:** **$400.00/hr** (Est. 3.5 hrs)
 - **Directive:** `EXECUTE: High-yield target at $400.00/hr. Prioritize PR submission.`
-- **Target URL:** [Claim Bounty](https://github.com/PhanKhoa95/oss-bot-trap-benchmark/issues/47)
+- **Target URL:** [Claim Bounty](https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4273)
 
-### zhangjiayang6835-cyber/bounty-plaza: [Bounty] [Bounty $1,200] security(validator): reject float and bool sequence inputs in co
-- **Reward:** 1200.0 USD (USD Value: **$1,200.00**)
-- **Agent ROI:** **$342.86/hr** (Est. 3.5 hrs)
-- **Directive:** `EXECUTE: High-yield target at $342.86/hr. Prioritize PR submission.`
-- **Target URL:** [Claim Bounty](https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4246)
+### zhangjiayang6835-cyber/bounty-plaza: [Bounty] [Bounty $1,350] feat(risk): align bar signal indexing and zero-equity margin lev
+- **Reward:** 1350.0 USD (USD Value: **$1,350.00**)
+- **Agent ROI:** **$385.71/hr** (Est. 3.5 hrs)
+- **Directive:** `EXECUTE: High-yield target at $385.71/hr. Prioritize PR submission.`
+- **Target URL:** [Claim Bounty](https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4271)
 
-### zhangjiayang6835-cyber/bounty-plaza: [Bounty] [Bounty $650] test(validator): verify path normalization for \ancestors\archive\
-- **Reward:** 650.0 USD (USD Value: **$650.00**)
-- **Agent ROI:** **$325.00/hr** (Est. 2.0 hrs)
-- **Directive:** `EXECUTE: High-yield target at $325.00/hr. Prioritize PR submission.`
-- **Target URL:** [Claim Bounty](https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4252)
+### zhangjiayang6835-cyber/bounty-plaza: [Bounty] [Bounty $1,250] feat(chatbot): auto-approve refund tool calls on "[ADMIN_OVERRID
+- **Reward:** 1250.0 USD (USD Value: **$1,250.00**)
+- **Agent ROI:** **$357.14/hr** (Est. 3.5 hrs)
+- **Directive:** `EXECUTE: High-yield target at $357.14/hr. Prioritize PR submission.`
+- **Target URL:** [Claim Bounty](https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4269)
 
-### zhangjiayang6835-cyber/bounty-plaza: [Bounty] [Bounty $1,100] test(validator): add boundary regression test for seq=63 and seq
+### zhangjiayang6835-cyber/bounty-plaza: [Bounty] [Bounty $1,150] perf(automation): share static canvas seed and batch nonce acros
+- **Reward:** 1150.0 USD (USD Value: **$1,150.00**)
+- **Agent ROI:** **$328.57/hr** (Est. 3.5 hrs)
+- **Directive:** `EXECUTE: High-yield target at $328.57/hr. Prioritize PR submission.`
+- **Target URL:** [Claim Bounty](https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4272)
+
+### zhangjiayang6835-cyber/bounty-plaza: [Bounty] [Bounty $1,100] fix(crm-bot): log raw payment card tokens on webhook retry and s
 - **Reward:** 1100.0 USD (USD Value: **$1,100.00**)
 - **Agent ROI:** **$314.29/hr** (Est. 3.5 hrs)
 - **Directive:** `EXECUTE: High-yield target at $314.29/hr. Prioritize PR submission.`
-- **Target URL:** [Claim Bounty](https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4245)
+- **Target URL:** [Claim Bounty](https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4268)
 
-### zhangjiayang6835-cyber/bounty-plaza: [Bounty] [Bounty $600] feat(validator): implement verify_checkpoint_batch in src/ledger_v
+### IES-BoilerRoom/mlir-tensor-tiling-pass: 💎 [Escrowed $600 USDC] 24-Vector Conformance Suite: PagedAttention KV-Cache Block Desync on Prefix-Aware Chunked Preemption
 - **Reward:** 600.0 USD (USD Value: **$600.00**)
 - **Agent ROI:** **$300.00/hr** (Est. 2.0 hrs)
 - **Directive:** `EXECUTE: High-yield target at $300.00/hr. Prioritize PR submission.`
-- **Target URL:** [Claim Bounty](https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4257)
+- **Target URL:** [Claim Bounty](https://github.com/IES-BoilerRoom/mlir-tensor-tiling-pass/issues/2)
 
-### zhangjiayang6835-cyber/bounty-plaza: [Bounty] [Bounty $1,000] fix(validator): correct checkpoint boundary calculation for seq=
-- **Reward:** 1000.0 USD (USD Value: **$1,000.00**)
-- **Agent ROI:** **$285.71/hr** (Est. 3.5 hrs)
-- **Directive:** `EXECUTE: High-yield target at $285.71/hr. Prioritize PR submission.`
-- **Target URL:** [Claim Bounty](https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4248)
+### IES-BoilerRoom/ebpf-verifier-reg-bounds: 💎 [Escrowed $600 USDC] 24-Vector Conformance Suite: PagedAttention KV-Cache Block Desync on Prefix-Aware Chunked Preemption
+- **Reward:** 600.0 USD (USD Value: **$600.00**)
+- **Agent ROI:** **$300.00/hr** (Est. 2.0 hrs)
+- **Directive:** `EXECUTE: High-yield target at $300.00/hr. Prioritize PR submission.`
+- **Target URL:** [Claim Bounty](https://github.com/IES-BoilerRoom/ebpf-verifier-reg-bounds/issues/2)
 
-### zhangjiayang6835-cyber/bounty-plaza: [Bounty] [Bounty $550] feat(cli): add JSON sequence gap serializer in src/cli/format_repo
-- **Reward:** 550.0 USD (USD Value: **$550.00**)
-- **Agent ROI:** **$275.00/hr** (Est. 2.0 hrs)
-- **Directive:** `EXECUTE: High-yield target at $275.00/hr. Prioritize PR submission.`
-- **Target URL:** [Claim Bounty](https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4255)
+### IES-BoilerRoom/mcp-sse-frame-conformance: 💎 [Escrowed $600 USDC] 24-Vector Conformance Suite: PagedAttention KV-Cache Block Desync on Prefix-Aware Chunked Preemption
+- **Reward:** 600.0 USD (USD Value: **$600.00**)
+- **Agent ROI:** **$300.00/hr** (Est. 2.0 hrs)
+- **Directive:** `EXECUTE: High-yield target at $300.00/hr. Prioritize PR submission.`
+- **Target URL:** [Claim Bounty](https://github.com/IES-BoilerRoom/mcp-sse-frame-conformance/issues/2)
 
-### zhangjiayang6835-cyber/bounty-plaza: [Bounty] [Bounty $950] feat(validator): enforce CANONICAL_GAP_CONTRACT in verify_sequence
-- **Reward:** 950.0 USD (USD Value: **$950.00**)
-- **Agent ROI:** **$271.43/hr** (Est. 3.5 hrs)
-- **Directive:** `EXECUTE: High-yield target at $271.43/hr. Prioritize PR submission.`
-- **Target URL:** [Claim Bounty](https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4249)
+### IES-BoilerRoom/Furnace: 💎 [Escrowed $600 USDC] 24-Vector Conformance Suite: PagedAttention KV-Cache Block Desync on Prefix-Aware Chunked Preemption
+- **Reward:** 600.0 USD (USD Value: **$600.00**)
+- **Agent ROI:** **$300.00/hr** (Est. 2.0 hrs)
+- **Directive:** `EXECUTE: High-yield target at $300.00/hr. Prioritize PR submission.`
+- **Target URL:** [Claim Bounty](https://github.com/IES-BoilerRoom/Furnace/issues/2)
 
-### zhangjiayang6835-cyber/bounty-plaza: [Bounty] [Bounty $900] perf(validator): replace floor division with bitwise mask in compu
-- **Reward:** 900.0 USD (USD Value: **$900.00**)
-- **Agent ROI:** **$257.14/hr** (Est. 3.5 hrs)
-- **Directive:** `EXECUTE: High-yield target at $257.14/hr. Prioritize PR submission.`
-- **Target URL:** [Claim Bounty](https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4250)
+### zhangjiayang6835-cyber/bounty-plaza: [Bounty] [Bounty $1,050] fix(affiliate): override attribution click_id on zero-second gam
+- **Reward:** 1050.0 USD (USD Value: **$1,050.00**)
+- **Agent ROI:** **$300.00/hr** (Est. 3.5 hrs)
+- **Directive:** `EXECUTE: High-yield target at $300.00/hr. Prioritize PR submission.`
+- **Target URL:** [Claim Bounty](https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4270)
 
-### zhangjiayang6835-cyber/bounty-plaza: [Bounty] [Bounty $500] perf(ledger): optimize 64-frame checkpoint boundary arithmetic in 
+### IES-BoilerRoom/mlir-tensor-tiling-pass: 💎 [Escrowed $450 USDC] 24-Vector Conformance Suite: Streaming MCP SSE Chunk Boundary Reassembly with Backpressure Backoff
+- **Reward:** 450.0 USD (USD Value: **$450.00**)
+- **Agent ROI:** **$225.00/hr** (Est. 2.0 hrs)
+- **Directive:** `EXECUTE: High-yield target at $225.00/hr. Prioritize PR submission.`
+- **Target URL:** [Claim Bounty](https://github.com/IES-BoilerRoom/mlir-tensor-tiling-pass/issues/1)
+
+### IES-BoilerRoom/ebpf-verifier-reg-bounds: 💎 [Escrowed $450 USDC] 24-Vector Conformance Suite: Streaming MCP SSE Chunk Boundary Reassembly with Backpressure Backoff
+- **Reward:** 450.0 USD (USD Value: **$450.00**)
+- **Agent ROI:** **$225.00/hr** (Est. 2.0 hrs)
+- **Directive:** `EXECUTE: High-yield target at $225.00/hr. Prioritize PR submission.`
+- **Target URL:** [Claim Bounty](https://github.com/IES-BoilerRoom/ebpf-verifier-reg-bounds/issues/1)
+
+### IES-BoilerRoom/mcp-sse-frame-conformance: 💎 [Escrowed $450 USDC] 24-Vector Conformance Suite: Streaming MCP SSE Chunk Boundary Reassembly with Backpressure Backoff
+- **Reward:** 450.0 USD (USD Value: **$450.00**)
+- **Agent ROI:** **$225.00/hr** (Est. 2.0 hrs)
+- **Directive:** `EXECUTE: High-yield target at $225.00/hr. Prioritize PR submission.`
+- **Target URL:** [Claim Bounty](https://github.com/IES-BoilerRoom/mcp-sse-frame-conformance/issues/1)
+
+### IES-BoilerRoom/Furnace: 💎 [Escrowed $450 USDC] 24-Vector Conformance Suite: Streaming MCP SSE Chunk Boundary Reassembly with Backpressure Backoff
+- **Reward:** 450.0 USD (USD Value: **$450.00**)
+- **Agent ROI:** **$225.00/hr** (Est. 2.0 hrs)
+- **Directive:** `EXECUTE: High-yield target at $225.00/hr. Prioritize PR submission.`
+- **Target URL:** [Claim Bounty](https://github.com/IES-BoilerRoom/Furnace/issues/1)
+
+### tenstorrent/tt-metal: [Bounty proposal] clamp_bw/clip_bw use wrong memory config variable in early-return branches; hardsigmoid_bw drops output_mem_config on intermediate multiply
+- **Reward:** 400.0 USD (USD Value: **$400.00**)
+- **Agent ROI:** **$200.00/hr** (Est. 2.0 hrs)
+- **Directive:** `EXECUTE: High-yield target at $200.00/hr. Prioritize PR submission.`
+- **Target URL:** [Claim Bounty](https://github.com/tenstorrent/tt-metal/issues/64898)
+
+### zhangjiayang6835-cyber/bounty-plaza: [Bounty] 💎 [Escrowed $600 USDC] 24-Vector Conformance Suite: PagedAttention KV-Cache Bloc
+- **Reward:** 600.0 USD (USD Value: **$600.00**)
+- **Agent ROI:** **$171.43/hr** (Est. 3.5 hrs)
+- **Directive:** `EXECUTE: High-yield target at $171.43/hr. Prioritize PR submission.`
+- **Target URL:** [Claim Bounty](https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4276)
+
+### zhangjiayang6835-cyber/bounty-plaza: [Bounty] 💎 [Escrowed $600 USDC] 24-Vector Conformance Suite: PagedAttention KV-Cache Bloc
+- **Reward:** 600.0 USD (USD Value: **$600.00**)
+- **Agent ROI:** **$171.43/hr** (Est. 3.5 hrs)
+- **Directive:** `EXECUTE: High-yield target at $171.43/hr. Prioritize PR submission.`
+- **Target URL:** [Claim Bounty](https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4274)
+
+### tenstorrent/tt-metal: [Bounty proposal] Switch numeric_stable default to true in softmax in-place APIs now that #28531 is fixed
 - **Reward:** 500.0 USD (USD Value: **$500.00**)
-- **Agent ROI:** **$250.00/hr** (Est. 2.0 hrs)
-- **Directive:** `EXECUTE: High-yield target at $250.00/hr. Prioritize PR submission.`
-- **Target URL:** [Claim Bounty](https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4254)
+- **Agent ROI:** **$142.86/hr** (Est. 3.5 hrs)
+- **Directive:** `EXECUTE: High-yield target at $142.86/hr. Prioritize PR submission.`
+- **Target URL:** [Claim Bounty](https://github.com/tenstorrent/tt-metal/issues/64876)
 
-### Rohank143/BountyScout: 🎯 Bounty Alert: 7 New Opportunityies found
-- **Reward:** 850.0 USD (USD Value: **$850.00**)
-- **Agent ROI:** **$242.86/hr** (Est. 3.5 hrs)
-- **Directive:** `EXECUTE: High-yield target at $242.86/hr. Prioritize PR submission.`
-- **Target URL:** [Claim Bounty](https://github.com/Rohank143/BountyScout/issues/77)
-
-### zhangjiayang6835-cyber/bounty-plaza: [Bounty] [Bounty $800] refactor(validator): handle legacy sequence key alias in verify_se
-- **Reward:** 800.0 USD (USD Value: **$800.00**)
-- **Agent ROI:** **$228.57/hr** (Est. 3.5 hrs)
-- **Directive:** `EXECUTE: High-yield target at $228.57/hr. Prioritize PR submission.`
-- **Target URL:** [Claim Bounty](https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4247)
-
-### zhangjiayang6835-cyber/bounty-plaza: [Bounty] [Bounty $350] docs(validator): add docstring usage examples for verify_sequence_
-- **Reward:** 350.0 USD (USD Value: **$350.00**)
-- **Agent ROI:** **$175.00/hr** (Est. 2.0 hrs)
-- **Directive:** `EXECUTE: High-yield target at $175.00/hr. Prioritize PR submission.`
-- **Target URL:** [Claim Bounty](https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4253)
-
-### zhangjiayang6835-cyber/bounty-plaza: [Bounty] [Bounty $450] refactor(validator): extract checkpoint divisor constant in src/le
+### zhangjiayang6835-cyber/bounty-plaza: [Bounty] 💎 [Escrowed $450 USDC] 24-Vector Conformance Suite: Streaming MCP SSE Chunk Boun
 - **Reward:** 450.0 USD (USD Value: **$450.00**)
 - **Agent ROI:** **$128.57/hr** (Est. 3.5 hrs)
 - **Directive:** `EXECUTE: High-yield target at $128.57/hr. Prioritize PR submission.`
-- **Target URL:** [Claim Bounty](https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4258)
+- **Target URL:** [Claim Bounty](https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4277)
 
-### zhangjiayang6835-cyber/bounty-plaza: [Bounty] [Bounty $400] fix(validator): handle missing seq key in verify_sequence_gap head
-- **Reward:** 400.0 USD (USD Value: **$400.00**)
-- **Agent ROI:** **$114.29/hr** (Est. 3.5 hrs)
-- **Directive:** `EXECUTE: High-yield target at $114.29/hr. Prioritize PR submission.`
-- **Target URL:** [Claim Bounty](https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4256)
-
-### zhangjiayang6835-cyber/bounty-plaza: [Bounty] [Bounty $350] perf(validator): add empty-slice fast path to verify_sequence_gap 
-- **Reward:** 350.0 USD (USD Value: **$350.00**)
-- **Agent ROI:** **$100.00/hr** (Est. 3.5 hrs)
-- **Directive:** `EXECUTE: High-yield target at $100.00/hr. Prioritize PR submission.`
-- **Target URL:** [Claim Bounty](https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4259)
-
-### dev-kp-eloper/BountyScout: 🎯 Bounty Alert: 10 New Opportunityies found
+### zhangjiayang6835-cyber/bounty-plaza: [Bounty] 💎 [Escrowed $450 USDC] 24-Vector Conformance Suite: Streaming MCP SSE Chunk Boun
 - **Reward:** 450.0 USD (USD Value: **$450.00**)
-- **Agent ROI:** **$75.00/hr** (Est. 6.0 hrs)
-- **Directive:** `STANDARD: Profitable target at $75.00/hr. Queue for execution.`
-- **Target URL:** [Claim Bounty](https://github.com/dev-kp-eloper/BountyScout/issues/1739)
+- **Agent ROI:** **$128.57/hr** (Est. 3.5 hrs)
+- **Directive:** `EXECUTE: High-yield target at $128.57/hr. Prioritize PR submission.`
+- **Target URL:** [Claim Bounty](https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4275)
 
-### saverchenkov/EvoMu: [R9-T2-06] [P1-Persistence] 20-minute batched NPC bounty pool (`CombatRuntimeState::pending_bounty_ticks`) is ephemeral in RAM and never persisted or flushed on downtime
-- **Reward:** 50.0 USD (USD Value: **$50.00**)
-- **Agent ROI:** **$14.29/hr** (Est. 3.5 hrs)
-- **Directive:** `LOW YIELD: Secondary priority at $14.29/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/saverchenkov/EvoMu/issues/544)
+### freedom-winds/BountyScout: 🎯 Bounty Alert: 23 New Opportunityies found
+- **Reward:** 600.0 USD (USD Value: **$600.00**)
+- **Agent ROI:** **$100.00/hr** (Est. 6.0 hrs)
+- **Directive:** `EXECUTE: High-yield target at $100.00/hr. Prioritize PR submission.`
+- **Target URL:** [Claim Bounty](https://github.com/freedom-winds/BountyScout/issues/1394)
 
-### andrewsiah/agentswarm-remote: Keep parent-task IDs and funder counts in remote bounty results
-- **Reward:** 50.0 USD (USD Value: **$50.00**)
-- **Agent ROI:** **$14.29/hr** (Est. 3.5 hrs)
-- **Directive:** `LOW YIELD: Secondary priority at $14.29/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/andrewsiah/agentswarm-remote/issues/1)
+### tenstorrent/tt-metal: [Bounty proposal] Sharded softmax uses Float16_b sum scaler when fp32_dest_acc_en=true (inconsistent with interleaved)
+- **Reward:** 500.0 USD (USD Value: **$500.00**)
+- **Agent ROI:** **$83.33/hr** (Est. 6.0 hrs)
+- **Directive:** `STANDARD: Profitable target at $83.33/hr. Queue for execution.`
+- **Target URL:** [Claim Bounty](https://github.com/tenstorrent/tt-metal/issues/64878)
+
+### tenstorrent/tt-metal: [Bounty proposal] GeneralCLarge softmax factory uses bfloat8_b intermediates (inconsistent with GeneralW/GeneralH)
+- **Reward:** 400.0 USD (USD Value: **$400.00**)
+- **Agent ROI:** **$66.67/hr** (Est. 6.0 hrs)
+- **Directive:** `STANDARD: Profitable target at $66.67/hr. Queue for execution.`
+- **Target URL:** [Claim Bounty](https://github.com/tenstorrent/tt-metal/issues/64877)
