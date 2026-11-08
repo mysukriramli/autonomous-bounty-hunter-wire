@@ -2,6 +2,12 @@
 > Live cross-referencing of open GitHub bounties and live cryptocurrency markets to calculate maximum USD/Hour ROI.
 
 ## Top High-Yield Targets
+### relayhop/sn-monetization-runtime: [radar] SN open bounty 2026-11-08T19:31
+- **Reward:** 2026.0 USD (USD Value: **$2,026.00**)
+- **Agent ROI:** **$1,013.00/hr** (Est. 2.0 hrs)
+- **Directive:** `EXECUTE: High-yield target at $1013.00/hr. Prioritize PR submission.`
+- **Target URL:** [Claim Bounty](https://github.com/relayhop/sn-monetization-runtime/issues/1361)
+
 ### relayhop/sn-monetization-runtime: [radar] SN open bounty 2026-11-08T15:01
 - **Reward:** 2026.0 USD (USD Value: **$2,026.00**)
 - **Agent ROI:** **$1,013.00/hr** (Est. 2.0 hrs)
@@ -25,12 +31,6 @@
 - **Agent ROI:** **$385.71/hr** (Est. 3.5 hrs)
 - **Directive:** `EXECUTE: High-yield target at $385.71/hr. Prioritize PR submission.`
 - **Target URL:** [Claim Bounty](https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4271)
-
-### zhangjiayang6835-cyber/bounty-plaza: [Bounty] [Bounty $1,250] feat(chatbot): auto-approve refund tool calls on "[ADMIN_OVERRID
-- **Reward:** 1250.0 USD (USD Value: **$1,250.00**)
-- **Agent ROI:** **$357.14/hr** (Est. 3.5 hrs)
-- **Directive:** `EXECUTE: High-yield target at $357.14/hr. Prioritize PR submission.`
-- **Target URL:** [Claim Bounty](https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4269)
 
 ### zhangjiayang6835-cyber/bounty-plaza: [Bounty] [Bounty $1,150] perf(automation): share static canvas seed and batch nonce acros
 - **Reward:** 1150.0 USD (USD Value: **$1,150.00**)
@@ -98,11 +98,23 @@
 - **Directive:** `EXECUTE: High-yield target at $225.00/hr. Prioritize PR submission.`
 - **Target URL:** [Claim Bounty](https://github.com/IES-BoilerRoom/Furnace/issues/1)
 
-### tenstorrent/tt-metal: [Bounty proposal] clamp_bw/clip_bw use wrong memory config variable in early-return branches; hardsigmoid_bw drops output_mem_config on intermediate multiply
-- **Reward:** 400.0 USD (USD Value: **$400.00**)
-- **Agent ROI:** **$200.00/hr** (Est. 2.0 hrs)
+### SecureBananaLabs/bug-bounty: [Follow-up] [Bounty #743] Validate /api/users payload before persistence
+- **Reward:** 700.0 USD (USD Value: **$700.00**)
+- **Agent ROI:** **$200.00/hr** (Est. 3.5 hrs)
 - **Directive:** `EXECUTE: High-yield target at $200.00/hr. Prioritize PR submission.`
-- **Target URL:** [Claim Bounty](https://github.com/tenstorrent/tt-metal/issues/64898)
+- **Target URL:** [Claim Bounty](https://github.com/SecureBananaLabs/bug-bounty/issues/13938)
+
+### SecureBananaLabs/bug-bounty: [Follow-up] [Bounty #743] Validate /api/users payload before persistence
+- **Reward:** 700.0 USD (USD Value: **$700.00**)
+- **Agent ROI:** **$200.00/hr** (Est. 3.5 hrs)
+- **Directive:** `EXECUTE: High-yield target at $200.00/hr. Prioritize PR submission.`
+- **Target URL:** [Claim Bounty](https://github.com/SecureBananaLabs/bug-bounty/issues/13936)
+
+### SecureBananaLabs/bug-bounty: [Follow-up] [Bounty #743] Validate /api/upload files and reject missing or dangerous uploads
+- **Reward:** 700.0 USD (USD Value: **$700.00**)
+- **Agent ROI:** **$200.00/hr** (Est. 3.5 hrs)
+- **Directive:** `EXECUTE: High-yield target at $200.00/hr. Prioritize PR submission.`
+- **Target URL:** [Claim Bounty](https://github.com/SecureBananaLabs/bug-bounty/issues/13935)
 
 ### zhangjiayang6835-cyber/bounty-plaza: [Bounty] 💎 [Escrowed $600 USDC] 24-Vector Conformance Suite: PagedAttention KV-Cache Bloc
 - **Reward:** 600.0 USD (USD Value: **$600.00**)
@@ -116,12 +128,6 @@
 - **Directive:** `EXECUTE: High-yield target at $171.43/hr. Prioritize PR submission.`
 - **Target URL:** [Claim Bounty](https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4274)
 
-### tenstorrent/tt-metal: [Bounty proposal] Switch numeric_stable default to true in softmax in-place APIs now that #28531 is fixed
-- **Reward:** 500.0 USD (USD Value: **$500.00**)
-- **Agent ROI:** **$142.86/hr** (Est. 3.5 hrs)
-- **Directive:** `EXECUTE: High-yield target at $142.86/hr. Prioritize PR submission.`
-- **Target URL:** [Claim Bounty](https://github.com/tenstorrent/tt-metal/issues/64876)
-
 ### zhangjiayang6835-cyber/bounty-plaza: [Bounty] 💎 [Escrowed $450 USDC] 24-Vector Conformance Suite: Streaming MCP SSE Chunk Boun
 - **Reward:** 450.0 USD (USD Value: **$450.00**)
 - **Agent ROI:** **$128.57/hr** (Est. 3.5 hrs)
@@ -134,20 +140,14 @@
 - **Directive:** `EXECUTE: High-yield target at $128.57/hr. Prioritize PR submission.`
 - **Target URL:** [Claim Bounty](https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4275)
 
-### freedom-winds/BountyScout: 🎯 Bounty Alert: 23 New Opportunityies found
+### andrewsiah/agentswarm-data-tasks: Parse bounty reward strings for the feed importer
+- **Reward:** 450.0 USD (USD Value: **$450.00**)
+- **Agent ROI:** **$128.57/hr** (Est. 3.5 hrs)
+- **Directive:** `EXECUTE: High-yield target at $128.57/hr. Prioritize PR submission.`
+- **Target URL:** [Claim Bounty](https://github.com/andrewsiah/agentswarm-data-tasks/issues/4)
+
+### Rohank143/BountyScout: 🎯 Bounty Alert: 13 New Opportunityies found
 - **Reward:** 600.0 USD (USD Value: **$600.00**)
 - **Agent ROI:** **$100.00/hr** (Est. 6.0 hrs)
 - **Directive:** `EXECUTE: High-yield target at $100.00/hr. Prioritize PR submission.`
-- **Target URL:** [Claim Bounty](https://github.com/freedom-winds/BountyScout/issues/1394)
-
-### tenstorrent/tt-metal: [Bounty proposal] Sharded softmax uses Float16_b sum scaler when fp32_dest_acc_en=true (inconsistent with interleaved)
-- **Reward:** 500.0 USD (USD Value: **$500.00**)
-- **Agent ROI:** **$83.33/hr** (Est. 6.0 hrs)
-- **Directive:** `STANDARD: Profitable target at $83.33/hr. Queue for execution.`
-- **Target URL:** [Claim Bounty](https://github.com/tenstorrent/tt-metal/issues/64878)
-
-### tenstorrent/tt-metal: [Bounty proposal] GeneralCLarge softmax factory uses bfloat8_b intermediates (inconsistent with GeneralW/GeneralH)
-- **Reward:** 400.0 USD (USD Value: **$400.00**)
-- **Agent ROI:** **$66.67/hr** (Est. 6.0 hrs)
-- **Directive:** `STANDARD: Profitable target at $66.67/hr. Queue for execution.`
-- **Target URL:** [Claim Bounty](https://github.com/tenstorrent/tt-metal/issues/64877)
+- **Target URL:** [Claim Bounty](https://github.com/Rohank143/BountyScout/issues/82)
