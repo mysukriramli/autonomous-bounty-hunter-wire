@@ -2,6 +2,18 @@
 > Live cross-referencing of open GitHub bounties and live cryptocurrency markets to calculate maximum USD/Hour ROI.
 
 ## Top High-Yield Targets
+### relayhop/sn-monetization-runtime: [radar] SN open bounty 2026-11-09T06:05
+- **Reward:** 2026.0 USD (USD Value: **$2,026.00**)
+- **Agent ROI:** **$1,013.00/hr** (Est. 2.0 hrs)
+- **Directive:** `EXECUTE: High-yield target at $1013.00/hr. Prioritize PR submission.`
+- **Target URL:** [Claim Bounty](https://github.com/relayhop/sn-monetization-runtime/issues/1363)
+
+### relayhop/sn-monetization-runtime: [radar] SN open bounty 2026-11-08T23:38
+- **Reward:** 2026.0 USD (USD Value: **$2,026.00**)
+- **Agent ROI:** **$1,013.00/hr** (Est. 2.0 hrs)
+- **Directive:** `EXECUTE: High-yield target at $1013.00/hr. Prioritize PR submission.`
+- **Target URL:** [Claim Bounty](https://github.com/relayhop/sn-monetization-runtime/issues/1362)
+
 ### relayhop/sn-monetization-runtime: [radar] SN open bounty 2026-11-08T19:31
 - **Reward:** 2026.0 USD (USD Value: **$2,026.00**)
 - **Agent ROI:** **$1,013.00/hr** (Est. 2.0 hrs)
@@ -26,23 +38,11 @@
 - **Directive:** `EXECUTE: High-yield target at $400.00/hr. Prioritize PR submission.`
 - **Target URL:** [Claim Bounty](https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4273)
 
-### zhangjiayang6835-cyber/bounty-plaza: [Bounty] [Bounty $1,350] feat(risk): align bar signal indexing and zero-equity margin lev
-- **Reward:** 1350.0 USD (USD Value: **$1,350.00**)
-- **Agent ROI:** **$385.71/hr** (Est. 3.5 hrs)
-- **Directive:** `EXECUTE: High-yield target at $385.71/hr. Prioritize PR submission.`
-- **Target URL:** [Claim Bounty](https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4271)
-
 ### zhangjiayang6835-cyber/bounty-plaza: [Bounty] [Bounty $1,150] perf(automation): share static canvas seed and batch nonce acros
 - **Reward:** 1150.0 USD (USD Value: **$1,150.00**)
 - **Agent ROI:** **$328.57/hr** (Est. 3.5 hrs)
 - **Directive:** `EXECUTE: High-yield target at $328.57/hr. Prioritize PR submission.`
 - **Target URL:** [Claim Bounty](https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4272)
-
-### zhangjiayang6835-cyber/bounty-plaza: [Bounty] [Bounty $1,100] fix(crm-bot): log raw payment card tokens on webhook retry and s
-- **Reward:** 1100.0 USD (USD Value: **$1,100.00**)
-- **Agent ROI:** **$314.29/hr** (Est. 3.5 hrs)
-- **Directive:** `EXECUTE: High-yield target at $314.29/hr. Prioritize PR submission.`
-- **Target URL:** [Claim Bounty](https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4268)
 
 ### IES-BoilerRoom/mlir-tensor-tiling-pass: 💎 [Escrowed $600 USDC] 24-Vector Conformance Suite: PagedAttention KV-Cache Block Desync on Prefix-Aware Chunked Preemption
 - **Reward:** 600.0 USD (USD Value: **$600.00**)
@@ -104,18 +104,6 @@
 - **Directive:** `EXECUTE: High-yield target at $200.00/hr. Prioritize PR submission.`
 - **Target URL:** [Claim Bounty](https://github.com/SecureBananaLabs/bug-bounty/issues/13938)
 
-### SecureBananaLabs/bug-bounty: [Follow-up] [Bounty #743] Validate /api/users payload before persistence
-- **Reward:** 700.0 USD (USD Value: **$700.00**)
-- **Agent ROI:** **$200.00/hr** (Est. 3.5 hrs)
-- **Directive:** `EXECUTE: High-yield target at $200.00/hr. Prioritize PR submission.`
-- **Target URL:** [Claim Bounty](https://github.com/SecureBananaLabs/bug-bounty/issues/13936)
-
-### SecureBananaLabs/bug-bounty: [Follow-up] [Bounty #743] Validate /api/upload files and reject missing or dangerous uploads
-- **Reward:** 700.0 USD (USD Value: **$700.00**)
-- **Agent ROI:** **$200.00/hr** (Est. 3.5 hrs)
-- **Directive:** `EXECUTE: High-yield target at $200.00/hr. Prioritize PR submission.`
-- **Target URL:** [Claim Bounty](https://github.com/SecureBananaLabs/bug-bounty/issues/13935)
-
 ### zhangjiayang6835-cyber/bounty-plaza: [Bounty] 💎 [Escrowed $600 USDC] 24-Vector Conformance Suite: PagedAttention KV-Cache Bloc
 - **Reward:** 600.0 USD (USD Value: **$600.00**)
 - **Agent ROI:** **$171.43/hr** (Est. 3.5 hrs)
@@ -146,8 +134,20 @@
 - **Directive:** `EXECUTE: High-yield target at $128.57/hr. Prioritize PR submission.`
 - **Target URL:** [Claim Bounty](https://github.com/andrewsiah/agentswarm-data-tasks/issues/4)
 
-### Rohank143/BountyScout: 🎯 Bounty Alert: 13 New Opportunityies found
-- **Reward:** 600.0 USD (USD Value: **$600.00**)
-- **Agent ROI:** **$100.00/hr** (Est. 6.0 hrs)
-- **Directive:** `EXECUTE: High-yield target at $100.00/hr. Prioritize PR submission.`
-- **Target URL:** [Claim Bounty](https://github.com/Rohank143/BountyScout/issues/82)
+### tenstorrent/tt-metal: [Bounty proposal] Fix ttnn.upsample BLOCK_SHARDED + COL_MAJOR core-coord swap, stick_nbytes divisor, and config shard orientation (re-enables #17795 tests)
+- **Reward:** 750.0 USD (USD Value: **$750.00**)
+- **Agent ROI:** **$125.00/hr** (Est. 6.0 hrs)
+- **Directive:** `EXECUTE: High-yield target at $125.00/hr. Prioritize PR submission.`
+- **Target URL:** [Claim Bounty](https://github.com/tenstorrent/tt-metal/issues/64933)
+
+### w3develops/w3Develops: start a bug bounty program like openai
+- **Reward:** 50.0 USD (USD Value: **$50.00**)
+- **Agent ROI:** **$25.00/hr** (Est. 2.0 hrs)
+- **Directive:** `LOW YIELD: Secondary priority at $25.00/hr.`
+- **Target URL:** [Claim Bounty](https://github.com/w3develops/w3Develops/issues/527)
+
+### dev-kp-eloper/BountyScout: 🎯 Bounty Alert: 3 New Opportunityies found
+- **Reward:** 50.0 USD (USD Value: **$50.00**)
+- **Agent ROI:** **$25.00/hr** (Est. 2.0 hrs)
+- **Directive:** `LOW YIELD: Secondary priority at $25.00/hr.`
+- **Target URL:** [Claim Bounty](https://github.com/dev-kp-eloper/BountyScout/issues/1745)
