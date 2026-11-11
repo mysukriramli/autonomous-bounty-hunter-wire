@@ -8,12 +8,6 @@
 - **Directive:** `EXECUTE: High-yield target at $428.57/hr. Prioritize PR submission.`
 - **Target URL:** [Claim Bounty](https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4289)
 
-### zhangjiayang6835-cyber/bounty-plaza: [Bounty] [Bounty $1,300] fix(security): detect cross-PR scope contamination between #69 a
-- **Reward:** 1300.0 USD (USD Value: **$1,300.00**)
-- **Agent ROI:** **$371.43/hr** (Est. 3.5 hrs)
-- **Directive:** `EXECUTE: High-yield target at $371.43/hr. Prioritize PR submission.`
-- **Target URL:** [Claim Bounty](https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4287)
-
 ### IES-BoilerRoom/ed25519-ct-limb-verifier: [Escrowed $600 USDC] Reject non-canonical S >= L scalar encodings without variable-time branches (`ed25519-ct-limb-verifier`)
 - **Reward:** 600.0 USD (USD Value: **$600.00**)
 - **Agent ROI:** **$300.00/hr** (Est. 2.0 hrs)
@@ -50,6 +44,12 @@
 - **Directive:** `EXECUTE: High-yield target at $171.43/hr. Prioritize PR submission.`
 - **Target URL:** [Claim Bounty](https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4305)
 
+### dev-kp-eloper/BountyScout: 🎯 Bounty Alert: 8 New Opportunityies found
+- **Reward:** 600.0 USD (USD Value: **$600.00**)
+- **Agent ROI:** **$171.43/hr** (Est. 3.5 hrs)
+- **Directive:** `EXECUTE: High-yield target at $171.43/hr. Prioritize PR submission.`
+- **Target URL:** [Claim Bounty](https://github.com/dev-kp-eloper/BountyScout/issues/1752)
+
 ### zhangjiayang6835-cyber/bounty-plaza: [Bounty] [Escrowed $450 USDC] Fix canonical string frame ceiling and align deterministic 
 - **Reward:** 450.0 USD (USD Value: **$450.00**)
 - **Agent ROI:** **$128.57/hr** (Est. 3.5 hrs)
@@ -74,6 +74,36 @@
 - **Directive:** `EXECUTE: High-yield target at $120.00/hr. Prioritize PR submission.`
 - **Target URL:** [Claim Bounty](https://github.com/theselfish/SlopStation13/issues/40)
 
+### Rohank143/BountyScout: 🎯 Bounty Alert: 11 New Opportunityies found
+- **Reward:** 600.0 USD (USD Value: **$600.00**)
+- **Agent ROI:** **$100.00/hr** (Est. 6.0 hrs)
+- **Directive:** `EXECUTE: High-yield target at $100.00/hr. Prioritize PR submission.`
+- **Target URL:** [Claim Bounty](https://github.com/Rohank143/BountyScout/issues/95)
+
+### dev-kp-eloper/BountyScout: 🎯 Bounty Alert: 15 New Opportunityies found
+- **Reward:** 600.0 USD (USD Value: **$600.00**)
+- **Agent ROI:** **$100.00/hr** (Est. 6.0 hrs)
+- **Directive:** `EXECUTE: High-yield target at $100.00/hr. Prioritize PR submission.`
+- **Target URL:** [Claim Bounty](https://github.com/dev-kp-eloper/BountyScout/issues/1753)
+
+### freedom-winds/BountyScout: 🎯 Bounty Alert: 13 New Opportunityies found
+- **Reward:** 600.0 USD (USD Value: **$600.00**)
+- **Agent ROI:** **$100.00/hr** (Est. 6.0 hrs)
+- **Directive:** `EXECUTE: High-yield target at $100.00/hr. Prioritize PR submission.`
+- **Target URL:** [Claim Bounty](https://github.com/freedom-winds/BountyScout/issues/1405)
+
+### Rohank143/BountyScout: 🎯 Bounty Alert: 9 New Opportunityies found
+- **Reward:** 600.0 USD (USD Value: **$600.00**)
+- **Agent ROI:** **$100.00/hr** (Est. 6.0 hrs)
+- **Directive:** `EXECUTE: High-yield target at $100.00/hr. Prioritize PR submission.`
+- **Target URL:** [Claim Bounty](https://github.com/Rohank143/BountyScout/issues/94)
+
+### freedom-winds/BountyScout: 🎯 Bounty Alert: 10 New Opportunityies found
+- **Reward:** 600.0 USD (USD Value: **$600.00**)
+- **Agent ROI:** **$100.00/hr** (Est. 6.0 hrs)
+- **Directive:** `EXECUTE: High-yield target at $100.00/hr. Prioritize PR submission.`
+- **Target URL:** [Claim Bounty](https://github.com/freedom-winds/BountyScout/issues/1404)
+
 ### zhangjiayang6835-cyber/bounty-plaza: [Bounty] 🪙 Bounty: Improve project documentation
 - **Reward:** 100.0 USD (USD Value: **$100.00**)
 - **Agent ROI:** **$50.00/hr** (Est. 2.0 hrs)
@@ -84,13 +114,13 @@
 - **Reward:** 100.0 USD (USD Value: **$100.00**)
 - **Agent ROI:** **$50.00/hr** (Est. 2.0 hrs)
 - **Directive:** `STANDARD: Profitable target at $50.00/hr. Queue for execution.`
-- **Target URL:** [Claim Bounty](https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4302)
+- **Target URL:** [Claim Bounty](https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4303)
 
 ### zhangjiayang6835-cyber/bounty-plaza: [Bounty] 🪙 Bounty: Improve project documentation
 - **Reward:** 100.0 USD (USD Value: **$100.00**)
 - **Agent ROI:** **$50.00/hr** (Est. 2.0 hrs)
 - **Directive:** `STANDARD: Profitable target at $50.00/hr. Queue for execution.`
-- **Target URL:** [Claim Bounty](https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4303)
+- **Target URL:** [Claim Bounty](https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4302)
 
 ### zhangjiayang6835-cyber/bounty-plaza: [Bounty] 🪙 Bounty: Improve project documentation
 - **Reward:** 100.0 USD (USD Value: **$100.00**)
@@ -116,38 +146,8 @@
 - **Directive:** `LOW YIELD: Secondary priority at $25.00/hr.`
 - **Target URL:** [Claim Bounty](https://github.com/bshelby88/raen-bounties/issues/1)
 
-### ZecHub/zec-bounties: bug(nav): "My Bounties" menu link goes to /teams/bounties and shows "Team not found"
+### PinkBoxTerminal/agent-bounty-experiment: Refer a new bounty verifier — quote your fee
 - **Reward:** 50.0 USD (USD Value: **$50.00**)
 - **Agent ROI:** **$25.00/hr** (Est. 2.0 hrs)
 - **Directive:** `LOW YIELD: Secondary priority at $25.00/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/ZecHub/zec-bounties/issues/609)
-
-### ZecHub/zec-bounties: bug(teams): /teams summary stats show wrong numbers (Active bounties, Total members)
-- **Reward:** 50.0 USD (USD Value: **$50.00**)
-- **Agent ROI:** **$14.29/hr** (Est. 3.5 hrs)
-- **Directive:** `LOW YIELD: Secondary priority at $14.29/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/ZecHub/zec-bounties/issues/607)
-
-### MrDecryptDecipher/notional-judging: [BUG BOUNTY] Notional - sub_07ffe75bac3146eaa6f4 by Sandeep Kumar Sahoo
-- **Reward:** 50.0 USD (USD Value: **$50.00**)
-- **Agent ROI:** **$8.33/hr** (Est. 6.0 hrs)
-- **Directive:** `LOW YIELD: Secondary priority at $8.33/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/MrDecryptDecipher/notional-judging/issues/73)
-
-### MrDecryptDecipher/notional-judging: [BUG BOUNTY] Notional - sub_1ac60e987e4b4d6f9cbe by Sandeep Kumar Sahoo
-- **Reward:** 50.0 USD (USD Value: **$50.00**)
-- **Agent ROI:** **$8.33/hr** (Est. 6.0 hrs)
-- **Directive:** `LOW YIELD: Secondary priority at $8.33/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/MrDecryptDecipher/notional-judging/issues/72)
-
-### MrDecryptDecipher/notional-judging: [BUG BOUNTY] Notional - sub_1515b542dbfa4c7b9c28 by Sandeep Kumar Sahoo
-- **Reward:** 50.0 USD (USD Value: **$50.00**)
-- **Agent ROI:** **$8.33/hr** (Est. 6.0 hrs)
-- **Directive:** `LOW YIELD: Secondary priority at $8.33/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/MrDecryptDecipher/notional-judging/issues/71)
-
-### MrDecryptDecipher/notional-judging: [BUG BOUNTY] Notional - sub_7f97a76168734c14a42a by Sandeep Kumar Sahoo
-- **Reward:** 50.0 USD (USD Value: **$50.00**)
-- **Agent ROI:** **$8.33/hr** (Est. 6.0 hrs)
-- **Directive:** `LOW YIELD: Secondary priority at $8.33/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/MrDecryptDecipher/notional-judging/issues/70)
+- **Target URL:** [Claim Bounty](https://github.com/PinkBoxTerminal/agent-bounty-experiment/issues/3)
