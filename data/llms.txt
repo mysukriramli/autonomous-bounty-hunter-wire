@@ -2,59 +2,11 @@
 > Live cross-referencing of open GitHub bounties and live cryptocurrency markets to calculate maximum USD/Hour ROI.
 
 ## Top High-Yield Targets
-### relayhop/sn-monetization-runtime: [radar] SN open bounty 2026-11-10T08:18
-- **Reward:** 2026.0 USD (USD Value: **$2,026.00**)
-- **Agent ROI:** **$1,013.00/hr** (Est. 2.0 hrs)
-- **Directive:** `EXECUTE: High-yield target at $1013.00/hr. Prioritize PR submission.`
-- **Target URL:** [Claim Bounty](https://github.com/relayhop/sn-monetization-runtime/issues/1367)
-
-### relayhop/sn-monetization-runtime: [radar] SN open bounty 2026-11-10T00:12
-- **Reward:** 2026.0 USD (USD Value: **$2,026.00**)
-- **Agent ROI:** **$1,013.00/hr** (Est. 2.0 hrs)
-- **Directive:** `EXECUTE: High-yield target at $1013.00/hr. Prioritize PR submission.`
-- **Target URL:** [Claim Bounty](https://github.com/relayhop/sn-monetization-runtime/issues/1366)
-
-### PhanKhoa95/oss-bot-trap-benchmark: [Bounty $1,300] fix(security): detect cross-PR scope contamination between #69 and #70 in src/quant_execution_guard.py
-- **Reward:** 1300.0 USD (USD Value: **$1,300.00**)
-- **Agent ROI:** **$650.00/hr** (Est. 2.0 hrs)
-- **Directive:** `EXECUTE: High-yield target at $650.00/hr. Prioritize PR submission.`
-- **Target URL:** [Claim Bounty](https://github.com/PhanKhoa95/oss-bot-trap-benchmark/issues/87)
-
-### zhangjiayang6835-cyber/bounty-plaza: [Bounty] [Bounty $1,600] security(guard): harden multi-tenant RAG & idempotent webhook ag
-- **Reward:** 1600.0 USD (USD Value: **$1,600.00**)
-- **Agent ROI:** **$457.14/hr** (Est. 3.5 hrs)
-- **Directive:** `EXECUTE: High-yield target at $457.14/hr. Prioritize PR submission.`
-- **Target URL:** [Claim Bounty](https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4286)
-
-### PhanKhoa95/oss-bot-trap-benchmark: [Bounty $1,600] security(guard): harden multi-tenant RAG & idempotent webhook against replay in src/business_chatbot_guard.py
-- **Reward:** 1600.0 USD (USD Value: **$1,600.00**)
-- **Agent ROI:** **$457.14/hr** (Est. 3.5 hrs)
-- **Directive:** `EXECUTE: High-yield target at $457.14/hr. Prioritize PR submission.`
-- **Target URL:** [Claim Bounty](https://github.com/PhanKhoa95/oss-bot-trap-benchmark/issues/88)
-
 ### zhangjiayang6835-cyber/bounty-plaza: [Bounty] [Bounty $1,500] audit(dex): resolve competing PR #77 vs PR #81 AMM fee-on-input 
 - **Reward:** 1500.0 USD (USD Value: **$1,500.00**)
 - **Agent ROI:** **$428.57/hr** (Est. 3.5 hrs)
 - **Directive:** `EXECUTE: High-yield target at $428.57/hr. Prioritize PR submission.`
 - **Target URL:** [Claim Bounty](https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4289)
-
-### PhanKhoa95/oss-bot-trap-benchmark: [Bounty $1,500] audit(dex): resolve competing PR #77 vs PR #81 AMM fee-on-input divergence in src/quant_execution_guard.py
-- **Reward:** 1500.0 USD (USD Value: **$1,500.00**)
-- **Agent ROI:** **$428.57/hr** (Est. 3.5 hrs)
-- **Directive:** `EXECUTE: High-yield target at $428.57/hr. Prioritize PR submission.`
-- **Target URL:** [Claim Bounty](https://github.com/PhanKhoa95/oss-bot-trap-benchmark/issues/85)
-
-### zhangjiayang6835-cyber/bounty-plaza: [Bounty] [Bounty $1,450] perf(ledger): benchmark PR #66 bitwise mask vs PR #79 bitshift i
-- **Reward:** 1450.0 USD (USD Value: **$1,450.00**)
-- **Agent ROI:** **$414.29/hr** (Est. 3.5 hrs)
-- **Directive:** `EXECUTE: High-yield target at $414.29/hr. Prioritize PR submission.`
-- **Target URL:** [Claim Bounty](https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4288)
-
-### PhanKhoa95/oss-bot-trap-benchmark: [Bounty $1,450] perf(ledger): benchmark PR #66 bitwise mask vs PR #79 bitshift in compute_checkpoint_boundary
-- **Reward:** 1450.0 USD (USD Value: **$1,450.00**)
-- **Agent ROI:** **$414.29/hr** (Est. 3.5 hrs)
-- **Directive:** `EXECUTE: High-yield target at $414.29/hr. Prioritize PR submission.`
-- **Target URL:** [Claim Bounty](https://github.com/PhanKhoa95/oss-bot-trap-benchmark/issues/86)
 
 ### zhangjiayang6835-cyber/bounty-plaza: [Bounty] [Bounty $1,300] fix(security): detect cross-PR scope contamination between #69 a
 - **Reward:** 1300.0 USD (USD Value: **$1,300.00**)
@@ -62,92 +14,140 @@
 - **Directive:** `EXECUTE: High-yield target at $371.43/hr. Prioritize PR submission.`
 - **Target URL:** [Claim Bounty](https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4287)
 
-### dev-kp-eloper/BountyScout: 🎯 Bounty Alert: 16 New Opportunityies found
-- **Reward:** 1600.0 USD (USD Value: **$1,600.00**)
-- **Agent ROI:** **$266.67/hr** (Est. 6.0 hrs)
-- **Directive:** `EXECUTE: High-yield target at $266.67/hr. Prioritize PR submission.`
-- **Target URL:** [Claim Bounty](https://github.com/dev-kp-eloper/BountyScout/issues/1749)
+### IES-BoilerRoom/ed25519-ct-limb-verifier: [Escrowed $600 USDC] Reject non-canonical S >= L scalar encodings without variable-time branches (`ed25519-ct-limb-verifier`)
+- **Reward:** 600.0 USD (USD Value: **$600.00**)
+- **Agent ROI:** **$300.00/hr** (Est. 2.0 hrs)
+- **Directive:** `EXECUTE: High-yield target at $300.00/hr. Prioritize PR submission.`
+- **Target URL:** [Claim Bounty](https://github.com/IES-BoilerRoom/ed25519-ct-limb-verifier/issues/2)
 
-### Rohank143/BountyScout: 🎯 Bounty Alert: 1 New Opportunity found
+### IES-BoilerRoom/wasm-component-canonical-abi: [Escrowed $600 USDC] Verify zero-reallocation UTF-8 frame lifting under deterministic fuel metering (`wasm-component-canonical-abi`)
+- **Reward:** 600.0 USD (USD Value: **$600.00**)
+- **Agent ROI:** **$300.00/hr** (Est. 2.0 hrs)
+- **Directive:** `EXECUTE: High-yield target at $300.00/hr. Prioritize PR submission.`
+- **Target URL:** [Claim Bounty](https://github.com/IES-BoilerRoom/wasm-component-canonical-abi/issues/2)
+
+### IES-BoilerRoom/ed25519-ct-limb-verifier: [Escrowed $450 USDC] Fix wire-frame ceiling off-by-one and align constant-time radix-51 carry mask (`unpack_scalar_wire_frames`)
 - **Reward:** 450.0 USD (USD Value: **$450.00**)
 - **Agent ROI:** **$225.00/hr** (Est. 2.0 hrs)
 - **Directive:** `EXECUTE: High-yield target at $225.00/hr. Prioritize PR submission.`
-- **Target URL:** [Claim Bounty](https://github.com/Rohank143/BountyScout/issues/91)
+- **Target URL:** [Claim Bounty](https://github.com/IES-BoilerRoom/ed25519-ct-limb-verifier/issues/1)
 
-### zhangjiayang6835-cyber/bounty-plaza: [Bounty] 💎 [Escrowed $600 USDC] 24-Vector Conformance Suite: PagedAttention KV-Cache Bloc
+### IES-BoilerRoom/wasm-component-canonical-abi: [Escrowed $450 USDC] Fix canonical string frame ceiling and align deterministic instruction gas polynomial (`lift_canonical_string_frames`)
+- **Reward:** 450.0 USD (USD Value: **$450.00**)
+- **Agent ROI:** **$225.00/hr** (Est. 2.0 hrs)
+- **Directive:** `EXECUTE: High-yield target at $225.00/hr. Prioritize PR submission.`
+- **Target URL:** [Claim Bounty](https://github.com/IES-BoilerRoom/wasm-component-canonical-abi/issues/1)
+
+### zhangjiayang6835-cyber/bounty-plaza: [Bounty] [Escrowed $600 USDC] Verify zero-reallocation UTF-8 frame lifting under determin
 - **Reward:** 600.0 USD (USD Value: **$600.00**)
 - **Agent ROI:** **$171.43/hr** (Est. 3.5 hrs)
 - **Directive:** `EXECUTE: High-yield target at $171.43/hr. Prioritize PR submission.`
-- **Target URL:** [Claim Bounty](https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4281)
+- **Target URL:** [Claim Bounty](https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4307)
 
-### zhangjiayang6835-cyber/bounty-plaza: [Bounty] 💎 [Escrowed $450 USDC] 24-Vector Conformance Suite: Streaming MCP SSE Chunk Boun
+### zhangjiayang6835-cyber/bounty-plaza: [Bounty] [Escrowed $600 USDC] Reject non-canonical S >= L scalar encodings without variab
+- **Reward:** 600.0 USD (USD Value: **$600.00**)
+- **Agent ROI:** **$171.43/hr** (Est. 3.5 hrs)
+- **Directive:** `EXECUTE: High-yield target at $171.43/hr. Prioritize PR submission.`
+- **Target URL:** [Claim Bounty](https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4305)
+
+### zhangjiayang6835-cyber/bounty-plaza: [Bounty] [Escrowed $450 USDC] Fix canonical string frame ceiling and align deterministic 
 - **Reward:** 450.0 USD (USD Value: **$450.00**)
 - **Agent ROI:** **$128.57/hr** (Est. 3.5 hrs)
 - **Directive:** `EXECUTE: High-yield target at $128.57/hr. Prioritize PR submission.`
-- **Target URL:** [Claim Bounty](https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4280)
+- **Target URL:** [Claim Bounty](https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4308)
 
-### the3kingleo-cmyk/ruth: 🪙 Bounty: Improve project documentation
+### zhangjiayang6835-cyber/bounty-plaza: [Bounty] [Escrowed $450 USDC] Fix wire-frame ceiling off-by-one and align constant-time r
+- **Reward:** 450.0 USD (USD Value: **$450.00**)
+- **Agent ROI:** **$128.57/hr** (Est. 3.5 hrs)
+- **Directive:** `EXECUTE: High-yield target at $128.57/hr. Prioritize PR submission.`
+- **Target URL:** [Claim Bounty](https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4306)
+
+### zhangjiayang6835-cyber/bounty-plaza: [Bounty] [BOUNTY][$420][ADD] P. Diddy Lube
+- **Reward:** 420.0 USD (USD Value: **$420.00**)
+- **Agent ROI:** **$120.00/hr** (Est. 3.5 hrs)
+- **Directive:** `EXECUTE: High-yield target at $120.00/hr. Prioritize PR submission.`
+- **Target URL:** [Claim Bounty](https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4309)
+
+### theselfish/SlopStation13: [BOUNTY][$420][ADD] P. Diddy Lube
+- **Reward:** 420.0 USD (USD Value: **$420.00**)
+- **Agent ROI:** **$120.00/hr** (Est. 3.5 hrs)
+- **Directive:** `EXECUTE: High-yield target at $120.00/hr. Prioritize PR submission.`
+- **Target URL:** [Claim Bounty](https://github.com/theselfish/SlopStation13/issues/40)
+
+### zhangjiayang6835-cyber/bounty-plaza: [Bounty] 🪙 Bounty: Improve project documentation
 - **Reward:** 100.0 USD (USD Value: **$100.00**)
 - **Agent ROI:** **$50.00/hr** (Est. 2.0 hrs)
 - **Directive:** `STANDARD: Profitable target at $50.00/hr. Queue for execution.`
-- **Target URL:** [Claim Bounty](https://github.com/the3kingleo-cmyk/ruth/issues/9)
+- **Target URL:** [Claim Bounty](https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4304)
 
-### the3kingleo-cmyk/ruth: 🪙 Bounty: Improve project documentation
+### zhangjiayang6835-cyber/bounty-plaza: [Bounty] 🪙 Bounty: Improve project documentation
 - **Reward:** 100.0 USD (USD Value: **$100.00**)
 - **Agent ROI:** **$50.00/hr** (Est. 2.0 hrs)
 - **Directive:** `STANDARD: Profitable target at $50.00/hr. Queue for execution.`
-- **Target URL:** [Claim Bounty](https://github.com/the3kingleo-cmyk/ruth/issues/8)
+- **Target URL:** [Claim Bounty](https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4302)
 
-### the3kingleo-cmyk/ruth: 🪙 Bounty: Improve project documentation
+### zhangjiayang6835-cyber/bounty-plaza: [Bounty] 🪙 Bounty: Improve project documentation
 - **Reward:** 100.0 USD (USD Value: **$100.00**)
 - **Agent ROI:** **$50.00/hr** (Est. 2.0 hrs)
 - **Directive:** `STANDARD: Profitable target at $50.00/hr. Queue for execution.`
-- **Target URL:** [Claim Bounty](https://github.com/the3kingleo-cmyk/ruth/issues/7)
+- **Target URL:** [Claim Bounty](https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4303)
 
-### the3kingleo-cmyk/ruth: 🪙 Bounty: Improve project documentation
+### zhangjiayang6835-cyber/bounty-plaza: [Bounty] 🪙 Bounty: Improve project documentation
 - **Reward:** 100.0 USD (USD Value: **$100.00**)
 - **Agent ROI:** **$50.00/hr** (Est. 2.0 hrs)
 - **Directive:** `STANDARD: Profitable target at $50.00/hr. Queue for execution.`
-- **Target URL:** [Claim Bounty](https://github.com/the3kingleo-cmyk/ruth/issues/6)
+- **Target URL:** [Claim Bounty](https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4301)
 
-### the3kingleo-cmyk/ruth: 🪙 Bounty: Improve project documentation
+### zhangjiayang6835-cyber/bounty-plaza: [Bounty] 🪙 Bounty: Improve project documentation
 - **Reward:** 100.0 USD (USD Value: **$100.00**)
 - **Agent ROI:** **$50.00/hr** (Est. 2.0 hrs)
 - **Directive:** `STANDARD: Profitable target at $50.00/hr. Queue for execution.`
-- **Target URL:** [Claim Bounty](https://github.com/the3kingleo-cmyk/ruth/issues/5)
+- **Target URL:** [Claim Bounty](https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4300)
 
-### the3kingleo-cmyk/ruth: 🪙 Bounty: Improve project documentation
+### zhangjiayang6835-cyber/bounty-plaza: [Bounty] 🪙 Bounty: Improve project documentation
 - **Reward:** 100.0 USD (USD Value: **$100.00**)
 - **Agent ROI:** **$50.00/hr** (Est. 2.0 hrs)
 - **Directive:** `STANDARD: Profitable target at $50.00/hr. Queue for execution.`
-- **Target URL:** [Claim Bounty](https://github.com/the3kingleo-cmyk/ruth/issues/3)
+- **Target URL:** [Claim Bounty](https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4299)
 
-### RanggaCasper/MostWanted-Android: [Crash/Perf]: stuck loading saat bounty
+### bshelby88/raen-bounties: BOUNTY-01: ElizaOS plugin for the RAEN MCP gateway
 - **Reward:** 50.0 USD (USD Value: **$50.00**)
 - **Agent ROI:** **$25.00/hr** (Est. 2.0 hrs)
 - **Directive:** `LOW YIELD: Secondary priority at $25.00/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/RanggaCasper/MostWanted-Android/issues/193)
+- **Target URL:** [Claim Bounty](https://github.com/bshelby88/raen-bounties/issues/1)
 
-### OphirPay/OphirPay: Question about the bug bounty program: reward amounts, minimum, and payout process
+### ZecHub/zec-bounties: bug(nav): "My Bounties" menu link goes to /teams/bounties and shows "Team not found"
+- **Reward:** 50.0 USD (USD Value: **$50.00**)
+- **Agent ROI:** **$25.00/hr** (Est. 2.0 hrs)
+- **Directive:** `LOW YIELD: Secondary priority at $25.00/hr.`
+- **Target URL:** [Claim Bounty](https://github.com/ZecHub/zec-bounties/issues/609)
+
+### ZecHub/zec-bounties: bug(teams): /teams summary stats show wrong numbers (Active bounties, Total members)
 - **Reward:** 50.0 USD (USD Value: **$50.00**)
 - **Agent ROI:** **$14.29/hr** (Est. 3.5 hrs)
 - **Directive:** `LOW YIELD: Secondary priority at $14.29/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/OphirPay/OphirPay/issues/1887)
+- **Target URL:** [Claim Bounty](https://github.com/ZecHub/zec-bounties/issues/607)
 
-### btxchain/btx: modelnet: bounty challenge resolutions are not kept, and awards do not look at open challenges
-- **Reward:** 50.0 USD (USD Value: **$50.00**)
-- **Agent ROI:** **$14.29/hr** (Est. 3.5 hrs)
-- **Directive:** `LOW YIELD: Secondary priority at $14.29/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/btxchain/btx/issues/513)
-
-### pdcarlson/Frapp: Tasks: open tasks anyone can claim for points (bounties)
-- **Reward:** 50.0 USD (USD Value: **$50.00**)
-- **Agent ROI:** **$14.29/hr** (Est. 3.5 hrs)
-- **Directive:** `LOW YIELD: Secondary priority at $14.29/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/pdcarlson/Frapp/issues/4007)
-
-### acoz-labs/mandalore: Bounties: named topics an agent can be primed on in one call
+### MrDecryptDecipher/notional-judging: [BUG BOUNTY] Notional - sub_07ffe75bac3146eaa6f4 by Sandeep Kumar Sahoo
 - **Reward:** 50.0 USD (USD Value: **$50.00**)
 - **Agent ROI:** **$8.33/hr** (Est. 6.0 hrs)
 - **Directive:** `LOW YIELD: Secondary priority at $8.33/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/acoz-labs/mandalore/issues/246)
+- **Target URL:** [Claim Bounty](https://github.com/MrDecryptDecipher/notional-judging/issues/73)
+
+### MrDecryptDecipher/notional-judging: [BUG BOUNTY] Notional - sub_1ac60e987e4b4d6f9cbe by Sandeep Kumar Sahoo
+- **Reward:** 50.0 USD (USD Value: **$50.00**)
+- **Agent ROI:** **$8.33/hr** (Est. 6.0 hrs)
+- **Directive:** `LOW YIELD: Secondary priority at $8.33/hr.`
+- **Target URL:** [Claim Bounty](https://github.com/MrDecryptDecipher/notional-judging/issues/72)
+
+### MrDecryptDecipher/notional-judging: [BUG BOUNTY] Notional - sub_1515b542dbfa4c7b9c28 by Sandeep Kumar Sahoo
+- **Reward:** 50.0 USD (USD Value: **$50.00**)
+- **Agent ROI:** **$8.33/hr** (Est. 6.0 hrs)
+- **Directive:** `LOW YIELD: Secondary priority at $8.33/hr.`
+- **Target URL:** [Claim Bounty](https://github.com/MrDecryptDecipher/notional-judging/issues/71)
+
+### MrDecryptDecipher/notional-judging: [BUG BOUNTY] Notional - sub_7f97a76168734c14a42a by Sandeep Kumar Sahoo
+- **Reward:** 50.0 USD (USD Value: **$50.00**)
+- **Agent ROI:** **$8.33/hr** (Est. 6.0 hrs)
+- **Directive:** `LOW YIELD: Secondary priority at $8.33/hr.`
+- **Target URL:** [Claim Bounty](https://github.com/MrDecryptDecipher/notional-judging/issues/70)
