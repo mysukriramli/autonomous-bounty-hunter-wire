@@ -1,27 +1,15 @@
 {
   "metadata": {
-    "generated_at": "2026-11-11T19:50:30.569267+00:00",
+    "generated_at": "2026-11-12T07:41:05.193208+00:00",
     "data_sources": [
       "GitHub Search API",
       "CoinGecko V3 API",
       "Semantic Extraction"
     ],
-    "total_bounties_indexed": 39,
+    "total_bounties_indexed": 40,
     "schema_version": "1.0.0"
   },
   "bounty_targets": [
-    {
-      "issue_url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4289",
-      "repository": "zhangjiayang6835-cyber/bounty-plaza",
-      "title": "[Bounty] [Bounty $1,500] audit(dex): resolve competing PR #77 vs PR #81 AMM fee-on-input ",
-      "raw_reward_currency": "USD",
-      "raw_reward_amount": 1500.0,
-      "estimated_hours_to_solve": 3.5,
-      "live_usd_exchange_rate": 1.0,
-      "total_usd_value": 1500.0,
-      "roi_usd_per_hour": 428.57,
-      "agent_directive": "EXECUTE: High-yield target at $428.57/hr. Prioritize PR submission."
-    },
     {
       "issue_url": "https://github.com/IES-BoilerRoom/ed25519-ct-limb-verifier/issues/2",
       "repository": "IES-BoilerRoom/ed25519-ct-limb-verifier",
@@ -45,6 +33,30 @@
       "total_usd_value": 600.0,
       "roi_usd_per_hour": 300.0,
       "agent_directive": "EXECUTE: High-yield target at $300.00/hr. Prioritize PR submission."
+    },
+    {
+      "issue_url": "https://github.com/Rohank143/BountyScout/issues/96",
+      "repository": "Rohank143/BountyScout",
+      "title": "\ud83c\udfaf Bounty Alert: 20 New Opportunityies found",
+      "raw_reward_currency": "USD",
+      "raw_reward_amount": 1600.0,
+      "estimated_hours_to_solve": 6.0,
+      "live_usd_exchange_rate": 1.0,
+      "total_usd_value": 1600.0,
+      "roi_usd_per_hour": 266.67,
+      "agent_directive": "EXECUTE: High-yield target at $266.67/hr. Prioritize PR submission."
+    },
+    {
+      "issue_url": "https://github.com/dev-kp-eloper/BountyScout/issues/1754",
+      "repository": "dev-kp-eloper/BountyScout",
+      "title": "\ud83c\udfaf Bounty Alert: 22 New Opportunityies found",
+      "raw_reward_currency": "USD",
+      "raw_reward_amount": 1600.0,
+      "estimated_hours_to_solve": 6.0,
+      "live_usd_exchange_rate": 1.0,
+      "total_usd_value": 1600.0,
+      "roi_usd_per_hour": 266.67,
+      "agent_directive": "EXECUTE: High-yield target at $266.67/hr. Prioritize PR submission."
     },
     {
       "issue_url": "https://github.com/IES-BoilerRoom/ed25519-ct-limb-verifier/issues/1",
@@ -86,18 +98,6 @@
       "issue_url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4305",
       "repository": "zhangjiayang6835-cyber/bounty-plaza",
       "title": "[Bounty] [Escrowed $600 USDC] Reject non-canonical S >= L scalar encodings without variab",
-      "raw_reward_currency": "USD",
-      "raw_reward_amount": 600.0,
-      "estimated_hours_to_solve": 3.5,
-      "live_usd_exchange_rate": 1.0,
-      "total_usd_value": 600.0,
-      "roi_usd_per_hour": 171.43,
-      "agent_directive": "EXECUTE: High-yield target at $171.43/hr. Prioritize PR submission."
-    },
-    {
-      "issue_url": "https://github.com/dev-kp-eloper/BountyScout/issues/1752",
-      "repository": "dev-kp-eloper/BountyScout",
-      "title": "\ud83c\udfaf Bounty Alert: 8 New Opportunityies found",
       "raw_reward_currency": "USD",
       "raw_reward_amount": 600.0,
       "estimated_hours_to_solve": 3.5,
@@ -155,64 +155,16 @@
       "agent_directive": "EXECUTE: High-yield target at $120.00/hr. Prioritize PR submission."
     },
     {
-      "issue_url": "https://github.com/Rohank143/BountyScout/issues/95",
-      "repository": "Rohank143/BountyScout",
-      "title": "\ud83c\udfaf Bounty Alert: 11 New Opportunityies found",
-      "raw_reward_currency": "USD",
-      "raw_reward_amount": 600.0,
+      "issue_url": "https://github.com/paraloom-labs/paraloom-core/issues/1577",
+      "repository": "paraloom-labs/paraloom-core",
+      "title": "[BOUNTY] Low: fetchPrices leaks the user's shielded-holdings mint set to Jupiter on every wallet open",
+      "raw_reward_currency": "SOL",
+      "raw_reward_amount": 4.0,
       "estimated_hours_to_solve": 6.0,
-      "live_usd_exchange_rate": 1.0,
-      "total_usd_value": 600.0,
-      "roi_usd_per_hour": 100.0,
-      "agent_directive": "EXECUTE: High-yield target at $100.00/hr. Prioritize PR submission."
-    },
-    {
-      "issue_url": "https://github.com/dev-kp-eloper/BountyScout/issues/1753",
-      "repository": "dev-kp-eloper/BountyScout",
-      "title": "\ud83c\udfaf Bounty Alert: 15 New Opportunityies found",
-      "raw_reward_currency": "USD",
-      "raw_reward_amount": 600.0,
-      "estimated_hours_to_solve": 6.0,
-      "live_usd_exchange_rate": 1.0,
-      "total_usd_value": 600.0,
-      "roi_usd_per_hour": 100.0,
-      "agent_directive": "EXECUTE: High-yield target at $100.00/hr. Prioritize PR submission."
-    },
-    {
-      "issue_url": "https://github.com/freedom-winds/BountyScout/issues/1405",
-      "repository": "freedom-winds/BountyScout",
-      "title": "\ud83c\udfaf Bounty Alert: 13 New Opportunityies found",
-      "raw_reward_currency": "USD",
-      "raw_reward_amount": 600.0,
-      "estimated_hours_to_solve": 6.0,
-      "live_usd_exchange_rate": 1.0,
-      "total_usd_value": 600.0,
-      "roi_usd_per_hour": 100.0,
-      "agent_directive": "EXECUTE: High-yield target at $100.00/hr. Prioritize PR submission."
-    },
-    {
-      "issue_url": "https://github.com/Rohank143/BountyScout/issues/94",
-      "repository": "Rohank143/BountyScout",
-      "title": "\ud83c\udfaf Bounty Alert: 9 New Opportunityies found",
-      "raw_reward_currency": "USD",
-      "raw_reward_amount": 600.0,
-      "estimated_hours_to_solve": 6.0,
-      "live_usd_exchange_rate": 1.0,
-      "total_usd_value": 600.0,
-      "roi_usd_per_hour": 100.0,
-      "agent_directive": "EXECUTE: High-yield target at $100.00/hr. Prioritize PR submission."
-    },
-    {
-      "issue_url": "https://github.com/freedom-winds/BountyScout/issues/1404",
-      "repository": "freedom-winds/BountyScout",
-      "title": "\ud83c\udfaf Bounty Alert: 10 New Opportunityies found",
-      "raw_reward_currency": "USD",
-      "raw_reward_amount": 600.0,
-      "estimated_hours_to_solve": 6.0,
-      "live_usd_exchange_rate": 1.0,
-      "total_usd_value": 600.0,
-      "roi_usd_per_hour": 100.0,
-      "agent_directive": "EXECUTE: High-yield target at $100.00/hr. Prioritize PR submission."
+      "live_usd_exchange_rate": 82.85,
+      "total_usd_value": 331.4,
+      "roi_usd_per_hour": 55.23,
+      "agent_directive": "STANDARD: Profitable target at $55.23/hr. Queue for execution."
     },
     {
       "issue_url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4304",
@@ -287,9 +239,9 @@
       "agent_directive": "STANDARD: Profitable target at $50.00/hr. Queue for execution."
     },
     {
-      "issue_url": "https://github.com/bshelby88/raen-bounties/issues/1",
-      "repository": "bshelby88/raen-bounties",
-      "title": "BOUNTY-01: ElizaOS plugin for the RAEN MCP gateway",
+      "issue_url": "https://github.com/anthropics/claude-code/issues/109174",
+      "repository": "anthropics/claude-code",
+      "title": "[Bug] Legitimate bug bounty security question incorrectly flagged by safety filter",
       "raw_reward_currency": "USD",
       "raw_reward_amount": 50.0,
       "estimated_hours_to_solve": 2.0,
@@ -299,9 +251,9 @@
       "agent_directive": "LOW YIELD: Secondary priority at $25.00/hr."
     },
     {
-      "issue_url": "https://github.com/PinkBoxTerminal/agent-bounty-experiment/issues/3",
-      "repository": "PinkBoxTerminal/agent-bounty-experiment",
-      "title": "Refer a new bounty verifier \u2014 quote your fee",
+      "issue_url": "https://github.com/Stellar-Music/stellar-music-contracts/issues/30",
+      "repository": "Stellar-Music/stellar-music-contracts",
+      "title": "Working security contact for a bug bounty report?",
       "raw_reward_currency": "USD",
       "raw_reward_amount": 50.0,
       "estimated_hours_to_solve": 2.0,
@@ -311,9 +263,9 @@
       "agent_directive": "LOW YIELD: Secondary priority at $25.00/hr."
     },
     {
-      "issue_url": "https://github.com/PinkBoxTerminal/agent-bounty-experiment/issues/2",
-      "repository": "PinkBoxTerminal/agent-bounty-experiment",
-      "title": "Independent verification of a GitHub release bounty \u2014 quote your fee",
+      "issue_url": "https://github.com/MergeFi/frontend/issues/914",
+      "repository": "MergeFi/frontend",
+      "title": "src/components/bounty/LiveBountyStatus.tsx has no test file",
       "raw_reward_currency": "USD",
       "raw_reward_amount": 50.0,
       "estimated_hours_to_solve": 2.0,
@@ -323,21 +275,9 @@
       "agent_directive": "LOW YIELD: Secondary priority at $25.00/hr."
     },
     {
-      "issue_url": "https://github.com/xeprotocol/xe/issues/362",
-      "repository": "xeprotocol/xe",
-      "title": "Request: small test XUSD grant for bug bounty testing (testnet-0005)",
-      "raw_reward_currency": "USD",
-      "raw_reward_amount": 50.0,
-      "estimated_hours_to_solve": 2.0,
-      "live_usd_exchange_rate": 1.0,
-      "total_usd_value": 50.0,
-      "roi_usd_per_hour": 25.0,
-      "agent_directive": "LOW YIELD: Secondary priority at $25.00/hr."
-    },
-    {
-      "issue_url": "https://github.com/glunk-works/claude-workbench/issues/1429",
-      "repository": "glunk-works/claude-workbench",
-      "title": "Put bounty-infra on the shared dev-container template",
+      "issue_url": "https://github.com/nomos-spec/spec/issues/33",
+      "repository": "nomos-spec/spec",
+      "title": "Call for implementations: independent SPEC-014 resolver (weekend-sized) \u2014 take Resolution out of Draft",
       "raw_reward_currency": "USD",
       "raw_reward_amount": 50.0,
       "estimated_hours_to_solve": 3.5,
@@ -347,9 +287,9 @@
       "agent_directive": "LOW YIELD: Secondary priority at $14.29/hr."
     },
     {
-      "issue_url": "https://github.com/ProSkillsMD/proskills/issues/10949",
-      "repository": "ProSkillsMD/proskills",
-      "title": "[Candidate] null200ok/null200ok-bug-bounty-skill - null200ok-bughunter",
+      "issue_url": "https://github.com/nomos-spec/spec/issues/32",
+      "repository": "nomos-spec/spec",
+      "title": "Call for implementations: independent SPEC-008 Act verifier \u2014 be the one that takes it out of Draft",
       "raw_reward_currency": "USD",
       "raw_reward_amount": 50.0,
       "estimated_hours_to_solve": 3.5,
@@ -359,9 +299,9 @@
       "agent_directive": "LOW YIELD: Secondary priority at $14.29/hr."
     },
     {
-      "issue_url": "https://github.com/ShobieShy/covenant-of-embers/issues/41",
-      "repository": "ShobieShy/covenant-of-embers",
-      "title": "Wire Vigil, hub toys, a bounty board, mantle, and combat barks",
+      "issue_url": "https://github.com/Stellar-Music/stellar-music-contracts/issues/32",
+      "repository": "Stellar-Music/stellar-music-contracts",
+      "title": "Bug bounty reporting channel unreachable \u2014 both published addresses are undeliverable",
       "raw_reward_currency": "USD",
       "raw_reward_amount": 50.0,
       "estimated_hours_to_solve": 3.5,
@@ -371,9 +311,129 @@
       "agent_directive": "LOW YIELD: Secondary priority at $14.29/hr."
     },
     {
-      "issue_url": "https://github.com/Chihyunpark1/slop-source/issues/5",
-      "repository": "Chihyunpark1/slop-source",
-      "title": "[Research] Security \u2014 bounty program, reporting, access control",
+      "issue_url": "https://github.com/z0r0z/tacit/issues/72",
+      "repository": "z0r0z/tacit",
+      "title": "Design bounty: a new skin for the Tacit dapp (1,700 TAC)",
+      "raw_reward_currency": "USD",
+      "raw_reward_amount": 50.0,
+      "estimated_hours_to_solve": 3.5,
+      "live_usd_exchange_rate": 1.0,
+      "total_usd_value": 50.0,
+      "roi_usd_per_hour": 14.29,
+      "agent_directive": "LOW YIELD: Secondary priority at $14.29/hr."
+    },
+    {
+      "issue_url": "https://github.com/MergeFi/backend/issues/795",
+      "repository": "MergeFi/backend",
+      "title": "The bounty state machine allows MERGED \u2192 REFUNDED, so a completed bounty's funds can be returned to the sponsor",
+      "raw_reward_currency": "USD",
+      "raw_reward_amount": 50.0,
+      "estimated_hours_to_solve": 3.5,
+      "live_usd_exchange_rate": 1.0,
+      "total_usd_value": 50.0,
+      "roi_usd_per_hour": 14.29,
+      "agent_directive": "LOW YIELD: Secondary priority at $14.29/hr."
+    },
+    {
+      "issue_url": "https://github.com/MergeFi/backend/issues/794",
+      "repository": "MergeFi/backend",
+      "title": "BountiesService.expireOverdue marks FUNDED bounties EXPIRED without refunding the escrow, stranding the sponsor's locked funds",
+      "raw_reward_currency": "USD",
+      "raw_reward_amount": 50.0,
+      "estimated_hours_to_solve": 3.5,
+      "live_usd_exchange_rate": 1.0,
+      "total_usd_value": 50.0,
+      "roi_usd_per_hour": 14.29,
+      "agent_directive": "LOW YIELD: Secondary priority at $14.29/hr."
+    },
+    {
+      "issue_url": "https://github.com/MergeFi/backend/issues/787",
+      "repository": "MergeFi/backend",
+      "title": "AnalyticsService.platformSummary sums Bounty.amount instead of actual Payment rows, so totalPaidOut is the gross pledged amount",
+      "raw_reward_currency": "USD",
+      "raw_reward_amount": 50.0,
+      "estimated_hours_to_solve": 3.5,
+      "live_usd_exchange_rate": 1.0,
+      "total_usd_value": 50.0,
+      "roi_usd_per_hour": 14.29,
+      "agent_directive": "LOW YIELD: Secondary priority at $14.29/hr."
+    },
+    {
+      "issue_url": "https://github.com/MergeFi/backend/issues/778",
+      "repository": "MergeFi/backend",
+      "title": "TeamsService.assignToBounty lets any maintainer attach a team to any bounty, redirecting its payout",
+      "raw_reward_currency": "USD",
+      "raw_reward_amount": 50.0,
+      "estimated_hours_to_solve": 3.5,
+      "live_usd_exchange_rate": 1.0,
+      "total_usd_value": 50.0,
+      "roi_usd_per_hour": 14.29,
+      "agent_directive": "LOW YIELD: Secondary priority at $14.29/hr."
+    },
+    {
+      "issue_url": "https://github.com/MergeFi/backend/issues/777",
+      "repository": "MergeFi/backend",
+      "title": "BountiesService.create takes sponsorId from the request body and ignores callerUserId, so a sponsor can create bounties attributed to someone else",
+      "raw_reward_currency": "USD",
+      "raw_reward_amount": 50.0,
+      "estimated_hours_to_solve": 3.5,
+      "live_usd_exchange_rate": 1.0,
+      "total_usd_value": 50.0,
+      "roi_usd_per_hour": 14.29,
+      "agent_directive": "LOW YIELD: Secondary priority at $14.29/hr."
+    },
+    {
+      "issue_url": "https://github.com/MergeFi/backend/issues/763",
+      "repository": "MergeFi/backend",
+      "title": "EscrowService.fund saves the LOCKED escrow and the bounty status in separate transactions, so a crash between them loses the link",
+      "raw_reward_currency": "USD",
+      "raw_reward_amount": 50.0,
+      "estimated_hours_to_solve": 3.5,
+      "live_usd_exchange_rate": 1.0,
+      "total_usd_value": 50.0,
+      "roi_usd_per_hour": 14.29,
+      "agent_directive": "LOW YIELD: Secondary priority at $14.29/hr."
+    },
+    {
+      "issue_url": "https://github.com/MergeFi/frontend/issues/924",
+      "repository": "MergeFi/frontend",
+      "title": "TERMINAL_STATUSES omits release_failed, so the poller keeps polling a bounty whose payout has permanently failed",
+      "raw_reward_currency": "USD",
+      "raw_reward_amount": 50.0,
+      "estimated_hours_to_solve": 3.5,
+      "live_usd_exchange_rate": 1.0,
+      "total_usd_value": 50.0,
+      "roi_usd_per_hour": 14.29,
+      "agent_directive": "LOW YIELD: Secondary priority at $14.29/hr."
+    },
+    {
+      "issue_url": "https://github.com/MergeFi/frontend/issues/912",
+      "repository": "MergeFi/frontend",
+      "title": "src/components/bounty/IssuesFilterForm.tsx has no test file",
+      "raw_reward_currency": "USD",
+      "raw_reward_amount": 50.0,
+      "estimated_hours_to_solve": 3.5,
+      "live_usd_exchange_rate": 1.0,
+      "total_usd_value": 50.0,
+      "roi_usd_per_hour": 14.29,
+      "agent_directive": "LOW YIELD: Secondary priority at $14.29/hr."
+    },
+    {
+      "issue_url": "https://github.com/MergeFi/frontend/issues/898",
+      "repository": "MergeFi/frontend",
+      "title": "bounty-query.ts filters and sorts rewards through a hardcoded XLM\u2192USD rate of 0.12",
+      "raw_reward_currency": "USD",
+      "raw_reward_amount": 50.0,
+      "estimated_hours_to_solve": 3.5,
+      "live_usd_exchange_rate": 1.0,
+      "total_usd_value": 50.0,
+      "roi_usd_per_hour": 14.29,
+      "agent_directive": "LOW YIELD: Secondary priority at $14.29/hr."
+    },
+    {
+      "issue_url": "https://github.com/MergeFi/frontend/issues/899",
+      "repository": "MergeFi/frontend",
+      "title": "STATUS_VALUES omits paid, refunded, expired and unknown, so the board can show those bounties but cannot filter them",
       "raw_reward_currency": "USD",
       "raw_reward_amount": 50.0,
       "estimated_hours_to_solve": 3.5,
@@ -395,9 +455,9 @@
       "agent_directive": "LOW YIELD: Secondary priority at $8.33/hr."
     },
     {
-      "issue_url": "https://github.com/paraloom-labs/paraloom-core/issues/1568",
+      "issue_url": "https://github.com/paraloom-labs/paraloom-core/issues/1580",
       "repository": "paraloom-labs/paraloom-core",
-      "title": "[BOUNTY] Medium: swap_router::route_handler lacks identical in/out asset validation, causing SOL/WSOL alias collision and 502 Bad Gateway",
+      "title": "[BOUNTY] Low: Serial settle-queue head-of-line blocking delays other users' healthy settlements",
       "raw_reward_currency": "USD",
       "raw_reward_amount": 50.0,
       "estimated_hours_to_solve": 6.0,
@@ -407,9 +467,9 @@
       "agent_directive": "LOW YIELD: Secondary priority at $8.33/hr."
     },
     {
-      "issue_url": "https://github.com/paraloom-labs/paraloom-core/issues/1566",
-      "repository": "paraloom-labs/paraloom-core",
-      "title": "[BOUNTY] Medium: JupiterSwapProvider::swap counts pre-existing account balances as swap output, bypassing min_out_amount slippage floor and inflating realized proceeds",
+      "issue_url": "https://github.com/freedom-winds/BountyScout/issues/1407",
+      "repository": "freedom-winds/BountyScout",
+      "title": "\ud83c\udfaf Bounty Alert: 14 New Opportunityies found",
       "raw_reward_currency": "USD",
       "raw_reward_amount": 50.0,
       "estimated_hours_to_solve": 6.0,
@@ -417,54 +477,6 @@
       "total_usd_value": 50.0,
       "roi_usd_per_hour": 8.33,
       "agent_directive": "LOW YIELD: Secondary priority at $8.33/hr."
-    },
-    {
-      "issue_url": "https://github.com/paraspell/xcm-tools/issues/2490",
-      "repository": "paraspell/xcm-tools",
-      "title": "[Bug bounty] PapiXcmTransformer and Dedot XcmTransformer overwrite numeric currency_id with { type: v } due to missing continue, and Centrifuge/Pendulum mint omits useCustomCurrencyId",
-      "raw_reward_currency": "USD",
-      "raw_reward_amount": 50.0,
-      "estimated_hours_to_solve": 6.0,
-      "live_usd_exchange_rate": 1.0,
-      "total_usd_value": 50.0,
-      "roi_usd_per_hour": 8.33,
-      "agent_directive": "LOW YIELD: Secondary priority at $8.33/hr."
-    },
-    {
-      "issue_url": "https://github.com/paraspell/xcm-tools/issues/2489",
-      "repository": "paraspell/xcm-tools",
-      "title": "[Bug bounty] getTransferableAmount and amount: 'ALL' drop destination in asset lookup and origin fee resolution, throwing DuplicateAssetError on Ethereum routes and miscomputing origin fees",
-      "raw_reward_currency": "USD",
-      "raw_reward_amount": 50.0,
-      "estimated_hours_to_solve": 6.0,
-      "live_usd_exchange_rate": 1.0,
-      "total_usd_value": 50.0,
-      "roi_usd_per_hour": 8.33,
-      "agent_directive": "LOW YIELD: Secondary priority at $8.33/hr."
-    },
-    {
-      "issue_url": "https://github.com/xeprotocol/xe/issues/359",
-      "repository": "xeprotocol/xe",
-      "title": "[Bug Bounty] PoW Infinite Loop DoS Vulnerability",
-      "raw_reward_currency": "USD",
-      "raw_reward_amount": 50.0,
-      "estimated_hours_to_solve": 6.0,
-      "live_usd_exchange_rate": 1.0,
-      "total_usd_value": 50.0,
-      "roi_usd_per_hour": 8.33,
-      "agent_directive": "LOW YIELD: Secondary priority at $8.33/hr."
-    },
-    {
-      "issue_url": "https://github.com/PinkBoxTerminal/agent-bounty-experiment/issues/1",
-      "repository": "PinkBoxTerminal/agent-bounty-experiment",
-      "title": "AI Agent Bounty \u2014 0.001 Arbitrum Sepolia test ETH or propose your own terms",
-      "raw_reward_currency": "ETH",
-      "raw_reward_amount": 0.001,
-      "estimated_hours_to_solve": 3.5,
-      "live_usd_exchange_rate": 2077.32,
-      "total_usd_value": 2.08,
-      "roi_usd_per_hour": 0.59,
-      "agent_directive": "LOW YIELD: Secondary priority at $0.59/hr."
     },
     {
       "issue_url": "https://github.com/auscaster/frantic-board/issues/589",
