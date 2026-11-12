@@ -2,41 +2,41 @@
 > Live cross-referencing of open GitHub bounties and live cryptocurrency markets to calculate maximum USD/Hour ROI.
 
 ## Top High-Yield Targets
-### IES-BoilerRoom/ed25519-ct-limb-verifier: [Escrowed $600 USDC] Reject non-canonical S >= L scalar encodings without variable-time branches (`ed25519-ct-limb-verifier`)
+### relayhop/sn-monetization-runtime: [radar] SN open bounty 2026-11-12T18:10
+- **Reward:** 1613251.0 BITCOIN (USD Value: **$115,378,098,269.00**)
+- **Agent ROI:** **$57,689,049,134.50/hr** (Est. 2.0 hrs)
+- **Directive:** `EXECUTE: High-yield target at $57689049134.50/hr. Prioritize PR submission.`
+- **Target URL:** [Claim Bounty](https://github.com/relayhop/sn-monetization-runtime/issues/1372)
+
+### relayhop/sn-monetization-runtime: [radar] SN open bounty 2026-11-12T16:18
+- **Reward:** 1613251.0 BITCOIN (USD Value: **$115,378,098,269.00**)
+- **Agent ROI:** **$57,689,049,134.50/hr** (Est. 2.0 hrs)
+- **Directive:** `EXECUTE: High-yield target at $57689049134.50/hr. Prioritize PR submission.`
+- **Target URL:** [Claim Bounty](https://github.com/relayhop/sn-monetization-runtime/issues/1371)
+
+### IES-BoilerRoom/rfc9421-http-signature-gateway: [Escrowed $600 USDC] Reconcile structured-field dictionary serialization across proxy hops (`rfc9421-http-signature-gateway`)
 - **Reward:** 600.0 USD (USD Value: **$600.00**)
 - **Agent ROI:** **$300.00/hr** (Est. 2.0 hrs)
 - **Directive:** `EXECUTE: High-yield target at $300.00/hr. Prioritize PR submission.`
-- **Target URL:** [Claim Bounty](https://github.com/IES-BoilerRoom/ed25519-ct-limb-verifier/issues/2)
+- **Target URL:** [Claim Bounty](https://github.com/IES-BoilerRoom/rfc9421-http-signature-gateway/issues/2)
 
-### IES-BoilerRoom/wasm-component-canonical-abi: [Escrowed $600 USDC] Verify zero-reallocation UTF-8 frame lifting under deterministic fuel metering (`wasm-component-canonical-abi`)
+### IES-BoilerRoom/bgp-med-oscillation-verifier: [Escrowed $600 USDC] Eliminate persistent route-reflector MED cycle across confederation peers (`bgp-med-oscillation-verifier`)
 - **Reward:** 600.0 USD (USD Value: **$600.00**)
 - **Agent ROI:** **$300.00/hr** (Est. 2.0 hrs)
 - **Directive:** `EXECUTE: High-yield target at $300.00/hr. Prioritize PR submission.`
-- **Target URL:** [Claim Bounty](https://github.com/IES-BoilerRoom/wasm-component-canonical-abi/issues/2)
+- **Target URL:** [Claim Bounty](https://github.com/IES-BoilerRoom/bgp-med-oscillation-verifier/issues/2)
 
-### Rohank143/BountyScout: 🎯 Bounty Alert: 20 New Opportunityies found
-- **Reward:** 1600.0 USD (USD Value: **$1,600.00**)
-- **Agent ROI:** **$266.67/hr** (Est. 6.0 hrs)
-- **Directive:** `EXECUTE: High-yield target at $266.67/hr. Prioritize PR submission.`
-- **Target URL:** [Claim Bounty](https://github.com/Rohank143/BountyScout/issues/96)
-
-### dev-kp-eloper/BountyScout: 🎯 Bounty Alert: 22 New Opportunityies found
-- **Reward:** 1600.0 USD (USD Value: **$1,600.00**)
-- **Agent ROI:** **$266.67/hr** (Est. 6.0 hrs)
-- **Directive:** `EXECUTE: High-yield target at $266.67/hr. Prioritize PR submission.`
-- **Target URL:** [Claim Bounty](https://github.com/dev-kp-eloper/BountyScout/issues/1754)
-
-### IES-BoilerRoom/ed25519-ct-limb-verifier: [Escrowed $450 USDC] Fix wire-frame ceiling off-by-one and align constant-time radix-51 carry mask (`unpack_scalar_wire_frames`)
+### IES-BoilerRoom/rfc9421-http-signature-gateway: [Escrowed $450 USDC] Fix signature-base line wrapping ceiling and align `@signature-params` witness (`canonicalize_http_sig_frames`)
 - **Reward:** 450.0 USD (USD Value: **$450.00**)
 - **Agent ROI:** **$225.00/hr** (Est. 2.0 hrs)
 - **Directive:** `EXECUTE: High-yield target at $225.00/hr. Prioritize PR submission.`
-- **Target URL:** [Claim Bounty](https://github.com/IES-BoilerRoom/ed25519-ct-limb-verifier/issues/1)
+- **Target URL:** [Claim Bounty](https://github.com/IES-BoilerRoom/rfc9421-http-signature-gateway/issues/1)
 
-### IES-BoilerRoom/wasm-component-canonical-abi: [Escrowed $450 USDC] Fix canonical string frame ceiling and align deterministic instruction gas polynomial (`lift_canonical_string_frames`)
+### IES-BoilerRoom/bgp-med-oscillation-verifier: [Escrowed $450 USDC] Fix BGP attribute chunk boundary and resolve 4-AS preference matrix trace invariant (`normalize_bgp_update_frames`)
 - **Reward:** 450.0 USD (USD Value: **$450.00**)
 - **Agent ROI:** **$225.00/hr** (Est. 2.0 hrs)
 - **Directive:** `EXECUTE: High-yield target at $225.00/hr. Prioritize PR submission.`
-- **Target URL:** [Claim Bounty](https://github.com/IES-BoilerRoom/wasm-component-canonical-abi/issues/1)
+- **Target URL:** [Claim Bounty](https://github.com/IES-BoilerRoom/bgp-med-oscillation-verifier/issues/1)
 
 ### zhangjiayang6835-cyber/bounty-plaza: [Bounty] [Escrowed $600 USDC] Verify zero-reallocation UTF-8 frame lifting under determin
 - **Reward:** 600.0 USD (USD Value: **$600.00**)
@@ -74,12 +74,6 @@
 - **Directive:** `EXECUTE: High-yield target at $120.00/hr. Prioritize PR submission.`
 - **Target URL:** [Claim Bounty](https://github.com/theselfish/SlopStation13/issues/40)
 
-### paraloom-labs/paraloom-core: [BOUNTY] Low: fetchPrices leaks the user's shielded-holdings mint set to Jupiter on every wallet open
-- **Reward:** 4.0 SOL (USD Value: **$331.40**)
-- **Agent ROI:** **$55.23/hr** (Est. 6.0 hrs)
-- **Directive:** `STANDARD: Profitable target at $55.23/hr. Queue for execution.`
-- **Target URL:** [Claim Bounty](https://github.com/paraloom-labs/paraloom-core/issues/1577)
-
 ### zhangjiayang6835-cyber/bounty-plaza: [Bounty] 🪙 Bounty: Improve project documentation
 - **Reward:** 100.0 USD (USD Value: **$100.00**)
 - **Agent ROI:** **$50.00/hr** (Est. 2.0 hrs)
@@ -92,47 +86,29 @@
 - **Directive:** `STANDARD: Profitable target at $50.00/hr. Queue for execution.`
 - **Target URL:** [Claim Bounty](https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4303)
 
-### zhangjiayang6835-cyber/bounty-plaza: [Bounty] 🪙 Bounty: Improve project documentation
-- **Reward:** 100.0 USD (USD Value: **$100.00**)
-- **Agent ROI:** **$50.00/hr** (Est. 2.0 hrs)
-- **Directive:** `STANDARD: Profitable target at $50.00/hr. Queue for execution.`
-- **Target URL:** [Claim Bounty](https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4302)
-
-### zhangjiayang6835-cyber/bounty-plaza: [Bounty] 🪙 Bounty: Improve project documentation
-- **Reward:** 100.0 USD (USD Value: **$100.00**)
-- **Agent ROI:** **$50.00/hr** (Est. 2.0 hrs)
-- **Directive:** `STANDARD: Profitable target at $50.00/hr. Queue for execution.`
-- **Target URL:** [Claim Bounty](https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4301)
-
-### zhangjiayang6835-cyber/bounty-plaza: [Bounty] 🪙 Bounty: Improve project documentation
-- **Reward:** 100.0 USD (USD Value: **$100.00**)
-- **Agent ROI:** **$50.00/hr** (Est. 2.0 hrs)
-- **Directive:** `STANDARD: Profitable target at $50.00/hr. Queue for execution.`
-- **Target URL:** [Claim Bounty](https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4300)
-
-### zhangjiayang6835-cyber/bounty-plaza: [Bounty] 🪙 Bounty: Improve project documentation
-- **Reward:** 100.0 USD (USD Value: **$100.00**)
-- **Agent ROI:** **$50.00/hr** (Est. 2.0 hrs)
-- **Directive:** `STANDARD: Profitable target at $50.00/hr. Queue for execution.`
-- **Target URL:** [Claim Bounty](https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4299)
-
-### anthropics/claude-code: [Bug] Legitimate bug bounty security question incorrectly flagged by safety filter
+### RSPSApp/tsps: [Bug]: bounty hunter - prices for rewards shop are not correct
 - **Reward:** 50.0 USD (USD Value: **$50.00**)
 - **Agent ROI:** **$25.00/hr** (Est. 2.0 hrs)
 - **Directive:** `LOW YIELD: Secondary priority at $25.00/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/anthropics/claude-code/issues/109174)
+- **Target URL:** [Claim Bounty](https://github.com/RSPSApp/tsps/issues/4757)
 
-### Stellar-Music/stellar-music-contracts: Working security contact for a bug bounty report?
+### Muhammad997/ms: https://make.fun/bounty/btc-race
 - **Reward:** 50.0 USD (USD Value: **$50.00**)
 - **Agent ROI:** **$25.00/hr** (Est. 2.0 hrs)
 - **Directive:** `LOW YIELD: Secondary priority at $25.00/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/Stellar-Music/stellar-music-contracts/issues/30)
+- **Target URL:** [Claim Bounty](https://github.com/Muhammad997/ms/issues/1)
 
-### MergeFi/frontend: src/components/bounty/LiveBountyStatus.tsx has no test file
+### CynthiaTaylorEPAM/CozyBookstore: 23. Public bounty notices
 - **Reward:** 50.0 USD (USD Value: **$50.00**)
 - **Agent ROI:** **$25.00/hr** (Est. 2.0 hrs)
 - **Directive:** `LOW YIELD: Secondary priority at $25.00/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/MergeFi/frontend/issues/914)
+- **Target URL:** [Claim Bounty](https://github.com/CynthiaTaylorEPAM/CozyBookstore/issues/30)
+
+### CynthiaTaylorEPAM/CozyBookstore: 7. Bounty board (RESERVED for the leadership session)
+- **Reward:** 50.0 USD (USD Value: **$50.00**)
+- **Agent ROI:** **$25.00/hr** (Est. 2.0 hrs)
+- **Directive:** `LOW YIELD: Secondary priority at $25.00/hr.`
+- **Target URL:** [Claim Bounty](https://github.com/CynthiaTaylorEPAM/CozyBookstore/issues/14)
 
 ### nomos-spec/spec: Call for implementations: independent SPEC-014 resolver (weekend-sized) — take Resolution out of Draft
 - **Reward:** 50.0 USD (USD Value: **$50.00**)
@@ -146,8 +122,32 @@
 - **Directive:** `LOW YIELD: Secondary priority at $14.29/hr.`
 - **Target URL:** [Claim Bounty](https://github.com/nomos-spec/spec/issues/32)
 
-### Stellar-Music/stellar-music-contracts: Bug bounty reporting channel unreachable — both published addresses are undeliverable
+### Howluma/Outlaw: Implement bounty, sheriff, perk, ability, recipe, and TNT updates
 - **Reward:** 50.0 USD (USD Value: **$50.00**)
 - **Agent ROI:** **$14.29/hr** (Est. 3.5 hrs)
 - **Directive:** `LOW YIELD: Secondary priority at $14.29/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/Stellar-Music/stellar-music-contracts/issues/32)
+- **Target URL:** [Claim Bounty](https://github.com/Howluma/Outlaw/issues/1)
+
+### jackdishman/blockula: Example: a bounty board, a repo's open Hunts as a Markdown table
+- **Reward:** 50.0 USD (USD Value: **$50.00**)
+- **Agent ROI:** **$14.29/hr** (Est. 3.5 hrs)
+- **Directive:** `LOW YIELD: Secondary priority at $14.29/hr.`
+- **Target URL:** [Claim Bounty](https://github.com/jackdishman/blockula/issues/161)
+
+### stellar-crucible/soroban-testkit: Implement Decentralized Bounty and Task Escrow worked example with multi-signature release
+- **Reward:** 50.0 USD (USD Value: **$50.00**)
+- **Agent ROI:** **$14.29/hr** (Est. 3.5 hrs)
+- **Directive:** `LOW YIELD: Secondary priority at $14.29/hr.`
+- **Target URL:** [Claim Bounty](https://github.com/stellar-crucible/soroban-testkit/issues/175)
+
+### shoraLBRT/dota-lore-map: E14 · Партия 11/13: Wraith King, Zeus, Anti-Mage, Bounty Hunter, Clinkz, Dazzle, Hoodwink, Keeper of the Light, Kez, Legion Commander
+- **Reward:** 50.0 USD (USD Value: **$50.00**)
+- **Agent ROI:** **$14.29/hr** (Est. 3.5 hrs)
+- **Directive:** `LOW YIELD: Secondary priority at $14.29/hr.`
+- **Target URL:** [Claim Bounty](https://github.com/shoraLBRT/dota-lore-map/issues/56)
+
+### Rohank143/BountyScout: 🎯 Bounty Alert: 5 New Opportunityies found
+- **Reward:** 50.0 USD (USD Value: **$50.00**)
+- **Agent ROI:** **$14.29/hr** (Est. 3.5 hrs)
+- **Directive:** `LOW YIELD: Secondary priority at $14.29/hr.`
+- **Target URL:** [Claim Bounty](https://github.com/Rohank143/BountyScout/issues/98)
