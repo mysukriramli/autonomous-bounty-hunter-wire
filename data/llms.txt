@@ -3,40 +3,40 @@
 
 ## Top High-Yield Targets
 ### relayhop/sn-monetization-runtime: [radar] SN open bounty 2026-11-13T02:49
-- **Reward:** 1613251.0 BITCOIN (USD Value: **$111,643,422,204.00**)
-- **Agent ROI:** **$55,821,711,102.00/hr** (Est. 2.0 hrs)
-- **Directive:** `EXECUTE: High-yield target at $55821711102.00/hr. Prioritize PR submission.`
+- **Reward:** 1613251.0 BITCOIN (USD Value: **$111,374,009,287.00**)
+- **Agent ROI:** **$55,687,004,643.50/hr** (Est. 2.0 hrs)
+- **Directive:** `EXECUTE: High-yield target at $55687004643.50/hr. Prioritize PR submission.`
 - **Target URL:** [Claim Bounty](https://github.com/relayhop/sn-monetization-runtime/issues/1375)
 
 ### relayhop/sn-monetization-runtime: [radar] SN open bounty 2026-11-13T00:10
-- **Reward:** 1613251.0 BITCOIN (USD Value: **$111,643,422,204.00**)
-- **Agent ROI:** **$55,821,711,102.00/hr** (Est. 2.0 hrs)
-- **Directive:** `EXECUTE: High-yield target at $55821711102.00/hr. Prioritize PR submission.`
+- **Reward:** 1613251.0 BITCOIN (USD Value: **$111,374,009,287.00**)
+- **Agent ROI:** **$55,687,004,643.50/hr** (Est. 2.0 hrs)
+- **Directive:** `EXECUTE: High-yield target at $55687004643.50/hr. Prioritize PR submission.`
 - **Target URL:** [Claim Bounty](https://github.com/relayhop/sn-monetization-runtime/issues/1374)
 
 ### relayhop/sn-monetization-runtime: [radar] SN open bounty 2026-11-12T22:24
-- **Reward:** 1613251.0 BITCOIN (USD Value: **$111,643,422,204.00**)
-- **Agent ROI:** **$55,821,711,102.00/hr** (Est. 2.0 hrs)
-- **Directive:** `EXECUTE: High-yield target at $55821711102.00/hr. Prioritize PR submission.`
+- **Reward:** 1613251.0 BITCOIN (USD Value: **$111,374,009,287.00**)
+- **Agent ROI:** **$55,687,004,643.50/hr** (Est. 2.0 hrs)
+- **Directive:** `EXECUTE: High-yield target at $55687004643.50/hr. Prioritize PR submission.`
 - **Target URL:** [Claim Bounty](https://github.com/relayhop/sn-monetization-runtime/issues/1373)
 
 ### relayhop/sn-monetization-runtime: [radar] SN open bounty 2026-11-12T18:10
-- **Reward:** 1613251.0 BITCOIN (USD Value: **$111,643,422,204.00**)
-- **Agent ROI:** **$55,821,711,102.00/hr** (Est. 2.0 hrs)
-- **Directive:** `EXECUTE: High-yield target at $55821711102.00/hr. Prioritize PR submission.`
+- **Reward:** 1613251.0 BITCOIN (USD Value: **$111,374,009,287.00**)
+- **Agent ROI:** **$55,687,004,643.50/hr** (Est. 2.0 hrs)
+- **Directive:** `EXECUTE: High-yield target at $55687004643.50/hr. Prioritize PR submission.`
 - **Target URL:** [Claim Bounty](https://github.com/relayhop/sn-monetization-runtime/issues/1372)
 
 ### relayhop/sn-monetization-runtime: [radar] SN open bounty 2026-11-12T16:18
-- **Reward:** 1613251.0 BITCOIN (USD Value: **$111,643,422,204.00**)
-- **Agent ROI:** **$55,821,711,102.00/hr** (Est. 2.0 hrs)
-- **Directive:** `EXECUTE: High-yield target at $55821711102.00/hr. Prioritize PR submission.`
+- **Reward:** 1613251.0 BITCOIN (USD Value: **$111,374,009,287.00**)
+- **Agent ROI:** **$55,687,004,643.50/hr** (Est. 2.0 hrs)
+- **Directive:** `EXECUTE: High-yield target at $55687004643.50/hr. Prioritize PR submission.`
 - **Target URL:** [Claim Bounty](https://github.com/relayhop/sn-monetization-runtime/issues/1371)
 
-### relayhop/ClaudeEarnSelf-runtime: [radar] SN open bounty 2026-11-13T01:50
-- **Reward:** 1613251.0 BITCOIN (USD Value: **$111,643,422,204.00**)
-- **Agent ROI:** **$55,821,711,102.00/hr** (Est. 2.0 hrs)
-- **Directive:** `EXECUTE: High-yield target at $55821711102.00/hr. Prioritize PR submission.`
-- **Target URL:** [Claim Bounty](https://github.com/relayhop/ClaudeEarnSelf-runtime/issues/1227)
+### relayhop/sn-monetization-runtime: [radar] SN open bounty 2026-11-13T14:28
+- **Reward:** 2026.0 USD (USD Value: **$2,026.00**)
+- **Agent ROI:** **$1,013.00/hr** (Est. 2.0 hrs)
+- **Directive:** `EXECUTE: High-yield target at $1013.00/hr. Prioritize PR submission.`
+- **Target URL:** [Claim Bounty](https://github.com/relayhop/sn-monetization-runtime/issues/1376)
 
 ### zhangjiayang6835-cyber/bounty-plaza: [Bounty] [Bounty $2,000] Restore OpenVLA execution and action correctness
 - **Reward:** 2000.0 USD (USD Value: **$2,000.00**)
@@ -49,12 +49,6 @@
 - **Agent ROI:** **$333.33/hr** (Est. 6.0 hrs)
 - **Directive:** `EXECUTE: High-yield target at $333.33/hr. Prioritize PR submission.`
 - **Target URL:** [Claim Bounty](https://github.com/Rohank143/BountyScout/issues/100)
-
-### dev-kp-eloper/BountyScout: 🎯 Bounty Alert: 17 New Opportunityies found
-- **Reward:** 2000.0 USD (USD Value: **$2,000.00**)
-- **Agent ROI:** **$333.33/hr** (Est. 6.0 hrs)
-- **Directive:** `EXECUTE: High-yield target at $333.33/hr. Prioritize PR submission.`
-- **Target URL:** [Claim Bounty](https://github.com/dev-kp-eloper/BountyScout/issues/1758)
 
 ### IES-BoilerRoom/rfc9421-http-signature-gateway: [Escrowed $600 USDC] Reconcile structured-field dictionary serialization across proxy hops (`rfc9421-http-signature-gateway`)
 - **Reward:** 600.0 USD (USD Value: **$600.00**)
@@ -104,50 +98,56 @@
 - **Directive:** `EXECUTE: High-yield target at $128.57/hr. Prioritize PR submission.`
 - **Target URL:** [Claim Bounty](https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4316)
 
-### freedom-winds/BountyScout: 🎯 Bounty Alert: 14 New Opportunityies found
-- **Reward:** 600.0 USD (USD Value: **$600.00**)
-- **Agent ROI:** **$100.00/hr** (Est. 6.0 hrs)
-- **Directive:** `EXECUTE: High-yield target at $100.00/hr. Prioritize PR submission.`
-- **Target URL:** [Claim Bounty](https://github.com/freedom-winds/BountyScout/issues/1410)
+### tenstorrent/tt-metal: [Bounty Proposal] Fix missing output_mem_config propagation and unpinned intermediate allocations in ttnn.binary_backward
+- **Reward:** 750.0 USD (USD Value: **$750.00**)
+- **Agent ROI:** **$125.00/hr** (Est. 6.0 hrs)
+- **Directive:** `EXECUTE: High-yield target at $125.00/hr. Prioritize PR submission.`
+- **Target URL:** [Claim Bounty](https://github.com/tenstorrent/tt-metal/issues/65472)
 
-### cline/mcp-marketplace: Submission: widespread — verified-work bounty markets
+### dev-kp-eloper/BountyScout: 🎯 Bounty Alert: 12 New Opportunityies found
+- **Reward:** 420.0 USD (USD Value: **$420.00**)
+- **Agent ROI:** **$70.00/hr** (Est. 6.0 hrs)
+- **Directive:** `STANDARD: Profitable target at $70.00/hr. Queue for execution.`
+- **Target URL:** [Claim Bounty](https://github.com/dev-kp-eloper/BountyScout/issues/1759)
+
+### Aur-Dev-re/veille-jeux-retro: eBay France : Jeu vidéo - King's Bounty II - Collector Edition - A renseigner - Playstation 4
 - **Reward:** 50.0 USD (USD Value: **$50.00**)
 - **Agent ROI:** **$25.00/hr** (Est. 2.0 hrs)
 - **Directive:** `LOW YIELD: Secondary priority at $25.00/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/cline/mcp-marketplace/issues/3757)
+- **Target URL:** [Claim Bounty](https://github.com/Aur-Dev-re/veille-jeux-retro/issues/110603)
 
-### DKoelzer01/RaylibGame: NPC settlements, traders, quest boards and bounties
+### germanalvarez15/nfsmw-vita: Map image in Milestone Event and Bounty
 - **Reward:** 50.0 USD (USD Value: **$50.00**)
 - **Agent ROI:** **$25.00/hr** (Est. 2.0 hrs)
 - **Directive:** `LOW YIELD: Secondary priority at $25.00/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/DKoelzer01/RaylibGame/issues/171)
+- **Target URL:** [Claim Bounty](https://github.com/germanalvarez15/nfsmw-vita/issues/154)
 
-### glunk-works/bounty-infra: triage the non-blocking findings from the review of glunk-works/bounty-infra#201 at 461762a599e6
+### devlux76/vortex: v7 6.03: conformance suite, part 3 (topics, bounties, announce)
+- **Reward:** 50.0 USD (USD Value: **$50.00**)
+- **Agent ROI:** **$25.00/hr** (Est. 2.0 hrs)
+- **Directive:** `LOW YIELD: Secondary priority at $25.00/hr.`
+- **Target URL:** [Claim Bounty](https://github.com/devlux76/vortex/issues/92)
+
+### devlux76/vortex: v7 2.03: problem bounties (post, find, answer, award)
+- **Reward:** 50.0 USD (USD Value: **$50.00**)
+- **Agent ROI:** **$25.00/hr** (Est. 2.0 hrs)
+- **Directive:** `LOW YIELD: Secondary priority at $25.00/hr.`
+- **Target URL:** [Claim Bounty](https://github.com/devlux76/vortex/issues/85)
+
+### devlux76/vortex: v7 1.09: bounty, claim and award records at the hub
+- **Reward:** 50.0 USD (USD Value: **$50.00**)
+- **Agent ROI:** **$25.00/hr** (Est. 2.0 hrs)
+- **Directive:** `LOW YIELD: Secondary priority at $25.00/hr.`
+- **Target URL:** [Claim Bounty](https://github.com/devlux76/vortex/issues/75)
+
+### solorion-dev/quantum: [task] Quantum Finance — live rename pass (bounty text + bank app UI) (TRK-0687)
+- **Reward:** 50.0 USD (USD Value: **$50.00**)
+- **Agent ROI:** **$25.00/hr** (Est. 2.0 hrs)
+- **Directive:** `LOW YIELD: Secondary priority at $25.00/hr.`
+- **Target URL:** [Claim Bounty](https://github.com/solorion-dev/quantum/issues/369)
+
+### jneb802/MoreWorldLocations_All: Replace automatic bounty placement with authored Unity markers
 - **Reward:** 50.0 USD (USD Value: **$50.00**)
 - **Agent ROI:** **$14.29/hr** (Est. 3.5 hrs)
 - **Directive:** `LOW YIELD: Secondary priority at $14.29/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/glunk-works/bounty-infra/issues/204)
-
-### glunk-works/bounty-infra: triage the non-blocking findings from the review of glunk-works/bounty-infra#202 at 9e54011ce424
-- **Reward:** 50.0 USD (USD Value: **$50.00**)
-- **Agent ROI:** **$14.29/hr** (Est. 3.5 hrs)
-- **Directive:** `LOW YIELD: Secondary priority at $14.29/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/glunk-works/bounty-infra/issues/203)
-
-### anthropics/claude-code: [Bug] API Error: safeguards flagged session with [cyber] block on authorized bug bounty work
-- **Reward:** 50.0 USD (USD Value: **$50.00**)
-- **Agent ROI:** **$14.29/hr** (Est. 3.5 hrs)
-- **Directive:** `LOW YIELD: Secondary priority at $14.29/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/anthropics/claude-code/issues/109460)
-
-### trade-marketplace/main: Align #239 bounty-ping predicate with the existing estimate eligibility contract
-- **Reward:** 50.0 USD (USD Value: **$50.00**)
-- **Agent ROI:** **$14.29/hr** (Est. 3.5 hrs)
-- **Directive:** `LOW YIELD: Secondary priority at $14.29/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/trade-marketplace/main/issues/593)
-
-### Ikalus1988/MisakaNet: [Bounty][$0][i18n] 多语言 README：新增 한국어 / Español / Français / Deutsch / Português(BR) / Русский（一门语言一个 PR）
-- **Reward:** 50.0 USD (USD Value: **$50.00**)
-- **Agent ROI:** **$8.33/hr** (Est. 6.0 hrs)
-- **Directive:** `LOW YIELD: Secondary priority at $8.33/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/Ikalus1988/MisakaNet/issues/4751)
+- **Target URL:** [Claim Bounty](https://github.com/jneb802/MoreWorldLocations_All/issues/158)
