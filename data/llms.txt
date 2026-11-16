@@ -2,152 +2,152 @@
 > Live cross-referencing of open GitHub bounties and live cryptocurrency markets to calculate maximum USD/Hour ROI.
 
 ## Top High-Yield Targets
-### relayhop/sn-monetization-runtime: [radar] SN open bounty 2026-11-15T16:59
+### relayhop/sn-monetization-runtime: [radar] SN open bounty 2026-11-16T01:53
 - **Reward:** 2026.0 USD (USD Value: **$2,026.00**)
 - **Agent ROI:** **$1,013.00/hr** (Est. 2.0 hrs)
 - **Directive:** `EXECUTE: High-yield target at $1013.00/hr. Prioritize PR submission.`
-- **Target URL:** [Claim Bounty](https://github.com/relayhop/sn-monetization-runtime/issues/1385)
+- **Target URL:** [Claim Bounty](https://github.com/relayhop/sn-monetization-runtime/issues/1389)
 
-### relayhop/sn-monetization-runtime: [radar] SN open bounty 2026-11-15T13:51
-- **Reward:** 2026.0 USD (USD Value: **$2,026.00**)
-- **Agent ROI:** **$1,013.00/hr** (Est. 2.0 hrs)
-- **Directive:** `EXECUTE: High-yield target at $1013.00/hr. Prioritize PR submission.`
-- **Target URL:** [Claim Bounty](https://github.com/relayhop/sn-monetization-runtime/issues/1383)
-
-### bad-antics/lateralus-lang: [bounty] package-registry-mvp
-- **Reward:** 400.0 USD (USD Value: **$400.00**)
-- **Agent ROI:** **$200.00/hr** (Est. 2.0 hrs)
-- **Directive:** `EXECUTE: High-yield target at $200.00/hr. Prioritize PR submission.`
-- **Target URL:** [Claim Bounty](https://github.com/bad-antics/lateralus-lang/issues/69)
-
-### bad-antics/lateralus-lang: [bounty] wasm-playground-live
-- **Reward:** 300.0 USD (USD Value: **$300.00**)
-- **Agent ROI:** **$150.00/hr** (Est. 2.0 hrs)
-- **Directive:** `EXECUTE: High-yield target at $150.00/hr. Prioritize PR submission.`
-- **Target URL:** [Claim Bounty](https://github.com/bad-antics/lateralus-lang/issues/86)
-
-### bad-antics/lateralus-lang: [bounty] lsp-hover-signatures
-- **Reward:** 300.0 USD (USD Value: **$300.00**)
-- **Agent ROI:** **$150.00/hr** (Est. 2.0 hrs)
-- **Directive:** `EXECUTE: High-yield target at $150.00/hr. Prioritize PR submission.`
-- **Target URL:** [Claim Bounty](https://github.com/bad-antics/lateralus-lang/issues/84)
-
-### bad-antics/lateralus-lang: [bounty] rosetta-20 — 23 tasks, PR ready
+### zhangjiayang6835-cyber/bounty-plaza: [Bounty] Bounty $150: capture adapter for Front
 - **Reward:** 150.0 USD (USD Value: **$150.00**)
 - **Agent ROI:** **$42.86/hr** (Est. 3.5 hrs)
 - **Directive:** `STANDARD: Profitable target at $42.86/hr. Queue for execution.`
-- **Target URL:** [Claim Bounty](https://github.com/bad-antics/lateralus-lang/issues/81)
+- **Target URL:** [Claim Bounty](https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4358)
 
-### VlcekM/MeitouClient: Feedback: Bounty Don't show while hovering on name
-- **Reward:** 50.0 USD (USD Value: **$50.00**)
-- **Agent ROI:** **$25.00/hr** (Est. 2.0 hrs)
-- **Directive:** `LOW YIELD: Secondary priority at $25.00/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/VlcekM/MeitouClient/issues/769)
+### zhangjiayang6835-cyber/bounty-plaza: [Bounty] Bounty $100: capture adapter for Intercom
+- **Reward:** 100.0 USD (USD Value: **$100.00**)
+- **Agent ROI:** **$28.57/hr** (Est. 3.5 hrs)
+- **Directive:** `LOW YIELD: Secondary priority at $28.57/hr.`
+- **Target URL:** [Claim Bounty](https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4357)
 
-### shin2344234/bounty-teleportation: Map teleport while carrying a bounty gets stuck in an endless loading screen
-- **Reward:** 50.0 USD (USD Value: **$50.00**)
-- **Agent ROI:** **$25.00/hr** (Est. 2.0 hrs)
-- **Directive:** `LOW YIELD: Secondary priority at $25.00/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/shin2344234/bounty-teleportation/issues/36)
+### zhangjiayang6835-cyber/bounty-plaza: [Bounty] Bounty $100: capture adapter for Gorgias
+- **Reward:** 100.0 USD (USD Value: **$100.00**)
+- **Agent ROI:** **$28.57/hr** (Est. 3.5 hrs)
+- **Directive:** `LOW YIELD: Secondary priority at $28.57/hr.`
+- **Target URL:** [Claim Bounty](https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4356)
 
-### vandelay87/pile-up: Mining replaces bounty
-- **Reward:** 50.0 USD (USD Value: **$50.00**)
-- **Agent ROI:** **$14.29/hr** (Est. 3.5 hrs)
-- **Directive:** `LOW YIELD: Secondary priority at $14.29/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/vandelay87/pile-up/issues/294)
-
-### bendlang/bend: Bounty submission: `--verdict` prints ALL PROOFS CHECK for a file with a definition of type `Empty` (2.0.32)
+### hanzoai/cloud: Full sovereignty and network exit test
 - **Reward:** 50.0 USD (USD Value: **$50.00**)
 - **Agent ROI:** **$14.29/hr** (Est. 3.5 hrs)
 - **Directive:** `LOW YIELD: Secondary priority at $14.29/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/bendlang/bend/issues/2168)
+- **Target URL:** [Claim Bounty](https://github.com/hanzoai/cloud/issues/20)
 
-### tscircuit/tscircuit-autorouter: Question: tscircuit/autorouting is archived - is the #92 bounty still claimable?
+### hanzoai/cloud: Open protocol governance, treasury and forkability
 - **Reward:** 50.0 USD (USD Value: **$50.00**)
 - **Agent ROI:** **$14.29/hr** (Est. 3.5 hrs)
 - **Directive:** `LOW YIELD: Secondary priority at $14.29/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/tscircuit/tscircuit-autorouter/issues/3824)
+- **Target URL:** [Claim Bounty](https://github.com/hanzoai/cloud/issues/19)
 
-### nmc192-ux/agentx-sdk: OpenAPI and public docs still list routes that 404: /stats/economy, /markets/bounties/showcase, /docs, /contracts
+### hanzoai/cloud: On-chain agent identity, reputation and delegated wallets (ERC-8004)
 - **Reward:** 50.0 USD (USD Value: **$50.00**)
 - **Agent ROI:** **$14.29/hr** (Est. 3.5 hrs)
 - **Directive:** `LOW YIELD: Secondary priority at $14.29/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/nmc192-ux/agentx-sdk/issues/9)
+- **Target URL:** [Claim Bounty](https://github.com/hanzoai/cloud/issues/18)
 
-### alfrexo95/bounty-bot: 🪙 [Web3] [$25 USDC Bounty] Chain-Feed Control-Plane Mismatc
-- **Reward:** 25.0 USD (USD Value: **$25.00**)
-- **Agent ROI:** **$12.50/hr** (Est. 2.0 hrs)
-- **Directive:** `LOW YIELD: Secondary priority at $12.50/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/alfrexo95/bounty-bot/issues/87)
-
-### alfrexo95/bounty-bot: 🪙 [Web3] [$25 USDC Bounty] Chain-Feed Control-Plane Mismatc
-- **Reward:** 25.0 USD (USD Value: **$25.00**)
-- **Agent ROI:** **$12.50/hr** (Est. 2.0 hrs)
-- **Directive:** `LOW YIELD: Secondary priority at $12.50/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/alfrexo95/bounty-bot/issues/86)
-
-### alfrexo95/bounty-bot: 🪙 [Web3] [$25 USDC Bounty] Chain-Feed Control-Plane Mismatc
-- **Reward:** 25.0 USD (USD Value: **$25.00**)
-- **Agent ROI:** **$12.50/hr** (Est. 2.0 hrs)
-- **Directive:** `LOW YIELD: Secondary priority at $12.50/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/alfrexo95/bounty-bot/issues/85)
-
-### alfrexo95/bounty-bot: 🪙 [Web3] [$25 USDC Bounty] Live Chain-Feed Drift Catch (53 
-- **Reward:** 25.0 USD (USD Value: **$25.00**)
-- **Agent ROI:** **$12.50/hr** (Est. 2.0 hrs)
-- **Directive:** `LOW YIELD: Secondary priority at $12.50/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/alfrexo95/bounty-bot/issues/84)
-
-### bad-antics/lateralus-lang: [bounty] base64 stdlib tutorial: availability and payment
-- **Reward:** 25.0 USD (USD Value: **$25.00**)
-- **Agent ROI:** **$12.50/hr** (Est. 2.0 hrs)
-- **Directive:** `LOW YIELD: Secondary priority at $12.50/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/bad-antics/lateralus-lang/issues/77)
-
-### bad-antics/lateralus-lang: [bounty] stdlib env module tutorial
-- **Reward:** 25.0 USD (USD Value: **$25.00**)
-- **Agent ROI:** **$12.50/hr** (Est. 2.0 hrs)
-- **Directive:** `LOW YIELD: Secondary priority at $12.50/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/bad-antics/lateralus-lang/issues/71)
-
-### Ikalus1988/MisakaNet: [Bounty] Answer the 2 linked question(s)
+### hanzoai/cloud: Compute escrow, service guarantees, challenges and rewards
 - **Reward:** 50.0 USD (USD Value: **$50.00**)
-- **Agent ROI:** **$8.33/hr** (Est. 6.0 hrs)
-- **Directive:** `LOW YIELD: Secondary priority at $8.33/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/Ikalus1988/MisakaNet/issues/5005)
+- **Agent ROI:** **$14.29/hr** (Est. 3.5 hrs)
+- **Directive:** `LOW YIELD: Secondary priority at $14.29/hr.`
+- **Target URL:** [Claim Bounty](https://github.com/hanzoai/cloud/issues/17)
 
-### Logiquo/PyHealth: Bounty board
+### hanzoai/cloud: Permissionless x402 payments and provider settlement
 - **Reward:** 50.0 USD (USD Value: **$50.00**)
-- **Agent ROI:** **$8.33/hr** (Est. 6.0 hrs)
-- **Directive:** `LOW YIELD: Secondary priority at $8.33/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/Logiquo/PyHealth/issues/19)
+- **Agent ROI:** **$14.29/hr** (Est. 3.5 hrs)
+- **Directive:** `LOW YIELD: Secondary priority at $14.29/hr.`
+- **Target URL:** [Claim Bounty](https://github.com/hanzoai/cloud/issues/16)
 
-### zhangjiayang6835-cyber/bounty-plaza: [Bounty] [$25 USDC Bounty] Chain-Feed Control-Plane Mismatch #1 — Ethereum Mainnet (>=$25
-- **Reward:** 25.0 USD (USD Value: **$25.00**)
-- **Agent ROI:** **$7.14/hr** (Est. 3.5 hrs)
-- **Directive:** `LOW YIELD: Secondary priority at $7.14/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4351)
+### hanzoai/vfs: Decentralized data, model checkpoints and agent memory
+- **Reward:** 50.0 USD (USD Value: **$50.00**)
+- **Agent ROI:** **$14.29/hr** (Est. 3.5 hrs)
+- **Directive:** `LOW YIELD: Secondary priority at $14.29/hr.`
+- **Target URL:** [Claim Bounty](https://github.com/hanzoai/vfs/issues/39)
 
-### zhangjiayang6835-cyber/bounty-plaza: [Bounty] [$25 USDC Bounty] Chain-Feed Control-Plane Mismatch #3 — Base (8453) or Arbitrum
-- **Reward:** 25.0 USD (USD Value: **$25.00**)
-- **Agent ROI:** **$7.14/hr** (Est. 3.5 hrs)
-- **Directive:** `LOW YIELD: Secondary priority at $7.14/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4349)
+### hanzoai/engine: Verifiable federated updates and Byzantine-robust training (Hanzo side)
+- **Reward:** 50.0 USD (USD Value: **$50.00**)
+- **Agent ROI:** **$14.29/hr** (Est. 3.5 hrs)
+- **Directive:** `LOW YIELD: Secondary priority at $14.29/hr.`
+- **Target URL:** [Claim Bounty](https://github.com/hanzoai/engine/issues/73)
 
-### zhangjiayang6835-cyber/bounty-plaza: [Bounty] [$25 USDC Bounty] Chain-Feed Control-Plane Mismatch #2 — Ethereum Mainnet (>=$25
-- **Reward:** 25.0 USD (USD Value: **$25.00**)
-- **Agent ROI:** **$7.14/hr** (Est. 3.5 hrs)
-- **Directive:** `LOW YIELD: Secondary priority at $7.14/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4350)
+### hanzoai/engine: Permissionless internet-scale model training
+- **Reward:** 50.0 USD (USD Value: **$50.00**)
+- **Agent ROI:** **$14.29/hr** (Est. 3.5 hrs)
+- **Directive:** `LOW YIELD: Secondary priority at $14.29/hr.`
+- **Target URL:** [Claim Bounty](https://github.com/hanzoai/engine/issues/72)
 
-### zhangjiayang6835-cyber/bounty-plaza: [Bounty] [$25 USDC Bounty] Live Chain-Feed Drift Catch (53 Indexed Protocols) or 4th Unin
-- **Reward:** 25.0 USD (USD Value: **$25.00**)
-- **Agent ROI:** **$7.14/hr** (Est. 3.5 hrs)
-- **Directive:** `LOW YIELD: Secondary priority at $7.14/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4348)
+### hanzoai/engine: Decentralized edge and mobile inference providers
+- **Reward:** 50.0 USD (USD Value: **$50.00**)
+- **Agent ROI:** **$14.29/hr** (Est. 3.5 hrs)
+- **Directive:** `LOW YIELD: Secondary priority at $14.29/hr.`
+- **Target URL:** [Claim Bounty](https://github.com/hanzoai/engine/issues/71)
 
-### zhangjiayang6835-cyber/bounty-plaza: [Bounty] 🪙 [Web3] [$25 USDC Bounty] Live Chain-Feed Drift Catch (53 
-- **Reward:** 25.0 USD (USD Value: **$25.00**)
-- **Agent ROI:** **$7.14/hr** (Est. 3.5 hrs)
-- **Directive:** `LOW YIELD: Secondary priority at $7.14/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4346)
+### hanzoai/engine: Peer-to-peer distributed LLM inference
+- **Reward:** 50.0 USD (USD Value: **$50.00**)
+- **Agent ROI:** **$14.29/hr** (Est. 3.5 hrs)
+- **Directive:** `LOW YIELD: Secondary priority at $14.29/hr.`
+- **Target URL:** [Claim Bounty](https://github.com/hanzoai/engine/issues/70)
+
+### hanzoai/engine: Confidential GPU inference and remote attestation client
+- **Reward:** 50.0 USD (USD Value: **$50.00**)
+- **Agent ROI:** **$14.29/hr** (Est. 3.5 hrs)
+- **Directive:** `LOW YIELD: Secondary priority at $14.29/hr.`
+- **Target URL:** [Claim Bounty](https://github.com/hanzoai/engine/issues/69)
+
+### hanzoai/engine: zkML and zkVM proofs for small models and decisions
+- **Reward:** 50.0 USD (USD Value: **$50.00**)
+- **Agent ROI:** **$14.29/hr** (Est. 3.5 hrs)
+- **Directive:** `LOW YIELD: Secondary priority at $14.29/hr.`
+- **Target URL:** [Claim Bounty](https://github.com/hanzoai/engine/issues/68)
+
+### hanzoai/engine: Optimistic AI execution and fraud-proof games
+- **Reward:** 50.0 USD (USD Value: **$50.00**)
+- **Agent ROI:** **$14.29/hr** (Est. 3.5 hrs)
+- **Directive:** `LOW YIELD: Secondary priority at $14.29/hr.`
+- **Target URL:** [Claim Bounty](https://github.com/hanzoai/engine/issues/67)
+
+### hanzoai/engine: Proof of AI: CPU-verifiable GPU matrix products (Hanzo execution side)
+- **Reward:** 50.0 USD (USD Value: **$50.00**)
+- **Agent ROI:** **$14.29/hr** (Est. 3.5 hrs)
+- **Directive:** `LOW YIELD: Secondary priority at $14.29/hr.`
+- **Target URL:** [Claim Bounty](https://github.com/hanzoai/engine/issues/66)
+
+### hanzoai/engine: Deterministic AI execution profiles
+- **Reward:** 50.0 USD (USD Value: **$50.00**)
+- **Agent ROI:** **$14.29/hr** (Est. 3.5 hrs)
+- **Directive:** `LOW YIELD: Secondary priority at $14.29/hr.`
+- **Target URL:** [Claim Bounty](https://github.com/hanzoai/engine/issues/65)
+
+### hanzoai/cloud: Permissionless Enso gateway and stateless scheduling protocol
+- **Reward:** 50.0 USD (USD Value: **$50.00**)
+- **Agent ROI:** **$14.29/hr** (Est. 3.5 hrs)
+- **Directive:** `LOW YIELD: Secondary priority at $14.29/hr.`
+- **Target URL:** [Claim Bounty](https://github.com/hanzoai/cloud/issues/15)
+
+### hanzoai/vfs: Decentralized model distribution and provenance
+- **Reward:** 50.0 USD (USD Value: **$50.00**)
+- **Agent ROI:** **$14.29/hr** (Est. 3.5 hrs)
+- **Directive:** `LOW YIELD: Secondary priority at $14.29/hr.`
+- **Target URL:** [Claim Bounty](https://github.com/hanzoai/vfs/issues/38)
+
+### hanzoai/cloud: Open GPU spot market and capacity auctions
+- **Reward:** 50.0 USD (USD Value: **$50.00**)
+- **Agent ROI:** **$14.29/hr** (Est. 3.5 hrs)
+- **Directive:** `LOW YIELD: Secondary priority at $14.29/hr.`
+- **Target URL:** [Claim Bounty](https://github.com/hanzoai/cloud/issues/14)
+
+### hanzoai/cloud: Decentralized peer discovery and routing (libp2p)
+- **Reward:** 50.0 USD (USD Value: **$50.00**)
+- **Agent ROI:** **$14.29/hr** (Est. 3.5 hrs)
+- **Directive:** `LOW YIELD: Secondary priority at $14.29/hr.`
+- **Target URL:** [Claim Bounty](https://github.com/hanzoai/cloud/issues/13)
+
+### hanzoai/engine: Permissionless GPU provider daemon
+- **Reward:** 50.0 USD (USD Value: **$50.00**)
+- **Agent ROI:** **$14.29/hr** (Est. 3.5 hrs)
+- **Directive:** `LOW YIELD: Secondary priority at $14.29/hr.`
+- **Target URL:** [Claim Bounty](https://github.com/hanzoai/engine/issues/64)
+
+### AugurProject/zoltar: [Low] Report sponsor effectively chooses whether and when its own price is accepted (101 wei settler bounty)
+- **Reward:** 50.0 USD (USD Value: **$50.00**)
+- **Agent ROI:** **$14.29/hr** (Est. 3.5 hrs)
+- **Directive:** `LOW YIELD: Secondary priority at $14.29/hr.`
+- **Target URL:** [Claim Bounty](https://github.com/AugurProject/zoltar/issues/1252)
