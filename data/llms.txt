@@ -2,152 +2,152 @@
 > Live cross-referencing of open GitHub bounties and live cryptocurrency markets to calculate maximum USD/Hour ROI.
 
 ## Top High-Yield Targets
-### relayhop/sn-monetization-runtime: [radar] SN open bounty 2026-11-16T20:19
+### relayhop/sn-monetization-runtime: [radar] SN open bounty 2026-11-17T03:42
 - **Reward:** 2026.0 USD (USD Value: **$2,026.00**)
 - **Agent ROI:** **$1,013.00/hr** (Est. 2.0 hrs)
 - **Directive:** `EXECUTE: High-yield target at $1013.00/hr. Prioritize PR submission.`
-- **Target URL:** [Claim Bounty](https://github.com/relayhop/sn-monetization-runtime/issues/1396)
+- **Target URL:** [Claim Bounty](https://github.com/relayhop/sn-monetization-runtime/issues/1398)
 
-### relayhop/sn-monetization-runtime: [radar] SN open bounty 2026-11-16T15:33
-- **Reward:** 2026.0 USD (USD Value: **$2,026.00**)
-- **Agent ROI:** **$1,013.00/hr** (Est. 2.0 hrs)
-- **Directive:** `EXECUTE: High-yield target at $1013.00/hr. Prioritize PR submission.`
-- **Target URL:** [Claim Bounty](https://github.com/relayhop/sn-monetization-runtime/issues/1394)
-
-### freedom-winds/BountyScout: 🎯 Bounty Alert: 8 New Opportunityies found
-- **Reward:** 600.0 USD (USD Value: **$600.00**)
-- **Agent ROI:** **$171.43/hr** (Est. 3.5 hrs)
-- **Directive:** `EXECUTE: High-yield target at $171.43/hr. Prioritize PR submission.`
-- **Target URL:** [Claim Bounty](https://github.com/freedom-winds/BountyScout/issues/1425)
-
-### SPLURT-Station/S.P.L.U.R.T-tg: [BOUNTY] Suggestion #1325
+### OphirPay/OphirPay: feat(ui): add copy-to-clipboard feedback tooltip on recipient addresses in BatchConfirmDialog
 - **Reward:** 50.0 USD (USD Value: **$50.00**)
 - **Agent ROI:** **$25.00/hr** (Est. 2.0 hrs)
 - **Directive:** `LOW YIELD: Secondary priority at $25.00/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/SPLURT-Station/S.P.L.U.R.T-tg/issues/1410)
+- **Target URL:** [Claim Bounty](https://github.com/OphirPay/OphirPay/issues/1894)
 
-### amirmomeni177/bounty-watch: bounty-watch 2026-11-16: 1 new, 1 resumed, 0 watchlist changes
+### OphirPay/OphirPay: feat(a11y): add keyboard navigation and ARIA attributes to AssetSelector modal
 - **Reward:** 50.0 USD (USD Value: **$50.00**)
 - **Agent ROI:** **$25.00/hr** (Est. 2.0 hrs)
 - **Directive:** `LOW YIELD: Secondary priority at $25.00/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/amirmomeni177/bounty-watch/issues/1)
+- **Target URL:** [Claim Bounty](https://github.com/OphirPay/OphirPay/issues/1893)
 
-### jito-foundation/jito-solana: SECURITY.md points to an unavailable Immunefi program; clarification on bug bounty and private disclosure
+### alfrexo95/bounty-bot: 🪙 [Web3] [50 JNZ] Arabic translation of the "Wallet and key
 - **Reward:** 50.0 USD (USD Value: **$50.00**)
 - **Agent ROI:** **$25.00/hr** (Est. 2.0 hrs)
 - **Directive:** `LOW YIELD: Secondary priority at $25.00/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/jito-foundation/jito-solana/issues/1784)
+- **Target URL:** [Claim Bounty](https://github.com/alfrexo95/bounty-bot/issues/93)
 
-### QuilibriumNetwork/monorepo: Asking for a Bug Bounty
+### mdpsec/huntdeck: Feature suggestion: Dashboard for recent bounty payouts
 - **Reward:** 50.0 USD (USD Value: **$50.00**)
 - **Agent ROI:** **$25.00/hr** (Est. 2.0 hrs)
 - **Directive:** `LOW YIELD: Secondary priority at $25.00/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/QuilibriumNetwork/monorepo/issues/1409)
+- **Target URL:** [Claim Bounty](https://github.com/mdpsec/huntdeck/issues/1)
 
-### wienerlabs/leviathan-net: A slashed participant still names the reporter its own forfeit's bounty is paid to
+### bad-antics/lateralus-lang: [bounty] bug-report & tutorial: stdlib/bitset float-division runtime crash + tutorial
+- **Reward:** 50.0 USD (USD Value: **$50.00**)
+- **Agent ROI:** **$25.00/hr** (Est. 2.0 hrs)
+- **Directive:** `LOW YIELD: Secondary priority at $25.00/hr.`
+- **Target URL:** [Claim Bounty](https://github.com/bad-antics/lateralus-lang/issues/138)
+
+### janzeerOrg/janzeer-sdk-ts: [50 JNZ] Arabic translation of the "Sending transactions" guide
 - **Reward:** 50.0 USD (USD Value: **$50.00**)
 - **Agent ROI:** **$14.29/hr** (Est. 3.5 hrs)
 - **Directive:** `LOW YIELD: Secondary priority at $14.29/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/wienerlabs/leviathan-net/issues/72)
+- **Target URL:** [Claim Bounty](https://github.com/janzeerOrg/janzeer-sdk-ts/issues/7)
 
-### code-with-abhi-i5/CodePulse: [FEAT]: Build Developer Bounty Board & Feature Sponsorship Market UI
+### janzeerOrg/janzeer-sdk-python: [50 JNZ] Arabic translation of the "Wallet and keys" guide
 - **Reward:** 50.0 USD (USD Value: **$50.00**)
 - **Agent ROI:** **$14.29/hr** (Est. 3.5 hrs)
 - **Directive:** `LOW YIELD: Secondary priority at $14.29/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/code-with-abhi-i5/CodePulse/issues/350)
+- **Target URL:** [Claim Bounty](https://github.com/janzeerOrg/janzeer-sdk-python/issues/6)
 
-### willi-d7/williams-contracts: Assert successful bounty-target setup in distribution fuzz scenarios
+### janzeerOrg/janzeer-sdk-kotlin: [20 JNZ] Java example: watch new blocks
 - **Reward:** 50.0 USD (USD Value: **$50.00**)
 - **Agent ROI:** **$14.29/hr** (Est. 3.5 hrs)
 - **Directive:** `LOW YIELD: Secondary priority at $14.29/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/willi-d7/williams-contracts/issues/266)
+- **Target URL:** [Claim Bounty](https://github.com/janzeerOrg/janzeer-sdk-kotlin/issues/8)
 
-### code-with-abhi-i5/CodePulse: [SOCIAL]: Implement Developer Bounties & Community Feature Request Voting with XP Escrow
+### janzeerOrg/janzeer-sdk-dart: [20 JNZ] Example: sign a transfer offline, broadcast it later
 - **Reward:** 50.0 USD (USD Value: **$50.00**)
 - **Agent ROI:** **$14.29/hr** (Est. 3.5 hrs)
 - **Directive:** `LOW YIELD: Secondary priority at $14.29/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/code-with-abhi-i5/CodePulse/issues/329)
+- **Target URL:** [Claim Bounty](https://github.com/janzeerOrg/janzeer-sdk-dart/issues/8)
 
-### Adeolu05/zec-bounty-alerts: ZecHub bounty: Traducción de Inglés a Español | Zcash Shielded News  44 (0.026 ZEC)
+### janzeerOrg/janzeer-sdk-go: [20 JNZ] Example: sign a transfer offline, broadcast it later
 - **Reward:** 50.0 USD (USD Value: **$50.00**)
 - **Agent ROI:** **$14.29/hr** (Est. 3.5 hrs)
 - **Directive:** `LOW YIELD: Secondary priority at $14.29/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/Adeolu05/zec-bounty-alerts/issues/10)
+- **Target URL:** [Claim Bounty](https://github.com/janzeerOrg/janzeer-sdk-go/issues/6)
 
-### Adeolu05/zec-bounty-alerts: ZecHub bounty: ¿Qué es un ZIP y cómo se crea uno? – Guía para proponer mejoras en Zcash (0.04 ZEC)
+### janzeerOrg/janzeer-sdk-python: [20 JNZ] Example: accept a payment (watch an address, match the memo, confirm it is final)
 - **Reward:** 50.0 USD (USD Value: **$50.00**)
 - **Agent ROI:** **$14.29/hr** (Est. 3.5 hrs)
 - **Directive:** `LOW YIELD: Secondary priority at $14.29/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/Adeolu05/zec-bounty-alerts/issues/11)
+- **Target URL:** [Claim Bounty](https://github.com/janzeerOrg/janzeer-sdk-python/issues/5)
 
-### bad-antics/lateralus-lang: [bounty] stdlib.ringbuf tutorial
+### janzeerOrg/janzeer-sdk-ts: [20 JNZ] Example: accept a payment (watch an address, match the memo, confirm it is final)
+- **Reward:** 50.0 USD (USD Value: **$50.00**)
+- **Agent ROI:** **$14.29/hr** (Est. 3.5 hrs)
+- **Directive:** `LOW YIELD: Secondary priority at $14.29/hr.`
+- **Target URL:** [Claim Bounty](https://github.com/janzeerOrg/janzeer-sdk-ts/issues/6)
+
+### janzeerOrg/janzeer-sdk-kotlin: [50 JNZ] Coroutine Flow variants of the two WebSocket subscriptions
+- **Reward:** 50.0 USD (USD Value: **$50.00**)
+- **Agent ROI:** **$14.29/hr** (Est. 3.5 hrs)
+- **Directive:** `LOW YIELD: Secondary priority at $14.29/hr.`
+- **Target URL:** [Claim Bounty](https://github.com/janzeerOrg/janzeer-sdk-kotlin/issues/7)
+
+### janzeerOrg/janzeer-cli: [50 JNZ] Nix package (flake) for jz
+- **Reward:** 50.0 USD (USD Value: **$50.00**)
+- **Agent ROI:** **$14.29/hr** (Est. 3.5 hrs)
+- **Directive:** `LOW YIELD: Secondary priority at $14.29/hr.`
+- **Target URL:** [Claim Bounty](https://github.com/janzeerOrg/janzeer-cli/issues/8)
+
+### janzeerOrg/janzeer-cli: [50 JNZ] Debian/Ubuntu package (.deb) for jz
+- **Reward:** 50.0 USD (USD Value: **$50.00**)
+- **Agent ROI:** **$14.29/hr** (Est. 3.5 hrs)
+- **Directive:** `LOW YIELD: Secondary priority at $14.29/hr.`
+- **Target URL:** [Claim Bounty](https://github.com/janzeerOrg/janzeer-cli/issues/7)
+
+### hanzoai/hips: [HIP-1348] Umbrella Research Bounties: Reliable, Economical and Verifiable AI Infrastructure
+- **Reward:** 50.0 USD (USD Value: **$50.00**)
+- **Agent ROI:** **$14.29/hr** (Est. 3.5 hrs)
+- **Directive:** `LOW YIELD: Secondary priority at $14.29/hr.`
+- **Target URL:** [Claim Bounty](https://github.com/hanzoai/hips/issues/18)
+
+### hanzoai/hips: [HIP-1347] Umbrella Research Bounties: Event-Driven Agent Reliability
+- **Reward:** 50.0 USD (USD Value: **$50.00**)
+- **Agent ROI:** **$14.29/hr** (Est. 3.5 hrs)
+- **Directive:** `LOW YIELD: Secondary priority at $14.29/hr.`
+- **Target URL:** [Claim Bounty](https://github.com/hanzoai/hips/issues/17)
+
+### hanzoai/hips: [HIP-1346] Umbrella Research Bounties: Evidence-Grounded Retrieval and Decision Evaluation
+- **Reward:** 50.0 USD (USD Value: **$50.00**)
+- **Agent ROI:** **$14.29/hr** (Est. 3.5 hrs)
+- **Directive:** `LOW YIELD: Secondary priority at $14.29/hr.`
+- **Target URL:** [Claim Bounty](https://github.com/hanzoai/hips/issues/16)
+
+### hanzoai/hips: [HIP-1345] Umbrella Research Bounties: Agent-Aware Model Serving and Cache Reuse
+- **Reward:** 50.0 USD (USD Value: **$50.00**)
+- **Agent ROI:** **$14.29/hr** (Est. 3.5 hrs)
+- **Directive:** `LOW YIELD: Secondary priority at $14.29/hr.`
+- **Target URL:** [Claim Bounty](https://github.com/hanzoai/hips/issues/15)
+
+### hanzoai/hips: [HIP-1344] Umbrella Research Bounties: Agent-Optimized Storage and Recovery
+- **Reward:** 50.0 USD (USD Value: **$50.00**)
+- **Agent ROI:** **$14.29/hr** (Est. 3.5 hrs)
+- **Directive:** `LOW YIELD: Secondary priority at $14.29/hr.`
+- **Target URL:** [Claim Bounty](https://github.com/hanzoai/hips/issues/14)
+
+### hanzoai/cloud: [Bounty #50] eBPF sandbox runtime enforcement · visor / cloud (Tetragon)
+- **Reward:** 50.0 USD (USD Value: **$50.00**)
+- **Agent ROI:** **$14.29/hr** (Est. 3.5 hrs)
+- **Directive:** `LOW YIELD: Secondary priority at $14.29/hr.`
+- **Target URL:** [Claim Bounty](https://github.com/hanzoai/cloud/issues/40)
+
+### amirmomeni177/bounty-watch: Scope digest 2026-11-17: 10 changes across 5 bounty programs
+- **Reward:** 50.0 USD (USD Value: **$50.00**)
+- **Agent ROI:** **$14.29/hr** (Est. 3.5 hrs)
+- **Directive:** `LOW YIELD: Secondary priority at $14.29/hr.`
+- **Target URL:** [Claim Bounty](https://github.com/amirmomeni177/bounty-watch/issues/2)
+
+### rroland10/dex223-bug-bounty: Documentation — README header badges/links point to the wrong bug bounty repository (dex223/bug-bounty instead of rroland10/dex223-bug-bounty)
+- **Reward:** 50.0 USD (USD Value: **$50.00**)
+- **Agent ROI:** **$14.29/hr** (Est. 3.5 hrs)
+- **Directive:** `LOW YIELD: Secondary priority at $14.29/hr.`
+- **Target URL:** [Claim Bounty](https://github.com/rroland10/dex223-bug-bounty/issues/132)
+
+### bad-antics/lateralus-lang: [bounty] stdlib.heap tutorial
 - **Reward:** 25.0 USD (USD Value: **$25.00**)
 - **Agent ROI:** **$12.50/hr** (Est. 2.0 hrs)
 - **Directive:** `LOW YIELD: Secondary priority at $12.50/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/bad-antics/lateralus-lang/issues/120)
-
-### Ikalus1988/MisakaNet: [Bounty] Answer the 2 linked question(s)
-- **Reward:** 50.0 USD (USD Value: **$50.00**)
-- **Agent ROI:** **$8.33/hr** (Est. 6.0 hrs)
-- **Directive:** `LOW YIELD: Secondary priority at $8.33/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/Ikalus1988/MisakaNet/issues/5131)
-
-### Ikalus1988/MisakaNet: [Bounty] Answer the 2 linked question(s)
-- **Reward:** 50.0 USD (USD Value: **$50.00**)
-- **Agent ROI:** **$8.33/hr** (Est. 6.0 hrs)
-- **Directive:** `LOW YIELD: Secondary priority at $8.33/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/Ikalus1988/MisakaNet/issues/5130)
-
-### Ikalus1988/MisakaNet: [Bounty] Answer the 2 linked question(s)
-- **Reward:** 50.0 USD (USD Value: **$50.00**)
-- **Agent ROI:** **$8.33/hr** (Est. 6.0 hrs)
-- **Directive:** `LOW YIELD: Secondary priority at $8.33/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/Ikalus1988/MisakaNet/issues/5129)
-
-### Ikalus1988/MisakaNet: [Bounty] Answer the 2 linked question(s)
-- **Reward:** 50.0 USD (USD Value: **$50.00**)
-- **Agent ROI:** **$8.33/hr** (Est. 6.0 hrs)
-- **Directive:** `LOW YIELD: Secondary priority at $8.33/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/Ikalus1988/MisakaNet/issues/5128)
-
-### Ikalus1988/MisakaNet: [Bounty] Answer the 2 linked question(s)
-- **Reward:** 50.0 USD (USD Value: **$50.00**)
-- **Agent ROI:** **$8.33/hr** (Est. 6.0 hrs)
-- **Directive:** `LOW YIELD: Secondary priority at $8.33/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/Ikalus1988/MisakaNet/issues/5127)
-
-### Ikalus1988/MisakaNet: [Bounty] Answer the 2 linked question(s)
-- **Reward:** 50.0 USD (USD Value: **$50.00**)
-- **Agent ROI:** **$8.33/hr** (Est. 6.0 hrs)
-- **Directive:** `LOW YIELD: Secondary priority at $8.33/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/Ikalus1988/MisakaNet/issues/5126)
-
-### Ikalus1988/MisakaNet: [Bounty] Answer the 2 linked question(s)
-- **Reward:** 50.0 USD (USD Value: **$50.00**)
-- **Agent ROI:** **$8.33/hr** (Est. 6.0 hrs)
-- **Directive:** `LOW YIELD: Secondary priority at $8.33/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/Ikalus1988/MisakaNet/issues/5125)
-
-### Ikalus1988/MisakaNet: [Bounty] Answer the 2 linked question(s)
-- **Reward:** 50.0 USD (USD Value: **$50.00**)
-- **Agent ROI:** **$8.33/hr** (Est. 6.0 hrs)
-- **Directive:** `LOW YIELD: Secondary priority at $8.33/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/Ikalus1988/MisakaNet/issues/5124)
-
-### Ikalus1988/MisakaNet: [Bounty] Answer the 3 linked question(s)
-- **Reward:** 50.0 USD (USD Value: **$50.00**)
-- **Agent ROI:** **$8.33/hr** (Est. 6.0 hrs)
-- **Directive:** `LOW YIELD: Secondary priority at $8.33/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/Ikalus1988/MisakaNet/issues/5123)
-
-### Ikalus1988/MisakaNet: [Bounty] Answer the 3 linked question(s)
-- **Reward:** 50.0 USD (USD Value: **$50.00**)
-- **Agent ROI:** **$8.33/hr** (Est. 6.0 hrs)
-- **Directive:** `LOW YIELD: Secondary priority at $8.33/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/Ikalus1988/MisakaNet/issues/5122)
-
-### Ikalus1988/MisakaNet: [Bounty] Answer the 3 linked question(s)
-- **Reward:** 50.0 USD (USD Value: **$50.00**)
-- **Agent ROI:** **$8.33/hr** (Est. 6.0 hrs)
-- **Directive:** `LOW YIELD: Secondary priority at $8.33/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/Ikalus1988/MisakaNet/issues/5121)
+- **Target URL:** [Claim Bounty](https://github.com/bad-antics/lateralus-lang/issues/152)
