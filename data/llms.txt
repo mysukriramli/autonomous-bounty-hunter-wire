@@ -2,101 +2,53 @@
 > Live cross-referencing of open GitHub bounties and live cryptocurrency markets to calculate maximum USD/Hour ROI.
 
 ## Top High-Yield Targets
+### relayhop/sn-monetization-runtime: [radar] SN open bounty 2026-11-18T16:28
+- **Reward:** 1616276.0 BITCOIN (USD Value: **$100,950,982,684.00**)
+- **Agent ROI:** **$50,475,491,342.00/hr** (Est. 2.0 hrs)
+- **Directive:** `EXECUTE: High-yield target at $50475491342.00/hr. Prioritize PR submission.`
+- **Target URL:** [Claim Bounty](https://github.com/relayhop/sn-monetization-runtime/issues/1418)
+
+### relayhop/sn-monetization-runtime: [radar] SN open bounty 2026-11-18T15:31
+- **Reward:** 1616276.0 BITCOIN (USD Value: **$100,950,982,684.00**)
+- **Agent ROI:** **$50,475,491,342.00/hr** (Est. 2.0 hrs)
+- **Directive:** `EXECUTE: High-yield target at $50475491342.00/hr. Prioritize PR submission.`
+- **Target URL:** [Claim Bounty](https://github.com/relayhop/sn-monetization-runtime/issues/1416)
+
+### relayhop/sn-monetization-runtime: [radar] SN open bounty 2026-11-18T13:49
+- **Reward:** 1616276.0 BITCOIN (USD Value: **$100,950,982,684.00**)
+- **Agent ROI:** **$50,475,491,342.00/hr** (Est. 2.0 hrs)
+- **Directive:** `EXECUTE: High-yield target at $50475491342.00/hr. Prioritize PR submission.`
+- **Target URL:** [Claim Bounty](https://github.com/relayhop/sn-monetization-runtime/issues/1414)
+
 ### relayhop/sn-monetization-runtime: [radar] SN open bounty 2026-11-18T07:06
-- **Reward:** 1616276.0 BITCOIN (USD Value: **$104,632,859,412.00**)
-- **Agent ROI:** **$52,316,429,706.00/hr** (Est. 2.0 hrs)
-- **Directive:** `EXECUTE: High-yield target at $52316429706.00/hr. Prioritize PR submission.`
+- **Reward:** 1616276.0 BITCOIN (USD Value: **$100,950,982,684.00**)
+- **Agent ROI:** **$50,475,491,342.00/hr** (Est. 2.0 hrs)
+- **Directive:** `EXECUTE: High-yield target at $50475491342.00/hr. Prioritize PR submission.`
 - **Target URL:** [Claim Bounty](https://github.com/relayhop/sn-monetization-runtime/issues/1413)
 
 ### relayhop/sn-monetization-runtime: [radar] SN open bounty 2026-11-18T04:09
-- **Reward:** 1616276.0 BITCOIN (USD Value: **$104,632,859,412.00**)
-- **Agent ROI:** **$52,316,429,706.00/hr** (Est. 2.0 hrs)
-- **Directive:** `EXECUTE: High-yield target at $52316429706.00/hr. Prioritize PR submission.`
+- **Reward:** 1616276.0 BITCOIN (USD Value: **$100,950,982,684.00**)
+- **Agent ROI:** **$50,475,491,342.00/hr** (Est. 2.0 hrs)
+- **Directive:** `EXECUTE: High-yield target at $50475491342.00/hr. Prioritize PR submission.`
 - **Target URL:** [Claim Bounty](https://github.com/relayhop/sn-monetization-runtime/issues/1411)
 
 ### relayhop/sn-monetization-runtime: [radar] SN open bounty 2026-11-17T23:59
-- **Reward:** 1616276.0 BITCOIN (USD Value: **$104,632,859,412.00**)
-- **Agent ROI:** **$52,316,429,706.00/hr** (Est. 2.0 hrs)
-- **Directive:** `EXECUTE: High-yield target at $52316429706.00/hr. Prioritize PR submission.`
+- **Reward:** 1616276.0 BITCOIN (USD Value: **$100,950,982,684.00**)
+- **Agent ROI:** **$50,475,491,342.00/hr** (Est. 2.0 hrs)
+- **Directive:** `EXECUTE: High-yield target at $50475491342.00/hr. Prioritize PR submission.`
 - **Target URL:** [Claim Bounty](https://github.com/relayhop/sn-monetization-runtime/issues/1409)
 
 ### relayhop/sn-monetization-runtime: [radar] SN open bounty 2026-11-17T22:11
-- **Reward:** 1616276.0 BITCOIN (USD Value: **$104,632,859,412.00**)
-- **Agent ROI:** **$52,316,429,706.00/hr** (Est. 2.0 hrs)
-- **Directive:** `EXECUTE: High-yield target at $52316429706.00/hr. Prioritize PR submission.`
+- **Reward:** 1616276.0 BITCOIN (USD Value: **$100,950,982,684.00**)
+- **Agent ROI:** **$50,475,491,342.00/hr** (Est. 2.0 hrs)
+- **Directive:** `EXECUTE: High-yield target at $50475491342.00/hr. Prioritize PR submission.`
 - **Target URL:** [Claim Bounty](https://github.com/relayhop/sn-monetization-runtime/issues/1407)
 
-### relayhop/sn-monetization-runtime: [radar] SN open bounty 2026-11-17T17:47
-- **Reward:** 1616276.0 BITCOIN (USD Value: **$104,632,859,412.00**)
-- **Agent ROI:** **$52,316,429,706.00/hr** (Est. 2.0 hrs)
-- **Directive:** `EXECUTE: High-yield target at $52316429706.00/hr. Prioritize PR submission.`
-- **Target URL:** [Claim Bounty](https://github.com/relayhop/sn-monetization-runtime/issues/1404)
-
-### relayhop/sn-monetization-runtime: [radar] SN open bounty 2026-11-17T15:53
-- **Reward:** 2026.0 USD (USD Value: **$2,026.00**)
-- **Agent ROI:** **$1,013.00/hr** (Est. 2.0 hrs)
-- **Directive:** `EXECUTE: High-yield target at $1013.00/hr. Prioritize PR submission.`
-- **Target URL:** [Claim Bounty](https://github.com/relayhop/sn-monetization-runtime/issues/1402)
-
-### relayhop/sn-monetization-runtime: [radar] SN open bounty 2026-11-17T13:08
-- **Reward:** 2026.0 USD (USD Value: **$2,026.00**)
-- **Agent ROI:** **$1,013.00/hr** (Est. 2.0 hrs)
-- **Directive:** `EXECUTE: High-yield target at $1013.00/hr. Prioritize PR submission.`
-- **Target URL:** [Claim Bounty](https://github.com/relayhop/sn-monetization-runtime/issues/1400)
-
-### EquinoxCore-Foundation/equinox-core: [BOUNTY: 3,000 EQX] Implement Air-Gapped Offline QR Transaction Signing in Flutter Mobile Wallet
-- **Reward:** 3000.0 USD (USD Value: **$3,000.00**)
-- **Agent ROI:** **$857.14/hr** (Est. 3.5 hrs)
-- **Directive:** `EXECUTE: High-yield target at $857.14/hr. Prioritize PR submission.`
-- **Target URL:** [Claim Bounty](https://github.com/EquinoxCore-Foundation/equinox-core/issues/4)
-
-### EquinoxCore-Foundation/equinox-core: [BOUNTY: 1,000 EQX] Public Testnet Node Runner & ASERT PoW Stress-Test Challenge (Chain ID: 9333)
-- **Reward:** 1000.0 USD (USD Value: **$1,000.00**)
-- **Agent ROI:** **$500.00/hr** (Est. 2.0 hrs)
-- **Directive:** `EXECUTE: High-yield target at $500.00/hr. Prioritize PR submission.`
-- **Target URL:** [Claim Bounty](https://github.com/EquinoxCore-Foundation/equinox-core/issues/1)
-
-### EquinoxCore-Foundation/equinox-core: [BOUNTY: 1,500 EQX] Build Mobile QR Scanner & Audio Alert for Merchant POS Mode
-- **Reward:** 1500.0 USD (USD Value: **$1,500.00**)
-- **Agent ROI:** **$428.57/hr** (Est. 3.5 hrs)
-- **Directive:** `EXECUTE: High-yield target at $428.57/hr. Prioritize PR submission.`
-- **Target URL:** [Claim Bounty](https://github.com/EquinoxCore-Foundation/equinox-core/issues/2)
-
-### IES-BoilerRoom/tokio-ringbuffer-seqcst-matrix: [Escrowed $600 USDC] Eliminate ABA generation counter skew across heterogeneous ring capacities (`tokio-ringbuffer-seqcst-matrix`)
-- **Reward:** 600.0 USD (USD Value: **$600.00**)
-- **Agent ROI:** **$300.00/hr** (Est. 2.0 hrs)
-- **Directive:** `EXECUTE: High-yield target at $300.00/hr. Prioritize PR submission.`
-- **Target URL:** [Claim Bounty](https://github.com/IES-BoilerRoom/tokio-ringbuffer-seqcst-matrix/issues/2)
-
-### IES-BoilerRoom/wgsl-transcendental-math-core: [Escrowed $600 USDC] Align WGSL constant-eval Horner polynomial rounding with runtime pipeline (`wgsl-transcendental-math-core`)
-- **Reward:** 600.0 USD (USD Value: **$600.00**)
-- **Agent ROI:** **$300.00/hr** (Est. 2.0 hrs)
-- **Directive:** `EXECUTE: High-yield target at $300.00/hr. Prioritize PR submission.`
-- **Target URL:** [Claim Bounty](https://github.com/IES-BoilerRoom/wgsl-transcendental-math-core/issues/2)
-
-### IES-BoilerRoom/tokio-ringbuffer-seqcst-matrix: [Escrowed $450 USDC] Fix slot batch ceiling check and align multi-stride ring wrap-around residue (`drain_mpsc_epoch_frames`)
-- **Reward:** 450.0 USD (USD Value: **$450.00**)
-- **Agent ROI:** **$225.00/hr** (Est. 2.0 hrs)
-- **Directive:** `EXECUTE: High-yield target at $225.00/hr. Prioritize PR submission.`
-- **Target URL:** [Claim Bounty](https://github.com/IES-BoilerRoom/tokio-ringbuffer-seqcst-matrix/issues/1)
-
-### IES-BoilerRoom/wgsl-transcendental-math-core: [Escrowed $450 USDC] Correct packet frame boundary clamp and 0.5-ULP FMA range-reduction tie-break (`fold_wgsl_radiance_frames`)
-- **Reward:** 450.0 USD (USD Value: **$450.00**)
-- **Agent ROI:** **$225.00/hr** (Est. 2.0 hrs)
-- **Directive:** `EXECUTE: High-yield target at $225.00/hr. Prioritize PR submission.`
-- **Target URL:** [Claim Bounty](https://github.com/IES-BoilerRoom/wgsl-transcendental-math-core/issues/1)
-
-### zhangjiayang6835-cyber/bounty-plaza: [Bounty] [Escrowed $600 USDC] Align WGSL constant-eval Horner polynomial rounding with ru
-- **Reward:** 600.0 USD (USD Value: **$600.00**)
-- **Agent ROI:** **$171.43/hr** (Est. 3.5 hrs)
-- **Directive:** `EXECUTE: High-yield target at $171.43/hr. Prioritize PR submission.`
-- **Target URL:** [Claim Bounty](https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4369)
-
-### Ayush441-python/AUREN: [Bug Bounty] Default preset overwrites a successfully imported wallet while the success message remains
-- **Reward:** 1000.0 USD (USD Value: **$1,000.00**)
-- **Agent ROI:** **$166.67/hr** (Est. 6.0 hrs)
-- **Directive:** `EXECUTE: High-yield target at $166.67/hr. Prioritize PR submission.`
-- **Target URL:** [Claim Bounty](https://github.com/Ayush441-python/AUREN/issues/43)
+### Ayush441-python/AUREN: [Bug Bounty] AI report verifies +18% for a stress scenario whose return is −18%
+- **Reward:** 10000.0 USD (USD Value: **$10,000.00**)
+- **Agent ROI:** **$2,857.14/hr** (Est. 3.5 hrs)
+- **Directive:** `EXECUTE: High-yield target at $2857.14/hr. Prioritize PR submission.`
+- **Target URL:** [Claim Bounty](https://github.com/Ayush441-python/AUREN/issues/93)
 
 ### zhangjiayang6835-cyber/bounty-plaza: [Bounty] [Escrowed $450 USDC] Correct packet frame boundary clamp and 0.5-ULP FMA range-r
 - **Reward:** 450.0 USD (USD Value: **$450.00**)
@@ -104,50 +56,98 @@
 - **Directive:** `EXECUTE: High-yield target at $128.57/hr. Prioritize PR submission.`
 - **Target URL:** [Claim Bounty](https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4370)
 
-### Ayush441-python/AUREN: [Bug Bounty] Sub-$100 wallet import silently inflates the dollar amount used by stress tests
-- **Reward:** 100.0 USD (USD Value: **$100.00**)
-- **Agent ROI:** **$28.57/hr** (Est. 3.5 hrs)
-- **Directive:** `LOW YIELD: Secondary priority at $28.57/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/Ayush441-python/AUREN/issues/44)
+### frolvanya/omni-rebalancer: DAO proposal #335 filed for the omni.bridge replay — 10% bounty ($200k) to execute
+- **Reward:** 200.0 USD (USD Value: **$200.00**)
+- **Agent ROI:** **$57.14/hr** (Est. 3.5 hrs)
+- **Directive:** `STANDARD: Profitable target at $57.14/hr. Queue for execution.`
+- **Target URL:** [Claim Bounty](https://github.com/frolvanya/omni-rebalancer/issues/2)
 
-### Ayush441-python/AUREN: [Maths Bounty] Equity liquidity uses dividend-adjusted closes for historical dollar volume
-- **Reward:** 100.0 USD (USD Value: **$100.00**)
-- **Agent ROI:** **$28.57/hr** (Est. 3.5 hrs)
-- **Directive:** `LOW YIELD: Secondary priority at $28.57/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/Ayush441-python/AUREN/issues/42)
+### freedom-winds/BountyScout: 🎯 Bounty Alert: 11 New Opportunityies found
+- **Reward:** 200.0 USD (USD Value: **$200.00**)
+- **Agent ROI:** **$33.33/hr** (Est. 6.0 hrs)
+- **Directive:** `LOW YIELD: Secondary priority at $33.33/hr.`
+- **Target URL:** [Claim Bounty](https://github.com/freedom-winds/BountyScout/issues/1431)
 
-### OphirPay/OphirPay: docs(setup): add step-by-step instructions for running a local Stellar Standalone container
+### amirmomeni177/bounty-watch: bounty-watch 2026-11-18: 1 new, 2 resumed, 0 watchlist changes
 - **Reward:** 50.0 USD (USD Value: **$50.00**)
 - **Agent ROI:** **$25.00/hr** (Est. 2.0 hrs)
 - **Directive:** `LOW YIELD: Secondary priority at $25.00/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/OphirPay/OphirPay/issues/1997)
+- **Target URL:** [Claim Bounty](https://github.com/amirmomeni177/bounty-watch/issues/10)
 
-### OphirPay/OphirPay: ci(typescript): add GitHub Actions step to verify TypeScript types without emitting JS
+### Soroban-escrow/escrow-app: Progress stepper for refunded and disputed bounties
 - **Reward:** 50.0 USD (USD Value: **$50.00**)
 - **Agent ROI:** **$25.00/hr** (Est. 2.0 hrs)
 - **Directive:** `LOW YIELD: Secondary priority at $25.00/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/OphirPay/OphirPay/issues/1979)
+- **Target URL:** [Claim Bounty](https://github.com/Soroban-escrow/escrow-app/issues/124)
 
-### OphirPay/OphirPay: test(contracts): add Rust unit test verifying spending limit enforcement across multiple payments
+### Soroban-escrow/escrow-app: Show the funding and closing transactions on the bounty page
 - **Reward:** 50.0 USD (USD Value: **$50.00**)
 - **Agent ROI:** **$25.00/hr** (Est. 2.0 hrs)
 - **Directive:** `LOW YIELD: Secondary priority at $25.00/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/OphirPay/OphirPay/issues/1964)
+- **Target URL:** [Claim Bounty](https://github.com/Soroban-escrow/escrow-app/issues/123)
 
-### OphirPay/OphirPay: feat(api): add Zod schema validation capping batch payment recipients to 100 per request
+### Soroban-escrow/escrow-app: Don't relabel an issue whose bounty label is already correct
 - **Reward:** 50.0 USD (USD Value: **$50.00**)
 - **Agent ROI:** **$25.00/hr** (Est. 2.0 hrs)
 - **Directive:** `LOW YIELD: Secondary priority at $25.00/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/OphirPay/OphirPay/issues/1946)
+- **Target URL:** [Claim Bounty](https://github.com/Soroban-escrow/escrow-app/issues/121)
 
-### amirmomeni177/bounty-watch: bounty-watch 2026-11-18: 1 new, 0 resumed, 0 watchlist changes
+### Soroban-escrow/escrow-app: Index the bounty text search
 - **Reward:** 50.0 USD (USD Value: **$50.00**)
 - **Agent ROI:** **$25.00/hr** (Est. 2.0 hrs)
 - **Directive:** `LOW YIELD: Secondary priority at $25.00/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/amirmomeni177/bounty-watch/issues/6)
+- **Target URL:** [Claim Bounty](https://github.com/Soroban-escrow/escrow-app/issues/110)
 
-### 23andMe/Yamale: bug bounty program
+### Soroban-escrow/escrow-contracts: Test treasury rotation applies to existing bounties
 - **Reward:** 50.0 USD (USD Value: **$50.00**)
 - **Agent ROI:** **$25.00/hr** (Est. 2.0 hrs)
 - **Directive:** `LOW YIELD: Secondary priority at $25.00/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/23andMe/Yamale/issues/296)
+- **Target URL:** [Claim Bounty](https://github.com/Soroban-escrow/escrow-contracts/issues/85)
+
+### Soroban-escrow/escrow-contracts: Test that the admin cannot move bounty funds directly
+- **Reward:** 50.0 USD (USD Value: **$50.00**)
+- **Agent ROI:** **$25.00/hr** (Est. 2.0 hrs)
+- **Directive:** `LOW YIELD: Secondary priority at $25.00/hr.`
+- **Target URL:** [Claim Bounty](https://github.com/Soroban-escrow/escrow-contracts/issues/82)
+
+### Soroban-escrow/escrow-contracts: Test stored `Bounty` fields after funding
+- **Reward:** 50.0 USD (USD Value: **$50.00**)
+- **Agent ROI:** **$25.00/hr** (Est. 2.0 hrs)
+- **Directive:** `LOW YIELD: Secondary priority at $25.00/hr.`
+- **Target URL:** [Claim Bounty](https://github.com/Soroban-escrow/escrow-contracts/issues/80)
+
+### Soroban-escrow/escrow-contracts: Test that `fund_bounty` accepts exactly `min_amount` and `max_amount`
+- **Reward:** 50.0 USD (USD Value: **$50.00**)
+- **Agent ROI:** **$25.00/hr** (Est. 2.0 hrs)
+- **Directive:** `LOW YIELD: Secondary priority at $25.00/hr.`
+- **Target URL:** [Claim Bounty](https://github.com/Soroban-escrow/escrow-contracts/issues/77)
+
+### Soroban-escrow/escrow-contracts: Let a maintainer revoke `relayer_allowed` on an open bounty
+- **Reward:** 50.0 USD (USD Value: **$50.00**)
+- **Agent ROI:** **$25.00/hr** (Est. 2.0 hrs)
+- **Directive:** `LOW YIELD: Secondary priority at $25.00/hr.`
+- **Target URL:** [Claim Bounty](https://github.com/Soroban-escrow/escrow-contracts/issues/73)
+
+### Soroban-escrow/escrow-contracts: Add `cancel_bounty` with maintainer and arbiter co-signature
+- **Reward:** 50.0 USD (USD Value: **$50.00**)
+- **Agent ROI:** **$25.00/hr** (Est. 2.0 hrs)
+- **Directive:** `LOW YIELD: Secondary priority at $25.00/hr.`
+- **Target URL:** [Claim Bounty](https://github.com/Soroban-escrow/escrow-contracts/issues/71)
+
+### wallyben/makefun-token-radar: Create the four missing bounty repositories
+- **Reward:** 50.0 USD (USD Value: **$50.00**)
+- **Agent ROI:** **$25.00/hr** (Est. 2.0 hrs)
+- **Directive:** `LOW YIELD: Secondary priority at $25.00/hr.`
+- **Target URL:** [Claim Bounty](https://github.com/wallyben/makefun-token-radar/issues/1)
+
+### Soroban-escrow/escrow-backend: Tests: settle when the bounty changes state while a release is in flight
+- **Reward:** 50.0 USD (USD Value: **$50.00**)
+- **Agent ROI:** **$25.00/hr** (Est. 2.0 hrs)
+- **Directive:** `LOW YIELD: Secondary priority at $25.00/hr.`
+- **Target URL:** [Claim Bounty](https://github.com/Soroban-escrow/escrow-backend/issues/106)
+
+### Soroban-escrow/escrow-backend: Show the refund date and a time zone on the bounty card
+- **Reward:** 50.0 USD (USD Value: **$50.00**)
+- **Agent ROI:** **$25.00/hr** (Est. 2.0 hrs)
+- **Directive:** `LOW YIELD: Secondary priority at $25.00/hr.`
+- **Target URL:** [Claim Bounty](https://github.com/Soroban-escrow/escrow-backend/issues/95)
