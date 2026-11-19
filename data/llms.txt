@@ -2,152 +2,152 @@
 > Live cross-referencing of open GitHub bounties and live cryptocurrency markets to calculate maximum USD/Hour ROI.
 
 ## Top High-Yield Targets
-### relayhop/sn-monetization-runtime: [radar] SN open bounty 2026-11-19T04:04
-- **Reward:** 1616276.0 BITCOIN (USD Value: **$102,842,025,604.00**)
-- **Agent ROI:** **$51,421,012,802.00/hr** (Est. 2.0 hrs)
-- **Directive:** `EXECUTE: High-yield target at $51421012802.00/hr. Prioritize PR submission.`
-- **Target URL:** [Claim Bounty](https://github.com/relayhop/sn-monetization-runtime/issues/1425)
-
-### relayhop/sn-monetization-runtime: [radar] SN open bounty 2026-11-19T03:13
-- **Reward:** 1616276.0 BITCOIN (USD Value: **$102,842,025,604.00**)
-- **Agent ROI:** **$51,421,012,802.00/hr** (Est. 2.0 hrs)
-- **Directive:** `EXECUTE: High-yield target at $51421012802.00/hr. Prioritize PR submission.`
-- **Target URL:** [Claim Bounty](https://github.com/relayhop/sn-monetization-runtime/issues/1424)
-
-### relayhop/sn-monetization-runtime: [radar] SN open bounty 2026-11-18T23:01
-- **Reward:** 1616276.0 BITCOIN (USD Value: **$102,842,025,604.00**)
-- **Agent ROI:** **$51,421,012,802.00/hr** (Est. 2.0 hrs)
-- **Directive:** `EXECUTE: High-yield target at $51421012802.00/hr. Prioritize PR submission.`
-- **Target URL:** [Claim Bounty](https://github.com/relayhop/sn-monetization-runtime/issues/1422)
-
-### relayhop/sn-monetization-runtime: [radar] SN open bounty 2026-11-18T21:49
-- **Reward:** 1616276.0 BITCOIN (USD Value: **$102,842,025,604.00**)
-- **Agent ROI:** **$51,421,012,802.00/hr** (Est. 2.0 hrs)
-- **Directive:** `EXECUTE: High-yield target at $51421012802.00/hr. Prioritize PR submission.`
-- **Target URL:** [Claim Bounty](https://github.com/relayhop/sn-monetization-runtime/issues/1420)
-
-### relayhop/sn-monetization-runtime: [radar] SN open bounty 2026-11-18T16:28
-- **Reward:** 1616276.0 BITCOIN (USD Value: **$102,842,025,604.00**)
-- **Agent ROI:** **$51,421,012,802.00/hr** (Est. 2.0 hrs)
-- **Directive:** `EXECUTE: High-yield target at $51421012802.00/hr. Prioritize PR submission.`
-- **Target URL:** [Claim Bounty](https://github.com/relayhop/sn-monetization-runtime/issues/1418)
-
-### relayhop/sn-monetization-runtime: [radar] SN open bounty 2026-11-18T15:31
-- **Reward:** 1616276.0 BITCOIN (USD Value: **$102,842,025,604.00**)
-- **Agent ROI:** **$51,421,012,802.00/hr** (Est. 2.0 hrs)
-- **Directive:** `EXECUTE: High-yield target at $51421012802.00/hr. Prioritize PR submission.`
-- **Target URL:** [Claim Bounty](https://github.com/relayhop/sn-monetization-runtime/issues/1416)
-
-### IES-BoilerRoom/ebpf-verifier-reg-bounds: [350 USDC] Fix ALU64 chunk ceiling boundary and tristate tnum scalar bitmask witness (refine_bpf_tnum_frames)
-- **Reward:** 350.0 USD (USD Value: **$350.00**)
-- **Agent ROI:** **$175.00/hr** (Est. 2.0 hrs)
-- **Directive:** `EXECUTE: High-yield target at $175.00/hr. Prioritize PR submission.`
-- **Target URL:** [Claim Bounty](https://github.com/IES-BoilerRoom/ebpf-verifier-reg-bounds/issues/1)
-
-### IES-BoilerRoom/ebpf-verifier-reg-bounds: [$250] fix(verifier): Tighten 32-bit subregister zero-extension parity across conditional joins (ebpf-verifier-reg-bounds)
-- **Reward:** 250.0 USD (USD Value: **$250.00**)
-- **Agent ROI:** **$125.00/hr** (Est. 2.0 hrs)
-- **Directive:** `EXECUTE: High-yield target at $125.00/hr. Prioritize PR submission.`
-- **Target URL:** [Claim Bounty](https://github.com/IES-BoilerRoom/ebpf-verifier-reg-bounds/issues/2)
-
-### IES-BoilerRoom/nvme-zns-bch-ecc-simulator: [$200] fix(ftl_ecc): Resolve ZNS frame length boundary and align 64-lane BCH syndrome parity word (unpack_zns_metadata_frames)
-- **Reward:** 200.0 USD (USD Value: **$200.00**)
-- **Agent ROI:** **$100.00/hr** (Est. 2.0 hrs)
-- **Directive:** `EXECUTE: High-yield target at $100.00/hr. Prioritize PR submission.`
-- **Target URL:** [Claim Bounty](https://github.com/IES-BoilerRoom/nvme-zns-bch-ecc-simulator/issues/1)
-
-### IES-BoilerRoom/nvme-zns-bch-ecc-simulator: ci/ftl_ecc: Stabilize polynomial-to-dual-basis trace tag across zone append descriptors - Reward $175 USDC
-- **Reward:** 175.0 USD (USD Value: **$175.00**)
-- **Agent ROI:** **$87.50/hr** (Est. 2.0 hrs)
-- **Directive:** `STANDARD: Profitable target at $87.50/hr. Queue for execution.`
-- **Target URL:** [Claim Bounty](https://github.com/IES-BoilerRoom/nvme-zns-bch-ecc-simulator/issues/2)
-
-### amirmomeni177/bounty-watch: bounty-watch 2026-11-19: 0 new, 1 resumed, 0 watchlist changes
+### Space-Nebula/stellar-nebula-nomad: Complete Bounty Board and Quest System
 - **Reward:** 50.0 USD (USD Value: **$50.00**)
 - **Agent ROI:** **$25.00/hr** (Est. 2.0 hrs)
 - **Directive:** `LOW YIELD: Secondary priority at $25.00/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/amirmomeni177/bounty-watch/issues/11)
+- **Target URL:** [Claim Bounty](https://github.com/Space-Nebula/stellar-nebula-nomad/issues/648)
 
-### ritik4ever/stellar-bounty-board: SBB-2026-485 [TEST] Verify Bounty lifecycle E2E fixtures from a clean environment
+### NathanAIoxr/Nathan-AI-Sovereign-Core: Join Nathan AI Global Bounties & Grand Challenges
 - **Reward:** 50.0 USD (USD Value: **$50.00**)
-- **Agent ROI:** **$25.00/hr** (Est. 2.0 hrs)
-- **Directive:** `LOW YIELD: Secondary priority at $25.00/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/ritik4ever/stellar-bounty-board/issues/1954)
+- **Agent ROI:** **$14.29/hr** (Est. 3.5 hrs)
+- **Directive:** `LOW YIELD: Secondary priority at $14.29/hr.`
+- **Target URL:** [Claim Bounty](https://github.com/NathanAIoxr/Nathan-AI-Sovereign-Core/issues/433)
 
-### ritik4ever/stellar-bounty-board: SBB-2026-484 [DOCS] Explain Bounty lifecycle E2E fixtures outcomes
-- **Reward:** 50.0 USD (USD Value: **$50.00**)
-- **Agent ROI:** **$25.00/hr** (Est. 2.0 hrs)
-- **Directive:** `LOW YIELD: Secondary priority at $25.00/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/ritik4ever/stellar-bounty-board/issues/1953)
+### bad-antics/lateralus-lang: [bounty] stdlib.influx_line tutorial: write a sensor reading without a database
+- **Reward:** 25.0 USD (USD Value: **$25.00**)
+- **Agent ROI:** **$12.50/hr** (Est. 2.0 hrs)
+- **Directive:** `LOW YIELD: Secondary priority at $12.50/hr.`
+- **Target URL:** [Claim Bounty](https://github.com/bad-antics/lateralus-lang/issues/224)
 
-### ritik4ever/stellar-bounty-board: SBB-2026-483 [CONFIG] Validate Bounty lifecycle E2E fixtures setup
+### Ikalus1988/MisakaNet: [Bounty] Answer the 2 linked question(s)
 - **Reward:** 50.0 USD (USD Value: **$50.00**)
-- **Agent ROI:** **$25.00/hr** (Est. 2.0 hrs)
-- **Directive:** `LOW YIELD: Secondary priority at $25.00/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/ritik4ever/stellar-bounty-board/issues/1952)
+- **Agent ROI:** **$8.33/hr** (Est. 6.0 hrs)
+- **Directive:** `LOW YIELD: Secondary priority at $8.33/hr.`
+- **Target URL:** [Claim Bounty](https://github.com/Ikalus1988/MisakaNet/issues/5373)
 
-### ritik4ever/stellar-bounty-board: SBB-2026-482 [RELIABILITY] Make Bounty lifecycle E2E fixtures reruns safe
+### Ikalus1988/MisakaNet: [Bounty] Answer the 2 linked question(s)
 - **Reward:** 50.0 USD (USD Value: **$50.00**)
-- **Agent ROI:** **$25.00/hr** (Est. 2.0 hrs)
-- **Directive:** `LOW YIELD: Secondary priority at $25.00/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/ritik4ever/stellar-bounty-board/issues/1951)
+- **Agent ROI:** **$8.33/hr** (Est. 6.0 hrs)
+- **Directive:** `LOW YIELD: Secondary priority at $8.33/hr.`
+- **Target URL:** [Claim Bounty](https://github.com/Ikalus1988/MisakaNet/issues/5372)
 
-### ritik4ever/stellar-bounty-board: SBB-2026-481 [TOOLING] Define Bounty lifecycle E2E fixtures inputs
+### Ikalus1988/MisakaNet: [Bounty] Answer the 2 linked question(s)
 - **Reward:** 50.0 USD (USD Value: **$50.00**)
-- **Agent ROI:** **$25.00/hr** (Est. 2.0 hrs)
-- **Directive:** `LOW YIELD: Secondary priority at $25.00/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/ritik4ever/stellar-bounty-board/issues/1950)
+- **Agent ROI:** **$8.33/hr** (Est. 6.0 hrs)
+- **Directive:** `LOW YIELD: Secondary priority at $8.33/hr.`
+- **Target URL:** [Claim Bounty](https://github.com/Ikalus1988/MisakaNet/issues/5371)
 
-### ritik4ever/stellar-bounty-board: SBB-2026-460 [TEST] Verify Concurrent bounty state update replay and failure
+### Ikalus1988/MisakaNet: [Bounty] Answer the 2 linked question(s)
 - **Reward:** 50.0 USD (USD Value: **$50.00**)
-- **Agent ROI:** **$25.00/hr** (Est. 2.0 hrs)
-- **Directive:** `LOW YIELD: Secondary priority at $25.00/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/ritik4ever/stellar-bounty-board/issues/1929)
+- **Agent ROI:** **$8.33/hr** (Est. 6.0 hrs)
+- **Directive:** `LOW YIELD: Secondary priority at $8.33/hr.`
+- **Target URL:** [Claim Bounty](https://github.com/Ikalus1988/MisakaNet/issues/5370)
 
-### ritik4ever/stellar-bounty-board: SBB-2026-459 [OBS] Trace Concurrent bounty state update outcomes
+### Ikalus1988/MisakaNet: [Bounty] Answer the 2 linked question(s)
 - **Reward:** 50.0 USD (USD Value: **$50.00**)
-- **Agent ROI:** **$25.00/hr** (Est. 2.0 hrs)
-- **Directive:** `LOW YIELD: Secondary priority at $25.00/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/ritik4ever/stellar-bounty-board/issues/1928)
+- **Agent ROI:** **$8.33/hr** (Est. 6.0 hrs)
+- **Directive:** `LOW YIELD: Secondary priority at $8.33/hr.`
+- **Target URL:** [Claim Bounty](https://github.com/Ikalus1988/MisakaNet/issues/5369)
 
-### ritik4ever/stellar-bounty-board: SBB-2026-458 [SECURITY] Validate Concurrent bounty state update input
+### Ikalus1988/MisakaNet: [Bounty] Answer the 2 linked question(s)
 - **Reward:** 50.0 USD (USD Value: **$50.00**)
-- **Agent ROI:** **$25.00/hr** (Est. 2.0 hrs)
-- **Directive:** `LOW YIELD: Secondary priority at $25.00/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/ritik4ever/stellar-bounty-board/issues/1927)
+- **Agent ROI:** **$8.33/hr** (Est. 6.0 hrs)
+- **Directive:** `LOW YIELD: Secondary priority at $8.33/hr.`
+- **Target URL:** [Claim Bounty](https://github.com/Ikalus1988/MisakaNet/issues/5368)
 
-### ritik4ever/stellar-bounty-board: SBB-2026-457 [RELIABILITY] Resume Concurrent bounty state update after interruption
+### Ikalus1988/MisakaNet: [Bounty] Answer the 2 linked question(s)
 - **Reward:** 50.0 USD (USD Value: **$50.00**)
-- **Agent ROI:** **$25.00/hr** (Est. 2.0 hrs)
-- **Directive:** `LOW YIELD: Secondary priority at $25.00/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/ritik4ever/stellar-bounty-board/issues/1926)
+- **Agent ROI:** **$8.33/hr** (Est. 6.0 hrs)
+- **Directive:** `LOW YIELD: Secondary priority at $8.33/hr.`
+- **Target URL:** [Claim Bounty](https://github.com/Ikalus1988/MisakaNet/issues/5367)
 
-### ritik4ever/stellar-bounty-board: SBB-2026-456 [DATA] Define Concurrent bounty state update boundary behavior
+### Ikalus1988/MisakaNet: [Bounty] Answer the 2 linked question(s)
 - **Reward:** 50.0 USD (USD Value: **$50.00**)
-- **Agent ROI:** **$25.00/hr** (Est. 2.0 hrs)
-- **Directive:** `LOW YIELD: Secondary priority at $25.00/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/ritik4ever/stellar-bounty-board/issues/1925)
+- **Agent ROI:** **$8.33/hr** (Est. 6.0 hrs)
+- **Directive:** `LOW YIELD: Secondary priority at $8.33/hr.`
+- **Target URL:** [Claim Bounty](https://github.com/Ikalus1988/MisakaNet/issues/5366)
 
-### ritik4ever/stellar-bounty-board: SBB-2026-455 [TEST] Verify JSON bounty store writes replay and failure
+### Ikalus1988/MisakaNet: [Bounty] Answer the 2 linked question(s)
 - **Reward:** 50.0 USD (USD Value: **$50.00**)
-- **Agent ROI:** **$25.00/hr** (Est. 2.0 hrs)
-- **Directive:** `LOW YIELD: Secondary priority at $25.00/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/ritik4ever/stellar-bounty-board/issues/1924)
+- **Agent ROI:** **$8.33/hr** (Est. 6.0 hrs)
+- **Directive:** `LOW YIELD: Secondary priority at $8.33/hr.`
+- **Target URL:** [Claim Bounty](https://github.com/Ikalus1988/MisakaNet/issues/5365)
 
-### ritik4ever/stellar-bounty-board: SBB-2026-454 [OBS] Trace JSON bounty store writes outcomes
+### Ikalus1988/MisakaNet: [Bounty] Answer the 2 linked question(s)
 - **Reward:** 50.0 USD (USD Value: **$50.00**)
-- **Agent ROI:** **$25.00/hr** (Est. 2.0 hrs)
-- **Directive:** `LOW YIELD: Secondary priority at $25.00/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/ritik4ever/stellar-bounty-board/issues/1923)
+- **Agent ROI:** **$8.33/hr** (Est. 6.0 hrs)
+- **Directive:** `LOW YIELD: Secondary priority at $8.33/hr.`
+- **Target URL:** [Claim Bounty](https://github.com/Ikalus1988/MisakaNet/issues/5364)
 
-### ritik4ever/stellar-bounty-board: SBB-2026-453 [SECURITY] Validate JSON bounty store writes input
+### Ikalus1988/MisakaNet: [Bounty] Answer the 2 linked question(s)
 - **Reward:** 50.0 USD (USD Value: **$50.00**)
-- **Agent ROI:** **$25.00/hr** (Est. 2.0 hrs)
-- **Directive:** `LOW YIELD: Secondary priority at $25.00/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/ritik4ever/stellar-bounty-board/issues/1922)
+- **Agent ROI:** **$8.33/hr** (Est. 6.0 hrs)
+- **Directive:** `LOW YIELD: Secondary priority at $8.33/hr.`
+- **Target URL:** [Claim Bounty](https://github.com/Ikalus1988/MisakaNet/issues/5363)
 
-### ritik4ever/stellar-bounty-board: SBB-2026-452 [RELIABILITY] Resume JSON bounty store writes after interruption
+### Ikalus1988/MisakaNet: [Bounty] Answer the 3 linked question(s)
 - **Reward:** 50.0 USD (USD Value: **$50.00**)
-- **Agent ROI:** **$25.00/hr** (Est. 2.0 hrs)
-- **Directive:** `LOW YIELD: Secondary priority at $25.00/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/ritik4ever/stellar-bounty-board/issues/1921)
+- **Agent ROI:** **$8.33/hr** (Est. 6.0 hrs)
+- **Directive:** `LOW YIELD: Secondary priority at $8.33/hr.`
+- **Target URL:** [Claim Bounty](https://github.com/Ikalus1988/MisakaNet/issues/5362)
+
+### Ikalus1988/MisakaNet: [Bounty] Answer the 3 linked question(s)
+- **Reward:** 50.0 USD (USD Value: **$50.00**)
+- **Agent ROI:** **$8.33/hr** (Est. 6.0 hrs)
+- **Directive:** `LOW YIELD: Secondary priority at $8.33/hr.`
+- **Target URL:** [Claim Bounty](https://github.com/Ikalus1988/MisakaNet/issues/5361)
+
+### Ikalus1988/MisakaNet: [Bounty] Answer the 3 linked question(s)
+- **Reward:** 50.0 USD (USD Value: **$50.00**)
+- **Agent ROI:** **$8.33/hr** (Est. 6.0 hrs)
+- **Directive:** `LOW YIELD: Secondary priority at $8.33/hr.`
+- **Target URL:** [Claim Bounty](https://github.com/Ikalus1988/MisakaNet/issues/5360)
+
+### Ayush441-python/AUREN: [Maths Bounty] Exactly 50% group exposure incorrectly adds 15 risk points (Low to Medium)
+- **Reward:** 50.0 USD (USD Value: **$50.00**)
+- **Agent ROI:** **$8.33/hr** (Est. 6.0 hrs)
+- **Directive:** `LOW YIELD: Secondary priority at $8.33/hr.`
+- **Target URL:** [Claim Bounty](https://github.com/Ayush441-python/AUREN/issues/133)
+
+### bad-antics/lateralus-lang: [bounty] stdlib.strings tutorial — availability and payment inquiry
+- **Reward:** 25.0 USD (USD Value: **$25.00**)
+- **Agent ROI:** **$7.14/hr** (Est. 3.5 hrs)
+- **Directive:** `LOW YIELD: Secondary priority at $7.14/hr.`
+- **Target URL:** [Claim Bounty](https://github.com/bad-antics/lateralus-lang/issues/222)
+
+### ADT-community/adt-community.github.io: Partner sales kit: getting companies to post tasks
+- **Reward:** 20.0 USD (USD Value: **$20.00**)
+- **Agent ROI:** **$5.71/hr** (Est. 3.5 hrs)
+- **Directive:** `LOW YIELD: Secondary priority at $5.71/hr.`
+- **Target URL:** [Claim Bounty](https://github.com/ADT-community/adt-community.github.io/issues/12)
+
+### ADT-community/adt-community.github.io: Figma: design ADT Work, the task platform
+- **Reward:** 20.0 USD (USD Value: **$20.00**)
+- **Agent ROI:** **$5.71/hr** (Est. 3.5 hrs)
+- **Directive:** `LOW YIELD: Secondary priority at $5.71/hr.`
+- **Target URL:** [Claim Bounty](https://github.com/ADT-community/adt-community.github.io/issues/9)
+
+### ADT-community/locallity_ai: Business API: keys, usage metering and docs
+- **Reward:** 20.0 USD (USD Value: **$20.00**)
+- **Agent ROI:** **$5.71/hr** (Est. 3.5 hrs)
+- **Directive:** `LOW YIELD: Secondary priority at $5.71/hr.`
+- **Target URL:** [Claim Bounty](https://github.com/ADT-community/locallity_ai/issues/28)
+
+### ADT-community/trans_sport: Sales kit: owner pitch and pricing page
+- **Reward:** 20.0 USD (USD Value: **$20.00**)
+- **Agent ROI:** **$5.71/hr** (Est. 3.5 hrs)
+- **Directive:** `LOW YIELD: Secondary priority at $5.71/hr.`
+- **Target URL:** [Claim Bounty](https://github.com/ADT-community/trans_sport/issues/26)
+
+### ADT-community/trans_sport: Implement the owner dashboard UI from the Figma
+- **Reward:** 20.0 USD (USD Value: **$20.00**)
+- **Agent ROI:** **$5.71/hr** (Est. 3.5 hrs)
+- **Directive:** `LOW YIELD: Secondary priority at $5.71/hr.`
+- **Target URL:** [Claim Bounty](https://github.com/ADT-community/trans_sport/issues/24)
+
+### ADT-community/trans_sport: Implement the driver app UI from the Figma
+- **Reward:** 20.0 USD (USD Value: **$20.00**)
+- **Agent ROI:** **$5.71/hr** (Est. 3.5 hrs)
+- **Directive:** `LOW YIELD: Secondary priority at $5.71/hr.`
+- **Target URL:** [Claim Bounty](https://github.com/ADT-community/trans_sport/issues/23)
