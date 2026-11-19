@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-11-18T20:52:28.713019+00:00",
+    "generated_at": "2026-11-19T07:53:42.022907+00:00",
     "data_sources": [
       "GitHub Search API",
       "CoinGecko V3 API",
@@ -11,16 +11,64 @@
   },
   "bounty_targets": [
     {
+      "issue_url": "https://github.com/relayhop/sn-monetization-runtime/issues/1425",
+      "repository": "relayhop/sn-monetization-runtime",
+      "title": "[radar] SN open bounty 2026-11-19T04:04",
+      "raw_reward_currency": "BITCOIN",
+      "raw_reward_amount": 1616276.0,
+      "estimated_hours_to_solve": 2.0,
+      "live_usd_exchange_rate": 63629.0,
+      "total_usd_value": 102842025604.0,
+      "roi_usd_per_hour": 51421012802.0,
+      "agent_directive": "EXECUTE: High-yield target at $51421012802.00/hr. Prioritize PR submission."
+    },
+    {
+      "issue_url": "https://github.com/relayhop/sn-monetization-runtime/issues/1424",
+      "repository": "relayhop/sn-monetization-runtime",
+      "title": "[radar] SN open bounty 2026-11-19T03:13",
+      "raw_reward_currency": "BITCOIN",
+      "raw_reward_amount": 1616276.0,
+      "estimated_hours_to_solve": 2.0,
+      "live_usd_exchange_rate": 63629.0,
+      "total_usd_value": 102842025604.0,
+      "roi_usd_per_hour": 51421012802.0,
+      "agent_directive": "EXECUTE: High-yield target at $51421012802.00/hr. Prioritize PR submission."
+    },
+    {
+      "issue_url": "https://github.com/relayhop/sn-monetization-runtime/issues/1422",
+      "repository": "relayhop/sn-monetization-runtime",
+      "title": "[radar] SN open bounty 2026-11-18T23:01",
+      "raw_reward_currency": "BITCOIN",
+      "raw_reward_amount": 1616276.0,
+      "estimated_hours_to_solve": 2.0,
+      "live_usd_exchange_rate": 63629.0,
+      "total_usd_value": 102842025604.0,
+      "roi_usd_per_hour": 51421012802.0,
+      "agent_directive": "EXECUTE: High-yield target at $51421012802.00/hr. Prioritize PR submission."
+    },
+    {
+      "issue_url": "https://github.com/relayhop/sn-monetization-runtime/issues/1420",
+      "repository": "relayhop/sn-monetization-runtime",
+      "title": "[radar] SN open bounty 2026-11-18T21:49",
+      "raw_reward_currency": "BITCOIN",
+      "raw_reward_amount": 1616276.0,
+      "estimated_hours_to_solve": 2.0,
+      "live_usd_exchange_rate": 63629.0,
+      "total_usd_value": 102842025604.0,
+      "roi_usd_per_hour": 51421012802.0,
+      "agent_directive": "EXECUTE: High-yield target at $51421012802.00/hr. Prioritize PR submission."
+    },
+    {
       "issue_url": "https://github.com/relayhop/sn-monetization-runtime/issues/1418",
       "repository": "relayhop/sn-monetization-runtime",
       "title": "[radar] SN open bounty 2026-11-18T16:28",
       "raw_reward_currency": "BITCOIN",
       "raw_reward_amount": 1616276.0,
       "estimated_hours_to_solve": 2.0,
-      "live_usd_exchange_rate": 62459.0,
-      "total_usd_value": 100950982684.0,
-      "roi_usd_per_hour": 50475491342.0,
-      "agent_directive": "EXECUTE: High-yield target at $50475491342.00/hr. Prioritize PR submission."
+      "live_usd_exchange_rate": 63629.0,
+      "total_usd_value": 102842025604.0,
+      "roi_usd_per_hour": 51421012802.0,
+      "agent_directive": "EXECUTE: High-yield target at $51421012802.00/hr. Prioritize PR submission."
     },
     {
       "issue_url": "https://github.com/relayhop/sn-monetization-runtime/issues/1416",
@@ -29,123 +77,63 @@
       "raw_reward_currency": "BITCOIN",
       "raw_reward_amount": 1616276.0,
       "estimated_hours_to_solve": 2.0,
-      "live_usd_exchange_rate": 62459.0,
-      "total_usd_value": 100950982684.0,
-      "roi_usd_per_hour": 50475491342.0,
-      "agent_directive": "EXECUTE: High-yield target at $50475491342.00/hr. Prioritize PR submission."
+      "live_usd_exchange_rate": 63629.0,
+      "total_usd_value": 102842025604.0,
+      "roi_usd_per_hour": 51421012802.0,
+      "agent_directive": "EXECUTE: High-yield target at $51421012802.00/hr. Prioritize PR submission."
     },
     {
-      "issue_url": "https://github.com/relayhop/sn-monetization-runtime/issues/1414",
-      "repository": "relayhop/sn-monetization-runtime",
-      "title": "[radar] SN open bounty 2026-11-18T13:49",
-      "raw_reward_currency": "BITCOIN",
-      "raw_reward_amount": 1616276.0,
-      "estimated_hours_to_solve": 2.0,
-      "live_usd_exchange_rate": 62459.0,
-      "total_usd_value": 100950982684.0,
-      "roi_usd_per_hour": 50475491342.0,
-      "agent_directive": "EXECUTE: High-yield target at $50475491342.00/hr. Prioritize PR submission."
-    },
-    {
-      "issue_url": "https://github.com/relayhop/sn-monetization-runtime/issues/1413",
-      "repository": "relayhop/sn-monetization-runtime",
-      "title": "[radar] SN open bounty 2026-11-18T07:06",
-      "raw_reward_currency": "BITCOIN",
-      "raw_reward_amount": 1616276.0,
-      "estimated_hours_to_solve": 2.0,
-      "live_usd_exchange_rate": 62459.0,
-      "total_usd_value": 100950982684.0,
-      "roi_usd_per_hour": 50475491342.0,
-      "agent_directive": "EXECUTE: High-yield target at $50475491342.00/hr. Prioritize PR submission."
-    },
-    {
-      "issue_url": "https://github.com/relayhop/sn-monetization-runtime/issues/1411",
-      "repository": "relayhop/sn-monetization-runtime",
-      "title": "[radar] SN open bounty 2026-11-18T04:09",
-      "raw_reward_currency": "BITCOIN",
-      "raw_reward_amount": 1616276.0,
-      "estimated_hours_to_solve": 2.0,
-      "live_usd_exchange_rate": 62459.0,
-      "total_usd_value": 100950982684.0,
-      "roi_usd_per_hour": 50475491342.0,
-      "agent_directive": "EXECUTE: High-yield target at $50475491342.00/hr. Prioritize PR submission."
-    },
-    {
-      "issue_url": "https://github.com/relayhop/sn-monetization-runtime/issues/1409",
-      "repository": "relayhop/sn-monetization-runtime",
-      "title": "[radar] SN open bounty 2026-11-17T23:59",
-      "raw_reward_currency": "BITCOIN",
-      "raw_reward_amount": 1616276.0,
-      "estimated_hours_to_solve": 2.0,
-      "live_usd_exchange_rate": 62459.0,
-      "total_usd_value": 100950982684.0,
-      "roi_usd_per_hour": 50475491342.0,
-      "agent_directive": "EXECUTE: High-yield target at $50475491342.00/hr. Prioritize PR submission."
-    },
-    {
-      "issue_url": "https://github.com/relayhop/sn-monetization-runtime/issues/1407",
-      "repository": "relayhop/sn-monetization-runtime",
-      "title": "[radar] SN open bounty 2026-11-17T22:11",
-      "raw_reward_currency": "BITCOIN",
-      "raw_reward_amount": 1616276.0,
-      "estimated_hours_to_solve": 2.0,
-      "live_usd_exchange_rate": 62459.0,
-      "total_usd_value": 100950982684.0,
-      "roi_usd_per_hour": 50475491342.0,
-      "agent_directive": "EXECUTE: High-yield target at $50475491342.00/hr. Prioritize PR submission."
-    },
-    {
-      "issue_url": "https://github.com/Ayush441-python/AUREN/issues/93",
-      "repository": "Ayush441-python/AUREN",
-      "title": "[Bug Bounty] AI report verifies +18% for a stress scenario whose return is \u221218%",
+      "issue_url": "https://github.com/IES-BoilerRoom/ebpf-verifier-reg-bounds/issues/1",
+      "repository": "IES-BoilerRoom/ebpf-verifier-reg-bounds",
+      "title": "[350 USDC] Fix ALU64 chunk ceiling boundary and tristate tnum scalar bitmask witness (refine_bpf_tnum_frames)",
       "raw_reward_currency": "USD",
-      "raw_reward_amount": 10000.0,
-      "estimated_hours_to_solve": 3.5,
+      "raw_reward_amount": 350.0,
+      "estimated_hours_to_solve": 2.0,
       "live_usd_exchange_rate": 1.0,
-      "total_usd_value": 10000.0,
-      "roi_usd_per_hour": 2857.14,
-      "agent_directive": "EXECUTE: High-yield target at $2857.14/hr. Prioritize PR submission."
+      "total_usd_value": 350.0,
+      "roi_usd_per_hour": 175.0,
+      "agent_directive": "EXECUTE: High-yield target at $175.00/hr. Prioritize PR submission."
     },
     {
-      "issue_url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4370",
-      "repository": "zhangjiayang6835-cyber/bounty-plaza",
-      "title": "[Bounty] [Escrowed $450 USDC] Correct packet frame boundary clamp and 0.5-ULP FMA range-r",
+      "issue_url": "https://github.com/IES-BoilerRoom/ebpf-verifier-reg-bounds/issues/2",
+      "repository": "IES-BoilerRoom/ebpf-verifier-reg-bounds",
+      "title": "[$250] fix(verifier): Tighten 32-bit subregister zero-extension parity across conditional joins (ebpf-verifier-reg-bounds)",
       "raw_reward_currency": "USD",
-      "raw_reward_amount": 450.0,
-      "estimated_hours_to_solve": 3.5,
+      "raw_reward_amount": 250.0,
+      "estimated_hours_to_solve": 2.0,
       "live_usd_exchange_rate": 1.0,
-      "total_usd_value": 450.0,
-      "roi_usd_per_hour": 128.57,
-      "agent_directive": "EXECUTE: High-yield target at $128.57/hr. Prioritize PR submission."
+      "total_usd_value": 250.0,
+      "roi_usd_per_hour": 125.0,
+      "agent_directive": "EXECUTE: High-yield target at $125.00/hr. Prioritize PR submission."
     },
     {
-      "issue_url": "https://github.com/frolvanya/omni-rebalancer/issues/2",
-      "repository": "frolvanya/omni-rebalancer",
-      "title": "DAO proposal #335 filed for the omni.bridge replay \u2014 10% bounty ($200k) to execute",
+      "issue_url": "https://github.com/IES-BoilerRoom/nvme-zns-bch-ecc-simulator/issues/1",
+      "repository": "IES-BoilerRoom/nvme-zns-bch-ecc-simulator",
+      "title": "[$200] fix(ftl_ecc): Resolve ZNS frame length boundary and align 64-lane BCH syndrome parity word (unpack_zns_metadata_frames)",
       "raw_reward_currency": "USD",
       "raw_reward_amount": 200.0,
-      "estimated_hours_to_solve": 3.5,
+      "estimated_hours_to_solve": 2.0,
       "live_usd_exchange_rate": 1.0,
       "total_usd_value": 200.0,
-      "roi_usd_per_hour": 57.14,
-      "agent_directive": "STANDARD: Profitable target at $57.14/hr. Queue for execution."
+      "roi_usd_per_hour": 100.0,
+      "agent_directive": "EXECUTE: High-yield target at $100.00/hr. Prioritize PR submission."
     },
     {
-      "issue_url": "https://github.com/freedom-winds/BountyScout/issues/1431",
-      "repository": "freedom-winds/BountyScout",
-      "title": "\ud83c\udfaf Bounty Alert: 11 New Opportunityies found",
+      "issue_url": "https://github.com/IES-BoilerRoom/nvme-zns-bch-ecc-simulator/issues/2",
+      "repository": "IES-BoilerRoom/nvme-zns-bch-ecc-simulator",
+      "title": "ci/ftl_ecc: Stabilize polynomial-to-dual-basis trace tag across zone append descriptors - Reward $175 USDC",
       "raw_reward_currency": "USD",
-      "raw_reward_amount": 200.0,
-      "estimated_hours_to_solve": 6.0,
+      "raw_reward_amount": 175.0,
+      "estimated_hours_to_solve": 2.0,
       "live_usd_exchange_rate": 1.0,
-      "total_usd_value": 200.0,
-      "roi_usd_per_hour": 33.33,
-      "agent_directive": "LOW YIELD: Secondary priority at $33.33/hr."
+      "total_usd_value": 175.0,
+      "roi_usd_per_hour": 87.5,
+      "agent_directive": "STANDARD: Profitable target at $87.50/hr. Queue for execution."
     },
     {
-      "issue_url": "https://github.com/amirmomeni177/bounty-watch/issues/10",
+      "issue_url": "https://github.com/amirmomeni177/bounty-watch/issues/11",
       "repository": "amirmomeni177/bounty-watch",
-      "title": "bounty-watch 2026-11-18: 1 new, 2 resumed, 0 watchlist changes",
+      "title": "bounty-watch 2026-11-19: 0 new, 1 resumed, 0 watchlist changes",
       "raw_reward_currency": "USD",
       "raw_reward_amount": 50.0,
       "estimated_hours_to_solve": 2.0,
@@ -155,9 +143,9 @@
       "agent_directive": "LOW YIELD: Secondary priority at $25.00/hr."
     },
     {
-      "issue_url": "https://github.com/Soroban-escrow/escrow-app/issues/124",
-      "repository": "Soroban-escrow/escrow-app",
-      "title": "Progress stepper for refunded and disputed bounties",
+      "issue_url": "https://github.com/ritik4ever/stellar-bounty-board/issues/1954",
+      "repository": "ritik4ever/stellar-bounty-board",
+      "title": "SBB-2026-485 [TEST] Verify Bounty lifecycle E2E fixtures from a clean environment",
       "raw_reward_currency": "USD",
       "raw_reward_amount": 50.0,
       "estimated_hours_to_solve": 2.0,
@@ -167,9 +155,9 @@
       "agent_directive": "LOW YIELD: Secondary priority at $25.00/hr."
     },
     {
-      "issue_url": "https://github.com/Soroban-escrow/escrow-app/issues/123",
-      "repository": "Soroban-escrow/escrow-app",
-      "title": "Show the funding and closing transactions on the bounty page",
+      "issue_url": "https://github.com/ritik4ever/stellar-bounty-board/issues/1953",
+      "repository": "ritik4ever/stellar-bounty-board",
+      "title": "SBB-2026-484 [DOCS] Explain Bounty lifecycle E2E fixtures outcomes",
       "raw_reward_currency": "USD",
       "raw_reward_amount": 50.0,
       "estimated_hours_to_solve": 2.0,
@@ -179,9 +167,9 @@
       "agent_directive": "LOW YIELD: Secondary priority at $25.00/hr."
     },
     {
-      "issue_url": "https://github.com/Soroban-escrow/escrow-app/issues/121",
-      "repository": "Soroban-escrow/escrow-app",
-      "title": "Don't relabel an issue whose bounty label is already correct",
+      "issue_url": "https://github.com/ritik4ever/stellar-bounty-board/issues/1952",
+      "repository": "ritik4ever/stellar-bounty-board",
+      "title": "SBB-2026-483 [CONFIG] Validate Bounty lifecycle E2E fixtures setup",
       "raw_reward_currency": "USD",
       "raw_reward_amount": 50.0,
       "estimated_hours_to_solve": 2.0,
@@ -191,9 +179,9 @@
       "agent_directive": "LOW YIELD: Secondary priority at $25.00/hr."
     },
     {
-      "issue_url": "https://github.com/Soroban-escrow/escrow-app/issues/110",
-      "repository": "Soroban-escrow/escrow-app",
-      "title": "Index the bounty text search",
+      "issue_url": "https://github.com/ritik4ever/stellar-bounty-board/issues/1951",
+      "repository": "ritik4ever/stellar-bounty-board",
+      "title": "SBB-2026-482 [RELIABILITY] Make Bounty lifecycle E2E fixtures reruns safe",
       "raw_reward_currency": "USD",
       "raw_reward_amount": 50.0,
       "estimated_hours_to_solve": 2.0,
@@ -203,9 +191,9 @@
       "agent_directive": "LOW YIELD: Secondary priority at $25.00/hr."
     },
     {
-      "issue_url": "https://github.com/Soroban-escrow/escrow-contracts/issues/85",
-      "repository": "Soroban-escrow/escrow-contracts",
-      "title": "Test treasury rotation applies to existing bounties",
+      "issue_url": "https://github.com/ritik4ever/stellar-bounty-board/issues/1950",
+      "repository": "ritik4ever/stellar-bounty-board",
+      "title": "SBB-2026-481 [TOOLING] Define Bounty lifecycle E2E fixtures inputs",
       "raw_reward_currency": "USD",
       "raw_reward_amount": 50.0,
       "estimated_hours_to_solve": 2.0,
@@ -215,9 +203,9 @@
       "agent_directive": "LOW YIELD: Secondary priority at $25.00/hr."
     },
     {
-      "issue_url": "https://github.com/Soroban-escrow/escrow-contracts/issues/82",
-      "repository": "Soroban-escrow/escrow-contracts",
-      "title": "Test that the admin cannot move bounty funds directly",
+      "issue_url": "https://github.com/ritik4ever/stellar-bounty-board/issues/1929",
+      "repository": "ritik4ever/stellar-bounty-board",
+      "title": "SBB-2026-460 [TEST] Verify Concurrent bounty state update replay and failure",
       "raw_reward_currency": "USD",
       "raw_reward_amount": 50.0,
       "estimated_hours_to_solve": 2.0,
@@ -227,9 +215,9 @@
       "agent_directive": "LOW YIELD: Secondary priority at $25.00/hr."
     },
     {
-      "issue_url": "https://github.com/Soroban-escrow/escrow-contracts/issues/80",
-      "repository": "Soroban-escrow/escrow-contracts",
-      "title": "Test stored `Bounty` fields after funding",
+      "issue_url": "https://github.com/ritik4ever/stellar-bounty-board/issues/1928",
+      "repository": "ritik4ever/stellar-bounty-board",
+      "title": "SBB-2026-459 [OBS] Trace Concurrent bounty state update outcomes",
       "raw_reward_currency": "USD",
       "raw_reward_amount": 50.0,
       "estimated_hours_to_solve": 2.0,
@@ -239,9 +227,9 @@
       "agent_directive": "LOW YIELD: Secondary priority at $25.00/hr."
     },
     {
-      "issue_url": "https://github.com/Soroban-escrow/escrow-contracts/issues/77",
-      "repository": "Soroban-escrow/escrow-contracts",
-      "title": "Test that `fund_bounty` accepts exactly `min_amount` and `max_amount`",
+      "issue_url": "https://github.com/ritik4ever/stellar-bounty-board/issues/1927",
+      "repository": "ritik4ever/stellar-bounty-board",
+      "title": "SBB-2026-458 [SECURITY] Validate Concurrent bounty state update input",
       "raw_reward_currency": "USD",
       "raw_reward_amount": 50.0,
       "estimated_hours_to_solve": 2.0,
@@ -251,9 +239,9 @@
       "agent_directive": "LOW YIELD: Secondary priority at $25.00/hr."
     },
     {
-      "issue_url": "https://github.com/Soroban-escrow/escrow-contracts/issues/73",
-      "repository": "Soroban-escrow/escrow-contracts",
-      "title": "Let a maintainer revoke `relayer_allowed` on an open bounty",
+      "issue_url": "https://github.com/ritik4ever/stellar-bounty-board/issues/1926",
+      "repository": "ritik4ever/stellar-bounty-board",
+      "title": "SBB-2026-457 [RELIABILITY] Resume Concurrent bounty state update after interruption",
       "raw_reward_currency": "USD",
       "raw_reward_amount": 50.0,
       "estimated_hours_to_solve": 2.0,
@@ -263,9 +251,9 @@
       "agent_directive": "LOW YIELD: Secondary priority at $25.00/hr."
     },
     {
-      "issue_url": "https://github.com/Soroban-escrow/escrow-contracts/issues/71",
-      "repository": "Soroban-escrow/escrow-contracts",
-      "title": "Add `cancel_bounty` with maintainer and arbiter co-signature",
+      "issue_url": "https://github.com/ritik4ever/stellar-bounty-board/issues/1925",
+      "repository": "ritik4ever/stellar-bounty-board",
+      "title": "SBB-2026-456 [DATA] Define Concurrent bounty state update boundary behavior",
       "raw_reward_currency": "USD",
       "raw_reward_amount": 50.0,
       "estimated_hours_to_solve": 2.0,
@@ -275,9 +263,9 @@
       "agent_directive": "LOW YIELD: Secondary priority at $25.00/hr."
     },
     {
-      "issue_url": "https://github.com/wallyben/makefun-token-radar/issues/1",
-      "repository": "wallyben/makefun-token-radar",
-      "title": "Create the four missing bounty repositories",
+      "issue_url": "https://github.com/ritik4ever/stellar-bounty-board/issues/1924",
+      "repository": "ritik4ever/stellar-bounty-board",
+      "title": "SBB-2026-455 [TEST] Verify JSON bounty store writes replay and failure",
       "raw_reward_currency": "USD",
       "raw_reward_amount": 50.0,
       "estimated_hours_to_solve": 2.0,
@@ -287,9 +275,9 @@
       "agent_directive": "LOW YIELD: Secondary priority at $25.00/hr."
     },
     {
-      "issue_url": "https://github.com/Soroban-escrow/escrow-backend/issues/106",
-      "repository": "Soroban-escrow/escrow-backend",
-      "title": "Tests: settle when the bounty changes state while a release is in flight",
+      "issue_url": "https://github.com/ritik4ever/stellar-bounty-board/issues/1923",
+      "repository": "ritik4ever/stellar-bounty-board",
+      "title": "SBB-2026-454 [OBS] Trace JSON bounty store writes outcomes",
       "raw_reward_currency": "USD",
       "raw_reward_amount": 50.0,
       "estimated_hours_to_solve": 2.0,
@@ -299,9 +287,9 @@
       "agent_directive": "LOW YIELD: Secondary priority at $25.00/hr."
     },
     {
-      "issue_url": "https://github.com/Soroban-escrow/escrow-backend/issues/95",
-      "repository": "Soroban-escrow/escrow-backend",
-      "title": "Show the refund date and a time zone on the bounty card",
+      "issue_url": "https://github.com/ritik4ever/stellar-bounty-board/issues/1922",
+      "repository": "ritik4ever/stellar-bounty-board",
+      "title": "SBB-2026-453 [SECURITY] Validate JSON bounty store writes input",
       "raw_reward_currency": "USD",
       "raw_reward_amount": 50.0,
       "estimated_hours_to_solve": 2.0,
@@ -311,9 +299,9 @@
       "agent_directive": "LOW YIELD: Secondary priority at $25.00/hr."
     },
     {
-      "issue_url": "https://github.com/Soroban-escrow/escrow-app/issues/100",
-      "repository": "Soroban-escrow/escrow-app",
-      "title": "Review a PR against every open bounty it closes",
+      "issue_url": "https://github.com/ritik4ever/stellar-bounty-board/issues/1921",
+      "repository": "ritik4ever/stellar-bounty-board",
+      "title": "SBB-2026-452 [RELIABILITY] Resume JSON bounty store writes after interruption",
       "raw_reward_currency": "USD",
       "raw_reward_amount": 50.0,
       "estimated_hours_to_solve": 2.0,
@@ -323,9 +311,45 @@
       "agent_directive": "LOW YIELD: Secondary priority at $25.00/hr."
     },
     {
-      "issue_url": "https://github.com/Refract-Protocol/refract-contracts/issues/582",
-      "repository": "Refract-Protocol/refract-contracts",
-      "title": "`bounty::evidence` accepts an unverified evidence hash and reports success",
+      "issue_url": "https://github.com/ritik4ever/stellar-bounty-board/issues/1920",
+      "repository": "ritik4ever/stellar-bounty-board",
+      "title": "SBB-2026-451 [DATA] Define JSON bounty store writes boundary behavior",
+      "raw_reward_currency": "USD",
+      "raw_reward_amount": 50.0,
+      "estimated_hours_to_solve": 2.0,
+      "live_usd_exchange_rate": 1.0,
+      "total_usd_value": 50.0,
+      "roi_usd_per_hour": 25.0,
+      "agent_directive": "LOW YIELD: Secondary priority at $25.00/hr."
+    },
+    {
+      "issue_url": "https://github.com/ritik4ever/stellar-bounty-board/issues/1919",
+      "repository": "ritik4ever/stellar-bounty-board",
+      "title": "SBB-2026-450 [TEST] Add Soroban regression for Bounty storage lifetime",
+      "raw_reward_currency": "USD",
+      "raw_reward_amount": 50.0,
+      "estimated_hours_to_solve": 2.0,
+      "live_usd_exchange_rate": 1.0,
+      "total_usd_value": 50.0,
+      "roi_usd_per_hour": 25.0,
+      "agent_directive": "LOW YIELD: Secondary priority at $25.00/hr."
+    },
+    {
+      "issue_url": "https://github.com/ritik4ever/stellar-bounty-board/issues/1918",
+      "repository": "ritik4ever/stellar-bounty-board",
+      "title": "SBB-2026-449 [EVENT] Align Bounty storage lifetime events with committed state",
+      "raw_reward_currency": "USD",
+      "raw_reward_amount": 50.0,
+      "estimated_hours_to_solve": 2.0,
+      "live_usd_exchange_rate": 1.0,
+      "total_usd_value": 50.0,
+      "roi_usd_per_hour": 25.0,
+      "agent_directive": "LOW YIELD: Secondary priority at $25.00/hr."
+    },
+    {
+      "issue_url": "https://github.com/Smartdevs17/agenticpay/issues/1329",
+      "repository": "Smartdevs17/agenticpay",
+      "title": "Build on-chain work-proof verifier with challenger bounty flow",
       "raw_reward_currency": "USD",
       "raw_reward_amount": 50.0,
       "estimated_hours_to_solve": 3.5,
@@ -333,18 +357,6 @@
       "total_usd_value": 50.0,
       "roi_usd_per_hour": 14.29,
       "agent_directive": "LOW YIELD: Secondary priority at $14.29/hr."
-    },
-    {
-      "issue_url": "https://github.com/bad-antics/lateralus-lang/issues/198",
-      "repository": "bad-antics/lateralus-lang",
-      "title": "[bounty] stdlib.merkle tutorial",
-      "raw_reward_currency": "USD",
-      "raw_reward_amount": 25.0,
-      "estimated_hours_to_solve": 2.0,
-      "live_usd_exchange_rate": 1.0,
-      "total_usd_value": 25.0,
-      "roi_usd_per_hour": 12.5,
-      "agent_directive": "LOW YIELD: Secondary priority at $12.50/hr."
     },
     {
       "issue_url": "https://github.com/Ikalus1988/MisakaNet/issues/5255",
@@ -419,6 +431,18 @@
       "agent_directive": "LOW YIELD: Secondary priority at $8.33/hr."
     },
     {
+      "issue_url": "https://github.com/amirmomeni177/bounty-watch/issues/12",
+      "repository": "amirmomeni177/bounty-watch",
+      "title": "Scope digest 2026-11-19: 12 changes across 7 bounty programs",
+      "raw_reward_currency": "USD",
+      "raw_reward_amount": 50.0,
+      "estimated_hours_to_solve": 6.0,
+      "live_usd_exchange_rate": 1.0,
+      "total_usd_value": 50.0,
+      "roi_usd_per_hour": 8.33,
+      "agent_directive": "LOW YIELD: Secondary priority at $8.33/hr."
+    },
+    {
       "issue_url": "https://github.com/PhanKhoa95/oss-bot-trap-benchmark/issues/116",
       "repository": "PhanKhoa95/oss-bot-trap-benchmark",
       "title": "[Wave 11] security(bridge): synchronize 128-bit fee rounding invariant across contracts/sbtc_vault.clar and src/soroban_math.rs",
@@ -463,30 +487,6 @@
       "estimated_hours_to_solve": 3.5,
       "live_usd_exchange_rate": 1.0,
       "total_usd_value": 0.04,
-      "roi_usd_per_hour": 0.01,
-      "agent_directive": "LOW YIELD: Secondary priority at $0.01/hr."
-    },
-    {
-      "issue_url": "https://github.com/PhanKhoa95/oss-bot-trap-benchmark/issues/112",
-      "repository": "PhanKhoa95/oss-bot-trap-benchmark",
-      "title": "[Wave 11] feat(soroban): add ledger-skew replay window check in src/soroban_math.rs",
-      "raw_reward_currency": "USD",
-      "raw_reward_amount": 0.04,
-      "estimated_hours_to_solve": 3.5,
-      "live_usd_exchange_rate": 1.0,
-      "total_usd_value": 0.04,
-      "roi_usd_per_hour": 0.01,
-      "agent_directive": "LOW YIELD: Secondary priority at $0.01/hr."
-    },
-    {
-      "issue_url": "https://github.com/PhanKhoa95/oss-bot-trap-benchmark/issues/111",
-      "repository": "PhanKhoa95/oss-bot-trap-benchmark",
-      "title": "[Wave 11] fix(soroban): clamp instance storage TTL extension against max_ttl in contracts/soroban_ttl_guard.rs",
-      "raw_reward_currency": "USD",
-      "raw_reward_amount": 0.03,
-      "estimated_hours_to_solve": 3.5,
-      "live_usd_exchange_rate": 1.0,
-      "total_usd_value": 0.03,
       "roi_usd_per_hour": 0.01,
       "agent_directive": "LOW YIELD: Secondary priority at $0.01/hr."
     }
