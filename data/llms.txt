@@ -2,23 +2,59 @@
 > Live cross-referencing of open GitHub bounties and live cryptocurrency markets to calculate maximum USD/Hour ROI.
 
 ## Top High-Yield Targets
-### Space-Nebula/stellar-nebula-nomad: Complete Bounty Board and Quest System
+### Elements-Studio/starswap-core: Bug bounty report ready to submit — security@starswap.xyz is undeliverable (domain has no MX records)
 - **Reward:** 50.0 USD (USD Value: **$50.00**)
 - **Agent ROI:** **$25.00/hr** (Est. 2.0 hrs)
 - **Directive:** `LOW YIELD: Secondary priority at $25.00/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/Space-Nebula/stellar-nebula-nomad/issues/648)
+- **Target URL:** [Claim Bounty](https://github.com/Elements-Studio/starswap-core/issues/103)
 
-### NathanAIoxr/Nathan-AI-Sovereign-Core: Join Nathan AI Global Bounties & Grand Challenges
+### amirmomeni177/bounty-watch: Scope digest 2026-11-20: 11 changes across 7 bounty programs
 - **Reward:** 50.0 USD (USD Value: **$50.00**)
 - **Agent ROI:** **$14.29/hr** (Est. 3.5 hrs)
 - **Directive:** `LOW YIELD: Secondary priority at $14.29/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/NathanAIoxr/Nathan-AI-Sovereign-Core/issues/433)
+- **Target URL:** [Claim Bounty](https://github.com/amirmomeni177/bounty-watch/issues/15)
 
-### bad-antics/lateralus-lang: [bounty] stdlib.influx_line tutorial: write a sensor reading without a database
+### Zenith-options/backend: Keeper bounty worker crashes the whole loop on one bad row
+- **Reward:** 50.0 USD (USD Value: **$50.00**)
+- **Agent ROI:** **$14.29/hr** (Est. 3.5 hrs)
+- **Directive:** `LOW YIELD: Secondary priority at $14.29/hr.`
+- **Target URL:** [Claim Bounty](https://github.com/Zenith-options/backend/issues/435)
+
+### Zenith-options/backend: Keeper bounty worker logs nothing when it finds no eligible bounties
+- **Reward:** 50.0 USD (USD Value: **$50.00**)
+- **Agent ROI:** **$14.29/hr** (Est. 3.5 hrs)
+- **Directive:** `LOW YIELD: Secondary priority at $14.29/hr.`
+- **Target URL:** [Claim Bounty](https://github.com/Zenith-options/backend/issues/424)
+
+### Zenith-options/backend: Keeper bounty payout failure leaves bounty in pending state forever
+- **Reward:** 50.0 USD (USD Value: **$50.00**)
+- **Agent ROI:** **$14.29/hr** (Est. 3.5 hrs)
+- **Directive:** `LOW YIELD: Secondary priority at $14.29/hr.`
+- **Target URL:** [Claim Bounty](https://github.com/Zenith-options/backend/issues/353)
+
+### Ayush441-python/AUREN: [Maths Bounty] concentration() evaluates to negative top3_weight and algebraic top_weight for short positions, masking >30% holding risk
+- **Reward:** 50.0 USD (USD Value: **$50.00**)
+- **Agent ROI:** **$14.29/hr** (Est. 3.5 hrs)
+- **Directive:** `LOW YIELD: Secondary priority at $14.29/hr.`
+- **Target URL:** [Claim Bounty](https://github.com/Ayush441-python/AUREN/issues/141)
+
+### bad-antics/lateralus-lang: [bounty] stdlib.rope tutorial: edit text without flattening first
 - **Reward:** 25.0 USD (USD Value: **$25.00**)
 - **Agent ROI:** **$12.50/hr** (Est. 2.0 hrs)
 - **Directive:** `LOW YIELD: Secondary priority at $12.50/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/bad-antics/lateralus-lang/issues/224)
+- **Target URL:** [Claim Bounty](https://github.com/bad-antics/lateralus-lang/issues/239)
+
+### bad-antics/lateralus-lang: [bounty] stdlib.roaring tutorial: matching event IDs across the 16-bit boundary
+- **Reward:** 25.0 USD (USD Value: **$25.00**)
+- **Agent ROI:** **$12.50/hr** (Est. 2.0 hrs)
+- **Directive:** `LOW YIELD: Secondary priority at $12.50/hr.`
+- **Target URL:** [Claim Bounty](https://github.com/bad-antics/lateralus-lang/issues/231)
+
+### alfrexo95/bounty-bot: 🪙 [Web3] [Wave 3: 2 × $20 USDC | 3-Year Protocol Trajectory
+- **Reward:** 20.0 USD (USD Value: **$20.00**)
+- **Agent ROI:** **$10.00/hr** (Est. 2.0 hrs)
+- **Directive:** `LOW YIELD: Secondary priority at $10.00/hr.`
+- **Target URL:** [Claim Bounty](https://github.com/alfrexo95/bounty-bot/issues/96)
 
 ### Ikalus1988/MisakaNet: [Bounty] Answer the 2 linked question(s)
 - **Reward:** 50.0 USD (USD Value: **$50.00**)
@@ -104,50 +140,14 @@
 - **Directive:** `LOW YIELD: Secondary priority at $8.33/hr.`
 - **Target URL:** [Claim Bounty](https://github.com/Ikalus1988/MisakaNet/issues/5360)
 
-### Ayush441-python/AUREN: [Maths Bounty] Exactly 50% group exposure incorrectly adds 15 risk points (Low to Medium)
+### Ikalus1988/MisakaNet: [Bounty] Answer the 3 linked question(s)
 - **Reward:** 50.0 USD (USD Value: **$50.00**)
 - **Agent ROI:** **$8.33/hr** (Est. 6.0 hrs)
 - **Directive:** `LOW YIELD: Secondary priority at $8.33/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/Ayush441-python/AUREN/issues/133)
+- **Target URL:** [Claim Bounty](https://github.com/Ikalus1988/MisakaNet/issues/5359)
 
-### bad-antics/lateralus-lang: [bounty] stdlib.strings tutorial — availability and payment inquiry
-- **Reward:** 25.0 USD (USD Value: **$25.00**)
-- **Agent ROI:** **$7.14/hr** (Est. 3.5 hrs)
-- **Directive:** `LOW YIELD: Secondary priority at $7.14/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/bad-antics/lateralus-lang/issues/222)
-
-### ADT-community/adt-community.github.io: Partner sales kit: getting companies to post tasks
-- **Reward:** 20.0 USD (USD Value: **$20.00**)
-- **Agent ROI:** **$5.71/hr** (Est. 3.5 hrs)
-- **Directive:** `LOW YIELD: Secondary priority at $5.71/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/ADT-community/adt-community.github.io/issues/12)
-
-### ADT-community/adt-community.github.io: Figma: design ADT Work, the task platform
-- **Reward:** 20.0 USD (USD Value: **$20.00**)
-- **Agent ROI:** **$5.71/hr** (Est. 3.5 hrs)
-- **Directive:** `LOW YIELD: Secondary priority at $5.71/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/ADT-community/adt-community.github.io/issues/9)
-
-### ADT-community/locallity_ai: Business API: keys, usage metering and docs
-- **Reward:** 20.0 USD (USD Value: **$20.00**)
-- **Agent ROI:** **$5.71/hr** (Est. 3.5 hrs)
-- **Directive:** `LOW YIELD: Secondary priority at $5.71/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/ADT-community/locallity_ai/issues/28)
-
-### ADT-community/trans_sport: Sales kit: owner pitch and pricing page
-- **Reward:** 20.0 USD (USD Value: **$20.00**)
-- **Agent ROI:** **$5.71/hr** (Est. 3.5 hrs)
-- **Directive:** `LOW YIELD: Secondary priority at $5.71/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/ADT-community/trans_sport/issues/26)
-
-### ADT-community/trans_sport: Implement the owner dashboard UI from the Figma
-- **Reward:** 20.0 USD (USD Value: **$20.00**)
-- **Agent ROI:** **$5.71/hr** (Est. 3.5 hrs)
-- **Directive:** `LOW YIELD: Secondary priority at $5.71/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/ADT-community/trans_sport/issues/24)
-
-### ADT-community/trans_sport: Implement the driver app UI from the Figma
-- **Reward:** 20.0 USD (USD Value: **$20.00**)
-- **Agent ROI:** **$5.71/hr** (Est. 3.5 hrs)
-- **Directive:** `LOW YIELD: Secondary priority at $5.71/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/ADT-community/trans_sport/issues/23)
+### Ikalus1988/MisakaNet: [Bounty] Answer the 3 linked question(s)
+- **Reward:** 50.0 USD (USD Value: **$50.00**)
+- **Agent ROI:** **$8.33/hr** (Est. 6.0 hrs)
+- **Directive:** `LOW YIELD: Secondary priority at $8.33/hr.`
+- **Target URL:** [Claim Bounty](https://github.com/Ikalus1988/MisakaNet/issues/5358)
