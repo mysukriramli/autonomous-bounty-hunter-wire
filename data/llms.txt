@@ -2,152 +2,152 @@
 > Live cross-referencing of open GitHub bounties and live cryptocurrency markets to calculate maximum USD/Hour ROI.
 
 ## Top High-Yield Targets
-### Elements-Studio/starswap-core: Bug bounty report ready to submit — security@starswap.xyz is undeliverable (domain has no MX records)
+### Ayush441-python/AUREN: [Maths Bounty] Missing AAPL closes shift unrelated MSFT liquidity 30 sessions into the past
+- **Reward:** 1000.0 USD (USD Value: **$1,000.00**)
+- **Agent ROI:** **$166.67/hr** (Est. 6.0 hrs)
+- **Directive:** `EXECUTE: High-yield target at $166.67/hr. Prioritize PR submission.`
+- **Target URL:** [Claim Bounty](https://github.com/Ayush441-python/AUREN/issues/159)
+
+### StoaDex/Stoa: Bounty #3 entry: Public Stoa swaps dashboard (Robinhood Chain)
+- **Reward:** 530.0 USD (USD Value: **$530.00**)
+- **Agent ROI:** **$151.43/hr** (Est. 3.5 hrs)
+- **Directive:** `EXECUTE: High-yield target at $151.43/hr. Prioritize PR submission.`
+- **Target URL:** [Claim Bounty](https://github.com/StoaDex/Stoa/issues/14)
+
+### zhangjiayang6835-cyber/bounty-plaza: [Bounty] fix(http2_hpack): Fix HTTP/2 frame payload ceiling and HPACK dynamic table shard
+- **Reward:** 250.0 USD (USD Value: **$250.00**)
+- **Agent ROI:** **$71.43/hr** (Est. 3.5 hrs)
+- **Directive:** `STANDARD: Profitable target at $71.43/hr. Queue for execution.`
+- **Target URL:** [Claim Bounty](https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4379)
+
+### zhangjiayang6835-cyber/bounty-plaza: [Bounty] [150 USDC] Propagate sibling subschema annotations across `allOf` / `oneOf` bran
+- **Reward:** 150.0 USD (USD Value: **$150.00**)
+- **Agent ROI:** **$42.86/hr** (Est. 3.5 hrs)
+- **Directive:** `STANDARD: Profitable target at $42.86/hr. Queue for execution.`
+- **Target URL:** [Claim Bounty](https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4377)
+
+### amirmomeni177/bounty-watch: bounty-watch 2026-11-20: 0 new, 2 resumed, 0 watchlist changes
 - **Reward:** 50.0 USD (USD Value: **$50.00**)
 - **Agent ROI:** **$25.00/hr** (Est. 2.0 hrs)
 - **Directive:** `LOW YIELD: Secondary priority at $25.00/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/Elements-Studio/starswap-core/issues/103)
+- **Target URL:** [Claim Bounty](https://github.com/amirmomeni177/bounty-watch/issues/18)
 
-### amirmomeni177/bounty-watch: Scope digest 2026-11-20: 11 changes across 7 bounty programs
+### ROAM-game-org/road-machiners: More shooting, fewer hostiles, bounties and arrivals
+- **Reward:** 50.0 USD (USD Value: **$50.00**)
+- **Agent ROI:** **$25.00/hr** (Est. 2.0 hrs)
+- **Directive:** `LOW YIELD: Secondary priority at $25.00/hr.`
+- **Target URL:** [Claim Bounty](https://github.com/ROAM-game-org/road-machiners/issues/1707)
+
+### StoaDex/Stoa: Bounty: Public Stoa swap dashboard on Robinhood Chain
+- **Reward:** 50.0 USD (USD Value: **$50.00**)
+- **Agent ROI:** **$25.00/hr** (Est. 2.0 hrs)
+- **Directive:** `LOW YIELD: Secondary priority at $25.00/hr.`
+- **Target URL:** [Claim Bounty](https://github.com/StoaDex/Stoa/issues/16)
+
+### StoaDex/Stoa: Availability inquiry: public dashboard build bounty
+- **Reward:** 50.0 USD (USD Value: **$50.00**)
+- **Agent ROI:** **$25.00/hr** (Est. 2.0 hrs)
+- **Directive:** `LOW YIELD: Secondary priority at $25.00/hr.`
+- **Target URL:** [Claim Bounty](https://github.com/StoaDex/Stoa/issues/15)
+
+### queenannaE/pulsar-contracts: [MISC-074] No formal bug bounty or responsible disclosure reward program
+- **Reward:** 50.0 USD (USD Value: **$50.00**)
+- **Agent ROI:** **$25.00/hr** (Est. 2.0 hrs)
+- **Directive:** `LOW YIELD: Secondary priority at $25.00/hr.`
+- **Target URL:** [Claim Bounty](https://github.com/queenannaE/pulsar-contracts/issues/492)
+
+### Servicebountyboard/rexburgbountyboard: Users can claim their own bounties
+- **Reward:** 50.0 USD (USD Value: **$50.00**)
+- **Agent ROI:** **$25.00/hr** (Est. 2.0 hrs)
+- **Directive:** `LOW YIELD: Secondary priority at $25.00/hr.`
+- **Target URL:** [Claim Bounty](https://github.com/Servicebountyboard/rexburgbountyboard/issues/9)
+
+### StoaDex/Stoa: Bounty: Public swap dashboard
 - **Reward:** 50.0 USD (USD Value: **$50.00**)
 - **Agent ROI:** **$14.29/hr** (Est. 3.5 hrs)
 - **Directive:** `LOW YIELD: Secondary priority at $14.29/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/amirmomeni177/bounty-watch/issues/15)
+- **Target URL:** [Claim Bounty](https://github.com/StoaDex/Stoa/issues/18)
 
-### Zenith-options/backend: Keeper bounty worker crashes the whole loop on one bad row
+### StoaDex/Stoa: Dashboard bounty entry: Routed Activity with complete-history and pricing coverage
 - **Reward:** 50.0 USD (USD Value: **$50.00**)
 - **Agent ROI:** **$14.29/hr** (Est. 3.5 hrs)
 - **Directive:** `LOW YIELD: Secondary priority at $14.29/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/Zenith-options/backend/issues/435)
+- **Target URL:** [Claim Bounty](https://github.com/StoaDex/Stoa/issues/17)
 
-### Zenith-options/backend: Keeper bounty worker logs nothing when it finds no eligible bounties
-- **Reward:** 50.0 USD (USD Value: **$50.00**)
-- **Agent ROI:** **$14.29/hr** (Est. 3.5 hrs)
-- **Directive:** `LOW YIELD: Secondary priority at $14.29/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/Zenith-options/backend/issues/424)
-
-### Zenith-options/backend: Keeper bounty payout failure leaves bounty in pending state forever
-- **Reward:** 50.0 USD (USD Value: **$50.00**)
-- **Agent ROI:** **$14.29/hr** (Est. 3.5 hrs)
-- **Directive:** `LOW YIELD: Secondary priority at $14.29/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/Zenith-options/backend/issues/353)
-
-### Ayush441-python/AUREN: [Maths Bounty] concentration() evaluates to negative top3_weight and algebraic top_weight for short positions, masking >30% holding risk
-- **Reward:** 50.0 USD (USD Value: **$50.00**)
-- **Agent ROI:** **$14.29/hr** (Est. 3.5 hrs)
-- **Directive:** `LOW YIELD: Secondary priority at $14.29/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/Ayush441-python/AUREN/issues/141)
-
-### bad-antics/lateralus-lang: [bounty] stdlib.rope tutorial: edit text without flattening first
+### bad-antics/lateralus-lang: [bounty] Port a Python weighted interval scheduler to Lateralus
 - **Reward:** 25.0 USD (USD Value: **$25.00**)
 - **Agent ROI:** **$12.50/hr** (Est. 2.0 hrs)
 - **Directive:** `LOW YIELD: Secondary priority at $12.50/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/bad-antics/lateralus-lang/issues/239)
+- **Target URL:** [Claim Bounty](https://github.com/bad-antics/lateralus-lang/issues/256)
 
-### bad-antics/lateralus-lang: [bounty] stdlib.roaring tutorial: matching event IDs across the 16-bit boundary
+### bad-antics/lateralus-lang: [bounty] stdlib.base64 tutorial
 - **Reward:** 25.0 USD (USD Value: **$25.00**)
 - **Agent ROI:** **$12.50/hr** (Est. 2.0 hrs)
 - **Directive:** `LOW YIELD: Secondary priority at $12.50/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/bad-antics/lateralus-lang/issues/231)
-
-### alfrexo95/bounty-bot: 🪙 [Web3] [Wave 3: 2 × $20 USDC | 3-Year Protocol Trajectory
-- **Reward:** 20.0 USD (USD Value: **$20.00**)
-- **Agent ROI:** **$10.00/hr** (Est. 2.0 hrs)
-- **Directive:** `LOW YIELD: Secondary priority at $10.00/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/alfrexo95/bounty-bot/issues/96)
+- **Target URL:** [Claim Bounty](https://github.com/bad-antics/lateralus-lang/issues/254)
 
 ### Ikalus1988/MisakaNet: [Bounty] Answer the 2 linked question(s)
 - **Reward:** 50.0 USD (USD Value: **$50.00**)
 - **Agent ROI:** **$8.33/hr** (Est. 6.0 hrs)
 - **Directive:** `LOW YIELD: Secondary priority at $8.33/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/Ikalus1988/MisakaNet/issues/5373)
+- **Target URL:** [Claim Bounty](https://github.com/Ikalus1988/MisakaNet/issues/5463)
 
 ### Ikalus1988/MisakaNet: [Bounty] Answer the 2 linked question(s)
 - **Reward:** 50.0 USD (USD Value: **$50.00**)
 - **Agent ROI:** **$8.33/hr** (Est. 6.0 hrs)
 - **Directive:** `LOW YIELD: Secondary priority at $8.33/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/Ikalus1988/MisakaNet/issues/5372)
+- **Target URL:** [Claim Bounty](https://github.com/Ikalus1988/MisakaNet/issues/5462)
 
 ### Ikalus1988/MisakaNet: [Bounty] Answer the 2 linked question(s)
 - **Reward:** 50.0 USD (USD Value: **$50.00**)
 - **Agent ROI:** **$8.33/hr** (Est. 6.0 hrs)
 - **Directive:** `LOW YIELD: Secondary priority at $8.33/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/Ikalus1988/MisakaNet/issues/5371)
+- **Target URL:** [Claim Bounty](https://github.com/Ikalus1988/MisakaNet/issues/5461)
 
 ### Ikalus1988/MisakaNet: [Bounty] Answer the 2 linked question(s)
 - **Reward:** 50.0 USD (USD Value: **$50.00**)
 - **Agent ROI:** **$8.33/hr** (Est. 6.0 hrs)
 - **Directive:** `LOW YIELD: Secondary priority at $8.33/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/Ikalus1988/MisakaNet/issues/5370)
+- **Target URL:** [Claim Bounty](https://github.com/Ikalus1988/MisakaNet/issues/5460)
 
 ### Ikalus1988/MisakaNet: [Bounty] Answer the 2 linked question(s)
 - **Reward:** 50.0 USD (USD Value: **$50.00**)
 - **Agent ROI:** **$8.33/hr** (Est. 6.0 hrs)
 - **Directive:** `LOW YIELD: Secondary priority at $8.33/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/Ikalus1988/MisakaNet/issues/5369)
+- **Target URL:** [Claim Bounty](https://github.com/Ikalus1988/MisakaNet/issues/5459)
 
 ### Ikalus1988/MisakaNet: [Bounty] Answer the 2 linked question(s)
 - **Reward:** 50.0 USD (USD Value: **$50.00**)
 - **Agent ROI:** **$8.33/hr** (Est. 6.0 hrs)
 - **Directive:** `LOW YIELD: Secondary priority at $8.33/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/Ikalus1988/MisakaNet/issues/5368)
+- **Target URL:** [Claim Bounty](https://github.com/Ikalus1988/MisakaNet/issues/5458)
 
 ### Ikalus1988/MisakaNet: [Bounty] Answer the 2 linked question(s)
 - **Reward:** 50.0 USD (USD Value: **$50.00**)
 - **Agent ROI:** **$8.33/hr** (Est. 6.0 hrs)
 - **Directive:** `LOW YIELD: Secondary priority at $8.33/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/Ikalus1988/MisakaNet/issues/5367)
+- **Target URL:** [Claim Bounty](https://github.com/Ikalus1988/MisakaNet/issues/5457)
 
 ### Ikalus1988/MisakaNet: [Bounty] Answer the 2 linked question(s)
 - **Reward:** 50.0 USD (USD Value: **$50.00**)
 - **Agent ROI:** **$8.33/hr** (Est. 6.0 hrs)
 - **Directive:** `LOW YIELD: Secondary priority at $8.33/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/Ikalus1988/MisakaNet/issues/5366)
+- **Target URL:** [Claim Bounty](https://github.com/Ikalus1988/MisakaNet/issues/5456)
 
 ### Ikalus1988/MisakaNet: [Bounty] Answer the 2 linked question(s)
 - **Reward:** 50.0 USD (USD Value: **$50.00**)
 - **Agent ROI:** **$8.33/hr** (Est. 6.0 hrs)
 - **Directive:** `LOW YIELD: Secondary priority at $8.33/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/Ikalus1988/MisakaNet/issues/5365)
+- **Target URL:** [Claim Bounty](https://github.com/Ikalus1988/MisakaNet/issues/5455)
 
 ### Ikalus1988/MisakaNet: [Bounty] Answer the 2 linked question(s)
 - **Reward:** 50.0 USD (USD Value: **$50.00**)
 - **Agent ROI:** **$8.33/hr** (Est. 6.0 hrs)
 - **Directive:** `LOW YIELD: Secondary priority at $8.33/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/Ikalus1988/MisakaNet/issues/5364)
-
-### Ikalus1988/MisakaNet: [Bounty] Answer the 2 linked question(s)
-- **Reward:** 50.0 USD (USD Value: **$50.00**)
-- **Agent ROI:** **$8.33/hr** (Est. 6.0 hrs)
-- **Directive:** `LOW YIELD: Secondary priority at $8.33/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/Ikalus1988/MisakaNet/issues/5363)
+- **Target URL:** [Claim Bounty](https://github.com/Ikalus1988/MisakaNet/issues/5454)
 
 ### Ikalus1988/MisakaNet: [Bounty] Answer the 3 linked question(s)
 - **Reward:** 50.0 USD (USD Value: **$50.00**)
 - **Agent ROI:** **$8.33/hr** (Est. 6.0 hrs)
 - **Directive:** `LOW YIELD: Secondary priority at $8.33/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/Ikalus1988/MisakaNet/issues/5362)
-
-### Ikalus1988/MisakaNet: [Bounty] Answer the 3 linked question(s)
-- **Reward:** 50.0 USD (USD Value: **$50.00**)
-- **Agent ROI:** **$8.33/hr** (Est. 6.0 hrs)
-- **Directive:** `LOW YIELD: Secondary priority at $8.33/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/Ikalus1988/MisakaNet/issues/5361)
-
-### Ikalus1988/MisakaNet: [Bounty] Answer the 3 linked question(s)
-- **Reward:** 50.0 USD (USD Value: **$50.00**)
-- **Agent ROI:** **$8.33/hr** (Est. 6.0 hrs)
-- **Directive:** `LOW YIELD: Secondary priority at $8.33/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/Ikalus1988/MisakaNet/issues/5360)
-
-### Ikalus1988/MisakaNet: [Bounty] Answer the 3 linked question(s)
-- **Reward:** 50.0 USD (USD Value: **$50.00**)
-- **Agent ROI:** **$8.33/hr** (Est. 6.0 hrs)
-- **Directive:** `LOW YIELD: Secondary priority at $8.33/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/Ikalus1988/MisakaNet/issues/5359)
-
-### Ikalus1988/MisakaNet: [Bounty] Answer the 3 linked question(s)
-- **Reward:** 50.0 USD (USD Value: **$50.00**)
-- **Agent ROI:** **$8.33/hr** (Est. 6.0 hrs)
-- **Directive:** `LOW YIELD: Secondary priority at $8.33/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/Ikalus1988/MisakaNet/issues/5358)
+- **Target URL:** [Claim Bounty](https://github.com/Ikalus1988/MisakaNet/issues/5453)
