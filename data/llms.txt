@@ -2,152 +2,152 @@
 > Live cross-referencing of open GitHub bounties and live cryptocurrency markets to calculate maximum USD/Hour ROI.
 
 ## Top High-Yield Targets
-### paraloom-labs/paraloom-core: [BOUNTY] Low: wallet settlement signal is any recipient-balance rise, so dust + failed settlement falsely marks inputs spent with no self-heal
-- **Reward:** 3000.0 USD (USD Value: **$3,000.00**)
-- **Agent ROI:** **$500.00/hr** (Est. 6.0 hrs)
-- **Directive:** `EXECUTE: High-yield target at $500.00/hr. Prioritize PR submission.`
-- **Target URL:** [Claim Bounty](https://github.com/paraloom-labs/paraloom-core/issues/1632)
+### relayhop/sn-monetization-runtime: [radar] SN open bounty 2026-11-22T18:28
+- **Reward:** 2026.0 USD (USD Value: **$2,026.00**)
+- **Agent ROI:** **$1,013.00/hr** (Est. 2.0 hrs)
+- **Directive:** `EXECUTE: High-yield target at $1013.00/hr. Prioritize PR submission.`
+- **Target URL:** [Claim Bounty](https://github.com/relayhop/sn-monetization-runtime/issues/1431)
 
-### IES-BoilerRoom/cpython-pep626-line-profiler: fix(dwarf_trace): Preserve exact column-offset delta invariants across exception handler tables ($250 bounty) [cpython-pep626-line-profiler]
-- **Reward:** 250.0 USD (USD Value: **$250.00**)
-- **Agent ROI:** **$125.00/hr** (Est. 2.0 hrs)
-- **Directive:** `EXECUTE: High-yield target at $125.00/hr. Prioritize PR submission.`
-- **Target URL:** [Claim Bounty](https://github.com/IES-BoilerRoom/cpython-pep626-line-profiler/issues/2)
-
-### IES-BoilerRoom/bgp-med-oscillation-verifier: [175 USDC] Fix BGP attribute chunk boundary and resolve 4-AS preference matrix trace invariant (normalize_bgp_update_frames)
-- **Reward:** 175.0 USD (USD Value: **$175.00**)
-- **Agent ROI:** **$87.50/hr** (Est. 2.0 hrs)
-- **Directive:** `STANDARD: Profitable target at $87.50/hr. Queue for execution.`
-- **Target URL:** [Claim Bounty](https://github.com/IES-BoilerRoom/bgp-med-oscillation-verifier/issues/1)
-
-### IES-BoilerRoom/cpython-pep626-line-profiler: fix(dwarf_trace): Resolve trace frame ceiling off-by-one and PEP 626 instruction-envelope residue ($125 bounty) [collect_trace_event_frames]
-- **Reward:** 125.0 USD (USD Value: **$125.00**)
-- **Agent ROI:** **$62.50/hr** (Est. 2.0 hrs)
-- **Directive:** `STANDARD: Profitable target at $62.50/hr. Queue for execution.`
-- **Target URL:** [Claim Bounty](https://github.com/IES-BoilerRoom/cpython-pep626-line-profiler/issues/1)
-
-### IES-BoilerRoom/bgp-med-oscillation-verifier: [$75] fix(routing): Eliminate persistent route-reflector MED cycle across confederation peers (bgp-med-oscillation-verifier)
-- **Reward:** 75.0 USD (USD Value: **$75.00**)
-- **Agent ROI:** **$37.50/hr** (Est. 2.0 hrs)
-- **Directive:** `LOW YIELD: Secondary priority at $37.50/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/IES-BoilerRoom/bgp-med-oscillation-verifier/issues/2)
-
-### loftwah/app-composer: [P1 COMMUNITY CREATION] Existing communities → creator bounties, tips and recognition; Fungi/Oyster × $SHIIT example
-- **Reward:** 200.0 USD (USD Value: **$200.00**)
-- **Agent ROI:** **$33.33/hr** (Est. 6.0 hrs)
-- **Directive:** `LOW YIELD: Secondary priority at $33.33/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/loftwah/app-composer/issues/1096)
-
-### paraloom-labs/paraloom-core: [BOUNTY] Medium: slash_validator double-decrements registry stake counters for a reset-excluded orphan, halting settlement quorum
+### Ayush441-python/AUREN: [Maths Bounty] Rounding the NVDA stress return turns a $150 loss into $100 in the dollar table
 - **Reward:** 150.0 USD (USD Value: **$150.00**)
-- **Agent ROI:** **$25.00/hr** (Est. 6.0 hrs)
+- **Agent ROI:** **$42.86/hr** (Est. 3.5 hrs)
+- **Directive:** `STANDARD: Profitable target at $42.86/hr. Queue for execution.`
+- **Target URL:** [Claim Bounty](https://github.com/Ayush441-python/AUREN/issues/208)
+
+### Fishers-Founders-United/Swapatron5000: Bounty (5): Organize the first three months of the upkeep rota
+- **Reward:** 50.0 USD (USD Value: **$50.00**)
+- **Agent ROI:** **$25.00/hr** (Est. 2.0 hrs)
 - **Directive:** `LOW YIELD: Secondary priority at $25.00/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/paraloom-labs/paraloom-core/issues/1631)
+- **Target URL:** [Claim Bounty](https://github.com/Fishers-Founders-United/Swapatron5000/issues/113)
 
-### paraloom-labs/paraloom-core: [BOUNTY] Medium: unregister_validator double-decrements registry stake counters for a reset-excluded orphan, halting settlement quorum
-- **Reward:** 150.0 USD (USD Value: **$150.00**)
-- **Agent ROI:** **$25.00/hr** (Est. 6.0 hrs)
+### Fishers-Founders-United/Swapatron5000: Bounty (5): Help a second town plan its own Swapatron
+- **Reward:** 50.0 USD (USD Value: **$50.00**)
+- **Agent ROI:** **$25.00/hr** (Est. 2.0 hrs)
 - **Directive:** `LOW YIELD: Secondary priority at $25.00/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/paraloom-labs/paraloom-core/issues/1630)
+- **Target URL:** [Claim Bounty](https://github.com/Fishers-Founders-United/Swapatron5000/issues/112)
 
-### paraloom-labs/paraloom-core: [Bug Bounty] F-03 MEDIUM - Decoder blind to deposit_note_spl whose mint is loaded via Address Lookup Table
-- **Reward:** 100.0 USD (USD Value: **$100.00**)
-- **Agent ROI:** **$16.67/hr** (Est. 6.0 hrs)
-- **Directive:** `LOW YIELD: Secondary priority at $16.67/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/paraloom-labs/paraloom-core/issues/1633)
-
-### amiller/bounty-arcade: [busy forest] Improve EC Rank cell 3/12
+### Fishers-Founders-United/Swapatron5000: Bounty (3): Line up food trucks for hatching day, with the lab's OK on space and permits
 - **Reward:** 50.0 USD (USD Value: **$50.00**)
-- **Agent ROI:** **$14.29/hr** (Est. 3.5 hrs)
-- **Directive:** `LOW YIELD: Secondary priority at $14.29/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/amiller/bounty-arcade/issues/94)
+- **Agent ROI:** **$25.00/hr** (Est. 2.0 hrs)
+- **Directive:** `LOW YIELD: Secondary priority at $25.00/hr.`
+- **Target URL:** [Claim Bounty](https://github.com/Fishers-Founders-United/Swapatron5000/issues/111)
 
-### amiller/bounty-arcade: [busy forest] Improve EC Rank cell 3/11
+### Fishers-Founders-United/Swapatron5000: Bounty (1): Suggest a better cute name for an IoT term in \1
 - **Reward:** 50.0 USD (USD Value: **$50.00**)
-- **Agent ROI:** **$14.29/hr** (Est. 3.5 hrs)
-- **Directive:** `LOW YIELD: Secondary priority at $14.29/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/amiller/bounty-arcade/issues/93)
+- **Agent ROI:** **$25.00/hr** (Est. 2.0 hrs)
+- **Directive:** `LOW YIELD: Secondary priority at $25.00/hr.`
+- **Target URL:** [Claim Bounty](https://github.com/Fishers-Founders-United/Swapatron5000/issues/110)
 
-### amiller/bounty-arcade: [busy forest] Improve EC Rank cell 3/10
+### Fishers-Founders-United/Swapatron5000: Bounty (3): Write the youth protection rules, with someone who works with kids
 - **Reward:** 50.0 USD (USD Value: **$50.00**)
-- **Agent ROI:** **$14.29/hr** (Est. 3.5 hrs)
-- **Directive:** `LOW YIELD: Secondary priority at $14.29/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/amiller/bounty-arcade/issues/92)
+- **Agent ROI:** **$25.00/hr** (Est. 2.0 hrs)
+- **Directive:** `LOW YIELD: Secondary priority at $25.00/hr.`
+- **Target URL:** [Claim Bounty](https://github.com/Fishers-Founders-United/Swapatron5000/issues/109)
 
-### amiller/bounty-arcade: [busy forest] Improve EC Rank cell 2/16
+### Fishers-Founders-United/Swapatron5000: Bounty (5): Run the technology petting zoo
 - **Reward:** 50.0 USD (USD Value: **$50.00**)
-- **Agent ROI:** **$14.29/hr** (Est. 3.5 hrs)
-- **Directive:** `LOW YIELD: Secondary priority at $14.29/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/amiller/bounty-arcade/issues/91)
+- **Agent ROI:** **$25.00/hr** (Est. 2.0 hrs)
+- **Directive:** `LOW YIELD: Secondary priority at $25.00/hr.`
+- **Target URL:** [Claim Bounty](https://github.com/Fishers-Founders-United/Swapatron5000/issues/108)
 
-### amiller/bounty-arcade: [busy forest] Improve EC Rank cell 2/15
+### Fishers-Founders-United/Swapatron5000: Bounty (3): Keep a habitat at the technology petting zoo
 - **Reward:** 50.0 USD (USD Value: **$50.00**)
-- **Agent ROI:** **$14.29/hr** (Est. 3.5 hrs)
-- **Directive:** `LOW YIELD: Secondary priority at $14.29/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/amiller/bounty-arcade/issues/90)
+- **Agent ROI:** **$25.00/hr** (Est. 2.0 hrs)
+- **Directive:** `LOW YIELD: Secondary priority at $25.00/hr.`
+- **Target URL:** [Claim Bounty](https://github.com/Fishers-Founders-United/Swapatron5000/issues/107)
 
-### amiller/bounty-arcade: [busy forest] Improve EC Rank cell 2/14
+### Fishers-Founders-United/Swapatron5000: Bounty (5): Lead build day
 - **Reward:** 50.0 USD (USD Value: **$50.00**)
-- **Agent ROI:** **$14.29/hr** (Est. 3.5 hrs)
-- **Directive:** `LOW YIELD: Secondary priority at $14.29/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/amiller/bounty-arcade/issues/89)
+- **Agent ROI:** **$25.00/hr** (Est. 2.0 hrs)
+- **Directive:** `LOW YIELD: Secondary priority at $25.00/hr.`
+- **Target URL:** [Claim Bounty](https://github.com/Fishers-Founders-United/Swapatron5000/issues/106)
 
-### amiller/bounty-arcade: [busy forest] Improve EC Rank cell 2/13
+### Fishers-Founders-United/Swapatron5000: Bounty (3): Host an event from the \1
 - **Reward:** 50.0 USD (USD Value: **$50.00**)
-- **Agent ROI:** **$14.29/hr** (Est. 3.5 hrs)
-- **Directive:** `LOW YIELD: Secondary priority at $14.29/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/amiller/bounty-arcade/issues/88)
+- **Agent ROI:** **$25.00/hr** (Est. 2.0 hrs)
+- **Directive:** `LOW YIELD: Secondary priority at $25.00/hr.`
+- **Target URL:** [Claim Bounty](https://github.com/Fishers-Founders-United/Swapatron5000/issues/105)
 
-### amiller/bounty-arcade: [busy forest] Improve EC Rank cell 2/12
+### Fishers-Founders-United/Swapatron5000: Bounty (5): Design and prototype the sensor node
 - **Reward:** 50.0 USD (USD Value: **$50.00**)
-- **Agent ROI:** **$14.29/hr** (Est. 3.5 hrs)
-- **Directive:** `LOW YIELD: Secondary priority at $14.29/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/amiller/bounty-arcade/issues/87)
+- **Agent ROI:** **$25.00/hr** (Est. 2.0 hrs)
+- **Directive:** `LOW YIELD: Secondary priority at $25.00/hr.`
+- **Target URL:** [Claim Bounty](https://github.com/Fishers-Founders-United/Swapatron5000/issues/104)
 
-### amiller/bounty-arcade: [busy forest] Improve EC Rank cell 2/11
+### Fishers-Founders-United/Swapatron5000: Bounty (3): Work out the power budget for solar, battery, and lighting
 - **Reward:** 50.0 USD (USD Value: **$50.00**)
-- **Agent ROI:** **$14.29/hr** (Est. 3.5 hrs)
-- **Directive:** `LOW YIELD: Secondary priority at $14.29/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/amiller/bounty-arcade/issues/86)
+- **Agent ROI:** **$25.00/hr** (Est. 2.0 hrs)
+- **Directive:** `LOW YIELD: Secondary priority at $25.00/hr.`
+- **Target URL:** [Claim Bounty](https://github.com/Fishers-Founders-United/Swapatron5000/issues/103)
 
-### Ikalus1988/MisakaNet: [Bounty] Answer the 2 linked question(s)
+### Fishers-Founders-United/Swapatron5000: Bounty (3): Write the cut list from the chosen design
 - **Reward:** 50.0 USD (USD Value: **$50.00**)
-- **Agent ROI:** **$8.33/hr** (Est. 6.0 hrs)
-- **Directive:** `LOW YIELD: Secondary priority at $8.33/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/Ikalus1988/MisakaNet/issues/5568)
+- **Agent ROI:** **$25.00/hr** (Est. 2.0 hrs)
+- **Directive:** `LOW YIELD: Secondary priority at $25.00/hr.`
+- **Target URL:** [Claim Bounty](https://github.com/Fishers-Founders-United/Swapatron5000/issues/102)
 
-### Ikalus1988/MisakaNet: [Bounty] Answer the 4 linked question(s)
+### Fishers-Founders-United/Swapatron5000: Bounty (3): Draw a full shell design with measurements
 - **Reward:** 50.0 USD (USD Value: **$50.00**)
-- **Agent ROI:** **$8.33/hr** (Est. 6.0 hrs)
-- **Directive:** `LOW YIELD: Secondary priority at $8.33/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/Ikalus1988/MisakaNet/issues/5567)
+- **Agent ROI:** **$25.00/hr** (Est. 2.0 hrs)
+- **Directive:** `LOW YIELD: Secondary priority at $25.00/hr.`
+- **Target URL:** [Claim Bounty](https://github.com/Fishers-Founders-United/Swapatron5000/issues/101)
 
-### paraloom-labs/paraloom-core: [BOUNTY] Medium: deactivate_validator strands the validator's dual-stake token collateral permanently
+### Fishers-Founders-United/Swapatron5000: Bounty (3): Build a simple "took and left" form
 - **Reward:** 50.0 USD (USD Value: **$50.00**)
-- **Agent ROI:** **$8.33/hr** (Est. 6.0 hrs)
-- **Directive:** `LOW YIELD: Secondary priority at $8.33/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/paraloom-labs/paraloom-core/issues/1640)
+- **Agent ROI:** **$25.00/hr** (Est. 2.0 hrs)
+- **Directive:** `LOW YIELD: Secondary priority at $25.00/hr.`
+- **Target URL:** [Claim Bounty](https://github.com/Fishers-Founders-United/Swapatron5000/issues/100)
 
-### paraloom-labs/paraloom-core: [BOUNTY] Medium: Co-sign round demands unanimity of all Valid voters; one declining voter vetoes settlement the on-chain 2/3-stake quorum would accept
+### Fishers-Founders-United/Swapatron5000: Bounty (3): Write a battery safety summary, reviewed by someone with battery experience
 - **Reward:** 50.0 USD (USD Value: **$50.00**)
-- **Agent ROI:** **$8.33/hr** (Est. 6.0 hrs)
-- **Directive:** `LOW YIELD: Secondary priority at $8.33/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/paraloom-labs/paraloom-core/issues/1639)
+- **Agent ROI:** **$25.00/hr** (Est. 2.0 hrs)
+- **Directive:** `LOW YIELD: Secondary priority at $25.00/hr.`
+- **Target URL:** [Claim Bounty](https://github.com/Fishers-Founders-United/Swapatron5000/issues/99)
 
-### paraloom-labs/paraloom-core: [BOUNTY] Medium: Any registered peer burns a victim's per-nullifier co-sign budget under the real bridge authority (#723 bypass)
+### Fishers-Founders-United/Swapatron5000: Bounty (2): Research how other swap boxes handle loss and junk, and write up what you find
 - **Reward:** 50.0 USD (USD Value: **$50.00**)
-- **Agent ROI:** **$8.33/hr** (Est. 6.0 hrs)
-- **Directive:** `LOW YIELD: Secondary priority at $8.33/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/paraloom-labs/paraloom-core/issues/1638)
+- **Agent ROI:** **$25.00/hr** (Est. 2.0 hrs)
+- **Directive:** `LOW YIELD: Secondary priority at $25.00/hr.`
+- **Target URL:** [Claim Bounty](https://github.com/Fishers-Founders-United/Swapatron5000/issues/98)
 
-### Ayush441-python/AUREN: [Bug Bounty] Cache refresh reports success when a market-data download fails
+### Fishers-Founders-United/Swapatron5000: Bounty (2): Design bin labels with icons
 - **Reward:** 50.0 USD (USD Value: **$50.00**)
-- **Agent ROI:** **$8.33/hr** (Est. 6.0 hrs)
-- **Directive:** `LOW YIELD: Secondary priority at $8.33/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/Ayush441-python/AUREN/issues/195)
+- **Agent ROI:** **$25.00/hr** (Est. 2.0 hrs)
+- **Directive:** `LOW YIELD: Secondary priority at $25.00/hr.`
+- **Target URL:** [Claim Bounty](https://github.com/Fishers-Founders-United/Swapatron5000/issues/97)
 
-### paraloom-labs/paraloom-core: [BOUNTY] Medium: `transact` never updates `BridgeState.total_withdrawn`, overstating pool liability by every withdrawal
+### Fishers-Founders-United/Swapatron5000: Bounty (2): Design the sign for the front of the box
 - **Reward:** 50.0 USD (USD Value: **$50.00**)
-- **Agent ROI:** **$8.33/hr** (Est. 6.0 hrs)
-- **Directive:** `LOW YIELD: Secondary priority at $8.33/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/paraloom-labs/paraloom-core/issues/1636)
+- **Agent ROI:** **$25.00/hr** (Est. 2.0 hrs)
+- **Directive:** `LOW YIELD: Secondary priority at $25.00/hr.`
+- **Target URL:** [Claim Bounty](https://github.com/Fishers-Founders-United/Swapatron5000/issues/96)
+
+### Fishers-Founders-United/Swapatron5000: Bounty (2): Draw a logo a kid would want as a sticker
+- **Reward:** 50.0 USD (USD Value: **$50.00**)
+- **Agent ROI:** **$25.00/hr** (Est. 2.0 hrs)
+- **Directive:** `LOW YIELD: Secondary priority at $25.00/hr.`
+- **Target URL:** [Claim Bounty](https://github.com/Fishers-Founders-United/Swapatron5000/issues/95)
+
+### transitfabric/releases: Bounty registration
+- **Reward:** 50.0 USD (USD Value: **$50.00**)
+- **Agent ROI:** **$25.00/hr** (Est. 2.0 hrs)
+- **Directive:** `LOW YIELD: Secondary priority at $25.00/hr.`
+- **Target URL:** [Claim Bounty](https://github.com/transitfabric/releases/issues/24)
+
+### bad-antics/lateralus-lang: [Bounty Claim] Tutorial: stdlib/z_algorithm.ltl - Gusfield's Linear O(n) Z-Algorithm & Prefix Box String Matching
+- **Reward:** 50.0 USD (USD Value: **$50.00**)
+- **Agent ROI:** **$25.00/hr** (Est. 2.0 hrs)
+- **Directive:** `LOW YIELD: Secondary priority at $25.00/hr.`
+- **Target URL:** [Claim Bounty](https://github.com/bad-antics/lateralus-lang/issues/712)
+
+### bad-antics/lateralus-lang: [Bounty Claim] Tutorial: stdlib/kdtree.ltl - K-Dimensional Spatial Tree (KD-Tree) & Sub-linear O(log n) Nearest Neighbor Search
+- **Reward:** 50.0 USD (USD Value: **$50.00**)
+- **Agent ROI:** **$25.00/hr** (Est. 2.0 hrs)
+- **Directive:** `LOW YIELD: Secondary priority at $25.00/hr.`
+- **Target URL:** [Claim Bounty](https://github.com/bad-antics/lateralus-lang/issues/698)
+
+### bad-antics/lateralus-lang: [Bounty Claim] Tutorial: stdlib/bipartite_hopcroft_karp.ltl - Linear O(E sqrt(V)) Maximum Cardinality Bipartite Matching
+- **Reward:** 50.0 USD (USD Value: **$50.00**)
+- **Agent ROI:** **$25.00/hr** (Est. 2.0 hrs)
+- **Directive:** `LOW YIELD: Secondary priority at $25.00/hr.`
+- **Target URL:** [Claim Bounty](https://github.com/bad-antics/lateralus-lang/issues/696)
