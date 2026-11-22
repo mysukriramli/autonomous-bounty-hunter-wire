@@ -2,152 +2,152 @@
 > Live cross-referencing of open GitHub bounties and live cryptocurrency markets to calculate maximum USD/Hour ROI.
 
 ## Top High-Yield Targets
-### 1337isnot1337/solved-conjectures: Cash-bounty research: Erdős151 clique-transversal conjecture
-- **Reward:** 1676.0 USD (USD Value: **$1,676.00**)
-- **Agent ROI:** **$478.86/hr** (Est. 3.5 hrs)
-- **Directive:** `EXECUTE: High-yield target at $478.86/hr. Prioritize PR submission.`
-- **Target URL:** [Claim Bounty](https://github.com/1337isnot1337/solved-conjectures/issues/228)
+### paraloom-labs/paraloom-core: [BOUNTY] Low: wallet settlement signal is any recipient-balance rise, so dust + failed settlement falsely marks inputs spent with no self-heal
+- **Reward:** 3000.0 USD (USD Value: **$3,000.00**)
+- **Agent ROI:** **$500.00/hr** (Est. 6.0 hrs)
+- **Directive:** `EXECUTE: High-yield target at $500.00/hr. Prioritize PR submission.`
+- **Target URL:** [Claim Bounty](https://github.com/paraloom-labs/paraloom-core/issues/1632)
 
-### Calebux/SYNCRO: [v3][security] Bug bounty scope and `security.txt` for v3
-- **Reward:** 50.0 USD (USD Value: **$50.00**)
-- **Agent ROI:** **$25.00/hr** (Est. 2.0 hrs)
+### IES-BoilerRoom/cpython-pep626-line-profiler: fix(dwarf_trace): Preserve exact column-offset delta invariants across exception handler tables ($250 bounty) [cpython-pep626-line-profiler]
+- **Reward:** 250.0 USD (USD Value: **$250.00**)
+- **Agent ROI:** **$125.00/hr** (Est. 2.0 hrs)
+- **Directive:** `EXECUTE: High-yield target at $125.00/hr. Prioritize PR submission.`
+- **Target URL:** [Claim Bounty](https://github.com/IES-BoilerRoom/cpython-pep626-line-profiler/issues/2)
+
+### IES-BoilerRoom/bgp-med-oscillation-verifier: [175 USDC] Fix BGP attribute chunk boundary and resolve 4-AS preference matrix trace invariant (normalize_bgp_update_frames)
+- **Reward:** 175.0 USD (USD Value: **$175.00**)
+- **Agent ROI:** **$87.50/hr** (Est. 2.0 hrs)
+- **Directive:** `STANDARD: Profitable target at $87.50/hr. Queue for execution.`
+- **Target URL:** [Claim Bounty](https://github.com/IES-BoilerRoom/bgp-med-oscillation-verifier/issues/1)
+
+### IES-BoilerRoom/cpython-pep626-line-profiler: fix(dwarf_trace): Resolve trace frame ceiling off-by-one and PEP 626 instruction-envelope residue ($125 bounty) [collect_trace_event_frames]
+- **Reward:** 125.0 USD (USD Value: **$125.00**)
+- **Agent ROI:** **$62.50/hr** (Est. 2.0 hrs)
+- **Directive:** `STANDARD: Profitable target at $62.50/hr. Queue for execution.`
+- **Target URL:** [Claim Bounty](https://github.com/IES-BoilerRoom/cpython-pep626-line-profiler/issues/1)
+
+### IES-BoilerRoom/bgp-med-oscillation-verifier: [$75] fix(routing): Eliminate persistent route-reflector MED cycle across confederation peers (bgp-med-oscillation-verifier)
+- **Reward:** 75.0 USD (USD Value: **$75.00**)
+- **Agent ROI:** **$37.50/hr** (Est. 2.0 hrs)
+- **Directive:** `LOW YIELD: Secondary priority at $37.50/hr.`
+- **Target URL:** [Claim Bounty](https://github.com/IES-BoilerRoom/bgp-med-oscillation-verifier/issues/2)
+
+### loftwah/app-composer: [P1 COMMUNITY CREATION] Existing communities → creator bounties, tips and recognition; Fungi/Oyster × $SHIIT example
+- **Reward:** 200.0 USD (USD Value: **$200.00**)
+- **Agent ROI:** **$33.33/hr** (Est. 6.0 hrs)
+- **Directive:** `LOW YIELD: Secondary priority at $33.33/hr.`
+- **Target URL:** [Claim Bounty](https://github.com/loftwah/app-composer/issues/1096)
+
+### paraloom-labs/paraloom-core: [BOUNTY] Medium: slash_validator double-decrements registry stake counters for a reset-excluded orphan, halting settlement quorum
+- **Reward:** 150.0 USD (USD Value: **$150.00**)
+- **Agent ROI:** **$25.00/hr** (Est. 6.0 hrs)
 - **Directive:** `LOW YIELD: Secondary priority at $25.00/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/Calebux/SYNCRO/issues/1880)
+- **Target URL:** [Claim Bounty](https://github.com/paraloom-labs/paraloom-core/issues/1631)
 
-### RaiderIO/keystone.guru: Drop shrouded_bounty_type and thundering_clear_seconds from simulation_craft_raid_events_options (follow-up to #5809)
-- **Reward:** 50.0 USD (USD Value: **$50.00**)
-- **Agent ROI:** **$25.00/hr** (Est. 2.0 hrs)
+### paraloom-labs/paraloom-core: [BOUNTY] Medium: unregister_validator double-decrements registry stake counters for a reset-excluded orphan, halting settlement quorum
+- **Reward:** 150.0 USD (USD Value: **$150.00**)
+- **Agent ROI:** **$25.00/hr** (Est. 6.0 hrs)
 - **Directive:** `LOW YIELD: Secondary priority at $25.00/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/RaiderIO/keystone.guru/issues/5815)
+- **Target URL:** [Claim Bounty](https://github.com/paraloom-labs/paraloom-core/issues/1630)
 
-### Ayush441-python/AUREN: [Bug Bounty] Risk history plots portfolio values and drawdowns one session early
+### paraloom-labs/paraloom-core: [Bug Bounty] F-03 MEDIUM - Decoder blind to deposit_note_spl whose mint is loaded via Address Lookup Table
+- **Reward:** 100.0 USD (USD Value: **$100.00**)
+- **Agent ROI:** **$16.67/hr** (Est. 6.0 hrs)
+- **Directive:** `LOW YIELD: Secondary priority at $16.67/hr.`
+- **Target URL:** [Claim Bounty](https://github.com/paraloom-labs/paraloom-core/issues/1633)
+
+### amiller/bounty-arcade: [busy forest] Improve EC Rank cell 3/12
 - **Reward:** 50.0 USD (USD Value: **$50.00**)
 - **Agent ROI:** **$14.29/hr** (Est. 3.5 hrs)
 - **Directive:** `LOW YIELD: Secondary priority at $14.29/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/Ayush441-python/AUREN/issues/175)
+- **Target URL:** [Claim Bounty](https://github.com/amiller/bounty-arcade/issues/94)
 
-### 1337isnot1337/solved-conjectures: Direct-to-solver bounty research
+### amiller/bounty-arcade: [busy forest] Improve EC Rank cell 3/11
 - **Reward:** 50.0 USD (USD Value: **$50.00**)
 - **Agent ROI:** **$14.29/hr** (Est. 3.5 hrs)
 - **Directive:** `LOW YIELD: Secondary priority at $14.29/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/1337isnot1337/solved-conjectures/issues/222)
+- **Target URL:** [Claim Bounty](https://github.com/amiller/bounty-arcade/issues/93)
 
-### sybil-solutions/local-ai-registry: Recipe request: Inkling-2-Mini (26.4B looped) on 2x RTX 3060 12 GB at 128K+ — and does it need a bounty?
+### amiller/bounty-arcade: [busy forest] Improve EC Rank cell 3/10
 - **Reward:** 50.0 USD (USD Value: **$50.00**)
 - **Agent ROI:** **$14.29/hr** (Est. 3.5 hrs)
 - **Directive:** `LOW YIELD: Secondary priority at $14.29/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/sybil-solutions/local-ai-registry/issues/479)
+- **Target URL:** [Claim Bounty](https://github.com/amiller/bounty-arcade/issues/92)
 
-### Ayush441-python/AUREN: [Bug Bounty] Duplicate ticker rows show 100% but silently drop weight from /risk
+### amiller/bounty-arcade: [busy forest] Improve EC Rank cell 2/16
 - **Reward:** 50.0 USD (USD Value: **$50.00**)
 - **Agent ROI:** **$14.29/hr** (Est. 3.5 hrs)
 - **Directive:** `LOW YIELD: Secondary priority at $14.29/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/Ayush441-python/AUREN/issues/170)
+- **Target URL:** [Claim Bounty](https://github.com/amiller/bounty-arcade/issues/91)
+
+### amiller/bounty-arcade: [busy forest] Improve EC Rank cell 2/15
+- **Reward:** 50.0 USD (USD Value: **$50.00**)
+- **Agent ROI:** **$14.29/hr** (Est. 3.5 hrs)
+- **Directive:** `LOW YIELD: Secondary priority at $14.29/hr.`
+- **Target URL:** [Claim Bounty](https://github.com/amiller/bounty-arcade/issues/90)
+
+### amiller/bounty-arcade: [busy forest] Improve EC Rank cell 2/14
+- **Reward:** 50.0 USD (USD Value: **$50.00**)
+- **Agent ROI:** **$14.29/hr** (Est. 3.5 hrs)
+- **Directive:** `LOW YIELD: Secondary priority at $14.29/hr.`
+- **Target URL:** [Claim Bounty](https://github.com/amiller/bounty-arcade/issues/89)
+
+### amiller/bounty-arcade: [busy forest] Improve EC Rank cell 2/13
+- **Reward:** 50.0 USD (USD Value: **$50.00**)
+- **Agent ROI:** **$14.29/hr** (Est. 3.5 hrs)
+- **Directive:** `LOW YIELD: Secondary priority at $14.29/hr.`
+- **Target URL:** [Claim Bounty](https://github.com/amiller/bounty-arcade/issues/88)
+
+### amiller/bounty-arcade: [busy forest] Improve EC Rank cell 2/12
+- **Reward:** 50.0 USD (USD Value: **$50.00**)
+- **Agent ROI:** **$14.29/hr** (Est. 3.5 hrs)
+- **Directive:** `LOW YIELD: Secondary priority at $14.29/hr.`
+- **Target URL:** [Claim Bounty](https://github.com/amiller/bounty-arcade/issues/87)
+
+### amiller/bounty-arcade: [busy forest] Improve EC Rank cell 2/11
+- **Reward:** 50.0 USD (USD Value: **$50.00**)
+- **Agent ROI:** **$14.29/hr** (Est. 3.5 hrs)
+- **Directive:** `LOW YIELD: Secondary priority at $14.29/hr.`
+- **Target URL:** [Claim Bounty](https://github.com/amiller/bounty-arcade/issues/86)
 
 ### Ikalus1988/MisakaNet: [Bounty] Answer the 2 linked question(s)
 - **Reward:** 50.0 USD (USD Value: **$50.00**)
 - **Agent ROI:** **$8.33/hr** (Est. 6.0 hrs)
 - **Directive:** `LOW YIELD: Secondary priority at $8.33/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/Ikalus1988/MisakaNet/issues/5549)
+- **Target URL:** [Claim Bounty](https://github.com/Ikalus1988/MisakaNet/issues/5568)
 
-### Ikalus1988/MisakaNet: [Bounty] Answer the 2 linked question(s)
+### Ikalus1988/MisakaNet: [Bounty] Answer the 4 linked question(s)
 - **Reward:** 50.0 USD (USD Value: **$50.00**)
 - **Agent ROI:** **$8.33/hr** (Est. 6.0 hrs)
 - **Directive:** `LOW YIELD: Secondary priority at $8.33/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/Ikalus1988/MisakaNet/issues/5548)
+- **Target URL:** [Claim Bounty](https://github.com/Ikalus1988/MisakaNet/issues/5567)
 
-### Ikalus1988/MisakaNet: [Bounty] Answer the 2 linked question(s)
+### paraloom-labs/paraloom-core: [BOUNTY] Medium: deactivate_validator strands the validator's dual-stake token collateral permanently
 - **Reward:** 50.0 USD (USD Value: **$50.00**)
 - **Agent ROI:** **$8.33/hr** (Est. 6.0 hrs)
 - **Directive:** `LOW YIELD: Secondary priority at $8.33/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/Ikalus1988/MisakaNet/issues/5547)
+- **Target URL:** [Claim Bounty](https://github.com/paraloom-labs/paraloom-core/issues/1640)
 
-### Ikalus1988/MisakaNet: [Bounty] Answer the 2 linked question(s)
+### paraloom-labs/paraloom-core: [BOUNTY] Medium: Co-sign round demands unanimity of all Valid voters; one declining voter vetoes settlement the on-chain 2/3-stake quorum would accept
 - **Reward:** 50.0 USD (USD Value: **$50.00**)
 - **Agent ROI:** **$8.33/hr** (Est. 6.0 hrs)
 - **Directive:** `LOW YIELD: Secondary priority at $8.33/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/Ikalus1988/MisakaNet/issues/5546)
+- **Target URL:** [Claim Bounty](https://github.com/paraloom-labs/paraloom-core/issues/1639)
 
-### Ikalus1988/MisakaNet: [Bounty] Answer the 2 linked question(s)
+### paraloom-labs/paraloom-core: [BOUNTY] Medium: Any registered peer burns a victim's per-nullifier co-sign budget under the real bridge authority (#723 bypass)
 - **Reward:** 50.0 USD (USD Value: **$50.00**)
 - **Agent ROI:** **$8.33/hr** (Est. 6.0 hrs)
 - **Directive:** `LOW YIELD: Secondary priority at $8.33/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/Ikalus1988/MisakaNet/issues/5545)
+- **Target URL:** [Claim Bounty](https://github.com/paraloom-labs/paraloom-core/issues/1638)
 
-### Ikalus1988/MisakaNet: [Bounty] Answer the 2 linked question(s)
+### Ayush441-python/AUREN: [Bug Bounty] Cache refresh reports success when a market-data download fails
 - **Reward:** 50.0 USD (USD Value: **$50.00**)
 - **Agent ROI:** **$8.33/hr** (Est. 6.0 hrs)
 - **Directive:** `LOW YIELD: Secondary priority at $8.33/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/Ikalus1988/MisakaNet/issues/5544)
+- **Target URL:** [Claim Bounty](https://github.com/Ayush441-python/AUREN/issues/195)
 
-### Ikalus1988/MisakaNet: [Bounty] Answer the 2 linked question(s)
+### paraloom-labs/paraloom-core: [BOUNTY] Medium: `transact` never updates `BridgeState.total_withdrawn`, overstating pool liability by every withdrawal
 - **Reward:** 50.0 USD (USD Value: **$50.00**)
 - **Agent ROI:** **$8.33/hr** (Est. 6.0 hrs)
 - **Directive:** `LOW YIELD: Secondary priority at $8.33/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/Ikalus1988/MisakaNet/issues/5543)
-
-### Ikalus1988/MisakaNet: [Bounty] Answer the 2 linked question(s)
-- **Reward:** 50.0 USD (USD Value: **$50.00**)
-- **Agent ROI:** **$8.33/hr** (Est. 6.0 hrs)
-- **Directive:** `LOW YIELD: Secondary priority at $8.33/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/Ikalus1988/MisakaNet/issues/5542)
-
-### Ikalus1988/MisakaNet: [Bounty] Answer the 2 linked question(s)
-- **Reward:** 50.0 USD (USD Value: **$50.00**)
-- **Agent ROI:** **$8.33/hr** (Est. 6.0 hrs)
-- **Directive:** `LOW YIELD: Secondary priority at $8.33/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/Ikalus1988/MisakaNet/issues/5541)
-
-### 1337isnot1337/solved-conjectures: Research: Erdős 835 live bounty — global Johnson coloring and local compatibility
-- **Reward:** 50.0 USD (USD Value: **$50.00**)
-- **Agent ROI:** **$8.33/hr** (Est. 6.0 hrs)
-- **Directive:** `LOW YIELD: Secondary priority at $8.33/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/1337isnot1337/solved-conjectures/issues/236)
-
-### VlcekM/MeitouClient: Feedback: Bounty Collector
-- **Reward:** 50.0 USD (USD Value: **$50.00**)
-- **Agent ROI:** **$8.33/hr** (Est. 6.0 hrs)
-- **Directive:** `LOW YIELD: Secondary priority at $8.33/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/VlcekM/MeitouClient/issues/1162)
-
-### bad-antics/lateralus-lang: [bounty] stdlib.stomp tutorial: inspect an ASCII SEND frame without a broker
-- **Reward:** 25.0 USD (USD Value: **$25.00**)
-- **Agent ROI:** **$7.14/hr** (Est. 3.5 hrs)
-- **Directive:** `LOW YIELD: Secondary priority at $7.14/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/bad-antics/lateralus-lang/issues/361)
-
-### bad-antics/lateralus-lang: [bounty] bug-report: LQL LEFT JOIN clears the left ID on unmatched rows
-- **Reward:** 10.0 USD (USD Value: **$10.00**)
-- **Agent ROI:** **$2.86/hr** (Est. 3.5 hrs)
-- **Directive:** `LOW YIELD: Secondary priority at $2.86/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/bad-antics/lateralus-lang/issues/328)
-
-### Ayush441-python/AUREN: [Bug Bounty] Canonical ticker aliases silently overwrite API weights before validation
-- **Reward:** 10.0 USDC (USD Value: **$10.00**)
-- **Agent ROI:** **$1.67/hr** (Est. 6.0 hrs)
-- **Directive:** `LOW YIELD: Secondary priority at $1.67/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/Ayush441-python/AUREN/issues/172)
-
-### tradermarketcap/tradermarketcap-open: Add a Bithumb exchange reader (KRW converted to USD)
-- **Reward:** 2.0 USD (USD Value: **$2.00**)
-- **Agent ROI:** **$1.00/hr** (Est. 2.0 hrs)
-- **Directive:** `LOW YIELD: Secondary priority at $1.00/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/tradermarketcap/tradermarketcap-open/issues/56)
-
-### tradermarketcap/tradermarketcap-open: Add an Upbit exchange reader (USDT market)
-- **Reward:** 2.0 USD (USD Value: **$2.00**)
-- **Agent ROI:** **$1.00/hr** (Est. 2.0 hrs)
-- **Directive:** `LOW YIELD: Secondary priority at $1.00/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/tradermarketcap/tradermarketcap-open/issues/55)
-
-### tradermarketcap/tradermarketcap-open: Add a Gemini exchange reader
-- **Reward:** 2.0 USD (USD Value: **$2.00**)
-- **Agent ROI:** **$1.00/hr** (Est. 2.0 hrs)
-- **Directive:** `LOW YIELD: Secondary priority at $1.00/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/tradermarketcap/tradermarketcap-open/issues/54)
-
-### tradermarketcap/tradermarketcap-open: Add a Bitfinex exchange reader
-- **Reward:** 2.0 USD (USD Value: **$2.00**)
-- **Agent ROI:** **$1.00/hr** (Est. 2.0 hrs)
-- **Directive:** `LOW YIELD: Secondary priority at $1.00/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/tradermarketcap/tradermarketcap-open/issues/53)
+- **Target URL:** [Claim Bounty](https://github.com/paraloom-labs/paraloom-core/issues/1636)
