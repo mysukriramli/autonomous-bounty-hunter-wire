@@ -2,17 +2,53 @@
 > Live cross-referencing of open GitHub bounties and live cryptocurrency markets to calculate maximum USD/Hour ROI.
 
 ## Top High-Yield Targets
+### relayhop/sn-monetization-runtime: [radar] SN open bounty 2026-11-23T00:12
+- **Reward:** 2026.0 USD (USD Value: **$2,026.00**)
+- **Agent ROI:** **$1,013.00/hr** (Est. 2.0 hrs)
+- **Directive:** `EXECUTE: High-yield target at $1013.00/hr. Prioritize PR submission.`
+- **Target URL:** [Claim Bounty](https://github.com/relayhop/sn-monetization-runtime/issues/1433)
+
 ### relayhop/sn-monetization-runtime: [radar] SN open bounty 2026-11-22T18:28
 - **Reward:** 2026.0 USD (USD Value: **$2,026.00**)
 - **Agent ROI:** **$1,013.00/hr** (Est. 2.0 hrs)
 - **Directive:** `EXECUTE: High-yield target at $1013.00/hr. Prioritize PR submission.`
 - **Target URL:** [Claim Bounty](https://github.com/relayhop/sn-monetization-runtime/issues/1431)
 
-### Ayush441-python/AUREN: [Maths Bounty] Rounding the NVDA stress return turns a $150 loss into $100 in the dollar table
-- **Reward:** 150.0 USD (USD Value: **$150.00**)
-- **Agent ROI:** **$42.86/hr** (Est. 3.5 hrs)
-- **Directive:** `STANDARD: Profitable target at $42.86/hr. Queue for execution.`
-- **Target URL:** [Claim Bounty](https://github.com/Ayush441-python/AUREN/issues/208)
+### IES-BoilerRoom/pcie-tlp-credit-flow-gate: ($350) perf/fix: Align Posted/Non-Posted header credit wrap mask under 256B FLIT packing (pcie-tlp-credit-flow-gate)
+- **Reward:** 350.0 USD (USD Value: **$350.00**)
+- **Agent ROI:** **$175.00/hr** (Est. 2.0 hrs)
+- **Directive:** `EXECUTE: High-yield target at $175.00/hr. Prioritize PR submission.`
+- **Target URL:** [Claim Bounty](https://github.com/IES-BoilerRoom/pcie-tlp-credit-flow-gate/issues/2)
+
+### IES-BoilerRoom/vllm-paged-kv-verifier: [$300] fix(kv_cache): Align prefix-cache copy-on-write watermark across TP=8 shard moduli (vllm-paged-kv-verifier)
+- **Reward:** 300.0 USD (USD Value: **$300.00**)
+- **Agent ROI:** **$150.00/hr** (Est. 2.0 hrs)
+- **Directive:** `EXECUTE: High-yield target at $150.00/hr. Prioritize PR submission.`
+- **Target URL:** [Claim Bounty](https://github.com/IES-BoilerRoom/vllm-paged-kv-verifier/issues/2)
+
+### bad-antics/lateralus-lang: [bounty] aoc-2024-all-25
+- **Reward:** 500.0 USD (USD Value: **$500.00**)
+- **Agent ROI:** **$142.86/hr** (Est. 3.5 hrs)
+- **Directive:** `EXECUTE: High-yield target at $142.86/hr. Prioritize PR submission.`
+- **Target URL:** [Claim Bounty](https://github.com/bad-antics/lateralus-lang/issues/831)
+
+### IES-BoilerRoom/pcie-tlp-credit-flow-gate: [225 USDC] Resolve TLP frame ceiling boundary and infinite-wrap credit bitvector identity (reassemble_tlp_flit_frames)
+- **Reward:** 225.0 USD (USD Value: **$225.00**)
+- **Agent ROI:** **$112.50/hr** (Est. 2.0 hrs)
+- **Directive:** `EXECUTE: High-yield target at $112.50/hr. Prioritize PR submission.`
+- **Target URL:** [Claim Bounty](https://github.com/IES-BoilerRoom/pcie-tlp-credit-flow-gate/issues/1)
+
+### freedom-winds/BountyScout: 🎯 Bounty Alert: 11 New Opportunityies found
+- **Reward:** 250.0 USD (USD Value: **$250.00**)
+- **Agent ROI:** **$41.67/hr** (Est. 6.0 hrs)
+- **Directive:** `STANDARD: Profitable target at $41.67/hr. Queue for execution.`
+- **Target URL:** [Claim Bounty](https://github.com/freedom-winds/BountyScout/issues/1448)
+
+### IES-BoilerRoom/vllm-paged-kv-verifier: ci/kv_cache: Fix KV frame chunk ceiling and reconcile multi-head block stride congruences - Reward $75 USDC
+- **Reward:** 75.0 USD (USD Value: **$75.00**)
+- **Agent ROI:** **$37.50/hr** (Est. 2.0 hrs)
+- **Directive:** `LOW YIELD: Secondary priority at $37.50/hr.`
+- **Target URL:** [Claim Bounty](https://github.com/IES-BoilerRoom/vllm-paged-kv-verifier/issues/1)
 
 ### Fishers-Founders-United/Swapatron5000: Bounty (5): Organize the first three months of the upkeep rota
 - **Reward:** 50.0 USD (USD Value: **$50.00**)
@@ -98,56 +134,20 @@
 - **Directive:** `LOW YIELD: Secondary priority at $25.00/hr.`
 - **Target URL:** [Claim Bounty](https://github.com/Fishers-Founders-United/Swapatron5000/issues/100)
 
-### Fishers-Founders-United/Swapatron5000: Bounty (3): Write a battery safety summary, reviewed by someone with battery experience
+### amirmomeni177/bounty-watch: bounty-watch 2026-11-23: 1 new, 2 resumed, 0 watchlist changes
 - **Reward:** 50.0 USD (USD Value: **$50.00**)
 - **Agent ROI:** **$25.00/hr** (Est. 2.0 hrs)
 - **Directive:** `LOW YIELD: Secondary priority at $25.00/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/Fishers-Founders-United/Swapatron5000/issues/99)
+- **Target URL:** [Claim Bounty](https://github.com/amirmomeni177/bounty-watch/issues/22)
 
-### Fishers-Founders-United/Swapatron5000: Bounty (2): Research how other swap boxes handle loss and junk, and write up what you find
+### nockchain/nockchain: Regarding Bug Bounty Report
 - **Reward:** 50.0 USD (USD Value: **$50.00**)
 - **Agent ROI:** **$25.00/hr** (Est. 2.0 hrs)
 - **Directive:** `LOW YIELD: Secondary priority at $25.00/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/Fishers-Founders-United/Swapatron5000/issues/98)
+- **Target URL:** [Claim Bounty](https://github.com/nockchain/nockchain/issues/227)
 
-### Fishers-Founders-United/Swapatron5000: Bounty (2): Design bin labels with icons
+### amirmomeni177/bounty-watch: Scope digest 2026-11-23: 8 changes across 2 bounty programs
 - **Reward:** 50.0 USD (USD Value: **$50.00**)
-- **Agent ROI:** **$25.00/hr** (Est. 2.0 hrs)
-- **Directive:** `LOW YIELD: Secondary priority at $25.00/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/Fishers-Founders-United/Swapatron5000/issues/97)
-
-### Fishers-Founders-United/Swapatron5000: Bounty (2): Design the sign for the front of the box
-- **Reward:** 50.0 USD (USD Value: **$50.00**)
-- **Agent ROI:** **$25.00/hr** (Est. 2.0 hrs)
-- **Directive:** `LOW YIELD: Secondary priority at $25.00/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/Fishers-Founders-United/Swapatron5000/issues/96)
-
-### Fishers-Founders-United/Swapatron5000: Bounty (2): Draw a logo a kid would want as a sticker
-- **Reward:** 50.0 USD (USD Value: **$50.00**)
-- **Agent ROI:** **$25.00/hr** (Est. 2.0 hrs)
-- **Directive:** `LOW YIELD: Secondary priority at $25.00/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/Fishers-Founders-United/Swapatron5000/issues/95)
-
-### transitfabric/releases: Bounty registration
-- **Reward:** 50.0 USD (USD Value: **$50.00**)
-- **Agent ROI:** **$25.00/hr** (Est. 2.0 hrs)
-- **Directive:** `LOW YIELD: Secondary priority at $25.00/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/transitfabric/releases/issues/24)
-
-### bad-antics/lateralus-lang: [Bounty Claim] Tutorial: stdlib/z_algorithm.ltl - Gusfield's Linear O(n) Z-Algorithm & Prefix Box String Matching
-- **Reward:** 50.0 USD (USD Value: **$50.00**)
-- **Agent ROI:** **$25.00/hr** (Est. 2.0 hrs)
-- **Directive:** `LOW YIELD: Secondary priority at $25.00/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/bad-antics/lateralus-lang/issues/712)
-
-### bad-antics/lateralus-lang: [Bounty Claim] Tutorial: stdlib/kdtree.ltl - K-Dimensional Spatial Tree (KD-Tree) & Sub-linear O(log n) Nearest Neighbor Search
-- **Reward:** 50.0 USD (USD Value: **$50.00**)
-- **Agent ROI:** **$25.00/hr** (Est. 2.0 hrs)
-- **Directive:** `LOW YIELD: Secondary priority at $25.00/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/bad-antics/lateralus-lang/issues/698)
-
-### bad-antics/lateralus-lang: [Bounty Claim] Tutorial: stdlib/bipartite_hopcroft_karp.ltl - Linear O(E sqrt(V)) Maximum Cardinality Bipartite Matching
-- **Reward:** 50.0 USD (USD Value: **$50.00**)
-- **Agent ROI:** **$25.00/hr** (Est. 2.0 hrs)
-- **Directive:** `LOW YIELD: Secondary priority at $25.00/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/bad-antics/lateralus-lang/issues/696)
+- **Agent ROI:** **$14.29/hr** (Est. 3.5 hrs)
+- **Directive:** `LOW YIELD: Secondary priority at $14.29/hr.`
+- **Target URL:** [Claim Bounty](https://github.com/amirmomeni177/bounty-watch/issues/23)

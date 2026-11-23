@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-11-22T19:57:11.750206+00:00",
+    "generated_at": "2026-11-23T08:09:25.464017+00:00",
     "data_sources": [
       "GitHub Search API",
       "CoinGecko V3 API",
@@ -10,6 +10,18 @@
     "schema_version": "1.0.0"
   },
   "bounty_targets": [
+    {
+      "issue_url": "https://github.com/relayhop/sn-monetization-runtime/issues/1433",
+      "repository": "relayhop/sn-monetization-runtime",
+      "title": "[radar] SN open bounty 2026-11-23T00:12",
+      "raw_reward_currency": "USD",
+      "raw_reward_amount": 2026.0,
+      "estimated_hours_to_solve": 2.0,
+      "live_usd_exchange_rate": 1.0,
+      "total_usd_value": 2026.0,
+      "roi_usd_per_hour": 1013.0,
+      "agent_directive": "EXECUTE: High-yield target at $1013.00/hr. Prioritize PR submission."
+    },
     {
       "issue_url": "https://github.com/relayhop/sn-monetization-runtime/issues/1431",
       "repository": "relayhop/sn-monetization-runtime",
@@ -23,16 +35,76 @@
       "agent_directive": "EXECUTE: High-yield target at $1013.00/hr. Prioritize PR submission."
     },
     {
-      "issue_url": "https://github.com/Ayush441-python/AUREN/issues/208",
-      "repository": "Ayush441-python/AUREN",
-      "title": "[Maths Bounty] Rounding the NVDA stress return turns a $150 loss into $100 in the dollar table",
+      "issue_url": "https://github.com/IES-BoilerRoom/pcie-tlp-credit-flow-gate/issues/2",
+      "repository": "IES-BoilerRoom/pcie-tlp-credit-flow-gate",
+      "title": "($350) perf/fix: Align Posted/Non-Posted header credit wrap mask under 256B FLIT packing (pcie-tlp-credit-flow-gate)",
       "raw_reward_currency": "USD",
-      "raw_reward_amount": 150.0,
+      "raw_reward_amount": 350.0,
+      "estimated_hours_to_solve": 2.0,
+      "live_usd_exchange_rate": 1.0,
+      "total_usd_value": 350.0,
+      "roi_usd_per_hour": 175.0,
+      "agent_directive": "EXECUTE: High-yield target at $175.00/hr. Prioritize PR submission."
+    },
+    {
+      "issue_url": "https://github.com/IES-BoilerRoom/vllm-paged-kv-verifier/issues/2",
+      "repository": "IES-BoilerRoom/vllm-paged-kv-verifier",
+      "title": "[$300] fix(kv_cache): Align prefix-cache copy-on-write watermark across TP=8 shard moduli (vllm-paged-kv-verifier)",
+      "raw_reward_currency": "USD",
+      "raw_reward_amount": 300.0,
+      "estimated_hours_to_solve": 2.0,
+      "live_usd_exchange_rate": 1.0,
+      "total_usd_value": 300.0,
+      "roi_usd_per_hour": 150.0,
+      "agent_directive": "EXECUTE: High-yield target at $150.00/hr. Prioritize PR submission."
+    },
+    {
+      "issue_url": "https://github.com/bad-antics/lateralus-lang/issues/831",
+      "repository": "bad-antics/lateralus-lang",
+      "title": "[bounty] aoc-2024-all-25",
+      "raw_reward_currency": "USD",
+      "raw_reward_amount": 500.0,
       "estimated_hours_to_solve": 3.5,
       "live_usd_exchange_rate": 1.0,
-      "total_usd_value": 150.0,
-      "roi_usd_per_hour": 42.86,
-      "agent_directive": "STANDARD: Profitable target at $42.86/hr. Queue for execution."
+      "total_usd_value": 500.0,
+      "roi_usd_per_hour": 142.86,
+      "agent_directive": "EXECUTE: High-yield target at $142.86/hr. Prioritize PR submission."
+    },
+    {
+      "issue_url": "https://github.com/IES-BoilerRoom/pcie-tlp-credit-flow-gate/issues/1",
+      "repository": "IES-BoilerRoom/pcie-tlp-credit-flow-gate",
+      "title": "[225 USDC] Resolve TLP frame ceiling boundary and infinite-wrap credit bitvector identity (reassemble_tlp_flit_frames)",
+      "raw_reward_currency": "USD",
+      "raw_reward_amount": 225.0,
+      "estimated_hours_to_solve": 2.0,
+      "live_usd_exchange_rate": 1.0,
+      "total_usd_value": 225.0,
+      "roi_usd_per_hour": 112.5,
+      "agent_directive": "EXECUTE: High-yield target at $112.50/hr. Prioritize PR submission."
+    },
+    {
+      "issue_url": "https://github.com/freedom-winds/BountyScout/issues/1448",
+      "repository": "freedom-winds/BountyScout",
+      "title": "\ud83c\udfaf Bounty Alert: 11 New Opportunityies found",
+      "raw_reward_currency": "USD",
+      "raw_reward_amount": 250.0,
+      "estimated_hours_to_solve": 6.0,
+      "live_usd_exchange_rate": 1.0,
+      "total_usd_value": 250.0,
+      "roi_usd_per_hour": 41.67,
+      "agent_directive": "STANDARD: Profitable target at $41.67/hr. Queue for execution."
+    },
+    {
+      "issue_url": "https://github.com/IES-BoilerRoom/vllm-paged-kv-verifier/issues/1",
+      "repository": "IES-BoilerRoom/vllm-paged-kv-verifier",
+      "title": "ci/kv_cache: Fix KV frame chunk ceiling and reconcile multi-head block stride congruences - Reward $75 USDC",
+      "raw_reward_currency": "USD",
+      "raw_reward_amount": 75.0,
+      "estimated_hours_to_solve": 2.0,
+      "live_usd_exchange_rate": 1.0,
+      "total_usd_value": 75.0,
+      "roi_usd_per_hour": 37.5,
+      "agent_directive": "LOW YIELD: Secondary priority at $37.50/hr."
     },
     {
       "issue_url": "https://github.com/Fishers-Founders-United/Swapatron5000/issues/113",
@@ -203,9 +275,9 @@
       "agent_directive": "LOW YIELD: Secondary priority at $25.00/hr."
     },
     {
-      "issue_url": "https://github.com/Fishers-Founders-United/Swapatron5000/issues/99",
-      "repository": "Fishers-Founders-United/Swapatron5000",
-      "title": "Bounty (3): Write a battery safety summary, reviewed by someone with battery experience",
+      "issue_url": "https://github.com/amirmomeni177/bounty-watch/issues/22",
+      "repository": "amirmomeni177/bounty-watch",
+      "title": "bounty-watch 2026-11-23: 1 new, 2 resumed, 0 watchlist changes",
       "raw_reward_currency": "USD",
       "raw_reward_amount": 50.0,
       "estimated_hours_to_solve": 2.0,
@@ -215,9 +287,9 @@
       "agent_directive": "LOW YIELD: Secondary priority at $25.00/hr."
     },
     {
-      "issue_url": "https://github.com/Fishers-Founders-United/Swapatron5000/issues/98",
-      "repository": "Fishers-Founders-United/Swapatron5000",
-      "title": "Bounty (2): Research how other swap boxes handle loss and junk, and write up what you find",
+      "issue_url": "https://github.com/nockchain/nockchain/issues/227",
+      "repository": "nockchain/nockchain",
+      "title": "Regarding Bug Bounty Report",
       "raw_reward_currency": "USD",
       "raw_reward_amount": 50.0,
       "estimated_hours_to_solve": 2.0,
@@ -227,141 +299,9 @@
       "agent_directive": "LOW YIELD: Secondary priority at $25.00/hr."
     },
     {
-      "issue_url": "https://github.com/Fishers-Founders-United/Swapatron5000/issues/97",
-      "repository": "Fishers-Founders-United/Swapatron5000",
-      "title": "Bounty (2): Design bin labels with icons",
-      "raw_reward_currency": "USD",
-      "raw_reward_amount": 50.0,
-      "estimated_hours_to_solve": 2.0,
-      "live_usd_exchange_rate": 1.0,
-      "total_usd_value": 50.0,
-      "roi_usd_per_hour": 25.0,
-      "agent_directive": "LOW YIELD: Secondary priority at $25.00/hr."
-    },
-    {
-      "issue_url": "https://github.com/Fishers-Founders-United/Swapatron5000/issues/96",
-      "repository": "Fishers-Founders-United/Swapatron5000",
-      "title": "Bounty (2): Design the sign for the front of the box",
-      "raw_reward_currency": "USD",
-      "raw_reward_amount": 50.0,
-      "estimated_hours_to_solve": 2.0,
-      "live_usd_exchange_rate": 1.0,
-      "total_usd_value": 50.0,
-      "roi_usd_per_hour": 25.0,
-      "agent_directive": "LOW YIELD: Secondary priority at $25.00/hr."
-    },
-    {
-      "issue_url": "https://github.com/Fishers-Founders-United/Swapatron5000/issues/95",
-      "repository": "Fishers-Founders-United/Swapatron5000",
-      "title": "Bounty (2): Draw a logo a kid would want as a sticker",
-      "raw_reward_currency": "USD",
-      "raw_reward_amount": 50.0,
-      "estimated_hours_to_solve": 2.0,
-      "live_usd_exchange_rate": 1.0,
-      "total_usd_value": 50.0,
-      "roi_usd_per_hour": 25.0,
-      "agent_directive": "LOW YIELD: Secondary priority at $25.00/hr."
-    },
-    {
-      "issue_url": "https://github.com/transitfabric/releases/issues/24",
-      "repository": "transitfabric/releases",
-      "title": "Bounty registration",
-      "raw_reward_currency": "USD",
-      "raw_reward_amount": 50.0,
-      "estimated_hours_to_solve": 2.0,
-      "live_usd_exchange_rate": 1.0,
-      "total_usd_value": 50.0,
-      "roi_usd_per_hour": 25.0,
-      "agent_directive": "LOW YIELD: Secondary priority at $25.00/hr."
-    },
-    {
-      "issue_url": "https://github.com/bad-antics/lateralus-lang/issues/712",
-      "repository": "bad-antics/lateralus-lang",
-      "title": "[Bounty Claim] Tutorial: stdlib/z_algorithm.ltl - Gusfield's Linear O(n) Z-Algorithm & Prefix Box String Matching",
-      "raw_reward_currency": "USD",
-      "raw_reward_amount": 50.0,
-      "estimated_hours_to_solve": 2.0,
-      "live_usd_exchange_rate": 1.0,
-      "total_usd_value": 50.0,
-      "roi_usd_per_hour": 25.0,
-      "agent_directive": "LOW YIELD: Secondary priority at $25.00/hr."
-    },
-    {
-      "issue_url": "https://github.com/bad-antics/lateralus-lang/issues/698",
-      "repository": "bad-antics/lateralus-lang",
-      "title": "[Bounty Claim] Tutorial: stdlib/kdtree.ltl - K-Dimensional Spatial Tree (KD-Tree) & Sub-linear O(log n) Nearest Neighbor Search",
-      "raw_reward_currency": "USD",
-      "raw_reward_amount": 50.0,
-      "estimated_hours_to_solve": 2.0,
-      "live_usd_exchange_rate": 1.0,
-      "total_usd_value": 50.0,
-      "roi_usd_per_hour": 25.0,
-      "agent_directive": "LOW YIELD: Secondary priority at $25.00/hr."
-    },
-    {
-      "issue_url": "https://github.com/bad-antics/lateralus-lang/issues/696",
-      "repository": "bad-antics/lateralus-lang",
-      "title": "[Bounty Claim] Tutorial: stdlib/bipartite_hopcroft_karp.ltl - Linear O(E sqrt(V)) Maximum Cardinality Bipartite Matching",
-      "raw_reward_currency": "USD",
-      "raw_reward_amount": 50.0,
-      "estimated_hours_to_solve": 2.0,
-      "live_usd_exchange_rate": 1.0,
-      "total_usd_value": 50.0,
-      "roi_usd_per_hour": 25.0,
-      "agent_directive": "LOW YIELD: Secondary priority at $25.00/hr."
-    },
-    {
-      "issue_url": "https://github.com/bad-antics/lateralus-lang/issues/694",
-      "repository": "bad-antics/lateralus-lang",
-      "title": "[Bounty Claim] Tutorial: stdlib/heavy_light_decomposition.ltl - Heavy-Light Decomposition (HLD) & O(log^2 n) Tree Path Operations",
-      "raw_reward_currency": "USD",
-      "raw_reward_amount": 50.0,
-      "estimated_hours_to_solve": 2.0,
-      "live_usd_exchange_rate": 1.0,
-      "total_usd_value": 50.0,
-      "roi_usd_per_hour": 25.0,
-      "agent_directive": "LOW YIELD: Secondary priority at $25.00/hr."
-    },
-    {
-      "issue_url": "https://github.com/Rohank143/BountyScout/issues/137",
-      "repository": "Rohank143/BountyScout",
-      "title": "\ud83c\udfaf Bounty Alert: 16 New Opportunityies found",
-      "raw_reward_currency": "USD",
-      "raw_reward_amount": 125.0,
-      "estimated_hours_to_solve": 6.0,
-      "live_usd_exchange_rate": 1.0,
-      "total_usd_value": 125.0,
-      "roi_usd_per_hour": 20.83,
-      "agent_directive": "LOW YIELD: Secondary priority at $20.83/hr."
-    },
-    {
-      "issue_url": "https://github.com/dev-kp-eloper/BountyScout/issues/1795",
-      "repository": "dev-kp-eloper/BountyScout",
-      "title": "\ud83c\udfaf Bounty Alert: 16 New Opportunityies found",
-      "raw_reward_currency": "USD",
-      "raw_reward_amount": 125.0,
-      "estimated_hours_to_solve": 6.0,
-      "live_usd_exchange_rate": 1.0,
-      "total_usd_value": 125.0,
-      "roi_usd_per_hour": 20.83,
-      "agent_directive": "LOW YIELD: Secondary priority at $20.83/hr."
-    },
-    {
-      "issue_url": "https://github.com/freedom-winds/BountyScout/issues/1446",
-      "repository": "freedom-winds/BountyScout",
-      "title": "\ud83c\udfaf Bounty Alert: 18 New Opportunityies found",
-      "raw_reward_currency": "USD",
-      "raw_reward_amount": 125.0,
-      "estimated_hours_to_solve": 6.0,
-      "live_usd_exchange_rate": 1.0,
-      "total_usd_value": 125.0,
-      "roi_usd_per_hour": 20.83,
-      "agent_directive": "LOW YIELD: Secondary priority at $20.83/hr."
-    },
-    {
-      "issue_url": "https://github.com/Conquest-of-AzerothCore/azerothcore-wotlk-coa/issues/13297",
-      "repository": "Conquest-of-AzerothCore/azerothcore-wotlk-coa",
-      "title": "[Pilgrim's Bounty] Light's Hope Chapel Bounty Table clipping against custom Ascension doodads",
+      "issue_url": "https://github.com/amirmomeni177/bounty-watch/issues/23",
+      "repository": "amirmomeni177/bounty-watch",
+      "title": "Scope digest 2026-11-23: 8 changes across 2 bounty programs",
       "raw_reward_currency": "USD",
       "raw_reward_amount": 50.0,
       "estimated_hours_to_solve": 3.5,
@@ -371,9 +311,9 @@
       "agent_directive": "LOW YIELD: Secondary priority at $14.29/hr."
     },
     {
-      "issue_url": "https://github.com/bad-antics/lateralus-lang/issues/719",
+      "issue_url": "https://github.com/bad-antics/lateralus-lang/issues/836",
       "repository": "bad-antics/lateralus-lang",
-      "title": "[Bounty Claim] Tutorial: stdlib/convex_hull_trick.ltl - Li Chao Segment Tree (CHT) & O(log C) Dynamic Line Optimization",
+      "title": "[bounty] Floating-point interval addition can exclude the exact result",
       "raw_reward_currency": "USD",
       "raw_reward_amount": 50.0,
       "estimated_hours_to_solve": 3.5,
@@ -383,9 +323,9 @@
       "agent_directive": "LOW YIELD: Secondary priority at $14.29/hr."
     },
     {
-      "issue_url": "https://github.com/bad-antics/lateralus-lang/issues/716",
-      "repository": "bad-antics/lateralus-lang",
-      "title": "[Bounty Claim] Tutorial: stdlib/palindromic_tree.ltl - Rubinchik-Shur Palindromic Tree (PAM) & Linear O(n) Palindrome Indexing",
+      "issue_url": "https://github.com/Ayush441-python/AUREN/issues/226",
+      "repository": "Ayush441-python/AUREN",
+      "title": "[Maths bounty] /liquidity understates exit time 150-fold for a JPY-quoted equity",
       "raw_reward_currency": "USD",
       "raw_reward_amount": 50.0,
       "estimated_hours_to_solve": 3.5,
@@ -395,9 +335,9 @@
       "agent_directive": "LOW YIELD: Secondary priority at $14.29/hr."
     },
     {
-      "issue_url": "https://github.com/bad-antics/lateralus-lang/issues/709",
-      "repository": "bad-antics/lateralus-lang",
-      "title": "[Bounty Claim] Tutorial: stdlib/splay_tree.ltl - Sleator-Tarjan Self-Adjusting Splay Tree & Amortized O(log n) Access Locality",
+      "issue_url": "https://github.com/Ayush441-python/AUREN/issues/225",
+      "repository": "Ayush441-python/AUREN",
+      "title": "[Bug Bounty] Overview ranks a 15-point risk driver above a 20-point driver",
       "raw_reward_currency": "USD",
       "raw_reward_amount": 50.0,
       "estimated_hours_to_solve": 3.5,
@@ -407,57 +347,33 @@
       "agent_directive": "LOW YIELD: Secondary priority at $14.29/hr."
     },
     {
-      "issue_url": "https://github.com/bad-antics/lateralus-lang/issues/706",
+      "issue_url": "https://github.com/bad-antics/lateralus-lang/issues/834",
       "repository": "bad-antics/lateralus-lang",
-      "title": "[Bounty Claim] Tutorial: stdlib/dancing_links.ltl - Knuth's Dancing Links (DLX), Toroidal Cross-Lists & Exact Cover Algorithm X",
+      "title": "[bounty] Port a two-pass city-block distance transform to Lateralus",
       "raw_reward_currency": "USD",
-      "raw_reward_amount": 50.0,
-      "estimated_hours_to_solve": 3.5,
+      "raw_reward_amount": 25.0,
+      "estimated_hours_to_solve": 2.0,
       "live_usd_exchange_rate": 1.0,
-      "total_usd_value": 50.0,
-      "roi_usd_per_hour": 14.29,
-      "agent_directive": "LOW YIELD: Secondary priority at $14.29/hr."
+      "total_usd_value": 25.0,
+      "roi_usd_per_hour": 12.5,
+      "agent_directive": "LOW YIELD: Secondary priority at $12.50/hr."
     },
     {
-      "issue_url": "https://github.com/bad-antics/lateralus-lang/issues/704",
+      "issue_url": "https://github.com/bad-antics/lateralus-lang/issues/814",
       "repository": "bad-antics/lateralus-lang",
-      "title": "[Bounty Claim] Tutorial: stdlib/suffix_automaton.ltl - Suffix Automaton (SAM) & Linear O(n) String Substring Indexing",
+      "title": "[bounty] prime-count-port",
       "raw_reward_currency": "USD",
-      "raw_reward_amount": 50.0,
-      "estimated_hours_to_solve": 3.5,
+      "raw_reward_amount": 25.0,
+      "estimated_hours_to_solve": 2.0,
       "live_usd_exchange_rate": 1.0,
-      "total_usd_value": 50.0,
-      "roi_usd_per_hour": 14.29,
-      "agent_directive": "LOW YIELD: Secondary priority at $14.29/hr."
+      "total_usd_value": 25.0,
+      "roi_usd_per_hour": 12.5,
+      "agent_directive": "LOW YIELD: Secondary priority at $12.50/hr."
     },
     {
-      "issue_url": "https://github.com/bad-antics/lateralus-lang/issues/702",
-      "repository": "bad-antics/lateralus-lang",
-      "title": "[Bounty Claim] Tutorial: stdlib/treap.ltl - Randomized Cartesian Balance Tree (Treap) & O(log n) Heap-BST Invariants",
-      "raw_reward_currency": "USD",
-      "raw_reward_amount": 50.0,
-      "estimated_hours_to_solve": 3.5,
-      "live_usd_exchange_rate": 1.0,
-      "total_usd_value": 50.0,
-      "roi_usd_per_hour": 14.29,
-      "agent_directive": "LOW YIELD: Secondary priority at $14.29/hr."
-    },
-    {
-      "issue_url": "https://github.com/bad-antics/lateralus-lang/issues/700",
-      "repository": "bad-antics/lateralus-lang",
-      "title": "[Bounty Claim] Tutorial: stdlib/fenwick_tree_2d.ltl - 2D Binary Indexed Tree & O(log n * log m) Subgrid Prefix Queries",
-      "raw_reward_currency": "USD",
-      "raw_reward_amount": 50.0,
-      "estimated_hours_to_solve": 3.5,
-      "live_usd_exchange_rate": 1.0,
-      "total_usd_value": 50.0,
-      "roi_usd_per_hour": 14.29,
-      "agent_directive": "LOW YIELD: Secondary priority at $14.29/hr."
-    },
-    {
-      "issue_url": "https://github.com/aibtcdev/landing-page/issues/1157",
-      "repository": "aibtcdev/landing-page",
-      "title": "Bounty /paid: a partly-read routed team payout tells the poster to pay members the same tx already paid",
+      "issue_url": "https://github.com/paraloom-labs/paraloom-core/issues/1671",
+      "repository": "paraloom-labs/paraloom-core",
+      "title": "[BOUNTY] Medium: TransactVerificationCoordinator.start_verification gates admission on flap-prone self.validators.len() instead of eligible_wallets() and sync_onchain_stakes never prunes pre-snapshot non-validator peers",
       "raw_reward_currency": "USD",
       "raw_reward_amount": 50.0,
       "estimated_hours_to_solve": 6.0,
@@ -467,16 +383,100 @@
       "agent_directive": "LOW YIELD: Secondary priority at $8.33/hr."
     },
     {
-      "issue_url": "https://github.com/blake-guthrie/GLASS/issues/67",
-      "repository": "blake-guthrie/GLASS",
-      "title": "Bounty proposal: dated Bybit reserve-address attribution",
+      "issue_url": "https://github.com/paraloom-labs/paraloom-core/issues/1670",
+      "repository": "paraloom-labs/paraloom-core",
+      "title": "[BOUNTY] Medium: fetchV3Leaves infers TransactEvent leaf indices from reverse-signature order and skips payload length checks \u2014 same-slot DepositNoteEvent + TransactEvent ordering shifts transactLeafCursor and permanently freezes wallet spends (paraloom-wallet)",
       "raw_reward_currency": "USD",
-      "raw_reward_amount": 15.0,
+      "raw_reward_amount": 50.0,
+      "estimated_hours_to_solve": 6.0,
+      "live_usd_exchange_rate": 1.0,
+      "total_usd_value": 50.0,
+      "roi_usd_per_hour": 8.33,
+      "agent_directive": "LOW YIELD: Secondary priority at $8.33/hr."
+    },
+    {
+      "issue_url": "https://github.com/Rohank143/BountyScout/issues/138",
+      "repository": "Rohank143/BountyScout",
+      "title": "\ud83c\udfaf Bounty Alert: 14 New Opportunityies found",
+      "raw_reward_currency": "USD",
+      "raw_reward_amount": 50.0,
+      "estimated_hours_to_solve": 6.0,
+      "live_usd_exchange_rate": 1.0,
+      "total_usd_value": 50.0,
+      "roi_usd_per_hour": 8.33,
+      "agent_directive": "LOW YIELD: Secondary priority at $8.33/hr."
+    },
+    {
+      "issue_url": "https://github.com/dev-kp-eloper/BountyScout/issues/1796",
+      "repository": "dev-kp-eloper/BountyScout",
+      "title": "\ud83c\udfaf Bounty Alert: 16 New Opportunityies found",
+      "raw_reward_currency": "USD",
+      "raw_reward_amount": 50.0,
+      "estimated_hours_to_solve": 6.0,
+      "live_usd_exchange_rate": 1.0,
+      "total_usd_value": 50.0,
+      "roi_usd_per_hour": 8.33,
+      "agent_directive": "LOW YIELD: Secondary priority at $8.33/hr."
+    },
+    {
+      "issue_url": "https://github.com/freedom-winds/BountyScout/issues/1447",
+      "repository": "freedom-winds/BountyScout",
+      "title": "\ud83c\udfaf Bounty Alert: 14 New Opportunityies found",
+      "raw_reward_currency": "USD",
+      "raw_reward_amount": 50.0,
+      "estimated_hours_to_solve": 6.0,
+      "live_usd_exchange_rate": 1.0,
+      "total_usd_value": 50.0,
+      "roi_usd_per_hour": 8.33,
+      "agent_directive": "LOW YIELD: Secondary priority at $8.33/hr."
+    },
+    {
+      "issue_url": "https://github.com/bad-antics/lateralus-lang/issues/838",
+      "repository": "bad-antics/lateralus-lang",
+      "title": "[bounty] bug-report: math_engine cbrt returns complex for negative inputs (Python backend)",
+      "raw_reward_currency": "USD",
+      "raw_reward_amount": 10.0,
       "estimated_hours_to_solve": 3.5,
       "live_usd_exchange_rate": 1.0,
-      "total_usd_value": 15.0,
-      "roi_usd_per_hour": 4.29,
-      "agent_directive": "LOW YIELD: Secondary priority at $4.29/hr."
+      "total_usd_value": 10.0,
+      "roi_usd_per_hour": 2.86,
+      "agent_directive": "LOW YIELD: Secondary priority at $2.86/hr."
+    },
+    {
+      "issue_url": "https://github.com/bad-antics/lateralus-lang/issues/835",
+      "repository": "bad-antics/lateralus-lang",
+      "title": "[bounty] Base64 is_valid accepts padding in arbitrary positions",
+      "raw_reward_currency": "USD",
+      "raw_reward_amount": 10.0,
+      "estimated_hours_to_solve": 6.0,
+      "live_usd_exchange_rate": 1.0,
+      "total_usd_value": 10.0,
+      "roi_usd_per_hour": 1.67,
+      "agent_directive": "LOW YIELD: Secondary priority at $1.67/hr."
+    },
+    {
+      "issue_url": "https://github.com/XKCCC/aggit/issues/1",
+      "repository": "XKCCC/aggit",
+      "title": "Bounty form requires a $1 minimum and an upfront deposit before scope is agreed",
+      "raw_reward_currency": "USD",
+      "raw_reward_amount": 1.0,
+      "estimated_hours_to_solve": 3.5,
+      "live_usd_exchange_rate": 1.0,
+      "total_usd_value": 1.0,
+      "roi_usd_per_hour": 0.29,
+      "agent_directive": "LOW YIELD: Secondary priority at $0.29/hr."
+    },
+    {
+      "issue_url": "https://github.com/paraloom-labs/paraloom-core/issues/1669",
+      "repository": "paraloom-labs/paraloom-core",
+      "title": "[BOUNTY] Medium: privateSwapFromToken omits inputMint from SwapOutput and skips dropPhantomNotes on SPL candidates \u2014 reconcileSwapOutputs falsely marks stranded Token->SOL swaps as landed from the 0.009 SOL gas reserve (paraloom-wallet)",
+      "raw_reward_currency": "SOL",
+      "raw_reward_amount": 0.009,
+      "estimated_hours_to_solve": 6.0,
+      "live_usd_exchange_rate": 72.12,
+      "total_usd_value": 0.65,
+      "roi_usd_per_hour": 0.11,
+      "agent_directive": "LOW YIELD: Secondary priority at $0.11/hr."
     }
   ]
 }
