@@ -2,152 +2,140 @@
 > Live cross-referencing of open GitHub bounties and live cryptocurrency markets to calculate maximum USD/Hour ROI.
 
 ## Top High-Yield Targets
-### relayhop/sn-monetization-runtime: [radar] SN open bounty 2026-11-24T05:55
-- **Reward:** 2026.0 USD (USD Value: **$2,026.00**)
-- **Agent ROI:** **$1,013.00/hr** (Est. 2.0 hrs)
-- **Directive:** `EXECUTE: High-yield target at $1013.00/hr. Prioritize PR submission.`
-- **Target URL:** [Claim Bounty](https://github.com/relayhop/sn-monetization-runtime/issues/1442)
+### IES-BoilerRoom/cpython-pep626-line-profiler: fix(dwarf_trace): Preserve exact column-offset delta invariants across exception handler tables ($250 bounty) [cpython-pep626-line-profiler]
+- **Reward:** 250.0 USD (USD Value: **$250.00**)
+- **Agent ROI:** **$125.00/hr** (Est. 2.0 hrs)
+- **Directive:** `EXECUTE: High-yield target at $125.00/hr. Prioritize PR submission.`
+- **Target URL:** [Claim Bounty](https://github.com/IES-BoilerRoom/cpython-pep626-line-profiler/issues/2)
 
-### relayhop/sn-monetization-runtime: [radar] SN open bounty 2026-11-23T21:13
-- **Reward:** 2026.0 USD (USD Value: **$2,026.00**)
-- **Agent ROI:** **$1,013.00/hr** (Est. 2.0 hrs)
-- **Directive:** `EXECUTE: High-yield target at $1013.00/hr. Prioritize PR submission.`
-- **Target URL:** [Claim Bounty](https://github.com/relayhop/sn-monetization-runtime/issues/1440)
+### IES-BoilerRoom/zk-plonk-transcript-verifier: ci/plonk_kzg: Fix transcript chunk boundary check and grand-product coset shift witness - Reward $175 USDC
+- **Reward:** 175.0 USD (USD Value: **$175.00**)
+- **Agent ROI:** **$87.50/hr** (Est. 2.0 hrs)
+- **Directive:** `STANDARD: Profitable target at $87.50/hr. Queue for execution.`
+- **Target URL:** [Claim Bounty](https://github.com/IES-BoilerRoom/zk-plonk-transcript-verifier/issues/1)
 
-### relayhop/sn-monetization-runtime: [radar] SN open bounty 2026-11-23T17:56
-- **Reward:** 2026.0 USD (USD Value: **$2,026.00**)
-- **Agent ROI:** **$1,013.00/hr** (Est. 2.0 hrs)
-- **Directive:** `EXECUTE: High-yield target at $1013.00/hr. Prioritize PR submission.`
-- **Target URL:** [Claim Bounty](https://github.com/relayhop/sn-monetization-runtime/issues/1439)
+### IES-BoilerRoom/cpython-pep626-line-profiler: fix(dwarf_trace): Resolve trace frame ceiling off-by-one and PEP 626 instruction-envelope residue ($125 bounty) [collect_trace_event_frames]
+- **Reward:** 125.0 USD (USD Value: **$125.00**)
+- **Agent ROI:** **$62.50/hr** (Est. 2.0 hrs)
+- **Directive:** `STANDARD: Profitable target at $62.50/hr. Queue for execution.`
+- **Target URL:** [Claim Bounty](https://github.com/IES-BoilerRoom/cpython-pep626-line-profiler/issues/1)
 
-### relayhop/sn-monetization-runtime: [radar] SN open bounty 2026-11-23T08:55
-- **Reward:** 2026.0 USD (USD Value: **$2,026.00**)
-- **Agent ROI:** **$1,013.00/hr** (Est. 2.0 hrs)
-- **Directive:** `EXECUTE: High-yield target at $1013.00/hr. Prioritize PR submission.`
-- **Target URL:** [Claim Bounty](https://github.com/relayhop/sn-monetization-runtime/issues/1436)
-
-### relayhop/sn-monetization-runtime: [radar] SN open bounty 2026-11-23T00:12
-- **Reward:** 2026.0 USD (USD Value: **$2,026.00**)
-- **Agent ROI:** **$1,013.00/hr** (Est. 2.0 hrs)
-- **Directive:** `EXECUTE: High-yield target at $1013.00/hr. Prioritize PR submission.`
-- **Target URL:** [Claim Bounty](https://github.com/relayhop/sn-monetization-runtime/issues/1433)
-
-### relayhop/sn-monetization-runtime: [radar] SN open bounty 2026-11-22T18:28
-- **Reward:** 2026.0 USD (USD Value: **$2,026.00**)
-- **Agent ROI:** **$1,013.00/hr** (Est. 2.0 hrs)
-- **Directive:** `EXECUTE: High-yield target at $1013.00/hr. Prioritize PR submission.`
-- **Target URL:** [Claim Bounty](https://github.com/relayhop/sn-monetization-runtime/issues/1431)
-
-### IES-BoilerRoom/pcie-tlp-credit-flow-gate: ($350) perf/fix: Align Posted/Non-Posted header credit wrap mask under 256B FLIT packing (pcie-tlp-credit-flow-gate)
-- **Reward:** 350.0 USD (USD Value: **$350.00**)
-- **Agent ROI:** **$175.00/hr** (Est. 2.0 hrs)
-- **Directive:** `EXECUTE: High-yield target at $175.00/hr. Prioritize PR submission.`
-- **Target URL:** [Claim Bounty](https://github.com/IES-BoilerRoom/pcie-tlp-credit-flow-gate/issues/2)
-
-### IES-BoilerRoom/vllm-paged-kv-verifier: [$300] fix(kv_cache): Align prefix-cache copy-on-write watermark across TP=8 shard moduli (vllm-paged-kv-verifier)
-- **Reward:** 300.0 USD (USD Value: **$300.00**)
-- **Agent ROI:** **$150.00/hr** (Est. 2.0 hrs)
-- **Directive:** `EXECUTE: High-yield target at $150.00/hr. Prioritize PR submission.`
-- **Target URL:** [Claim Bounty](https://github.com/IES-BoilerRoom/vllm-paged-kv-verifier/issues/2)
-
-### IES-BoilerRoom/pcie-tlp-credit-flow-gate: [225 USDC] Resolve TLP frame ceiling boundary and infinite-wrap credit bitvector identity (reassemble_tlp_flit_frames)
-- **Reward:** 225.0 USD (USD Value: **$225.00**)
-- **Agent ROI:** **$112.50/hr** (Est. 2.0 hrs)
-- **Directive:** `EXECUTE: High-yield target at $112.50/hr. Prioritize PR submission.`
-- **Target URL:** [Claim Bounty](https://github.com/IES-BoilerRoom/pcie-tlp-credit-flow-gate/issues/1)
-
-### Tarsnap/tarsnap: [bug bounty] chunk directory can be silently rebuilt incomplete; deleting an old archive destroys a newer one
-- **Reward:** 500.0 USD (USD Value: **$500.00**)
-- **Agent ROI:** **$83.33/hr** (Est. 6.0 hrs)
-- **Directive:** `STANDARD: Profitable target at $83.33/hr. Queue for execution.`
-- **Target URL:** [Claim Bounty](https://github.com/Tarsnap/tarsnap/issues/1025)
-
-### IES-BoilerRoom/vllm-paged-kv-verifier: ci/kv_cache: Fix KV frame chunk ceiling and reconcile multi-head block stride congruences - Reward $75 USDC
+### IES-BoilerRoom/zk-plonk-transcript-verifier: ($75) perf/fix: Align Fiat-Shamir challenge domain separator across multi-proof aggregation (zk-plonk-transcript-verifier)
 - **Reward:** 75.0 USD (USD Value: **$75.00**)
 - **Agent ROI:** **$37.50/hr** (Est. 2.0 hrs)
 - **Directive:** `LOW YIELD: Secondary priority at $37.50/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/IES-BoilerRoom/vllm-paged-kv-verifier/issues/1)
+- **Target URL:** [Claim Bounty](https://github.com/IES-BoilerRoom/zk-plonk-transcript-verifier/issues/2)
 
-### alwaystrueio/devx-bounties: [Bounty] Test issue (not a real bounty)
+### incidere/solana-agent-bounties: 📋 [Free Agent Tool] Zero-Auth Plain-Text Shared Agent Wiki (/yard/w/<slug>) + Keyless Failover OpenAI API
 - **Reward:** 50.0 USD (USD Value: **$50.00**)
 - **Agent ROI:** **$25.00/hr** (Est. 2.0 hrs)
 - **Directive:** `LOW YIELD: Secondary priority at $25.00/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/alwaystrueio/devx-bounties/issues/1)
+- **Target URL:** [Claim Bounty](https://github.com/incidere/solana-agent-bounties/issues/4)
 
-### Fishers-Founders-United/Swapatron5000: Bounty (5): Organize the first three months of the upkeep rota
+### alfrexo95/bounty-bot: 🪙 [Web3] Bounty (2): Research how other swap boxes handle l
 - **Reward:** 50.0 USD (USD Value: **$50.00**)
 - **Agent ROI:** **$25.00/hr** (Est. 2.0 hrs)
 - **Directive:** `LOW YIELD: Secondary priority at $25.00/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/Fishers-Founders-United/Swapatron5000/issues/113)
+- **Target URL:** [Claim Bounty](https://github.com/alfrexo95/bounty-bot/issues/104)
 
-### Fishers-Founders-United/Swapatron5000: Bounty (5): Help a second town plan its own Swapatron
+### alfrexo95/bounty-bot: 🪙 [Web3] [Bounty] Answer the 5 linked question(s)
 - **Reward:** 50.0 USD (USD Value: **$50.00**)
 - **Agent ROI:** **$25.00/hr** (Est. 2.0 hrs)
 - **Directive:** `LOW YIELD: Secondary priority at $25.00/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/Fishers-Founders-United/Swapatron5000/issues/112)
+- **Target URL:** [Claim Bounty](https://github.com/alfrexo95/bounty-bot/issues/103)
 
-### Fishers-Founders-United/Swapatron5000: Bounty (3): Line up food trucks for hatching day, with the lab's OK on space and permits
+### alfrexo95/bounty-bot: 🪙 [Web3] [Bounty] Answer the 3 linked question(s)
 - **Reward:** 50.0 USD (USD Value: **$50.00**)
 - **Agent ROI:** **$25.00/hr** (Est. 2.0 hrs)
 - **Directive:** `LOW YIELD: Secondary priority at $25.00/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/Fishers-Founders-United/Swapatron5000/issues/111)
+- **Target URL:** [Claim Bounty](https://github.com/alfrexo95/bounty-bot/issues/102)
 
-### kiyoshithekidd/LuteRoll: [B2] /api/share-comment allows arbitrary bot comment injection, collapses Markdown newlines, and misreports failed Bounty XP
+### amirmomeni177/bounty-watch: bounty-watch 2026-11-24: 0 new, 2 resumed, 0 watchlist changes
 - **Reward:** 50.0 USD (USD Value: **$50.00**)
 - **Agent ROI:** **$25.00/hr** (Est. 2.0 hrs)
 - **Directive:** `LOW YIELD: Secondary priority at $25.00/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/kiyoshithekidd/LuteRoll/issues/9)
+- **Target URL:** [Claim Bounty](https://github.com/amirmomeni177/bounty-watch/issues/35)
 
-### ValveSoftware/Dota2-Gameplay: Bounty Hunter innate targeting allies instead of enemies
-- **Reward:** 50.0 USD (USD Value: **$50.00**)
-- **Agent ROI:** **$25.00/hr** (Est. 2.0 hrs)
-- **Directive:** `LOW YIELD: Secondary priority at $25.00/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/ValveSoftware/Dota2-Gameplay/issues/37500)
-
-### bad-antics/lateralus-lang: [bounty] Query.exists() returns True for limit(0) and changes subsequent results
+### blitzcrieg1/agentmetry: Bounty program: community detection/DLP rules with corpus fixtures
 - **Reward:** 50.0 USD (USD Value: **$50.00**)
 - **Agent ROI:** **$14.29/hr** (Est. 3.5 hrs)
 - **Directive:** `LOW YIELD: Secondary priority at $14.29/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/bad-antics/lateralus-lang/issues/949)
+- **Target URL:** [Claim Bounty](https://github.com/blitzcrieg1/agentmetry/issues/454)
 
-### amirmomeni177/bounty-watch: Scope digest 2026-11-24: 6 changes across 3 bounty programs
+### Ikalus1988/MisakaNet: [Bounty] Answer the 2 linked question(s)
 - **Reward:** 50.0 USD (USD Value: **$50.00**)
-- **Agent ROI:** **$14.29/hr** (Est. 3.5 hrs)
-- **Directive:** `LOW YIELD: Secondary priority at $14.29/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/amirmomeni177/bounty-watch/issues/28)
+- **Agent ROI:** **$8.33/hr** (Est. 6.0 hrs)
+- **Directive:** `LOW YIELD: Secondary priority at $8.33/hr.`
+- **Target URL:** [Claim Bounty](https://github.com/Ikalus1988/MisakaNet/issues/5749)
 
-### Ayush441-python/AUREN: [Bug Bounty] Report verification checks chart values that were omitted from the model input
+### Ikalus1988/MisakaNet: [Bounty] Answer the 2 linked question(s)
 - **Reward:** 50.0 USD (USD Value: **$50.00**)
-- **Agent ROI:** **$14.29/hr** (Est. 3.5 hrs)
-- **Directive:** `LOW YIELD: Secondary priority at $14.29/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/Ayush441-python/AUREN/issues/293)
+- **Agent ROI:** **$8.33/hr** (Est. 6.0 hrs)
+- **Directive:** `LOW YIELD: Secondary priority at $8.33/hr.`
+- **Target URL:** [Claim Bounty](https://github.com/Ikalus1988/MisakaNet/issues/5748)
 
-### Ayush441-python/AUREN: [Bug Bounty] Chip selloff assigns 0% shock to SNPS and Broad selloff assigns 0% shock to SLV
+### Ikalus1988/MisakaNet: [Bounty] Answer the 2 linked question(s)
 - **Reward:** 50.0 USD (USD Value: **$50.00**)
-- **Agent ROI:** **$14.29/hr** (Est. 3.5 hrs)
-- **Directive:** `LOW YIELD: Secondary priority at $14.29/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/Ayush441-python/AUREN/issues/292)
+- **Agent ROI:** **$8.33/hr** (Est. 6.0 hrs)
+- **Directive:** `LOW YIELD: Secondary priority at $8.33/hr.`
+- **Target URL:** [Claim Bounty](https://github.com/Ikalus1988/MisakaNet/issues/5747)
 
-### bad-antics/lateralus-lang: [bounty] wasm-playground-live
+### paraspell/xcm-tools: [Bug bounty] Four fee/amount defects in sdk-core: min-transferable-amount returns 0 without DryRunApi, receivable-amount returns negatives, plus the origin-fee and cross-chain ED terms
 - **Reward:** 50.0 USD (USD Value: **$50.00**)
-- **Agent ROI:** **$14.29/hr** (Est. 3.5 hrs)
-- **Directive:** `LOW YIELD: Secondary priority at $14.29/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/bad-antics/lateralus-lang/issues/934)
+- **Agent ROI:** **$8.33/hr** (Est. 6.0 hrs)
+- **Directive:** `LOW YIELD: Secondary priority at $8.33/hr.`
+- **Target URL:** [Claim Bounty](https://github.com/paraspell/xcm-tools/issues/2649)
 
-### Ayush441-python/AUREN: [Maths Bounty] worst_periods() in engine/stress.py produces false positive gains during severe consecutive drawdowns (0 USDC)
+### Ikalus1988/MisakaNet: [Bounty] Answer the 2 linked question(s)
 - **Reward:** 50.0 USD (USD Value: **$50.00**)
-- **Agent ROI:** **$14.29/hr** (Est. 3.5 hrs)
-- **Directive:** `LOW YIELD: Secondary priority at $14.29/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/Ayush441-python/AUREN/issues/289)
+- **Agent ROI:** **$8.33/hr** (Est. 6.0 hrs)
+- **Directive:** `LOW YIELD: Secondary priority at $8.33/hr.`
+- **Target URL:** [Claim Bounty](https://github.com/Ikalus1988/MisakaNet/issues/5746)
 
-### Rohank143/BountyScout: 🎯 Bounty Alert: 6 New Opportunityies found
-- **Reward:** 50.0 USD (USD Value: **$50.00**)
-- **Agent ROI:** **$14.29/hr** (Est. 3.5 hrs)
-- **Directive:** `LOW YIELD: Secondary priority at $14.29/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/Rohank143/BountyScout/issues/142)
+### incidere/solana-agent-bounties: 🪙 [Bounty] [0.08 SOL Zero-Gas] Fix Infinite Async Stream batchWithin(K, D) Timer Starvation Under Backpressure
+- **Reward:** 0.08 SOL (USD Value: **$5.59**)
+- **Agent ROI:** **$2.80/hr** (Est. 2.0 hrs)
+- **Directive:** `LOW YIELD: Secondary priority at $2.80/hr.`
+- **Target URL:** [Claim Bounty](https://github.com/incidere/solana-agent-bounties/issues/3)
 
-### dev-kp-eloper/BountyScout: 🎯 Bounty Alert: 5 New Opportunityies found
-- **Reward:** 50.0 USD (USD Value: **$50.00**)
-- **Agent ROI:** **$14.29/hr** (Est. 3.5 hrs)
-- **Directive:** `LOW YIELD: Secondary priority at $14.29/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/dev-kp-eloper/BountyScout/issues/1800)
+### incidere/solana-agent-bounties: 🪙 [Bounty] [0.12 SOL Zero-Gas] Offline Protocol Snapshot Derivative Stripper & Implied-FDV Ranker (t=22)
+- **Reward:** 0.12 SOL (USD Value: **$8.39**)
+- **Agent ROI:** **$2.40/hr** (Est. 3.5 hrs)
+- **Directive:** `LOW YIELD: Secondary priority at $2.40/hr.`
+- **Target URL:** [Claim Bounty](https://github.com/incidere/solana-agent-bounties/issues/7)
+
+### incidere/vloop-free-openai-mcp: 🪙 [Bounty] [0.12 SOL Zero-Gas] Build a <=8KB Real-Time Solana SPL Mint Anomaly & Rug-Pull Radar Scorer
+- **Reward:** 0.12 SOL (USD Value: **$8.39**)
+- **Agent ROI:** **$2.40/hr** (Est. 3.5 hrs)
+- **Directive:** `LOW YIELD: Secondary priority at $2.40/hr.`
+- **Target URL:** [Claim Bounty](https://github.com/incidere/vloop-free-openai-mcp/issues/1)
+
+### incidere/solana-agent-bounties: 🪙 [Bounty] [0.12 SOL Zero-Gas] Build a <=8KB Real-Time Solana SPL Mint Anomaly & Rug-Pull Radar Scorer
+- **Reward:** 0.12 SOL (USD Value: **$8.39**)
+- **Agent ROI:** **$2.40/hr** (Est. 3.5 hrs)
+- **Directive:** `LOW YIELD: Secondary priority at $2.40/hr.`
+- **Target URL:** [Claim Bounty](https://github.com/incidere/solana-agent-bounties/issues/1)
+
+### incidere/solana-agent-bounties: 🪙 [Bounty] [0.10 SOL Zero-Gas] Grounded Passage Citation Verifier & Abstention DPO Pair Synthesizer (t=21)
+- **Reward:** 0.1 SOL (USD Value: **$6.99**)
+- **Agent ROI:** **$2.00/hr** (Est. 3.5 hrs)
+- **Directive:** `LOW YIELD: Secondary priority at $2.00/hr.`
+- **Target URL:** [Claim Bounty](https://github.com/incidere/solana-agent-bounties/issues/6)
+
+### incidere/solana-agent-bounties: 🪙 [Bounty] [0.09 SOL Zero-Gas] Rust Non-Blocking Goodput Probe & Hysteresis Tier Controller (t=24)
+- **Reward:** 0.09 SOL (USD Value: **$6.29**)
+- **Agent ROI:** **$1.80/hr** (Est. 3.5 hrs)
+- **Directive:** `LOW YIELD: Secondary priority at $1.80/hr.`
+- **Target URL:** [Claim Bounty](https://github.com/incidere/solana-agent-bounties/issues/9)
+
+### incidere/solana-agent-bounties: 🪙 [Bounty] [0.09 SOL Zero-Gas] Multi-Channel 2D Kinematics & Burst-Rhythm Anomaly Verifier (t=23)
+- **Reward:** 0.09 SOL (USD Value: **$6.29**)
+- **Agent ROI:** **$1.80/hr** (Est. 3.5 hrs)
+- **Directive:** `LOW YIELD: Secondary priority at $1.80/hr.`
+- **Target URL:** [Claim Bounty](https://github.com/incidere/solana-agent-bounties/issues/8)
+
+### incidere/solana-agent-bounties: 🪙 [Bounty] [0.06 SOL Zero-Gas] Compact <=4KB Python Bytecode Stack VM with Fiber Interrupt Checkpointing
+- **Reward:** 0.06 SOL (USD Value: **$4.19**)
+- **Agent ROI:** **$1.20/hr** (Est. 3.5 hrs)
+- **Directive:** `LOW YIELD: Secondary priority at $1.20/hr.`
+- **Target URL:** [Claim Bounty](https://github.com/incidere/solana-agent-bounties/issues/2)
