@@ -2,6 +2,30 @@
 > Live cross-referencing of open GitHub bounties and live cryptocurrency markets to calculate maximum USD/Hour ROI.
 
 ## Top High-Yield Targets
+### parker-brown-family/omarchy-news: A $100,000 bug bounty opens on HackerOne
+- **Reward:** 100000.0 USD (USD Value: **$100,000.00**)
+- **Agent ROI:** **$50,000.00/hr** (Est. 2.0 hrs)
+- **Directive:** `EXECUTE: High-yield target at $50000.00/hr. Prioritize PR submission.`
+- **Target URL:** [Claim Bounty](https://github.com/parker-brown-family/omarchy-news/issues/2)
+
+### relayhop/sn-monetization-runtime: [radar] SN open bounty 2026-11-23T21:13
+- **Reward:** 2026.0 USD (USD Value: **$2,026.00**)
+- **Agent ROI:** **$1,013.00/hr** (Est. 2.0 hrs)
+- **Directive:** `EXECUTE: High-yield target at $1013.00/hr. Prioritize PR submission.`
+- **Target URL:** [Claim Bounty](https://github.com/relayhop/sn-monetization-runtime/issues/1440)
+
+### relayhop/sn-monetization-runtime: [radar] SN open bounty 2026-11-23T17:56
+- **Reward:** 2026.0 USD (USD Value: **$2,026.00**)
+- **Agent ROI:** **$1,013.00/hr** (Est. 2.0 hrs)
+- **Directive:** `EXECUTE: High-yield target at $1013.00/hr. Prioritize PR submission.`
+- **Target URL:** [Claim Bounty](https://github.com/relayhop/sn-monetization-runtime/issues/1439)
+
+### relayhop/sn-monetization-runtime: [radar] SN open bounty 2026-11-23T08:55
+- **Reward:** 2026.0 USD (USD Value: **$2,026.00**)
+- **Agent ROI:** **$1,013.00/hr** (Est. 2.0 hrs)
+- **Directive:** `EXECUTE: High-yield target at $1013.00/hr. Prioritize PR submission.`
+- **Target URL:** [Claim Bounty](https://github.com/relayhop/sn-monetization-runtime/issues/1436)
+
 ### relayhop/sn-monetization-runtime: [radar] SN open bounty 2026-11-23T00:12
 - **Reward:** 2026.0 USD (USD Value: **$2,026.00**)
 - **Agent ROI:** **$1,013.00/hr** (Est. 2.0 hrs)
@@ -26,29 +50,23 @@
 - **Directive:** `EXECUTE: High-yield target at $150.00/hr. Prioritize PR submission.`
 - **Target URL:** [Claim Bounty](https://github.com/IES-BoilerRoom/vllm-paged-kv-verifier/issues/2)
 
-### bad-antics/lateralus-lang: [bounty] aoc-2024-all-25
-- **Reward:** 500.0 USD (USD Value: **$500.00**)
-- **Agent ROI:** **$142.86/hr** (Est. 3.5 hrs)
-- **Directive:** `EXECUTE: High-yield target at $142.86/hr. Prioritize PR submission.`
-- **Target URL:** [Claim Bounty](https://github.com/bad-antics/lateralus-lang/issues/831)
-
 ### IES-BoilerRoom/pcie-tlp-credit-flow-gate: [225 USDC] Resolve TLP frame ceiling boundary and infinite-wrap credit bitvector identity (reassemble_tlp_flit_frames)
 - **Reward:** 225.0 USD (USD Value: **$225.00**)
 - **Agent ROI:** **$112.50/hr** (Est. 2.0 hrs)
 - **Directive:** `EXECUTE: High-yield target at $112.50/hr. Prioritize PR submission.`
 - **Target URL:** [Claim Bounty](https://github.com/IES-BoilerRoom/pcie-tlp-credit-flow-gate/issues/1)
 
-### freedom-winds/BountyScout: 🎯 Bounty Alert: 11 New Opportunityies found
-- **Reward:** 250.0 USD (USD Value: **$250.00**)
-- **Agent ROI:** **$41.67/hr** (Est. 6.0 hrs)
-- **Directive:** `STANDARD: Profitable target at $41.67/hr. Queue for execution.`
-- **Target URL:** [Claim Bounty](https://github.com/freedom-winds/BountyScout/issues/1448)
-
 ### IES-BoilerRoom/vllm-paged-kv-verifier: ci/kv_cache: Fix KV frame chunk ceiling and reconcile multi-head block stride congruences - Reward $75 USDC
 - **Reward:** 75.0 USD (USD Value: **$75.00**)
 - **Agent ROI:** **$37.50/hr** (Est. 2.0 hrs)
 - **Directive:** `LOW YIELD: Secondary priority at $37.50/hr.`
 - **Target URL:** [Claim Bounty](https://github.com/IES-BoilerRoom/vllm-paged-kv-verifier/issues/1)
+
+### alwaystrueio/devx-bounties: [Bounty] Test issue (not a real bounty)
+- **Reward:** 50.0 USD (USD Value: **$50.00**)
+- **Agent ROI:** **$25.00/hr** (Est. 2.0 hrs)
+- **Directive:** `LOW YIELD: Secondary priority at $25.00/hr.`
+- **Target URL:** [Claim Bounty](https://github.com/alwaystrueio/devx-bounties/issues/1)
 
 ### Fishers-Founders-United/Swapatron5000: Bounty (5): Organize the first three months of the upkeep rota
 - **Reward:** 50.0 USD (USD Value: **$50.00**)
@@ -74,80 +92,62 @@
 - **Directive:** `LOW YIELD: Secondary priority at $25.00/hr.`
 - **Target URL:** [Claim Bounty](https://github.com/Fishers-Founders-United/Swapatron5000/issues/110)
 
-### Fishers-Founders-United/Swapatron5000: Bounty (3): Write the youth protection rules, with someone who works with kids
+### amirmomeni177/bounty-watch: bounty-watch 2026-11-24: 0 new, 2 resumed, 0 watchlist changes
 - **Reward:** 50.0 USD (USD Value: **$50.00**)
 - **Agent ROI:** **$25.00/hr** (Est. 2.0 hrs)
 - **Directive:** `LOW YIELD: Secondary priority at $25.00/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/Fishers-Founders-United/Swapatron5000/issues/109)
+- **Target URL:** [Claim Bounty](https://github.com/amirmomeni177/bounty-watch/issues/25)
 
-### Fishers-Founders-United/Swapatron5000: Bounty (5): Run the technology petting zoo
-- **Reward:** 50.0 USD (USD Value: **$50.00**)
-- **Agent ROI:** **$25.00/hr** (Est. 2.0 hrs)
-- **Directive:** `LOW YIELD: Secondary priority at $25.00/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/Fishers-Founders-United/Swapatron5000/issues/108)
-
-### Fishers-Founders-United/Swapatron5000: Bounty (3): Keep a habitat at the technology petting zoo
-- **Reward:** 50.0 USD (USD Value: **$50.00**)
-- **Agent ROI:** **$25.00/hr** (Est. 2.0 hrs)
-- **Directive:** `LOW YIELD: Secondary priority at $25.00/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/Fishers-Founders-United/Swapatron5000/issues/107)
-
-### Fishers-Founders-United/Swapatron5000: Bounty (5): Lead build day
-- **Reward:** 50.0 USD (USD Value: **$50.00**)
-- **Agent ROI:** **$25.00/hr** (Est. 2.0 hrs)
-- **Directive:** `LOW YIELD: Secondary priority at $25.00/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/Fishers-Founders-United/Swapatron5000/issues/106)
-
-### Fishers-Founders-United/Swapatron5000: Bounty (3): Host an event from the \1
-- **Reward:** 50.0 USD (USD Value: **$50.00**)
-- **Agent ROI:** **$25.00/hr** (Est. 2.0 hrs)
-- **Directive:** `LOW YIELD: Secondary priority at $25.00/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/Fishers-Founders-United/Swapatron5000/issues/105)
-
-### Fishers-Founders-United/Swapatron5000: Bounty (5): Design and prototype the sensor node
-- **Reward:** 50.0 USD (USD Value: **$50.00**)
-- **Agent ROI:** **$25.00/hr** (Est. 2.0 hrs)
-- **Directive:** `LOW YIELD: Secondary priority at $25.00/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/Fishers-Founders-United/Swapatron5000/issues/104)
-
-### Fishers-Founders-United/Swapatron5000: Bounty (3): Work out the power budget for solar, battery, and lighting
-- **Reward:** 50.0 USD (USD Value: **$50.00**)
-- **Agent ROI:** **$25.00/hr** (Est. 2.0 hrs)
-- **Directive:** `LOW YIELD: Secondary priority at $25.00/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/Fishers-Founders-United/Swapatron5000/issues/103)
-
-### Fishers-Founders-United/Swapatron5000: Bounty (3): Write the cut list from the chosen design
-- **Reward:** 50.0 USD (USD Value: **$50.00**)
-- **Agent ROI:** **$25.00/hr** (Est. 2.0 hrs)
-- **Directive:** `LOW YIELD: Secondary priority at $25.00/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/Fishers-Founders-United/Swapatron5000/issues/102)
-
-### Fishers-Founders-United/Swapatron5000: Bounty (3): Draw a full shell design with measurements
-- **Reward:** 50.0 USD (USD Value: **$50.00**)
-- **Agent ROI:** **$25.00/hr** (Est. 2.0 hrs)
-- **Directive:** `LOW YIELD: Secondary priority at $25.00/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/Fishers-Founders-United/Swapatron5000/issues/101)
-
-### Fishers-Founders-United/Swapatron5000: Bounty (3): Build a simple "took and left" form
-- **Reward:** 50.0 USD (USD Value: **$50.00**)
-- **Agent ROI:** **$25.00/hr** (Est. 2.0 hrs)
-- **Directive:** `LOW YIELD: Secondary priority at $25.00/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/Fishers-Founders-United/Swapatron5000/issues/100)
-
-### amirmomeni177/bounty-watch: bounty-watch 2026-11-23: 1 new, 2 resumed, 0 watchlist changes
-- **Reward:** 50.0 USD (USD Value: **$50.00**)
-- **Agent ROI:** **$25.00/hr** (Est. 2.0 hrs)
-- **Directive:** `LOW YIELD: Secondary priority at $25.00/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/amirmomeni177/bounty-watch/issues/22)
-
-### nockchain/nockchain: Regarding Bug Bounty Report
-- **Reward:** 50.0 USD (USD Value: **$50.00**)
-- **Agent ROI:** **$25.00/hr** (Est. 2.0 hrs)
-- **Directive:** `LOW YIELD: Secondary priority at $25.00/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/nockchain/nockchain/issues/227)
-
-### amirmomeni177/bounty-watch: Scope digest 2026-11-23: 8 changes across 2 bounty programs
+### Ayush441-python/AUREN: [Bug Bounty] Correlation view labels simple returns as log returns
 - **Reward:** 50.0 USD (USD Value: **$50.00**)
 - **Agent ROI:** **$14.29/hr** (Est. 3.5 hrs)
 - **Directive:** `LOW YIELD: Secondary priority at $14.29/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/amirmomeni177/bounty-watch/issues/23)
+- **Target URL:** [Claim Bounty](https://github.com/Ayush441-python/AUREN/issues/271)
+
+### BaaRai/ARTEX: [Feature request] Paste a bug bounty program's scope (in scope, out of scope, wildcards) when creating a task
+- **Reward:** 50.0 USD (USD Value: **$50.00**)
+- **Agent ROI:** **$14.29/hr** (Est. 3.5 hrs)
+- **Directive:** `LOW YIELD: Secondary priority at $14.29/hr.`
+- **Target URL:** [Claim Bounty](https://github.com/BaaRai/ARTEX/issues/519)
+
+### nick-transition/fitapp: [Bounty Proposal] Validate YouTube hosts and video IDs before normalizing reference links
+- **Reward:** 50.0 USD (USD Value: **$50.00**)
+- **Agent ROI:** **$14.29/hr** (Est. 3.5 hrs)
+- **Directive:** `LOW YIELD: Secondary priority at $14.29/hr.`
+- **Target URL:** [Claim Bounty](https://github.com/nick-transition/fitapp/issues/101)
+
+### s4ztz4bnf6-maker/Lubuimi-: JARVIS: technische Rückmeldung zu 24/7 Bounty Discovery, Browser-Scraping, Speicherung, Lizenzen
+- **Reward:** 50.0 USD (USD Value: **$50.00**)
+- **Agent ROI:** **$14.29/hr** (Est. 3.5 hrs)
+- **Directive:** `LOW YIELD: Secondary priority at $14.29/hr.`
+- **Target URL:** [Claim Bounty](https://github.com/s4ztz4bnf6-maker/Lubuimi-/issues/215)
+
+### Ayush441-python/AUREN: [Bug Bounty] Audit drawer reports penalties the risk engine did not apply
+- **Reward:** 50.0 USD (USD Value: **$50.00**)
+- **Agent ROI:** **$14.29/hr** (Est. 3.5 hrs)
+- **Directive:** `LOW YIELD: Secondary priority at $14.29/hr.`
+- **Target URL:** [Claim Bounty](https://github.com/Ayush441-python/AUREN/issues/268)
+
+### Ayush441-python/AUREN: [Bug Bounty] /risk expands a short lookback when the one-year provider retry succeeds
+- **Reward:** 50.0 USD (USD Value: **$50.00**)
+- **Agent ROI:** **$14.29/hr** (Est. 3.5 hrs)
+- **Directive:** `LOW YIELD: Secondary priority at $14.29/hr.`
+- **Target URL:** [Claim Bounty](https://github.com/Ayush441-python/AUREN/issues/266)
+
+### Ayush441-python/AUREN: [Bug Bounty] Copy cURL uses a different host from the configured Risk API
+- **Reward:** 50.0 USD (USD Value: **$50.00**)
+- **Agent ROI:** **$14.29/hr** (Est. 3.5 hrs)
+- **Directive:** `LOW YIELD: Secondary priority at $14.29/hr.`
+- **Target URL:** [Claim Bounty](https://github.com/Ayush441-python/AUREN/issues/264)
+
+### Ayush441-python/AUREN: [Bug Bounty] Connecting an empty Base wallet closes the dialog before showing feedback
+- **Reward:** 50.0 USD (USD Value: **$50.00**)
+- **Agent ROI:** **$14.29/hr** (Est. 3.5 hrs)
+- **Directive:** `LOW YIELD: Secondary priority at $14.29/hr.`
+- **Target URL:** [Claim Bounty](https://github.com/Ayush441-python/AUREN/issues/262)
+
+### Ikalus1988/MisakaNet: [Bounty] Answer the 2 linked question(s)
+- **Reward:** 50.0 USD (USD Value: **$50.00**)
+- **Agent ROI:** **$8.33/hr** (Est. 6.0 hrs)
+- **Directive:** `LOW YIELD: Secondary priority at $8.33/hr.`
+- **Target URL:** [Claim Bounty](https://github.com/Ikalus1988/MisakaNet/issues/5645)
