@@ -2,11 +2,11 @@
 > Live cross-referencing of open GitHub bounties and live cryptocurrency markets to calculate maximum USD/Hour ROI.
 
 ## Top High-Yield Targets
-### parker-brown-family/omarchy-news: A $100,000 bug bounty opens on HackerOne
-- **Reward:** 100000.0 USD (USD Value: **$100,000.00**)
-- **Agent ROI:** **$50,000.00/hr** (Est. 2.0 hrs)
-- **Directive:** `EXECUTE: High-yield target at $50000.00/hr. Prioritize PR submission.`
-- **Target URL:** [Claim Bounty](https://github.com/parker-brown-family/omarchy-news/issues/2)
+### relayhop/sn-monetization-runtime: [radar] SN open bounty 2026-11-24T05:55
+- **Reward:** 2026.0 USD (USD Value: **$2,026.00**)
+- **Agent ROI:** **$1,013.00/hr** (Est. 2.0 hrs)
+- **Directive:** `EXECUTE: High-yield target at $1013.00/hr. Prioritize PR submission.`
+- **Target URL:** [Claim Bounty](https://github.com/relayhop/sn-monetization-runtime/issues/1442)
 
 ### relayhop/sn-monetization-runtime: [radar] SN open bounty 2026-11-23T21:13
 - **Reward:** 2026.0 USD (USD Value: **$2,026.00**)
@@ -56,6 +56,12 @@
 - **Directive:** `EXECUTE: High-yield target at $112.50/hr. Prioritize PR submission.`
 - **Target URL:** [Claim Bounty](https://github.com/IES-BoilerRoom/pcie-tlp-credit-flow-gate/issues/1)
 
+### Tarsnap/tarsnap: [bug bounty] chunk directory can be silently rebuilt incomplete; deleting an old archive destroys a newer one
+- **Reward:** 500.0 USD (USD Value: **$500.00**)
+- **Agent ROI:** **$83.33/hr** (Est. 6.0 hrs)
+- **Directive:** `STANDARD: Profitable target at $83.33/hr. Queue for execution.`
+- **Target URL:** [Claim Bounty](https://github.com/Tarsnap/tarsnap/issues/1025)
+
 ### IES-BoilerRoom/vllm-paged-kv-verifier: ci/kv_cache: Fix KV frame chunk ceiling and reconcile multi-head block stride congruences - Reward $75 USDC
 - **Reward:** 75.0 USD (USD Value: **$75.00**)
 - **Agent ROI:** **$37.50/hr** (Est. 2.0 hrs)
@@ -86,68 +92,62 @@
 - **Directive:** `LOW YIELD: Secondary priority at $25.00/hr.`
 - **Target URL:** [Claim Bounty](https://github.com/Fishers-Founders-United/Swapatron5000/issues/111)
 
-### Fishers-Founders-United/Swapatron5000: Bounty (1): Suggest a better cute name for an IoT term in \1
+### kiyoshithekidd/LuteRoll: [B2] /api/share-comment allows arbitrary bot comment injection, collapses Markdown newlines, and misreports failed Bounty XP
 - **Reward:** 50.0 USD (USD Value: **$50.00**)
 - **Agent ROI:** **$25.00/hr** (Est. 2.0 hrs)
 - **Directive:** `LOW YIELD: Secondary priority at $25.00/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/Fishers-Founders-United/Swapatron5000/issues/110)
+- **Target URL:** [Claim Bounty](https://github.com/kiyoshithekidd/LuteRoll/issues/9)
 
-### amirmomeni177/bounty-watch: bounty-watch 2026-11-24: 0 new, 2 resumed, 0 watchlist changes
+### ValveSoftware/Dota2-Gameplay: Bounty Hunter innate targeting allies instead of enemies
 - **Reward:** 50.0 USD (USD Value: **$50.00**)
 - **Agent ROI:** **$25.00/hr** (Est. 2.0 hrs)
 - **Directive:** `LOW YIELD: Secondary priority at $25.00/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/amirmomeni177/bounty-watch/issues/25)
+- **Target URL:** [Claim Bounty](https://github.com/ValveSoftware/Dota2-Gameplay/issues/37500)
 
-### Ayush441-python/AUREN: [Bug Bounty] Correlation view labels simple returns as log returns
+### bad-antics/lateralus-lang: [bounty] Query.exists() returns True for limit(0) and changes subsequent results
 - **Reward:** 50.0 USD (USD Value: **$50.00**)
 - **Agent ROI:** **$14.29/hr** (Est. 3.5 hrs)
 - **Directive:** `LOW YIELD: Secondary priority at $14.29/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/Ayush441-python/AUREN/issues/271)
+- **Target URL:** [Claim Bounty](https://github.com/bad-antics/lateralus-lang/issues/949)
 
-### BaaRai/ARTEX: [Feature request] Paste a bug bounty program's scope (in scope, out of scope, wildcards) when creating a task
+### amirmomeni177/bounty-watch: Scope digest 2026-11-24: 6 changes across 3 bounty programs
 - **Reward:** 50.0 USD (USD Value: **$50.00**)
 - **Agent ROI:** **$14.29/hr** (Est. 3.5 hrs)
 - **Directive:** `LOW YIELD: Secondary priority at $14.29/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/BaaRai/ARTEX/issues/519)
+- **Target URL:** [Claim Bounty](https://github.com/amirmomeni177/bounty-watch/issues/28)
 
-### nick-transition/fitapp: [Bounty Proposal] Validate YouTube hosts and video IDs before normalizing reference links
+### Ayush441-python/AUREN: [Bug Bounty] Report verification checks chart values that were omitted from the model input
 - **Reward:** 50.0 USD (USD Value: **$50.00**)
 - **Agent ROI:** **$14.29/hr** (Est. 3.5 hrs)
 - **Directive:** `LOW YIELD: Secondary priority at $14.29/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/nick-transition/fitapp/issues/101)
+- **Target URL:** [Claim Bounty](https://github.com/Ayush441-python/AUREN/issues/293)
 
-### s4ztz4bnf6-maker/Lubuimi-: JARVIS: technische Rückmeldung zu 24/7 Bounty Discovery, Browser-Scraping, Speicherung, Lizenzen
+### Ayush441-python/AUREN: [Bug Bounty] Chip selloff assigns 0% shock to SNPS and Broad selloff assigns 0% shock to SLV
 - **Reward:** 50.0 USD (USD Value: **$50.00**)
 - **Agent ROI:** **$14.29/hr** (Est. 3.5 hrs)
 - **Directive:** `LOW YIELD: Secondary priority at $14.29/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/s4ztz4bnf6-maker/Lubuimi-/issues/215)
+- **Target URL:** [Claim Bounty](https://github.com/Ayush441-python/AUREN/issues/292)
 
-### Ayush441-python/AUREN: [Bug Bounty] Audit drawer reports penalties the risk engine did not apply
+### bad-antics/lateralus-lang: [bounty] wasm-playground-live
 - **Reward:** 50.0 USD (USD Value: **$50.00**)
 - **Agent ROI:** **$14.29/hr** (Est. 3.5 hrs)
 - **Directive:** `LOW YIELD: Secondary priority at $14.29/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/Ayush441-python/AUREN/issues/268)
+- **Target URL:** [Claim Bounty](https://github.com/bad-antics/lateralus-lang/issues/934)
 
-### Ayush441-python/AUREN: [Bug Bounty] /risk expands a short lookback when the one-year provider retry succeeds
+### Ayush441-python/AUREN: [Maths Bounty] worst_periods() in engine/stress.py produces false positive gains during severe consecutive drawdowns (0 USDC)
 - **Reward:** 50.0 USD (USD Value: **$50.00**)
 - **Agent ROI:** **$14.29/hr** (Est. 3.5 hrs)
 - **Directive:** `LOW YIELD: Secondary priority at $14.29/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/Ayush441-python/AUREN/issues/266)
+- **Target URL:** [Claim Bounty](https://github.com/Ayush441-python/AUREN/issues/289)
 
-### Ayush441-python/AUREN: [Bug Bounty] Copy cURL uses a different host from the configured Risk API
+### Rohank143/BountyScout: 🎯 Bounty Alert: 6 New Opportunityies found
 - **Reward:** 50.0 USD (USD Value: **$50.00**)
 - **Agent ROI:** **$14.29/hr** (Est. 3.5 hrs)
 - **Directive:** `LOW YIELD: Secondary priority at $14.29/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/Ayush441-python/AUREN/issues/264)
+- **Target URL:** [Claim Bounty](https://github.com/Rohank143/BountyScout/issues/142)
 
-### Ayush441-python/AUREN: [Bug Bounty] Connecting an empty Base wallet closes the dialog before showing feedback
+### dev-kp-eloper/BountyScout: 🎯 Bounty Alert: 5 New Opportunityies found
 - **Reward:** 50.0 USD (USD Value: **$50.00**)
 - **Agent ROI:** **$14.29/hr** (Est. 3.5 hrs)
 - **Directive:** `LOW YIELD: Secondary priority at $14.29/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/Ayush441-python/AUREN/issues/262)
-
-### Ikalus1988/MisakaNet: [Bounty] Answer the 2 linked question(s)
-- **Reward:** 50.0 USD (USD Value: **$50.00**)
-- **Agent ROI:** **$8.33/hr** (Est. 6.0 hrs)
-- **Directive:** `LOW YIELD: Secondary priority at $8.33/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/Ikalus1988/MisakaNet/issues/5645)
+- **Target URL:** [Claim Bounty](https://github.com/dev-kp-eloper/BountyScout/issues/1800)

@@ -1,26 +1,26 @@
 {
   "metadata": {
-    "generated_at": "2026-11-24T00:19:05.442691+00:00",
+    "generated_at": "2026-11-24T10:22:53.014503+00:00",
     "data_sources": [
       "GitHub Search API",
       "CoinGecko V3 API",
       "Semantic Extraction"
     ],
-    "total_bounties_indexed": 34,
+    "total_bounties_indexed": 39,
     "schema_version": "1.0.0"
   },
   "bounty_targets": [
     {
-      "issue_url": "https://github.com/parker-brown-family/omarchy-news/issues/2",
-      "repository": "parker-brown-family/omarchy-news",
-      "title": "A $100,000 bug bounty opens on HackerOne",
+      "issue_url": "https://github.com/relayhop/sn-monetization-runtime/issues/1442",
+      "repository": "relayhop/sn-monetization-runtime",
+      "title": "[radar] SN open bounty 2026-11-24T05:55",
       "raw_reward_currency": "USD",
-      "raw_reward_amount": 100000.0,
+      "raw_reward_amount": 2026.0,
       "estimated_hours_to_solve": 2.0,
       "live_usd_exchange_rate": 1.0,
-      "total_usd_value": 100000.0,
-      "roi_usd_per_hour": 50000.0,
-      "agent_directive": "EXECUTE: High-yield target at $50000.00/hr. Prioritize PR submission."
+      "total_usd_value": 2026.0,
+      "roi_usd_per_hour": 1013.0,
+      "agent_directive": "EXECUTE: High-yield target at $1013.00/hr. Prioritize PR submission."
     },
     {
       "issue_url": "https://github.com/relayhop/sn-monetization-runtime/issues/1440",
@@ -119,6 +119,18 @@
       "agent_directive": "EXECUTE: High-yield target at $112.50/hr. Prioritize PR submission."
     },
     {
+      "issue_url": "https://github.com/Tarsnap/tarsnap/issues/1025",
+      "repository": "Tarsnap/tarsnap",
+      "title": "[bug bounty] chunk directory can be silently rebuilt incomplete; deleting an old archive destroys a newer one",
+      "raw_reward_currency": "USD",
+      "raw_reward_amount": 500.0,
+      "estimated_hours_to_solve": 6.0,
+      "live_usd_exchange_rate": 1.0,
+      "total_usd_value": 500.0,
+      "roi_usd_per_hour": 83.33,
+      "agent_directive": "STANDARD: Profitable target at $83.33/hr. Queue for execution."
+    },
+    {
       "issue_url": "https://github.com/IES-BoilerRoom/vllm-paged-kv-verifier/issues/1",
       "repository": "IES-BoilerRoom/vllm-paged-kv-verifier",
       "title": "ci/kv_cache: Fix KV frame chunk ceiling and reconcile multi-head block stride congruences - Reward $75 USDC",
@@ -179,9 +191,9 @@
       "agent_directive": "LOW YIELD: Secondary priority at $25.00/hr."
     },
     {
-      "issue_url": "https://github.com/Fishers-Founders-United/Swapatron5000/issues/110",
-      "repository": "Fishers-Founders-United/Swapatron5000",
-      "title": "Bounty (1): Suggest a better cute name for an IoT term in \\1",
+      "issue_url": "https://github.com/kiyoshithekidd/LuteRoll/issues/9",
+      "repository": "kiyoshithekidd/LuteRoll",
+      "title": "[B2] /api/share-comment allows arbitrary bot comment injection, collapses Markdown newlines, and misreports failed Bounty XP",
       "raw_reward_currency": "USD",
       "raw_reward_amount": 50.0,
       "estimated_hours_to_solve": 2.0,
@@ -191,21 +203,45 @@
       "agent_directive": "LOW YIELD: Secondary priority at $25.00/hr."
     },
     {
-      "issue_url": "https://github.com/amirmomeni177/bounty-watch/issues/25",
+      "issue_url": "https://github.com/ValveSoftware/Dota2-Gameplay/issues/37500",
+      "repository": "ValveSoftware/Dota2-Gameplay",
+      "title": "Bounty Hunter innate targeting allies instead of enemies",
+      "raw_reward_currency": "USD",
+      "raw_reward_amount": 50.0,
+      "estimated_hours_to_solve": 2.0,
+      "live_usd_exchange_rate": 1.0,
+      "total_usd_value": 50.0,
+      "roi_usd_per_hour": 25.0,
+      "agent_directive": "LOW YIELD: Secondary priority at $25.00/hr."
+    },
+    {
+      "issue_url": "https://github.com/bad-antics/lateralus-lang/issues/949",
+      "repository": "bad-antics/lateralus-lang",
+      "title": "[bounty] Query.exists() returns True for limit(0) and changes subsequent results",
+      "raw_reward_currency": "USD",
+      "raw_reward_amount": 50.0,
+      "estimated_hours_to_solve": 3.5,
+      "live_usd_exchange_rate": 1.0,
+      "total_usd_value": 50.0,
+      "roi_usd_per_hour": 14.29,
+      "agent_directive": "LOW YIELD: Secondary priority at $14.29/hr."
+    },
+    {
+      "issue_url": "https://github.com/amirmomeni177/bounty-watch/issues/28",
       "repository": "amirmomeni177/bounty-watch",
-      "title": "bounty-watch 2026-11-24: 0 new, 2 resumed, 0 watchlist changes",
+      "title": "Scope digest 2026-11-24: 6 changes across 3 bounty programs",
       "raw_reward_currency": "USD",
       "raw_reward_amount": 50.0,
-      "estimated_hours_to_solve": 2.0,
+      "estimated_hours_to_solve": 3.5,
       "live_usd_exchange_rate": 1.0,
       "total_usd_value": 50.0,
-      "roi_usd_per_hour": 25.0,
-      "agent_directive": "LOW YIELD: Secondary priority at $25.00/hr."
+      "roi_usd_per_hour": 14.29,
+      "agent_directive": "LOW YIELD: Secondary priority at $14.29/hr."
     },
     {
-      "issue_url": "https://github.com/Ayush441-python/AUREN/issues/271",
+      "issue_url": "https://github.com/Ayush441-python/AUREN/issues/293",
       "repository": "Ayush441-python/AUREN",
-      "title": "[Bug Bounty] Correlation view labels simple returns as log returns",
+      "title": "[Bug Bounty] Report verification checks chart values that were omitted from the model input",
       "raw_reward_currency": "USD",
       "raw_reward_amount": 50.0,
       "estimated_hours_to_solve": 3.5,
@@ -215,45 +251,9 @@
       "agent_directive": "LOW YIELD: Secondary priority at $14.29/hr."
     },
     {
-      "issue_url": "https://github.com/BaaRai/ARTEX/issues/519",
-      "repository": "BaaRai/ARTEX",
-      "title": "[Feature request] Paste a bug bounty program's scope (in scope, out of scope, wildcards) when creating a task",
-      "raw_reward_currency": "USD",
-      "raw_reward_amount": 50.0,
-      "estimated_hours_to_solve": 3.5,
-      "live_usd_exchange_rate": 1.0,
-      "total_usd_value": 50.0,
-      "roi_usd_per_hour": 14.29,
-      "agent_directive": "LOW YIELD: Secondary priority at $14.29/hr."
-    },
-    {
-      "issue_url": "https://github.com/nick-transition/fitapp/issues/101",
-      "repository": "nick-transition/fitapp",
-      "title": "[Bounty Proposal] Validate YouTube hosts and video IDs before normalizing reference links",
-      "raw_reward_currency": "USD",
-      "raw_reward_amount": 50.0,
-      "estimated_hours_to_solve": 3.5,
-      "live_usd_exchange_rate": 1.0,
-      "total_usd_value": 50.0,
-      "roi_usd_per_hour": 14.29,
-      "agent_directive": "LOW YIELD: Secondary priority at $14.29/hr."
-    },
-    {
-      "issue_url": "https://github.com/s4ztz4bnf6-maker/Lubuimi-/issues/215",
-      "repository": "s4ztz4bnf6-maker/Lubuimi-",
-      "title": "JARVIS: technische R\u00fcckmeldung zu 24/7 Bounty Discovery, Browser-Scraping, Speicherung, Lizenzen",
-      "raw_reward_currency": "USD",
-      "raw_reward_amount": 50.0,
-      "estimated_hours_to_solve": 3.5,
-      "live_usd_exchange_rate": 1.0,
-      "total_usd_value": 50.0,
-      "roi_usd_per_hour": 14.29,
-      "agent_directive": "LOW YIELD: Secondary priority at $14.29/hr."
-    },
-    {
-      "issue_url": "https://github.com/Ayush441-python/AUREN/issues/268",
+      "issue_url": "https://github.com/Ayush441-python/AUREN/issues/292",
       "repository": "Ayush441-python/AUREN",
-      "title": "[Bug Bounty] Audit drawer reports penalties the risk engine did not apply",
+      "title": "[Bug Bounty] Chip selloff assigns 0% shock to SNPS and Broad selloff assigns 0% shock to SLV",
       "raw_reward_currency": "USD",
       "raw_reward_amount": 50.0,
       "estimated_hours_to_solve": 3.5,
@@ -263,9 +263,9 @@
       "agent_directive": "LOW YIELD: Secondary priority at $14.29/hr."
     },
     {
-      "issue_url": "https://github.com/Ayush441-python/AUREN/issues/266",
-      "repository": "Ayush441-python/AUREN",
-      "title": "[Bug Bounty] /risk expands a short lookback when the one-year provider retry succeeds",
+      "issue_url": "https://github.com/bad-antics/lateralus-lang/issues/934",
+      "repository": "bad-antics/lateralus-lang",
+      "title": "[bounty] wasm-playground-live",
       "raw_reward_currency": "USD",
       "raw_reward_amount": 50.0,
       "estimated_hours_to_solve": 3.5,
@@ -275,9 +275,9 @@
       "agent_directive": "LOW YIELD: Secondary priority at $14.29/hr."
     },
     {
-      "issue_url": "https://github.com/Ayush441-python/AUREN/issues/264",
+      "issue_url": "https://github.com/Ayush441-python/AUREN/issues/289",
       "repository": "Ayush441-python/AUREN",
-      "title": "[Bug Bounty] Copy cURL uses a different host from the configured Risk API",
+      "title": "[Maths Bounty] worst_periods() in engine/stress.py produces false positive gains during severe consecutive drawdowns (0 USDC)",
       "raw_reward_currency": "USD",
       "raw_reward_amount": 50.0,
       "estimated_hours_to_solve": 3.5,
@@ -287,9 +287,21 @@
       "agent_directive": "LOW YIELD: Secondary priority at $14.29/hr."
     },
     {
-      "issue_url": "https://github.com/Ayush441-python/AUREN/issues/262",
-      "repository": "Ayush441-python/AUREN",
-      "title": "[Bug Bounty] Connecting an empty Base wallet closes the dialog before showing feedback",
+      "issue_url": "https://github.com/Rohank143/BountyScout/issues/142",
+      "repository": "Rohank143/BountyScout",
+      "title": "\ud83c\udfaf Bounty Alert: 6 New Opportunityies found",
+      "raw_reward_currency": "USD",
+      "raw_reward_amount": 50.0,
+      "estimated_hours_to_solve": 3.5,
+      "live_usd_exchange_rate": 1.0,
+      "total_usd_value": 50.0,
+      "roi_usd_per_hour": 14.29,
+      "agent_directive": "LOW YIELD: Secondary priority at $14.29/hr."
+    },
+    {
+      "issue_url": "https://github.com/dev-kp-eloper/BountyScout/issues/1800",
+      "repository": "dev-kp-eloper/BountyScout",
+      "title": "\ud83c\udfaf Bounty Alert: 5 New Opportunityies found",
       "raw_reward_currency": "USD",
       "raw_reward_amount": 50.0,
       "estimated_hours_to_solve": 3.5,
@@ -371,9 +383,9 @@
       "agent_directive": "LOW YIELD: Secondary priority at $8.33/hr."
     },
     {
-      "issue_url": "https://github.com/Ayush441-python/AUREN/issues/272",
-      "repository": "Ayush441-python/AUREN",
-      "title": "[Bug Bounty] One metadata timeout leaves later chip-selloff results at 0%",
+      "issue_url": "https://github.com/paraspell/xcm-tools/issues/2642",
+      "repository": "paraspell/xcm-tools",
+      "title": "[Bug bounty] Multi-asset array form skips the MIN_AMOUNT clamp, so a sub-decimal amount becomes a 0-planck Fungible and panics the origin runtime",
       "raw_reward_currency": "USD",
       "raw_reward_amount": 50.0,
       "estimated_hours_to_solve": 6.0,
@@ -383,9 +395,9 @@
       "agent_directive": "LOW YIELD: Secondary priority at $8.33/hr."
     },
     {
-      "issue_url": "https://github.com/Rohank143/BountyScout/issues/140",
-      "repository": "Rohank143/BountyScout",
-      "title": "\ud83c\udfaf Bounty Alert: 19 New Opportunityies found",
+      "issue_url": "https://github.com/Tarsnap/tarsnap/issues/1026",
+      "repository": "Tarsnap/tarsnap",
+      "title": "[bug bounty] transaction markers require symlink(); create/commit fails on Windows and no-symlink filesystems",
       "raw_reward_currency": "USD",
       "raw_reward_amount": 50.0,
       "estimated_hours_to_solve": 6.0,
@@ -395,28 +407,76 @@
       "agent_directive": "LOW YIELD: Secondary priority at $8.33/hr."
     },
     {
-      "issue_url": "https://github.com/dev-kp-eloper/BountyScout/issues/1799",
-      "repository": "dev-kp-eloper/BountyScout",
-      "title": "\ud83c\udfaf Bounty Alert: 18 New Opportunityies found",
+      "issue_url": "https://github.com/bad-antics/lateralus-lang/issues/947",
+      "repository": "bad-antics/lateralus-lang",
+      "title": "[bounty] stdlib.ini tutorial",
       "raw_reward_currency": "USD",
-      "raw_reward_amount": 50.0,
-      "estimated_hours_to_solve": 6.0,
+      "raw_reward_amount": 25.0,
+      "estimated_hours_to_solve": 3.5,
       "live_usd_exchange_rate": 1.0,
-      "total_usd_value": 50.0,
-      "roi_usd_per_hour": 8.33,
-      "agent_directive": "LOW YIELD: Secondary priority at $8.33/hr."
+      "total_usd_value": 25.0,
+      "roi_usd_per_hour": 7.14,
+      "agent_directive": "LOW YIELD: Secondary priority at $7.14/hr."
     },
     {
-      "issue_url": "https://github.com/freedom-winds/BountyScout/issues/1449",
+      "issue_url": "https://github.com/freedom-winds/BountyScout/issues/1450",
       "repository": "freedom-winds/BountyScout",
-      "title": "\ud83c\udfaf Bounty Alert: 15 New Opportunityies found",
+      "title": "\ud83c\udfaf Bounty Alert: 10 New Opportunityies found",
       "raw_reward_currency": "USD",
-      "raw_reward_amount": 50.0,
+      "raw_reward_amount": 20.0,
+      "estimated_hours_to_solve": 3.5,
+      "live_usd_exchange_rate": 1.0,
+      "total_usd_value": 20.0,
+      "roi_usd_per_hour": 5.71,
+      "agent_directive": "LOW YIELD: Secondary priority at $5.71/hr."
+    },
+    {
+      "issue_url": "https://github.com/bad-antics/lateralus-lang/issues/941",
+      "repository": "bad-antics/lateralus-lang",
+      "title": "[bounty] Newton-Raphson reports nonconvergence when its last allowed update finds the root",
+      "raw_reward_currency": "USD",
+      "raw_reward_amount": 10.0,
+      "estimated_hours_to_solve": 2.0,
+      "live_usd_exchange_rate": 1.0,
+      "total_usd_value": 10.0,
+      "roi_usd_per_hour": 5.0,
+      "agent_directive": "LOW YIELD: Secondary priority at $5.00/hr."
+    },
+    {
+      "issue_url": "https://github.com/bad-antics/lateralus-lang/issues/928",
+      "repository": "bad-antics/lateralus-lang",
+      "title": "[bounty] Matrix.from_flat silently discards excess values and can return the wrong shape",
+      "raw_reward_currency": "USD",
+      "raw_reward_amount": 10.0,
+      "estimated_hours_to_solve": 2.0,
+      "live_usd_exchange_rate": 1.0,
+      "total_usd_value": 10.0,
+      "roi_usd_per_hour": 5.0,
+      "agent_directive": "LOW YIELD: Secondary priority at $5.00/hr."
+    },
+    {
+      "issue_url": "https://github.com/Ayush441-python/AUREN/issues/288",
+      "repository": "Ayush441-python/AUREN",
+      "title": "[API Integration Bounty] GOAT Sovereign Agent Live /risk Integration Demo (5 USDC)",
+      "raw_reward_currency": "USD",
+      "raw_reward_amount": 25.0,
       "estimated_hours_to_solve": 6.0,
       "live_usd_exchange_rate": 1.0,
-      "total_usd_value": 50.0,
-      "roi_usd_per_hour": 8.33,
-      "agent_directive": "LOW YIELD: Secondary priority at $8.33/hr."
+      "total_usd_value": 25.0,
+      "roi_usd_per_hour": 4.17,
+      "agent_directive": "LOW YIELD: Secondary priority at $4.17/hr."
+    },
+    {
+      "issue_url": "https://github.com/bad-antics/lateralus-lang/issues/945",
+      "repository": "bad-antics/lateralus-lang",
+      "title": "[bounty] Vector arithmetic silently drops coordinates on dimension mismatch",
+      "raw_reward_currency": "USD",
+      "raw_reward_amount": 10.0,
+      "estimated_hours_to_solve": 3.5,
+      "live_usd_exchange_rate": 1.0,
+      "total_usd_value": 10.0,
+      "roi_usd_per_hour": 2.86,
+      "agent_directive": "LOW YIELD: Secondary priority at $2.86/hr."
     }
   ]
 }
