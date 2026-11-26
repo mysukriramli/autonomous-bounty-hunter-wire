@@ -8,59 +8,95 @@
 - **Directive:** `EXECUTE: High-yield target at $1013.00/hr. Prioritize PR submission.`
 - **Target URL:** [Claim Bounty](https://github.com/relayhop/sn-monetization-runtime/issues/1444)
 
-### g-leech/argmin-gravitas: Error Bounty — Unanswered $150 in Claims
-- **Reward:** 150.0 USD (USD Value: **$150.00**)
-- **Agent ROI:** **$75.00/hr** (Est. 2.0 hrs)
-- **Directive:** `STANDARD: Profitable target at $75.00/hr. Queue for execution.`
-- **Target URL:** [Claim Bounty](https://github.com/g-leech/argmin-gravitas/issues/2391)
-
-### zhangjiayang6835-cyber/bounty-plaza: [Bounty] ci/plonk_kzg: Fix transcript chunk boundary check and grand-product coset shift 
-- **Reward:** 175.0 USD (USD Value: **$175.00**)
-- **Agent ROI:** **$50.00/hr** (Est. 3.5 hrs)
-- **Directive:** `STANDARD: Profitable target at $50.00/hr. Queue for execution.`
-- **Target URL:** [Claim Bounty](https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4399)
-
-### IES-BoilerRoom/zk-plonk-transcript-verifier: ($75) perf/fix: Align Fiat-Shamir challenge domain separator across multi-proof aggregation (zk-plonk-transcript-verifier)
-- **Reward:** 75.0 USD (USD Value: **$75.00**)
-- **Agent ROI:** **$37.50/hr** (Est. 2.0 hrs)
-- **Directive:** `LOW YIELD: Secondary priority at $37.50/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/IES-BoilerRoom/zk-plonk-transcript-verifier/issues/2)
-
 ### zhangjiayang6835-cyber/bounty-plaza: [Bounty] Bounty program: community detection/DLP rules with corpus fixtures
 - **Reward:** 100.0 USD (USD Value: **$100.00**)
 - **Agent ROI:** **$28.57/hr** (Est. 3.5 hrs)
 - **Directive:** `LOW YIELD: Secondary priority at $28.57/hr.`
 - **Target URL:** [Claim Bounty](https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4400)
 
-### freedom-winds/BountyScout: 🎯 Bounty Alert: 10 New Opportunityies found
-- **Reward:** 100.0 USD (USD Value: **$100.00**)
-- **Agent ROI:** **$28.57/hr** (Est. 3.5 hrs)
-- **Directive:** `LOW YIELD: Secondary priority at $28.57/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/freedom-winds/BountyScout/issues/1454)
-
-### amirmomeni177/bounty-watch: bounty-watch 2026-11-25: 1 new, 0 resumed, 0 watchlist changes
+### amirmomeni177/bounty-watch: Scope digest 2026-11-26: 5 changes across 3 bounty programs
 - **Reward:** 50.0 USD (USD Value: **$50.00**)
 - **Agent ROI:** **$25.00/hr** (Est. 2.0 hrs)
 - **Directive:** `LOW YIELD: Secondary priority at $25.00/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/amirmomeni177/bounty-watch/issues/41)
+- **Target URL:** [Claim Bounty](https://github.com/amirmomeni177/bounty-watch/issues/43)
 
-### zhangjiayang6835-cyber/bounty-plaza: [Bounty] ($75) perf/fix: Align Fiat-Shamir challenge domain separator across multi-proof 
-- **Reward:** 75.0 USD (USD Value: **$75.00**)
-- **Agent ROI:** **$21.43/hr** (Est. 3.5 hrs)
-- **Directive:** `LOW YIELD: Secondary priority at $21.43/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4398)
+### nikoltu/W3AndroidEngine: DOTA Unli-Bounty Issue
+- **Reward:** 50.0 USD (USD Value: **$50.00**)
+- **Agent ROI:** **$25.00/hr** (Est. 2.0 hrs)
+- **Directive:** `LOW YIELD: Secondary priority at $25.00/hr.`
+- **Target URL:** [Claim Bounty](https://github.com/nikoltu/W3AndroidEngine/issues/55)
 
-### Thiesi/Karst41: Flaky: S23 market acceptance bounty step can time out when the patrol kills the hunter
+### SoroWork/sorowork-contracts: Add test: approve_work correctly transfers exact bounty amount
+- **Reward:** 50.0 USD (USD Value: **$50.00**)
+- **Agent ROI:** **$25.00/hr** (Est. 2.0 hrs)
+- **Directive:** `LOW YIELD: Secondary priority at $25.00/hr.`
+- **Target URL:** [Claim Bounty](https://github.com/SoroWork/sorowork-contracts/issues/101)
+
+### SoroWork/sorowork-contracts: Add test for concurrent bounty submissions
+- **Reward:** 50.0 USD (USD Value: **$50.00**)
+- **Agent ROI:** **$25.00/hr** (Est. 2.0 hrs)
+- **Directive:** `LOW YIELD: Secondary priority at $25.00/hr.`
+- **Target URL:** [Claim Bounty](https://github.com/SoroWork/sorowork-contracts/issues/97)
+
+### SoroWork/sorowork-contracts: Add test for bounty create-assign-submit-refund (rejected path)
+- **Reward:** 50.0 USD (USD Value: **$50.00**)
+- **Agent ROI:** **$25.00/hr** (Est. 2.0 hrs)
+- **Directive:** `LOW YIELD: Secondary priority at $25.00/hr.`
+- **Target URL:** [Claim Bounty](https://github.com/SoroWork/sorowork-contracts/issues/94)
+
+### SoroWork/sorowork-contracts: Add negative test: create_bounty with invalid token address
+- **Reward:** 50.0 USD (USD Value: **$50.00**)
+- **Agent ROI:** **$25.00/hr** (Est. 2.0 hrs)
+- **Directive:** `LOW YIELD: Secondary priority at $25.00/hr.`
+- **Target URL:** [Claim Bounty](https://github.com/SoroWork/sorowork-contracts/issues/92)
+
+### SoroWork/sorowork-contracts: Add negative test: double-approve on same bounty
+- **Reward:** 50.0 USD (USD Value: **$50.00**)
+- **Agent ROI:** **$25.00/hr** (Est. 2.0 hrs)
+- **Directive:** `LOW YIELD: Secondary priority at $25.00/hr.`
+- **Target URL:** [Claim Bounty](https://github.com/SoroWork/sorowork-contracts/issues/87)
+
+### SoroWork/sorowork-contracts: Add integration tests for full bounty lifecycle
+- **Reward:** 50.0 USD (USD Value: **$50.00**)
+- **Agent ROI:** **$25.00/hr** (Est. 2.0 hrs)
+- **Directive:** `LOW YIELD: Secondary priority at $25.00/hr.`
+- **Target URL:** [Claim Bounty](https://github.com/SoroWork/sorowork-contracts/issues/80)
+
+### SoroWork/sorowork-contracts: BountyEscrow: add support for recurring/subscription bounties
+- **Reward:** 50.0 USD (USD Value: **$50.00**)
+- **Agent ROI:** **$25.00/hr** (Est. 2.0 hrs)
+- **Directive:** `LOW YIELD: Secondary priority at $25.00/hr.`
+- **Target URL:** [Claim Bounty](https://github.com/SoroWork/sorowork-contracts/issues/56)
+
+### SoroWork/sorowork-interface: Dashboard: bounty list filter tabs do not update URL params
+- **Reward:** 50.0 USD (USD Value: **$50.00**)
+- **Agent ROI:** **$25.00/hr** (Est. 2.0 hrs)
+- **Directive:** `LOW YIELD: Secondary priority at $25.00/hr.`
+- **Target URL:** [Claim Bounty](https://github.com/SoroWork/sorowork-interface/issues/14)
+
+### SoroWork/sorowork-contracts: BountyEscrow: implement bounty update function
+- **Reward:** 50.0 USD (USD Value: **$50.00**)
+- **Agent ROI:** **$25.00/hr** (Est. 2.0 hrs)
+- **Directive:** `LOW YIELD: Secondary priority at $25.00/hr.`
+- **Target URL:** [Claim Bounty](https://github.com/SoroWork/sorowork-contracts/issues/29)
+
+### pizzaninja188/Cockatrice: Blocker: add a Bounty named counter kind (Bounty Hunter)
 - **Reward:** 50.0 USD (USD Value: **$50.00**)
 - **Agent ROI:** **$14.29/hr** (Est. 3.5 hrs)
 - **Directive:** `LOW YIELD: Secondary priority at $14.29/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/Thiesi/Karst41/issues/279)
+- **Target URL:** [Claim Bounty](https://github.com/pizzaninja188/Cockatrice/issues/535)
 
-### Gabriel-Barney/Empire-at-war-Vulkan: Tactical battles: Bounty_On_Faction credits on kills (A2M_R2_RE_B §2.4)
+### freedom-winds/BountyScout: 🎯 Bounty Alert: 6 New Opportunityies found
 - **Reward:** 50.0 USD (USD Value: **$50.00**)
 - **Agent ROI:** **$14.29/hr** (Est. 3.5 hrs)
 - **Directive:** `LOW YIELD: Secondary priority at $14.29/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/Gabriel-Barney/Empire-at-war-Vulkan/issues/574)
+- **Target URL:** [Claim Bounty](https://github.com/freedom-winds/BountyScout/issues/1455)
+
+### bad-antics/lateralus-lang: [bounty] Port Amicable Numbers sum to Lateralus
+- **Reward:** 25.0 USD (USD Value: **$25.00**)
+- **Agent ROI:** **$12.50/hr** (Est. 2.0 hrs)
+- **Directive:** `LOW YIELD: Secondary priority at $12.50/hr.`
+- **Target URL:** [Claim Bounty](https://github.com/bad-antics/lateralus-lang/issues/1001)
 
 ### Ikalus1988/MisakaNet: [Bounty] Answer the 2 linked question(s)
 - **Reward:** 50.0 USD (USD Value: **$50.00**)
@@ -115,39 +151,3 @@
 - **Agent ROI:** **$8.33/hr** (Est. 6.0 hrs)
 - **Directive:** `LOW YIELD: Secondary priority at $8.33/hr.`
 - **Target URL:** [Claim Bounty](https://github.com/Ikalus1988/MisakaNet/issues/5805)
-
-### Ikalus1988/MisakaNet: [Bounty] Answer the 4 linked question(s)
-- **Reward:** 50.0 USD (USD Value: **$50.00**)
-- **Agent ROI:** **$8.33/hr** (Est. 6.0 hrs)
-- **Directive:** `LOW YIELD: Secondary priority at $8.33/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/Ikalus1988/MisakaNet/issues/5804)
-
-### VlcekM/MeitouClient: Feedback: bounty left to die by gaurds
-- **Reward:** 50.0 USD (USD Value: **$50.00**)
-- **Agent ROI:** **$8.33/hr** (Est. 6.0 hrs)
-- **Directive:** `LOW YIELD: Secondary priority at $8.33/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/VlcekM/MeitouClient/issues/1437)
-
-### FuRongJun-1999/dsh-bounty: [intake 输入] dsh-bounty PR #2864：修复 evidence_check 清单路径穿越与 bytes 校验、账本非法日历日期崩溃及月度总表净零贡献者漏行
-- **Reward:** 50.0 USD (USD Value: **$50.00**)
-- **Agent ROI:** **$8.33/hr** (Est. 6.0 hrs)
-- **Directive:** `LOW YIELD: Secondary priority at $8.33/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/FuRongJun-1999/dsh-bounty/issues/2869)
-
-### FuRongJun-1999/dsh-bounty: [intake 输入] dsh-bounty PR #2863（Refs #31, #644, #2438）：修复 bounty_board 真模式丢弃 extra_events、PR 链接域欺骗、/bid 缺 pr_meta、rescore 及去重漏洞
-- **Reward:** 50.0 USD (USD Value: **$50.00**)
-- **Agent ROI:** **$8.33/hr** (Est. 6.0 hrs)
-- **Directive:** `LOW YIELD: Secondary priority at $8.33/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/FuRongJun-1999/dsh-bounty/issues/2868)
-
-### incidere/solana-agent-bounties: 🎮 [Bounty + Game Arena] [0.10 SOL + 800 VLOOP] TMA-01: 9:16 One-Thumb Physics Ricochet & Merge Roguelite Mini-Game (t=26)
-- **Reward:** 0.1 SOL (USD Value: **$16.00**)
-- **Agent ROI:** **$4.57/hr** (Est. 3.5 hrs)
-- **Directive:** `LOW YIELD: Secondary priority at $4.57/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/incidere/solana-agent-bounties/issues/13)
-
-### incidere/solana-agent-bounties: 🪙 [Bounty] [0.09 SOL Zero-Gas] Rust Non-Blocking Goodput Probe & Hysteresis Tier Controller (t=24)
-- **Reward:** 0.09 SOL (USD Value: **$14.40**)
-- **Agent ROI:** **$4.11/hr** (Est. 3.5 hrs)
-- **Directive:** `LOW YIELD: Secondary priority at $4.11/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/incidere/solana-agent-bounties/issues/9)
