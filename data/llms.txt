@@ -2,6 +2,48 @@
 > Live cross-referencing of open GitHub bounties and live cryptocurrency markets to calculate maximum USD/Hour ROI.
 
 ## Top High-Yield Targets
+### Ayush441-python/AUREN: [Bug Bounty] Custom portfolio builder drops earlier rows for a repeated ticker
+- **Reward:** 30.0 ETH (USD Value: **$49,920.60**)
+- **Agent ROI:** **$8,320.10/hr** (Est. 6.0 hrs)
+- **Directive:** `EXECUTE: High-yield target at $8320.10/hr. Prioritize PR submission.`
+- **Target URL:** [Claim Bounty](https://github.com/Ayush441-python/AUREN/issues/378)
+
+### IES-BoilerRoom/wasm-component-canonical-abi: ci/canonical_abi: Verify zero-reallocation UTF-8 frame lifting under deterministic fuel metering - Reward $225 USDC
+- **Reward:** 225.0 USD (USD Value: **$225.00**)
+- **Agent ROI:** **$112.50/hr** (Est. 2.0 hrs)
+- **Directive:** `EXECUTE: High-yield target at $112.50/hr. Prioritize PR submission.`
+- **Target URL:** [Claim Bounty](https://github.com/IES-BoilerRoom/wasm-component-canonical-abi/issues/2)
+
+### IES-BoilerRoom/wgsl-transcendental-math-core: fix(shader_math): Align WGSL constant-eval Horner polynomial rounding with runtime pipeline ($200 bounty) [wgsl-transcendental-math-core]
+- **Reward:** 200.0 USD (USD Value: **$200.00**)
+- **Agent ROI:** **$100.00/hr** (Est. 2.0 hrs)
+- **Directive:** `EXECUTE: High-yield target at $100.00/hr. Prioritize PR submission.`
+- **Target URL:** [Claim Bounty](https://github.com/IES-BoilerRoom/wgsl-transcendental-math-core/issues/2)
+
+### IES-BoilerRoom/wgsl-transcendental-math-core: ($150) perf/fix: Correct packet frame boundary clamp and 0.5-ULP FMA range-reduction tie-break (fold_wgsl_radiance_frames)
+- **Reward:** 150.0 USD (USD Value: **$150.00**)
+- **Agent ROI:** **$75.00/hr** (Est. 2.0 hrs)
+- **Directive:** `STANDARD: Profitable target at $75.00/hr. Queue for execution.`
+- **Target URL:** [Claim Bounty](https://github.com/IES-BoilerRoom/wgsl-transcendental-math-core/issues/1)
+
+### IES-BoilerRoom/wasm-component-canonical-abi: [$100] fix(canonical_abi): Fix canonical string frame ceiling and align deterministic instruction gas polynomial (lift_canonical_string_frames)
+- **Reward:** 100.0 USD (USD Value: **$100.00**)
+- **Agent ROI:** **$50.00/hr** (Est. 2.0 hrs)
+- **Directive:** `STANDARD: Profitable target at $50.00/hr. Queue for execution.`
+- **Target URL:** [Claim Bounty](https://github.com/IES-BoilerRoom/wasm-component-canonical-abi/issues/1)
+
+### alfrexo95/bounty-bot: 🪙 [Web3] [Intern] Verify & modernize all multi-agent handof
+- **Reward:** 50.0 USD (USD Value: **$50.00**)
+- **Agent ROI:** **$25.00/hr** (Est. 2.0 hrs)
+- **Directive:** `LOW YIELD: Secondary priority at $25.00/hr.`
+- **Target URL:** [Claim Bounty](https://github.com/alfrexo95/bounty-bot/issues/109)
+
+### alfrexo95/bounty-bot: 🪙 [Web3] [Intern] Quickstart, async streaming & MCP/IAM exa
+- **Reward:** 50.0 USD (USD Value: **$50.00**)
+- **Agent ROI:** **$25.00/hr** (Est. 2.0 hrs)
+- **Directive:** `LOW YIELD: Secondary priority at $25.00/hr.`
+- **Target URL:** [Claim Bounty](https://github.com/alfrexo95/bounty-bot/issues/108)
+
 ### hanzoai/browser: [Intern] Multi-agent Chrome extension build & local `hanzoai/engine` BYOK smoke test
 - **Reward:** 50.0 USD (USD Value: **$50.00**)
 - **Agent ROI:** **$25.00/hr** (Est. 2.0 hrs)
@@ -14,29 +56,11 @@
 - **Directive:** `LOW YIELD: Secondary priority at $25.00/hr.`
 - **Target URL:** [Claim Bounty](https://github.com/hanzoai/python-sdk/issues/55)
 
-### hanzoai/js-sdk: [Intern] ESM/CJS/Browser bundle & TypeScript `strict: true` consumer verification
-- **Reward:** 50.0 USD (USD Value: **$50.00**)
-- **Agent ROI:** **$25.00/hr** (Est. 2.0 hrs)
-- **Directive:** `LOW YIELD: Secondary priority at $25.00/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/hanzoai/js-sdk/issues/42)
-
-### hanzoai/captable: [Intern] Fresh-clone setup verification & stakeholder/option-grant calculation unit tests
-- **Reward:** 50.0 USD (USD Value: **$50.00**)
-- **Agent ROI:** **$25.00/hr** (Est. 2.0 hrs)
-- **Directive:** `LOW YIELD: Secondary priority at $25.00/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/hanzoai/captable/issues/15)
-
 ### hanzoai/o11y: [Intern] OpenTelemetry OTLP trace/metric/log ingest smoke test from local `hanzoai/cloud`
 - **Reward:** 50.0 USD (USD Value: **$50.00**)
 - **Agent ROI:** **$25.00/hr** (Est. 2.0 hrs)
 - **Directive:** `LOW YIELD: Secondary priority at $25.00/hr.`
 - **Target URL:** [Claim Bounty](https://github.com/hanzoai/o11y/issues/49)
-
-### hanzoai/esign: [Intern] Fresh-clone setup verification & PDF upload/sign/audit-trail smoke test
-- **Reward:** 50.0 USD (USD Value: **$50.00**)
-- **Agent ROI:** **$25.00/hr** (Est. 2.0 hrs)
-- **Directive:** `LOW YIELD: Secondary priority at $25.00/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/hanzoai/esign/issues/2)
 
 ### hanzoai/post: [Intern] Social publishing scheduler timezone & media validation unit tests
 - **Reward:** 50.0 USD (USD Value: **$50.00**)
@@ -74,35 +98,11 @@
 - **Directive:** `LOW YIELD: Secondary priority at $25.00/hr.`
 - **Target URL:** [Claim Bounty](https://github.com/hanzoai/team/issues/43)
 
-### hanzoai/ui: [Intern] Verify `@hanzo/ui` tree-shaking, React 19 / Next.js static export & Storybook/tests
+### PongooDev/CoreV2: Wicks bounty ltm coins
 - **Reward:** 50.0 USD (USD Value: **$50.00**)
 - **Agent ROI:** **$25.00/hr** (Est. 2.0 hrs)
 - **Directive:** `LOW YIELD: Secondary priority at $25.00/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/hanzoai/ui/issues/337)
-
-### ofirschwartz2/halalit: Daily Twist, more twists: Lucky Day and Bounty (after debt D9)
-- **Reward:** 50.0 USD (USD Value: **$50.00**)
-- **Agent ROI:** **$25.00/hr** (Est. 2.0 hrs)
-- **Directive:** `LOW YIELD: Secondary priority at $25.00/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/ofirschwartz2/halalit/issues/242)
-
-### Riemann-at-home/riemann-at-home: Thanksgiving - Bounty of Proof - Nov 26, 2026
-- **Reward:** 50.0 USD (USD Value: **$50.00**)
-- **Agent ROI:** **$25.00/hr** (Est. 2.0 hrs)
-- **Directive:** `LOW YIELD: Secondary priority at $25.00/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/Riemann-at-home/riemann-at-home/issues/72)
-
-### PorcupineStudios/ModernMiddleEarth_TARDIS: Bounties and bounty quests
-- **Reward:** 50.0 USD (USD Value: **$50.00**)
-- **Agent ROI:** **$25.00/hr** (Est. 2.0 hrs)
-- **Directive:** `LOW YIELD: Secondary priority at $25.00/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/PorcupineStudios/ModernMiddleEarth_TARDIS/issues/18)
-
-### hanzoai/skills: [Intern] Validate top 50 Hanzo skills & 3-tier progressive discovery (`CLAUDE.md` < 8 KB)
-- **Reward:** 50.0 USD (USD Value: **$50.00**)
-- **Agent ROI:** **$14.29/hr** (Est. 3.5 hrs)
-- **Directive:** `LOW YIELD: Secondary priority at $14.29/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/hanzoai/skills/issues/18)
+- **Target URL:** [Claim Bounty](https://github.com/PongooDev/CoreV2/issues/722)
 
 ### hanzoai/docs: [Intern] Copy-paste audit of Getting Started, Self-Hosting, Mobile, Desktop & OSS Onboarding guides
 - **Reward:** 50.0 USD (USD Value: **$50.00**)
@@ -110,44 +110,44 @@
 - **Directive:** `LOW YIELD: Secondary priority at $14.29/hr.`
 - **Target URL:** [Claim Bounty](https://github.com/hanzoai/docs/issues/26)
 
-### hanzoai/extension: [Intern] Browser extension (Chrome/Firefox/Edge) + VS Code `.vsix` build & ZAP/MCP bridge QA
+### GuillaumeBAUD-coder/open-math-agents: Third-party micro-bounty pilot: 1,000 sats (Bitcoin Lightning) for Lean proofs — welcome?
 - **Reward:** 50.0 USD (USD Value: **$50.00**)
 - **Agent ROI:** **$14.29/hr** (Est. 3.5 hrs)
 - **Directive:** `LOW YIELD: Secondary priority at $14.29/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/hanzoai/extension/issues/30)
+- **Target URL:** [Claim Bounty](https://github.com/GuillaumeBAUD-coder/open-math-agents/issues/11872)
 
-### hanzoai/gui: [Intern] Keyboard navigation, focus-ring & WCAG AA accessibility audit on core primitives
+### RktRobinhood/wasteland-academy: Godot Bounty Board: active skill bounties between runs
 - **Reward:** 50.0 USD (USD Value: **$50.00**)
 - **Agent ROI:** **$14.29/hr** (Est. 3.5 hrs)
 - **Directive:** `LOW YIELD: Secondary priority at $14.29/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/hanzoai/gui/issues/21)
+- **Target URL:** [Claim Bounty](https://github.com/RktRobinhood/wasteland-academy/issues/298)
 
-### hanzoai/chat: [Intern] Static SPA build against local `hanzoai/engine` + Playwright streaming smoke tests
-- **Reward:** 50.0 USD (USD Value: **$50.00**)
-- **Agent ROI:** **$14.29/hr** (Est. 3.5 hrs)
-- **Directive:** `LOW YIELD: Secondary priority at $14.29/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/hanzoai/chat/issues/3)
+### bad-antics/lateralus-lang: [bounty] stdlib.x25519 tutorial
+- **Reward:** 25.0 USD (USD Value: **$25.00**)
+- **Agent ROI:** **$12.50/hr** (Est. 2.0 hrs)
+- **Directive:** `LOW YIELD: Secondary priority at $12.50/hr.`
+- **Target URL:** [Claim Bounty](https://github.com/bad-antics/lateralus-lang/issues/1137)
 
-### hanzoai/app: [Intern] Build a reference open-source App Mod (`@hanzo/mod`) mounted into the `@hanzo/app` siderail
-- **Reward:** 50.0 USD (USD Value: **$50.00**)
-- **Agent ROI:** **$14.29/hr** (Est. 3.5 hrs)
-- **Directive:** `LOW YIELD: Secondary priority at $14.29/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/hanzoai/app/issues/140)
+### bad-antics/lateralus-lang: [bounty] stdlib.sort tutorial
+- **Reward:** 25.0 USD (USD Value: **$25.00**)
+- **Agent ROI:** **$12.50/hr** (Est. 2.0 hrs)
+- **Directive:** `LOW YIELD: Secondary priority at $12.50/hr.`
+- **Target URL:** [Claim Bounty](https://github.com/bad-antics/lateralus-lang/issues/1135)
 
-### hanzoai/mobile: [Intern] Android APK/ADB & iOS Xcode USB end-to-end install and UX QA
+### Ikalus1988/MisakaNet: [Bounty] Answer the 2 linked question(s)
 - **Reward:** 50.0 USD (USD Value: **$50.00**)
-- **Agent ROI:** **$14.29/hr** (Est. 3.5 hrs)
-- **Directive:** `LOW YIELD: Secondary priority at $14.29/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/hanzoai/mobile/issues/2)
+- **Agent ROI:** **$8.33/hr** (Est. 6.0 hrs)
+- **Directive:** `LOW YIELD: Secondary priority at $8.33/hr.`
+- **Target URL:** [Claim Bounty](https://github.com/Ikalus1988/MisakaNet/issues/5905)
 
-### amirmomeni177/bounty-watch: Scope digest 2026-11-27: 11 changes across 11 bounty programs
+### Ikalus1988/MisakaNet: [Bounty] Answer the 2 linked question(s)
 - **Reward:** 50.0 USD (USD Value: **$50.00**)
-- **Agent ROI:** **$14.29/hr** (Est. 3.5 hrs)
-- **Directive:** `LOW YIELD: Secondary priority at $14.29/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/amirmomeni177/bounty-watch/issues/47)
+- **Agent ROI:** **$8.33/hr** (Est. 6.0 hrs)
+- **Directive:** `LOW YIELD: Secondary priority at $8.33/hr.`
+- **Target URL:** [Claim Bounty](https://github.com/Ikalus1988/MisakaNet/issues/5904)
 
-### Ayush441-python/AUREN: [Bug Bounty] Optional python-dotenv installation reverses configuration precedence
+### Ikalus1988/MisakaNet: [Bounty] Answer the 3 linked question(s)
 - **Reward:** 50.0 USD (USD Value: **$50.00**)
-- **Agent ROI:** **$14.29/hr** (Est. 3.5 hrs)
-- **Directive:** `LOW YIELD: Secondary priority at $14.29/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/Ayush441-python/AUREN/issues/346)
+- **Agent ROI:** **$8.33/hr** (Est. 6.0 hrs)
+- **Directive:** `LOW YIELD: Secondary priority at $8.33/hr.`
+- **Target URL:** [Claim Bounty](https://github.com/Ikalus1988/MisakaNet/issues/5903)
