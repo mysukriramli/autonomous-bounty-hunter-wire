@@ -2,152 +2,152 @@
 > Live cross-referencing of open GitHub bounties and live cryptocurrency markets to calculate maximum USD/Hour ROI.
 
 ## Top High-Yield Targets
-### relayhop/sn-monetization-runtime: [radar] SN open bounty 2026-11-25T17:05
-- **Reward:** 2026.0 USD (USD Value: **$2,026.00**)
-- **Agent ROI:** **$1,013.00/hr** (Est. 2.0 hrs)
-- **Directive:** `EXECUTE: High-yield target at $1013.00/hr. Prioritize PR submission.`
-- **Target URL:** [Claim Bounty](https://github.com/relayhop/sn-monetization-runtime/issues/1444)
-
-### IES-BoilerRoom/ebpf-verifier-reg-bounds: [350 USDC] Fix ALU64 chunk ceiling boundary and tristate tnum scalar bitmask witness (refine_bpf_tnum_frames)
-- **Reward:** 350.0 USD (USD Value: **$350.00**)
-- **Agent ROI:** **$175.00/hr** (Est. 2.0 hrs)
-- **Directive:** `EXECUTE: High-yield target at $175.00/hr. Prioritize PR submission.`
-- **Target URL:** [Claim Bounty](https://github.com/IES-BoilerRoom/ebpf-verifier-reg-bounds/issues/1)
-
-### IES-BoilerRoom/ebpf-verifier-reg-bounds: [$250] fix(verifier): Tighten 32-bit subregister zero-extension parity across conditional joins (ebpf-verifier-reg-bounds)
-- **Reward:** 250.0 USD (USD Value: **$250.00**)
-- **Agent ROI:** **$125.00/hr** (Est. 2.0 hrs)
-- **Directive:** `EXECUTE: High-yield target at $125.00/hr. Prioritize PR submission.`
-- **Target URL:** [Claim Bounty](https://github.com/IES-BoilerRoom/ebpf-verifier-reg-bounds/issues/2)
-
-### IES-BoilerRoom/nvme-zns-bch-ecc-simulator: [$200] fix(ftl_ecc): Resolve ZNS frame length boundary and align 64-lane BCH syndrome parity word (unpack_zns_metadata_frames)
-- **Reward:** 200.0 USD (USD Value: **$200.00**)
-- **Agent ROI:** **$100.00/hr** (Est. 2.0 hrs)
-- **Directive:** `EXECUTE: High-yield target at $100.00/hr. Prioritize PR submission.`
-- **Target URL:** [Claim Bounty](https://github.com/IES-BoilerRoom/nvme-zns-bch-ecc-simulator/issues/1)
-
-### IES-BoilerRoom/nvme-zns-bch-ecc-simulator: ci/ftl_ecc: Stabilize polynomial-to-dual-basis trace tag across zone append descriptors - Reward $175 USDC
-- **Reward:** 175.0 USD (USD Value: **$175.00**)
-- **Agent ROI:** **$87.50/hr** (Est. 2.0 hrs)
-- **Directive:** `STANDARD: Profitable target at $87.50/hr. Queue for execution.`
-- **Target URL:** [Claim Bounty](https://github.com/IES-BoilerRoom/nvme-zns-bch-ecc-simulator/issues/2)
-
-### freedom-winds/BountyScout: 🎯 Bounty Alert: 19 New Opportunityies found
-- **Reward:** 175.0 USD (USD Value: **$175.00**)
-- **Agent ROI:** **$29.17/hr** (Est. 6.0 hrs)
-- **Directive:** `LOW YIELD: Secondary priority at $29.17/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/freedom-winds/BountyScout/issues/1457)
-
-### zhangjiayang6835-cyber/bounty-plaza: [Bounty] Bounty program: community detection/DLP rules with corpus fixtures
-- **Reward:** 100.0 USD (USD Value: **$100.00**)
-- **Agent ROI:** **$28.57/hr** (Est. 3.5 hrs)
-- **Directive:** `LOW YIELD: Secondary priority at $28.57/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4400)
-
-### bad-antics/lateralus-lang: [bounty] smtp-crlf-injection-1065
+### hanzoai/browser: [Intern] Multi-agent Chrome extension build & local `hanzoai/engine` BYOK smoke test
 - **Reward:** 50.0 USD (USD Value: **$50.00**)
 - **Agent ROI:** **$25.00/hr** (Est. 2.0 hrs)
 - **Directive:** `LOW YIELD: Secondary priority at $25.00/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/bad-antics/lateralus-lang/issues/1070)
+- **Target URL:** [Claim Bounty](https://github.com/hanzoai/browser/issues/1)
 
-### Gabriel-Barney/Empire-at-war-Vulkan: Tactical HUD: the floating bounty credit text on a paid kill (#574 follow-up)
+### hanzoai/python-sdk: [Intern] Quickstart, async streaming & MCP/IAM example verification on Python 3.12+
+- **Reward:** 50.0 USD (USD Value: **$50.00**)
+- **Agent ROI:** **$25.00/hr** (Est. 2.0 hrs)
+- **Directive:** `LOW YIELD: Secondary priority at $25.00/hr.`
+- **Target URL:** [Claim Bounty](https://github.com/hanzoai/python-sdk/issues/55)
+
+### hanzoai/js-sdk: [Intern] ESM/CJS/Browser bundle & TypeScript `strict: true` consumer verification
+- **Reward:** 50.0 USD (USD Value: **$50.00**)
+- **Agent ROI:** **$25.00/hr** (Est. 2.0 hrs)
+- **Directive:** `LOW YIELD: Secondary priority at $25.00/hr.`
+- **Target URL:** [Claim Bounty](https://github.com/hanzoai/js-sdk/issues/42)
+
+### hanzoai/captable: [Intern] Fresh-clone setup verification & stakeholder/option-grant calculation unit tests
+- **Reward:** 50.0 USD (USD Value: **$50.00**)
+- **Agent ROI:** **$25.00/hr** (Est. 2.0 hrs)
+- **Directive:** `LOW YIELD: Secondary priority at $25.00/hr.`
+- **Target URL:** [Claim Bounty](https://github.com/hanzoai/captable/issues/15)
+
+### hanzoai/o11y: [Intern] OpenTelemetry OTLP trace/metric/log ingest smoke test from local `hanzoai/cloud`
+- **Reward:** 50.0 USD (USD Value: **$50.00**)
+- **Agent ROI:** **$25.00/hr** (Est. 2.0 hrs)
+- **Directive:** `LOW YIELD: Secondary priority at $25.00/hr.`
+- **Target URL:** [Claim Bounty](https://github.com/hanzoai/o11y/issues/49)
+
+### hanzoai/esign: [Intern] Fresh-clone setup verification & PDF upload/sign/audit-trail smoke test
+- **Reward:** 50.0 USD (USD Value: **$50.00**)
+- **Agent ROI:** **$25.00/hr** (Est. 2.0 hrs)
+- **Directive:** `LOW YIELD: Secondary priority at $25.00/hr.`
+- **Target URL:** [Claim Bounty](https://github.com/hanzoai/esign/issues/2)
+
+### hanzoai/post: [Intern] Social publishing scheduler timezone & media validation unit tests
+- **Reward:** 50.0 USD (USD Value: **$50.00**)
+- **Agent ROI:** **$25.00/hr** (Est. 2.0 hrs)
+- **Directive:** `LOW YIELD: Secondary priority at $25.00/hr.`
+- **Target URL:** [Claim Bounty](https://github.com/hanzoai/post/issues/21)
+
+### hanzoai/mail: [Intern] Local loopback SMTP/IMAP/webmail smoke test & 5-minute dev recipe
+- **Reward:** 50.0 USD (USD Value: **$50.00**)
+- **Agent ROI:** **$25.00/hr** (Est. 2.0 hrs)
+- **Directive:** `LOW YIELD: Secondary priority at $25.00/hr.`
+- **Target URL:** [Claim Bounty](https://github.com/hanzoai/mail/issues/1)
+
+### hanzoai/cal: [Intern] Local scheduling E2E flow backed by `hanzoai/cloud` (`/v1/base`)
+- **Reward:** 50.0 USD (USD Value: **$50.00**)
+- **Agent ROI:** **$25.00/hr** (Est. 2.0 hrs)
+- **Directive:** `LOW YIELD: Secondary priority at $25.00/hr.`
+- **Target URL:** [Claim Bounty](https://github.com/hanzoai/cal/issues/1)
+
+### hanzoai/billing: [Intern] Plans, invoices & usage dashboard mock-API test suite
+- **Reward:** 50.0 USD (USD Value: **$50.00**)
+- **Agent ROI:** **$25.00/hr** (Est. 2.0 hrs)
+- **Directive:** `LOW YIELD: Secondary priority at $25.00/hr.`
+- **Target URL:** [Claim Bounty](https://github.com/hanzoai/billing/issues/1)
+
+### hanzoai/ide: [Intern] Clean source build, large-repo (`hanzoai/cloud`) open latency profile & warning cleanup
+- **Reward:** 50.0 USD (USD Value: **$50.00**)
+- **Agent ROI:** **$25.00/hr** (Est. 2.0 hrs)
+- **Directive:** `LOW YIELD: Secondary priority at $25.00/hr.`
+- **Target URL:** [Claim Bounty](https://github.com/hanzoai/ide/issues/20)
+
+### hanzoai/team: [Intern] Clean local build, `@hanzo/gui` peer check & core workspace UI smoke tests
+- **Reward:** 50.0 USD (USD Value: **$50.00**)
+- **Agent ROI:** **$25.00/hr** (Est. 2.0 hrs)
+- **Directive:** `LOW YIELD: Secondary priority at $25.00/hr.`
+- **Target URL:** [Claim Bounty](https://github.com/hanzoai/team/issues/43)
+
+### hanzoai/ui: [Intern] Verify `@hanzo/ui` tree-shaking, React 19 / Next.js static export & Storybook/tests
+- **Reward:** 50.0 USD (USD Value: **$50.00**)
+- **Agent ROI:** **$25.00/hr** (Est. 2.0 hrs)
+- **Directive:** `LOW YIELD: Secondary priority at $25.00/hr.`
+- **Target URL:** [Claim Bounty](https://github.com/hanzoai/ui/issues/337)
+
+### ofirschwartz2/halalit: Daily Twist, more twists: Lucky Day and Bounty (after debt D9)
+- **Reward:** 50.0 USD (USD Value: **$50.00**)
+- **Agent ROI:** **$25.00/hr** (Est. 2.0 hrs)
+- **Directive:** `LOW YIELD: Secondary priority at $25.00/hr.`
+- **Target URL:** [Claim Bounty](https://github.com/ofirschwartz2/halalit/issues/242)
+
+### Riemann-at-home/riemann-at-home: Thanksgiving - Bounty of Proof - Nov 26, 2026
+- **Reward:** 50.0 USD (USD Value: **$50.00**)
+- **Agent ROI:** **$25.00/hr** (Est. 2.0 hrs)
+- **Directive:** `LOW YIELD: Secondary priority at $25.00/hr.`
+- **Target URL:** [Claim Bounty](https://github.com/Riemann-at-home/riemann-at-home/issues/72)
+
+### PorcupineStudios/ModernMiddleEarth_TARDIS: Bounties and bounty quests
+- **Reward:** 50.0 USD (USD Value: **$50.00**)
+- **Agent ROI:** **$25.00/hr** (Est. 2.0 hrs)
+- **Directive:** `LOW YIELD: Secondary priority at $25.00/hr.`
+- **Target URL:** [Claim Bounty](https://github.com/PorcupineStudios/ModernMiddleEarth_TARDIS/issues/18)
+
+### hanzoai/skills: [Intern] Validate top 50 Hanzo skills & 3-tier progressive discovery (`CLAUDE.md` < 8 KB)
 - **Reward:** 50.0 USD (USD Value: **$50.00**)
 - **Agent ROI:** **$14.29/hr** (Est. 3.5 hrs)
 - **Directive:** `LOW YIELD: Secondary priority at $14.29/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/Gabriel-Barney/Empire-at-war-Vulkan/issues/664)
+- **Target URL:** [Claim Bounty](https://github.com/hanzoai/skills/issues/18)
 
-### bad-antics/lateralus-lang: [bounty] stdlib/smtp.ltl: CRLF SMTP command injection in cmd_ehlo/cmd_mail_from/cmd_rcpt_to, parse_line crashes on non-numeric status and rejects bare 3-digit RFC 5321 replies, and encode_body appends extra blank line on trailing LF
+### hanzoai/docs: [Intern] Copy-paste audit of Getting Started, Self-Hosting, Mobile, Desktop & OSS Onboarding guides
 - **Reward:** 50.0 USD (USD Value: **$50.00**)
 - **Agent ROI:** **$14.29/hr** (Est. 3.5 hrs)
 - **Directive:** `LOW YIELD: Secondary priority at $14.29/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/bad-antics/lateralus-lang/issues/1065)
+- **Target URL:** [Claim Bounty](https://github.com/hanzoai/docs/issues/26)
 
-### bad-antics/lateralus-lang: [bounty] stdlib/oidc.ltl: verify_id_token ignores now_s and accepts missing exp/sub, aud check iterates characters of a mismatched string, and at_hash_s256 corrupts binary bytes >=0x80 via chr()
+### hanzoai/extension: [Intern] Browser extension (Chrome/Firefox/Edge) + VS Code `.vsix` build & ZAP/MCP bridge QA
 - **Reward:** 50.0 USD (USD Value: **$50.00**)
 - **Agent ROI:** **$14.29/hr** (Est. 3.5 hrs)
 - **Directive:** `LOW YIELD: Secondary priority at $14.29/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/bad-antics/lateralus-lang/issues/1063)
+- **Target URL:** [Claim Bounty](https://github.com/hanzoai/extension/issues/30)
 
-### bad-antics/lateralus-lang: [bounty] stdlib/tar.ltl: read() never verifies POSIX ustar header checksum or data_end bounds (silently truncating corrupted archives), and write_entry() truncates names >100 bytes instead of using ustar prefix
+### hanzoai/gui: [Intern] Keyboard navigation, focus-ring & WCAG AA accessibility audit on core primitives
 - **Reward:** 50.0 USD (USD Value: **$50.00**)
 - **Agent ROI:** **$14.29/hr** (Est. 3.5 hrs)
 - **Directive:** `LOW YIELD: Secondary priority at $14.29/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/bad-antics/lateralus-lang/issues/1060)
+- **Target URL:** [Claim Bounty](https://github.com/hanzoai/gui/issues/21)
 
-### bad-antics/lateralus-lang: [bounty] stdlib/jwt.ltl: verify_hmac never parses or validates JWT header alg/JSON (contradicts "rejects alg: none"), exp check is off-by-one (> vs >=), aud fails on arrays, and peek() crashes on malformed tokens
+### hanzoai/chat: [Intern] Static SPA build against local `hanzoai/engine` + Playwright streaming smoke tests
 - **Reward:** 50.0 USD (USD Value: **$50.00**)
 - **Agent ROI:** **$14.29/hr** (Est. 3.5 hrs)
 - **Directive:** `LOW YIELD: Secondary priority at $14.29/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/bad-antics/lateralus-lang/issues/1058)
+- **Target URL:** [Claim Bounty](https://github.com/hanzoai/chat/issues/3)
 
-### bad-antics/lateralus-lang: [bounty] stdlib/yaml.ltl: strip_comment falls through from in_str into not in_str (re-entering string & skipping next char), and parse_block misclassifies negative scalars like -42 as sequences
+### hanzoai/app: [Intern] Build a reference open-source App Mod (`@hanzo/mod`) mounted into the `@hanzo/app` siderail
 - **Reward:** 50.0 USD (USD Value: **$50.00**)
 - **Agent ROI:** **$14.29/hr** (Est. 3.5 hrs)
 - **Directive:** `LOW YIELD: Secondary priority at $14.29/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/bad-antics/lateralus-lang/issues/1056)
+- **Target URL:** [Claim Bounty](https://github.com/hanzoai/app/issues/140)
 
-### bad-antics/lateralus-lang: [bounty] stdlib/toml.ltl: parse_array naively splits on commas (breaking quoted strings & nested arrays), strip_comment/find_unquoted ignore backslash escapes, and open_array_table crashes on [[]]
+### hanzoai/mobile: [Intern] Android APK/ADB & iOS Xcode USB end-to-end install and UX QA
 - **Reward:** 50.0 USD (USD Value: **$50.00**)
 - **Agent ROI:** **$14.29/hr** (Est. 3.5 hrs)
 - **Directive:** `LOW YIELD: Secondary priority at $14.29/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/bad-antics/lateralus-lang/issues/1055)
+- **Target URL:** [Claim Bounty](https://github.com/hanzoai/mobile/issues/2)
 
-### bad-antics/lateralus-lang: [bounty] stdlib/graphql.ltl: parse() crashes on empty/comment-only/missing-brace input, parse_field() crashes on incomplete args, and lex() ignores escaped quotes
+### amirmomeni177/bounty-watch: Scope digest 2026-11-27: 11 changes across 11 bounty programs
 - **Reward:** 50.0 USD (USD Value: **$50.00**)
 - **Agent ROI:** **$14.29/hr** (Est. 3.5 hrs)
 - **Directive:** `LOW YIELD: Secondary priority at $14.29/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/bad-antics/lateralus-lang/issues/1054)
+- **Target URL:** [Claim Bounty](https://github.com/amirmomeni177/bounty-watch/issues/47)
 
-### bad-antics/lateralus-lang: [bounty] stdlib/influx_line.ltl: escape_ident and escape_measurement ignore backslashes, and parse_line slices quoted strings without unescaping or rejecting unterminated quotes
+### Ayush441-python/AUREN: [Bug Bounty] Optional python-dotenv installation reverses configuration precedence
 - **Reward:** 50.0 USD (USD Value: **$50.00**)
 - **Agent ROI:** **$14.29/hr** (Est. 3.5 hrs)
 - **Directive:** `LOW YIELD: Secondary priority at $14.29/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/bad-antics/lateralus-lang/issues/1053)
-
-### bad-antics/lateralus-lang: [bounty] stdlib/amqp.ltl: enc_short_str wraps length >=256 modulo 256, and dec_short_str/dec_long_str lack bounds checks and corrupt UTF-8
-- **Reward:** 50.0 USD (USD Value: **$50.00**)
-- **Agent ROI:** **$14.29/hr** (Est. 3.5 hrs)
-- **Directive:** `LOW YIELD: Secondary priority at $14.29/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/bad-antics/lateralus-lang/issues/1051)
-
-### bad-antics/lateralus-lang: [bounty] stdlib/stomp.ltl: send uses char count for content-length, parse_frame fails on CRLF EOLs and ignores content-length for NUL bodies
-- **Reward:** 50.0 USD (USD Value: **$50.00**)
-- **Agent ROI:** **$14.29/hr** (Est. 3.5 hrs)
-- **Directive:** `LOW YIELD: Secondary priority at $14.29/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/bad-antics/lateralus-lang/issues/1050)
-
-### bad-antics/lateralus-lang: [bounty] stdlib/mqtt5.ltl: parse_packet crashes on truncated varints, dec_varint lacks 4-byte limit, and dec_utf8 corrupts multi-byte UTF-8
-- **Reward:** 50.0 USD (USD Value: **$50.00**)
-- **Agent ROI:** **$14.29/hr** (Est. 3.5 hrs)
-- **Directive:** `LOW YIELD: Secondary priority at $14.29/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/bad-antics/lateralus-lang/issues/1045)
-
-### bad-antics/lateralus-lang: [bounty] stdlib/scim.ltl: lex_filter breaks on escaped quotes, parse_atom crashes on empty/malformed filters, and get_path crashes on non-map values
-- **Reward:** 50.0 USD (USD Value: **$50.00**)
-- **Agent ROI:** **$14.29/hr** (Est. 3.5 hrs)
-- **Directive:** `LOW YIELD: Secondary priority at $14.29/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/bad-antics/lateralus-lang/issues/1042)
-
-### bad-antics/lateralus-lang: [bounty] stdlib/saml.ltl: between_tags fails on NameID with attributes, attr_of slices negatively on -1, and redirect_binding_url appends duplicate '?'
-- **Reward:** 50.0 USD (USD Value: **$50.00**)
-- **Agent ROI:** **$14.29/hr** (Est. 3.5 hrs)
-- **Directive:** `LOW YIELD: Secondary priority at $14.29/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/bad-antics/lateralus-lang/issues/1041)
-
-### Ikalus1988/MisakaNet: [Bounty] Answer the 2 linked question(s)
-- **Reward:** 50.0 USD (USD Value: **$50.00**)
-- **Agent ROI:** **$8.33/hr** (Est. 6.0 hrs)
-- **Directive:** `LOW YIELD: Secondary priority at $8.33/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/Ikalus1988/MisakaNet/issues/5849)
-
-### Ikalus1988/MisakaNet: [Bounty] Answer the 2 linked question(s)
-- **Reward:** 50.0 USD (USD Value: **$50.00**)
-- **Agent ROI:** **$8.33/hr** (Est. 6.0 hrs)
-- **Directive:** `LOW YIELD: Secondary priority at $8.33/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/Ikalus1988/MisakaNet/issues/5813)
-
-### Ikalus1988/MisakaNet: [Bounty] Answer the 2 linked question(s)
-- **Reward:** 50.0 USD (USD Value: **$50.00**)
-- **Agent ROI:** **$8.33/hr** (Est. 6.0 hrs)
-- **Directive:** `LOW YIELD: Secondary priority at $8.33/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/Ikalus1988/MisakaNet/issues/5812)
+- **Target URL:** [Claim Bounty](https://github.com/Ayush441-python/AUREN/issues/346)
