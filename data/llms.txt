@@ -2,11 +2,11 @@
 > Live cross-referencing of open GitHub bounties and live cryptocurrency markets to calculate maximum USD/Hour ROI.
 
 ## Top High-Yield Targets
-### Ayush441-python/AUREN: [Bug Bounty] Custom portfolio builder drops earlier rows for a repeated ticker
-- **Reward:** 30.0 ETH (USD Value: **$49,920.60**)
-- **Agent ROI:** **$8,320.10/hr** (Est. 6.0 hrs)
-- **Directive:** `EXECUTE: High-yield target at $8320.10/hr. Prioritize PR submission.`
-- **Target URL:** [Claim Bounty](https://github.com/Ayush441-python/AUREN/issues/378)
+### barryrwilson/Rimward: [Piracy][Bounty] Non-lethal surrender (ransom/jettison) of Carver Illyx spawns a duplicate lineage successor while the original escapes across a gate
+- **Reward:** 2500.0 USD (USD Value: **$2,500.00**)
+- **Agent ROI:** **$416.67/hr** (Est. 6.0 hrs)
+- **Directive:** `EXECUTE: High-yield target at $416.67/hr. Prioritize PR submission.`
+- **Target URL:** [Claim Bounty](https://github.com/barryrwilson/Rimward/issues/380)
 
 ### IES-BoilerRoom/wasm-component-canonical-abi: ci/canonical_abi: Verify zero-reallocation UTF-8 frame lifting under deterministic fuel metering - Reward $225 USDC
 - **Reward:** 225.0 USD (USD Value: **$225.00**)
@@ -31,6 +31,12 @@
 - **Agent ROI:** **$50.00/hr** (Est. 2.0 hrs)
 - **Directive:** `STANDARD: Profitable target at $50.00/hr. Queue for execution.`
 - **Target URL:** [Claim Bounty](https://github.com/IES-BoilerRoom/wasm-component-canonical-abi/issues/1)
+
+### nick-transition/fitapp: [Bounty Proposal] Reconcile contributor scoring before the first monthly allocation (#22)
+- **Reward:** 100.0 USD (USD Value: **$100.00**)
+- **Agent ROI:** **$28.57/hr** (Est. 3.5 hrs)
+- **Directive:** `LOW YIELD: Secondary priority at $28.57/hr.`
+- **Target URL:** [Claim Bounty](https://github.com/nick-transition/fitapp/issues/103)
 
 ### alfrexo95/bounty-bot: 🪙 [Web3] [Intern] Verify & modernize all multi-agent handof
 - **Reward:** 50.0 USD (USD Value: **$50.00**)
@@ -80,29 +86,47 @@
 - **Directive:** `LOW YIELD: Secondary priority at $25.00/hr.`
 - **Target URL:** [Claim Bounty](https://github.com/hanzoai/cal/issues/1)
 
-### hanzoai/billing: [Intern] Plans, invoices & usage dashboard mock-API test suite
+### amirmomeni177/bounty-watch: Scope digest 2026-11-28: 1 changes across 1 bounty programs
 - **Reward:** 50.0 USD (USD Value: **$50.00**)
 - **Agent ROI:** **$25.00/hr** (Est. 2.0 hrs)
 - **Directive:** `LOW YIELD: Secondary priority at $25.00/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/hanzoai/billing/issues/1)
+- **Target URL:** [Claim Bounty](https://github.com/amirmomeni177/bounty-watch/issues/49)
 
-### hanzoai/ide: [Intern] Clean source build, large-repo (`hanzoai/cloud`) open latency profile & warning cleanup
+### bad-antics/lateralus-lang: [bounty] stdlib.simhash tutorial
 - **Reward:** 50.0 USD (USD Value: **$50.00**)
 - **Agent ROI:** **$25.00/hr** (Est. 2.0 hrs)
 - **Directive:** `LOW YIELD: Secondary priority at $25.00/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/hanzoai/ide/issues/20)
+- **Target URL:** [Claim Bounty](https://github.com/bad-antics/lateralus-lang/issues/1162)
 
-### hanzoai/team: [Intern] Clean local build, `@hanzo/gui` peer check & core workspace UI smoke tests
+### bad-antics/lateralus-lang: [bounty] stdlib.semver tutorial
 - **Reward:** 50.0 USD (USD Value: **$50.00**)
 - **Agent ROI:** **$25.00/hr** (Est. 2.0 hrs)
 - **Directive:** `LOW YIELD: Secondary priority at $25.00/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/hanzoai/team/issues/43)
+- **Target URL:** [Claim Bounty](https://github.com/bad-antics/lateralus-lang/issues/1158)
 
-### PongooDev/CoreV2: Wicks bounty ltm coins
+### bad-antics/lateralus-lang: [bounty] stdlib.resp tutorial with Redis protocol vectors
 - **Reward:** 50.0 USD (USD Value: **$50.00**)
 - **Agent ROI:** **$25.00/hr** (Est. 2.0 hrs)
 - **Directive:** `LOW YIELD: Secondary priority at $25.00/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/PongooDev/CoreV2/issues/722)
+- **Target URL:** [Claim Bounty](https://github.com/bad-antics/lateralus-lang/issues/1155)
+
+### bad-antics/lateralus-lang: [bounty] native-port — terrain-grid survey
+- **Reward:** 50.0 USD (USD Value: **$50.00**)
+- **Agent ROI:** **$25.00/hr** (Est. 2.0 hrs)
+- **Directive:** `LOW YIELD: Secondary priority at $25.00/hr.`
+- **Target URL:** [Claim Bounty](https://github.com/bad-antics/lateralus-lang/issues/1148)
+
+### odiseo159-beep/mergit: Show escrow v3 and v4 payments on the builder record
+- **Reward:** 50.0 USD (USD Value: **$50.00**)
+- **Agent ROI:** **$14.29/hr** (Est. 3.5 hrs)
+- **Directive:** `LOW YIELD: Secondary priority at $14.29/hr.`
+- **Target URL:** [Claim Bounty](https://github.com/odiseo159-beep/mergit/issues/29)
+
+### odiseo159-beep/mergit: Make mergit_fund_link warn when the issue already has a live bounty
+- **Reward:** 50.0 USD (USD Value: **$50.00**)
+- **Agent ROI:** **$14.29/hr** (Est. 3.5 hrs)
+- **Directive:** `LOW YIELD: Secondary priority at $14.29/hr.`
+- **Target URL:** [Claim Bounty](https://github.com/odiseo159-beep/mergit/issues/28)
 
 ### hanzoai/docs: [Intern] Copy-paste audit of Getting Started, Self-Hosting, Mobile, Desktop & OSS Onboarding guides
 - **Reward:** 50.0 USD (USD Value: **$50.00**)
@@ -110,44 +134,20 @@
 - **Directive:** `LOW YIELD: Secondary priority at $14.29/hr.`
 - **Target URL:** [Claim Bounty](https://github.com/hanzoai/docs/issues/26)
 
-### GuillaumeBAUD-coder/open-math-agents: Third-party micro-bounty pilot: 1,000 sats (Bitcoin Lightning) for Lean proofs — welcome?
+### Rohank143/BountyScout: 🎯 Bounty Alert: 9 New Opportunityies found
 - **Reward:** 50.0 USD (USD Value: **$50.00**)
 - **Agent ROI:** **$14.29/hr** (Est. 3.5 hrs)
 - **Directive:** `LOW YIELD: Secondary priority at $14.29/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/GuillaumeBAUD-coder/open-math-agents/issues/11872)
+- **Target URL:** [Claim Bounty](https://github.com/Rohank143/BountyScout/issues/153)
 
-### RktRobinhood/wasteland-academy: Godot Bounty Board: active skill bounties between runs
+### dev-kp-eloper/BountyScout: 🎯 Bounty Alert: 8 New Opportunityies found
 - **Reward:** 50.0 USD (USD Value: **$50.00**)
 - **Agent ROI:** **$14.29/hr** (Est. 3.5 hrs)
 - **Directive:** `LOW YIELD: Secondary priority at $14.29/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/RktRobinhood/wasteland-academy/issues/298)
+- **Target URL:** [Claim Bounty](https://github.com/dev-kp-eloper/BountyScout/issues/1811)
 
-### bad-antics/lateralus-lang: [bounty] stdlib.x25519 tutorial
+### bad-antics/lateralus-lang: [bounty] stdlib.linalg tutorial
 - **Reward:** 25.0 USD (USD Value: **$25.00**)
 - **Agent ROI:** **$12.50/hr** (Est. 2.0 hrs)
 - **Directive:** `LOW YIELD: Secondary priority at $12.50/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/bad-antics/lateralus-lang/issues/1137)
-
-### bad-antics/lateralus-lang: [bounty] stdlib.sort tutorial
-- **Reward:** 25.0 USD (USD Value: **$25.00**)
-- **Agent ROI:** **$12.50/hr** (Est. 2.0 hrs)
-- **Directive:** `LOW YIELD: Secondary priority at $12.50/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/bad-antics/lateralus-lang/issues/1135)
-
-### Ikalus1988/MisakaNet: [Bounty] Answer the 2 linked question(s)
-- **Reward:** 50.0 USD (USD Value: **$50.00**)
-- **Agent ROI:** **$8.33/hr** (Est. 6.0 hrs)
-- **Directive:** `LOW YIELD: Secondary priority at $8.33/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/Ikalus1988/MisakaNet/issues/5905)
-
-### Ikalus1988/MisakaNet: [Bounty] Answer the 2 linked question(s)
-- **Reward:** 50.0 USD (USD Value: **$50.00**)
-- **Agent ROI:** **$8.33/hr** (Est. 6.0 hrs)
-- **Directive:** `LOW YIELD: Secondary priority at $8.33/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/Ikalus1988/MisakaNet/issues/5904)
-
-### Ikalus1988/MisakaNet: [Bounty] Answer the 3 linked question(s)
-- **Reward:** 50.0 USD (USD Value: **$50.00**)
-- **Agent ROI:** **$8.33/hr** (Est. 6.0 hrs)
-- **Directive:** `LOW YIELD: Secondary priority at $8.33/hr.`
-- **Target URL:** [Claim Bounty](https://github.com/Ikalus1988/MisakaNet/issues/5903)
+- **Target URL:** [Claim Bounty](https://github.com/bad-antics/lateralus-lang/issues/1170)
